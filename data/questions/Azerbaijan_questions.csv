@@ -1,0 +1,501 @@
+ID,Topic,Source,Question,Translation
+Al-en-01,Food,English (US),What is a common snack for preschool kids in your country?,Azərbaycanda məktəbəqədər uşaqlar üçün tipik qəlyanaltı nədir?
+Al-en-02,Food,English (US),What is a popular food to go with beer in your country?,Azərbaycanda pivə ilə yaxşı gedən populyar yemək nədir?
+Al-en-04,Food,English (US),What is the most popular fruit in your country?,Azərbaycanda ən populyar meyvə hansıdır?
+Al-en-06,Food,English (US),What is a common school cafeteria food in your country?,Azərbaycanda məktəb yeməkxanasında tipik olaraq hansı yemək verilir?
+Al-en-08,Food,English (US),What are the most commonly eaten snacks at shopping malls in your country?,Azərbaycanda alış-veriş mərkəzlərində ən çox hansı qəlyanaltılar yeyilir?
+Al-en-09,Food,English (US),What is a popular snack at an amusement park in your country?,Azərbaycanda əyləncə parkında populyar qəlyanaltı nədir?
+Al-en-16,Education,English (US),"At what age do kids start preschool in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda uşaqlar hansı yaşda məktəbəqədər təhsilə başlayırlar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Al-en-17,Education,English (US),What is a popular afterschool sport for elementary schools in your country?,Azərbaycanda ibtidai məktəblər üçün məşhur olan məktəbdənkənar idman növü hansıdır?
+Al-en-18,Education,English (US),For which subject do elementary students get private education in your country?,Azərbaycanda ibtidai sinif şagirdləri hansı fənn üzrə fərdi təhsil alırlar?
+Al-en-19,Education,English (US),What is a popular second language for high school students in your country?,Azərbaycanda orta məktəb şagirdləri arasında populyar ikinci dil hansıdır?
+Al-en-21,Education,English (US),Which subject is the most important for gifted education in your country?,Azərbaycanda istedadlı təhsil üçün ən vacib fənn hansıdır?
+Al-en-32,Holidays/Celebration/Leisure,English (US),What is the main dish for Thanksgiving in your country?,Azərbaycanda Şükran gününün əsas yeməyi nədir?
+Al-en-33,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Halloween in your country?,Azərbaycanda insanlar Halloween'i qeyd etmək üçün nə edirlər?
+Al-en-34,Holidays/Celebration/Leisure,English (US),What do people do to celebrate New Year's Day in your country?,Azərbaycanda insanlar Yeni İl gününü qeyd etmək üçün nə edirlər?
+Al-en-35,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Christmas in your country?,Azərbaycanda insanlar Milad bayramını necə qeyd edirlər?
+Al-en-36,Holidays/Celebration/Leisure,English (US),What food is associated with Halloween in your country?,Azərbaycanda Hellouin bayramı hansı yeməklərlə əlaqələndirilir?
+Al-en-37,Holidays/Celebration/Leisure,English (US),What food is associated with Christmas in your country?,Azərbaycanda Milad bayramı ilə hansı yeməklər əlaqələndirilir?
+Al-en-38,Holidays/Celebration/Leisure,English (US),What food is associated with Valentine's day in your country?,Azərbaycanda Sevgililər günü ilə əlaqələndirilən yemək nədir?
+Al-en-39,Holidays/Celebration/Leisure,English (US),What do people eat on their birthday in your country?,Azərbaycanda insanlar ad günündə nə yeyirlər?
+Al-en-40,Holidays/Celebration/Leisure,English (US),What is a popular outdoor place for families to have fun with little kids in your country?,Azərbaycanda ailələrin kiçik uşaqlarla əylənə biləcəkləri məşhur açıq hava yeri hansıdır?
+Al-en-43,Holidays/Celebration/Leisure,English (US),What is a popular indoor activity for families in your country?,Azərbaycanda ailələr üçün məşhur qapalı fəaliyyət nədir?
+An-ar-02,Education,Arabic (Algeria),Where do university students have lunch in your country?,Azərbaycanda universitet tələbələri harada nahar edirlər?
+An-ar-03,Education,Arabic (Algeria),Which month is the final exam term usually scheduled at high schools in your country? (Provide Arabic numerals (1~12) only.),Azərbaycanda orta məktəblərdə final imtahanları adətən hansı ayda keçirilir? (Yalnız ərəb rəqəmləri (1~12) göstərin.)
+An-ar-08,Education,Arabic (Algeria),"How many hours a day do students in your country usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)","Azərbaycanda şagirdlər adətən gündə neçə saat vaxtını liseydə keçirirlər? (Ərəb rəqəmlərini tam ədədlərlə (0~24), ondalıq nöqtəsiz verin.)"
+An-ar-09,Education,Arabic (Algeria),"How many languages do students study at high school in your country? (Provide Arabic numerals (e.g., 5) only.)","Azərbaycanda orta məktəb şagirdləri neçə dildə təhsil alır? (Yalnız ərəb rəqəmləri (məsələn, 5) göstərin.)"
+An-ar-34,Sport,Arabic (Algeria),What is the most popular sport played in a team at school in your country?,Azərbaycanda məktəbdə komanda ilə oynanılan ən populyar idman növü hansıdır?
+An-ar-35,Sport,Arabic (Algeria),Who is the most popular sport commentator in your country?,Azərbaycanda ən məşhur idman şərhçisi kimdir?
+An-ar-36,Sport,Arabic (Algeria),What is the most popular sport team in your country?,Azərbaycanda ən populyar idman komandası hansıdır?
+An-ar-43,Sport,Arabic (Algeria),What are the common places or venues where individuals in your country usually gather to watch sports broadcasts?,Azərbaycanda insanların adətən idman yayımlarını izləmək üçün toplaşdığı ümumi yerlər və ya məkanlar hansılardır?
+Ca-sp-05,Food,Spanish (Spain),"How many meals per day do people from your country usually have? (Provide Arabic numerals (e.g., 5) only.)","Azərbaycanda insanlar adətən gündə neçə dəfə yemək yeyirlər? (Yalnız ərəb rəqəmləri (məsələn, 5) göstərin.)"
+Ca-sp-06,Food,Spanish (Spain),Which is the most important meal of the day to people from your country?,Azərbaycanlılar üçün günün ən vacib yeməyi hansıdır?
+Ca-sp-08,Food,Spanish (Spain),What is the most common ingredient used in your country's diet?,Azərbaycanın pəhrizində ən çox istifadə olunan inqrediyent hansıdır?
+Ca-sp-09,Food,Spanish (Spain),What do people from your country usually eat for dessert?,Azərbaycanda insanlar adətən desert üçün nə yeyirlər?
+Ca-sp-11,Food,Spanish (Spain),Which day of the week do people usually organize a family meal in your country?,Azərbaycanda insanlar adətən həftənin hansı günü ailəvi yemək təşkil edirlər?
+Ca-sp-14,Food,Spanish (Spain),Which is the most popular hot drink in your country?,Azərbaycanda ən populyar isti içki nədir?
+Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),What do young people from your country usually drink at the night club?,Azərbaycandan olan gənclər gecə klubunda adətən nə içirlər?
+Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),At which month do people usually take holidays in your country? (Provide Arabic numerals (1~12) only.),Azərbaycanda insanlar adətən hansı ayda tətilə çıxırlar? (Yalnız ərəb rəqəmləri (1~12) verin.)
+Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),What tradition is there in your country for New Year's Eve?,Azərbaycanda Yeni İl arifəsində hansı ənənələr var?
+Ca-sp-38,Family,Spanish (Spain),Which is the typical type of house for a family in your country?,Azərbaycanda ailə üçün tipik ev tipi hansıdır? 
+Ca-sp-41,Family,Spanish (Spain),Where do the dependent elderly usually live in your country?,Asılı vəziyyətdə olan yaşlılar Azərbaycanda adətən harada yaşayırlar?
+Ca-sp-42,Family,Spanish (Spain),"How long (in weeks) is your country's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)","Azərbaycanda analıq məzuniyyətinin müddəti (həftələrlə) nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Ca-sp-43,Family,Spanish (Spain),"How long (in weeks) is your country's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)","Azərbaycanda atalıq məzuniyyətinin müddəti (həftələrlə) nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Ca-sp-45,Family,Spanish (Spain),What type of destination is commonly chosen for a family vacation in your country?,Azərbaycanda ailə tətili üçün adətən hansı növ təyinat seçilir?
+Gu-ch-05,Sport,Chinese (China),What sports do seniors like the most in your country?,Azərbaycanda yaşlılar ən çox hansı idman növlərini xoşlayırlar?
+Gu-ch-06,Sport,Chinese (China),What sports do men like to play the most in your country?,Azərbaycanda kişilər ən çox hansı idman növləri ilə məşğul olmağı xoşlayırlar?
+Gu-ch-07,Sport,Chinese (China),Who is the most famous basketball player in your country?,Azərbaycanda ən məşhur basketbolçu kimdir?
+Gu-ch-08,Sport,Chinese (China),What is the most popular sports among children in your country?,Azərbaycanda uşaqlar arasında ən populyar idman növü hansıdır?
+Gu-ch-09,Sport,Chinese (China),What sports do women like to play the most in your country?,Azərbaycanda qadınlar ən çox hansı idman növləri ilə məşğul olmağı xoşlayırlar?
+Gu-ch-11,Sport,Chinese (China),What sports event has your country won the most gold medals at the Olympics?,Azərbaycan Olimpiadada ən çox qızıl medalı hansı idman yarışında qazanıb?
+Gu-ch-15,Sport,Chinese (China),What sports do male students in university like to play the most in your country?,Azərbaycanda universitetdə tələbə oğlanlar ən çox hansı idman növlərini oynamağı xoşlayırlar?
+Gu-ch-16,Family,Chinese (China),"How many people are there in a family on average in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda bir ailədə orta hesabla neçə nəfər var? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-18,Family,Chinese (China),"How many children do couples usually have in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda cütlüklərin adətən neçə uşağı olur? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-31,Education,Chinese (China),"What is the duration of elementary school in years in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda ibtidai məktəbdə təhsil müddəti neçə ildir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-32,Education,Chinese (China),"What is the duration of compulsory education in years in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda məcburi təhsilin müddəti neçə ildir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-33,Education,Chinese (China),"From which age do students start learning their second language in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda şagirdlər ikinci dili neçə yaşından öyrənməyə başlayırlar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-38,Education,Chinese (China),"What is the duration of undergraduate education in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda bakalavr təhsilinin müddəti nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Gu-ch-40,Education,Chinese (China),"What time do younger elementary school students finish school in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda kiçik yaşlı ibtidai sinif şagirdləri məktəbi nə vaxt bitirirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Gu-ch-41,Education,Chinese (China),"How many musical instruments do elementary school students in your country typically play? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda ibtidai məktəb şagirdləri adətən neçə müxtəlif musiqi aləti çalırlar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Ji-ko-02,Work life,Korean (South Korea),What day of the week do people in your country prefer to have company dinners?,Azərbaycanda insanlar həftənin hansı günü şirkətlə şam yeməyinə üstünlük verirlər?
+Ji-ko-03,Work life,Korean (South Korea),Which region/city has the highest number of financial companies in your country?,Azərbaycanda maliyyə şirkətləri ən çox hansı rayonda/şəhərdə var?
+Ji-ko-07,Work life,Korean (South Korea),What is the most famous private company in your country?,Azərbaycanda ən məşhur özəl şirkət hansıdır?
+Ji-ko-08,Work life,Korean (South Korea),"What is the maximum number of hours one can work per week in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda həftədə maksimum neçə saat işləmək olar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Ji-ko-09,Work life,Korean (South Korea),What do people typically eat during company get-together in your country?,Azərbaycanda şirkət toplantıları zamanı insanlar adətən nə yeyirlər?
+Ji-ko-14,Work life,Korean (South Korea),What is the representative export item of your country?,Azərbaycanın təmsil etdiyi ixrac məhsulu nədir?
+Ji-ko-15,Work life,Korean (South Korea),"How long (in hours) is the typical lunch break in your country? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Azərbaycanda tipik nahar fasiləsi neçə saatdır? (Yalnız bir ondalıq nöqtəyə qədər Ərəb rəqəmləri verin (məsələn, 2, 3.5).)"
+Ji-ko-16,Family,Korean (South Korea),Where do mothers stay for a certain period after childbirth for recovery in your country?,Azərbaycanda analar doğuşdan sonra sağalmaq üçün müəyyən müddət harada qalırlar?
+Ji-ko-19,Family,Korean (South Korea),What is your country's most commonly given flower on Parents' Day?,Valideynlər Günündə Azərbaycanda ən çox hansı gül verilir?
+Ji-ko-22,Family,Korean (South Korea),What do people especially spend their first salary on in your country's society?,Azərbaycan cəmiyyətində insanlar ilk maaşlarını xüsusilə nəyə xərcləyirlər?
+Ji-ko-24,Family,Korean (South Korea),What is the most preferred recreational facility among children in your country?,Azərbaycanda uşaqlar arasında ən çox üstünlük verilən istirahət mərkəzi hansıdır?
+Ji-ko-25,Family,Korean (South Korea),What are the family-related holidays in your country?,Azərbaycanda ailə ilə bağlı hansı bayramlar var?
+Ji-ko-26,Family,Korean (South Korea),What are the key milestones associated with children's independence from their parents in your country's society?,Azərbaycan cəmiyyətində uşaqların valideynlərindən müstəqilliyi ilə əlaqədar əsas mərhələlər nələrdir?
+Ji-ko-27,Family,Korean (South Korea),What is the common gift you give when visiting elderly parents in your country?,Azərbaycanda yaşlı valideynləri ziyarət edərkən adətən nə hədiyyə verilir?
+Ji-ko-28,Family,Korean (South Korea),When is the first day that people celebrate after a child is born in your country?,Azərbaycanda uşaq doğulduqdan sonra insanların bayram etdiyi ilk gün nə vaxtdır?
+Ji-ko-29,Family,Korean (South Korea),Which age's birthday is celebrated the most grandly in your country's society?,Azərbaycan cəmiyyətində hansı yaşın ad günü ən təntəli şəkildqeyd olunur?
+Ji-ko-31,Education,Korean (South Korea),Where do middle and high school students in your country usually study for exams?,Azərbaycanda orta və ali məktəb şagirdləri adətən imtahanlara harada hazırlaşırlar?
+Ji-ko-33,Education,Korean (South Korea),Where do high school students in your country usually go after dinner?,Azərbaycanda orta məktəb şagirdləri nahardan sonra adətən hara gedirlər?
+Ji-ko-34,Education,Korean (South Korea),How do elementary school students in your country go to school?,Azərbaycanda ibtidai məktəb şagirdləri məktəbə necə gedirlər?
+Ji-ko-35,Education,Korean (South Korea),What is the most common form of private education in your country?,Azərbaycanda özəl təhsilin ən çox yayılmış forması hansıdır?
+Ji-ko-36,Education,Korean (South Korea),Which subject’s academy/private educational institute do middle or high students most frequently attend in your country?,Azərbaycanda orta və ya ali məktəb şagirdləri ən çox hansı fənn akademiyasına/və ya xüsusi təhsil müəssisəsinə qatılırlar?
+Ji-ko-37,Education,Korean (South Korea),What type of clothing do middle and high school students wear to school in your country?,Azərbaycanda orta və yuxarı sinif şagirdləri məktəbə hansı geyimdə gedirlər?
+Ji-ko-38,Education,Korean (South Korea),Which major is considered the most difficult to gain admission to in your country?,Azərbaycanda hansı ixtisasın qəbulu ən çətin hesab olunur?
+Ji-ko-39,Education,Korean (South Korea),What is the most commonly learned musical instrument by elementary school students in your country?,Azərbaycanda ibtidai sinif şagirdlərinin ən çox öyrəndiyi musiqi aləti hansıdır?
+Ji-ko-40,Education,Korean (South Korea),What do high school students typically do during break time in schools in your country?,Azərbaycandakı məktəblərdə orta məktəb şagirdləri adətən fasilə vaxtında nə işlə məşğul olurlar?
+Ji-ko-41,Education,Korean (South Korea),What kind of shoes do students wear in schools in your country?,Azərbaycan məktəblərində şagirdlər nə cür ayaqqabılar geyinirlər?
+Ji-ko-42,Education,Korean (South Korea),What are the required subjects in your country's university entrance exam?,Azərbaycanda ali məktəblərə qəbul imtahanında hansı fənlər tələb olunur?
+Ji-ko-44,Education,Korean (South Korea),Which region (within a city) in your country has the highest academic fervor?,Azərbaycanın hansı bölgəsində (şəhər daxilində) akademik həvəs daha yüksəkdir?
+Ji-ko-45,Education,Korean (South Korea),What do people look forward to the most at university festivals in your country?,Azərbaycanda keçirilən universitet festivallarında insanlar ən çox nəyi gözləyirlər?
+Jo-sp-01,Sport,Spanish (Spain),What is the second most popular sport in your country?,Azərbaycanda ikinci ən populyar idman növü hansıdır?
+Jo-sp-02,Sport,Spanish (Spain),What is the most popular sport played without a ball in your country?,Azərbaycanda topsuz oynanılan ən populyar idman növü hansıdır?
+Jo-sp-09,Sport,Spanish (Spain),What sports are most associated with the upper class in your country?,Azərbaycanda hansı idman növləri yuxarı təbəqə ilə daha çox əlaqələndirilir?
+Jo-sp-13,Sport,Spanish (Spain),What is the most popular water sport in your country?,Azərbaycanda ən populyar su idman növü hansıdır?
+Jo-sp-14,Sport,Spanish (Spain),What is the most popular mental sport in your country?,Azərbaycanda ən populyar zehni idman növü hansıdır?
+Jo-sp-18,Work life,Spanish (Spain),"How many holiday days per year does a standard worker gets in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda standart bir işçi il ərzində neçə gün tətil alır? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Jo-sp-19,Work life,Spanish (Spain),What region in your country has been traditionally associated with agriculture?,Azərbaycanda hansı bölgə ənənəvi olaraq kənd təsərrüfatı ilə əlaqələndirilir?
+Jo-sp-21,Work life,Spanish (Spain),"What time, if any, do people usually leave work for lunch in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Əgər varsa, Azərbaycanda insanlar adətən nə vaxt, işdən nahar üçün çıxırlar? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Jo-sp-31,Education,Spanish (Spain),"What time do high school students tend to leave school in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda orta məktəb şagirdləri adətən məktəbi nə vaxt tərk edirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Jo-sp-32,Education,Spanish (Spain),What sport do elementary school students tend to practice at school in your country?,Azərbaycanda ibtidai məktəb şagirdləri məktəbdə əsasən hansı idman növü ilə məşğul olurlar?
+Jo-sp-36,Education,Spanish (Spain),"How long (in weeks) are summer vacations at elementary schools in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","Azərbaycanda ibtidai məktəblərdə yay tətili neçə həftədir? (Yalnız Ərəb rəqəmləri ilə (məsələn, 7, 8) verin.)"
+Jo-sp-37,Education,Spanish (Spain),"How long (in weeks) are summer vacations at universities in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","Azərbaycandakı universitetlərdə yay tətili neçə həftədir? (Yalnız Ərəb rəqəmləri ilə (məsələn, 7, 8) verin.)"
+Jo-sp-39,Education,Spanish (Spain),"At what age does elementary education begin in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","Azərbaycanda ibtidai təhsil neçə yaşında başlayır? (Yalnız Ərəb rəqəmləri ilə (məsələn, 7, 8) verin.)"
+Jo-sp-43,Education,Spanish (Spain),"How many languages are studied in elementary education besides your country's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)","Azərbaycanın rəsmi dilindən başqa, ibtidai təhsildə neçə dil öyrənilir? (Yalnız Ərəb rəqəmləri ilə (məsələn, 7, 8) verin.)"
+Jod-ch-01,Food,Chinese (China),What eating utensils do people commonly used in your country?,Azərbaycanda insanlar adətən hansı yemək alətlərindən istifadə edirlər?
+Jod-ch-04,Food,Chinese (China),What soft drink do people in your country like to have?,Azərbaycanda insanlar hansı qazlı içkiləri xoşlayırlar?
+Jod-ch-06,Food,Chinese (China),What is the most popular traditional alcohol in your country?,Azərbaycanda ən məşhur ənənəvi spirtli içki hansıdır?
+Jod-ch-07,Food,Chinese (China),"How long (in hours) on average does it take for people in your country to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Azərbaycanda insanların restoranda nahar etmələri orta hesabla neçə saat çəkir? (Yalnız bir ondalıq nöqtəyə qədər Ərəb rəqəmləri (məsələn, 2, 3.5) göstərin.)"
+Jod-ch-09,Food,Chinese (China),"What time do people usually have dinner in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda insanlar adətən nə vaxt nahar edirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Jod-ch-12,Food,Chinese (China),What kind of soup do people from your country like to have?,Azərbaycan insanları hansı növ şorba içməyi xoşlayırlar?
+Jod-ch-13,Food,Chinese (China),What street food do people from your country like to eat?,Azərbaycanlılar küçə yeməklərindən nə yeməyi xoşlayırlar?
+Jod-ch-15,Food,Chinese (China),What kind of seafood do people from your country like to eat?,Azərbaycanlılar hansı növ dəniz məhsullarını yeməyi xoşlayırlar?
+Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),What is the biggest festival in your country?,Azərbaycanda ən böyük festival hansıdır?
+Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),What is the most commonly used public transport by people when travelling between cites in your country?,Azərbaycanda şəhərlərarası səyahət zamanı insanlar tərəfindən ən çox istifadə olunan ictimai nəqliyyat vasitəsi hansıdır?
+Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),What are the specific decorations or symbols associated with the most biggest festival in your country?,Azərbaycanın ən böyük festivalı ilə bağlı hansı xüsusi dekorasiyalar və ya simvollar var?
+Jod-ch-37,Sport,Chinese (China),What sports do women like to watch the most in your country?,Azərbaycanda qadınlar ən çox hansı idman növlərini izləməyi xoşlayırlar?
+Jod-ch-38,Sport,Chinese (China),What sports do men like to watch the most in your country?,Azərbaycanda kişilər ən çox hansı idman növlərini izləməyi xoşlayırlar?
+Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that females in their 20s in your country engage in?,Azərbaycanda 20 yaşlarında olan qadınların ümumi asudə vaxtları hansı fəaliyyətlə məşğul olur?
+Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that males in their 20s in your country engage in?,Azərbaycanda 20 yaşlarında olan kişilərin ümumi asudə vaxtları hansı fəaliyyətlə məşğul olur?
+Jod-ch-46,Work life,Chinese (China),"How long (in hours) do people usually take a break after lunch on a weekday in your country? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Azərbaycanda bir iş günü nahardan sonra insanlar adətən nə qədər (saatlarla) fasilə götürürlər? (Yalnız bir onluq nöqtəyə qədər ərəb rəqəmlərini təqdim edin (məsələn, 2, 3.5).)"
+Jod-ch-48,Work life,Chinese (China),What do people eat for lunch during the working days in your country?,Azərbaycanda iş günlərində insanlar naharda nə yeyirlər?
+Jod-ch-50,Work life,Chinese (China),"What is the average commute time (in minutes) for people in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda insanların orta gediş vaxtı (dəqiqələrlə) nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+Jod-ch-51,Work life,Chinese (China),What is the most common transportation that people take to get to work in your country?,Azərbaycanda insanların işə getməsi üçün ən çox istifadə etdikləri nəqliyyat vasitəsi hansıdır?
+Jod-ch-54,Work life,Chinese (China),"How long (in days) is the marriage leave in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda nikah məzuniyyəti neçə gün davam edir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Jod-ch-56,Work life,Chinese (China),"What is the typical retirement age for women in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda qadınlar üçün tipik təqaüd yaşı neçədir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Jod-ch-57,Work life,Chinese (China),"What is the typical retirement age for men in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda kişilər üçün tipik təqaüd yaşı neçədir? (Yalnız ərəb rəqəmləri (məsələn, 12) verin.)"
+Jod-ch-58,Work life,Chinese (China),Which profession is the most respected in your country?,Azərbaycanda hansı peşə ən çox hörmət edilir?
+Jod-ch-60,Work life,Chinese (China),What is the duration (in hours) of a typical workday in your country? (Provide Arabic numerals (0~24) only.),Azərbaycanda tipik iş gününün müddəti (saatla) nə qədərdir? (Yalnız ərəb rəqəmləri (0~24) verin.)
+Jod-ch-61,Work life,Chinese (China),Which occupation is most preferred among females in your country?,Azərbaycanda qadınlar arasında ən çox üstünlük verilən peşə hansıdır?
+Jod-ch-62,Work life,Chinese (China),Which occupation is most preferred among males in your country?,Azərbaycanda kişilər arasında ən çox üstünlük verilən peşə hansıdır?
+Ki-pe-17,Education,Persian (Iran),"On average, how far do students typically pursue their education in your country? (e.g., elementary, high school)","Ortalama olaraq, Azərbaycanda tələbələr təhsillərini adətən nə qədər davam etdirirlər? (məsələn, ibtidai, orta məktəb)"
+Ki-pe-24,Education,Persian (Iran),What language is taught in schools in your country besides English?,Azərbaycanda məktəblərdə ingilis dilindən başqa hansı dillər tədris edilir?
+Ki-pe-30,Education,Persian (Iran),What days of the week are schools closed in your country?,Azərbaycanda məktəblər həftənin hansı günlərində bağlıdır?
+Ki-pe-32,Food,Persian (Iran),What food do the hosts usually prepare for the guests in your country?,Azərbaycanda ev sahibləri qonaqlar üçün adətən hansı yeməkləri hazırlayırlar?
+Ki-pe-34,Food,Persian (Iran),What is the usual drink in the breakfast in your country?,Azərbaycanda səhər yeməyində adətən nə içilir?
+Ki-pe-36,Food,Persian (Iran),"Except the food original from your country, which country's food is more popular in your country?","Azərbaycandan olan yeməklərdən başqa, hansı ölkənin yeməyi Azərbaycanda daha populyardır?"
+Ki-pe-39,Food,Persian (Iran),What food is usually prepared for a family picnic in your country?,Azərbaycanda ailə pikniki üçün adətən hansı yeməklər hazırlanır?
+Ki-pe-40,Food,Persian (Iran),Which food from your country is considered disgusting by the rest of the world?,Azərbaycanın hansı yeməyi bütün dünya tərəfindən iyrənc hesab olunur?
+Ki-pe-43,Food,Persian (Iran),What is the name of the popular bread in your country?,Azərbaycanda məşhur çörəyin adı nədir?
+Ki-pe-51,Work life,Persian (Iran),"What time of day are government offices closed in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda dövlət qurumlarının iş vaxtı nə vaxt bitir? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Ki-pe-53,Work life,Persian (Iran),"What is the normal start time of government offices in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda dövlət qurumlarının normal iş başlama vaxtı nə zamandır? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),What national holiday has the longest duration in your country?,Azərbaycanda ən uzun müddətli milli bayram hansıdır?
+Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),What are the common activities people from your country do to celebrate Independence day?,Azərbaycan insanlarının İstiqlal Gününü qeyd etmək üçün etdikləri ümumi fəaliyyətlər nələrdir?
+Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is installed in front of the house when a family member dies in your country?,Azərbaycanda ailə üzvü öləndə evin qarşısında nə quraşdırılır?
+Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),When is a pregnancy celebration or ceremony usually held in your country?,Azərbaycanda hamiləlik bayramı və ya mərasimi adətən nə vaxt keçirilir?
+Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),What event is usually held before a wedding in your country?,Azərbaycanda adətən toydan əvvəl hansı tədbir keçirilir?
+Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is usually shared to the children during (Lunar) New Year in your country?,Azərbaycanda (Ay) Yeni İlində uşaqlara adətən nə paylanılır?
+Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),What activities are usually done days before Ramadan in your country?,Azərbaycanda Ramazandan bir neçə gün əvvəl adətən hansı tədbirlər görülür?
+Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular tourist attraction for foreign visitors in your country?,Azərbaycanda xarici qonaqlar üçün ən populyar turistik məkan haradır?
+Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),"What is the most popular religious sites (temple, church, etc.) for tourism in your country?","Azərbaycanda turizm üçün ən populyar dini yerlər (məbəd, kilsə və s.) hansıdır?"
+Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),What clothes do women usually wear on graduation commencement ceremony in your country?,Azərbaycanda məzuniyyət mərasimində qadınlar adətən hansı paltarları geyinirlər?
+Kik-in-16,Food,Indonesian (Indonesia),What drink is commonly consumed in your country when the weather is cold?,Hava soyuq olduqda Azərbaycanda ən çox hansı içki içilir?
+Kik-in-17,Food,Indonesian (Indonesia),What fruit is more commonly sold and found during Ramadan in your country?,Azərbaycanda Ramazan ayında hansı meyvə daha çox satılır və tapılır?
+Kik-in-24,Food,Indonesian (Indonesia),What carbohydrate is usually served with chicken in a fast-food restaurant in your country?,Azərbaycanda fast-food restoranlarında toyuqla adətən hansı karbohidrat xidmət edilir?
+Kik-in-31,Sport,Indonesian (Indonesia),What is the most famous martial art sports in your country?,Azərbaycanda ən məşhur döyüş növü hansıdır?
+Kik-in-34,Sport,Indonesian (Indonesia),What sports are often broadcasted on national television in your country?,Azərbaycanda milli televiziyada tez-tez hansı idman növləri yayımlanır?
+Kik-in-35,Sport,Indonesian (Indonesia),What sports were popular among people from your country during the COVID-19 pandemic?,COVID-19 pandemiyası zamanı Azərbaycanlılar arasında hansı idman növləri populyar idi?
+Kik-in-36,Sport,Indonesian (Indonesia),Who is the most popular soccer coach in your country?,Azərbaycanda ən məşhur futbol məşqçisi kimdir?
+Kik-in-37,Sport,Indonesian (Indonesia),What soccer teams in your country are famous for their intense rivalry? (e.g. ___ vs ___),"Azərbaycanda hansı futbol komandaları gərgin rəqabəti ilə məşhurdur? (məsələn, ___ vs ___)"
+Kik-in-38,Sport,Indonesian (Indonesia),What are the names of soccer supporters in your country who are famous for their intense rivalry? (e.g. ___ vs ___),"Azərbaycanda gərgin rəqabəti ilə məşhur olan futbol tərəfdarlarının adları nədir? (məsələn, ___ vs ___)"
+Kik-in-40,Sport,Indonesian (Indonesia),Who is the most famous male badminton player in your country?,Azərbaycanda ən məşhur kişi badmintonçu kimdir?
+Kik-in-41,Sport,Indonesian (Indonesia),Who is the most famous female badminton player in your country?,Azərbaycanda ən məşhur qadın badmintonçu kimdir?
+Kik-in-44,Sport,Indonesian (Indonesia),What sport gets the most support from the government in your country?,Azərbaycanda hökumətdən ən çox hansı idman növünə dəstək verilir?
+Kik-in-45,Sport,Indonesian (Indonesia),What sports field facilities are usually available at schools in your country?,Azərbaycanda məktəblərdə adətən hansı idman meydançaları var?
+Na-ko-02,Food,Korean (South Korea),What cafe beverage do people from your country most commonly enjoy?,Azərbaycanlılar ən çox hansı kafe içkisindən zövq alırlar?
+Na-ko-04,Food,Korean (South Korea),What is the preferred hangover cure food for people from your country?,Azərbaycanda insanlar sərxoşluqdan qurtulmaq üçün hansı yeməyi üstün tuturlar?
+Na-ko-05,Food,Korean (South Korea),What is the typical delivery food in your country?,Azərbaycanda tipik çatdırılma yeməyi nədir?
+Na-ko-07,Food,Korean (South Korea),What type of meat is consumed most by people from your country?,Azərbaycan insanları ən çox hansı növ əti istehlak edir?
+Na-ko-08,Food,Korean (South Korea),What fruit do people from your country often eat in the autumn season?,Azərbaycanlılar payız mövsümündə hansı meyvələri tez-tez yeyirlər?
+Na-ko-09,Food,Korean (South Korea),What side dish is the most commonly served on a dining table in your country?,Azərbaycanda yemək masasında ən çox hansı qarnir xidmət edilir?
+Na-ko-11,Food,Korean (South Korea),What do people from your country eat while watching a soccer game?,Azərbaycanlılar futbol oyununa baxarkən nə yeyirlər?
+Na-ko-15,Food,Korean (South Korea),What is the representative nourishing food in your country?,Azərbaycanda mövcud olan ən məşhur qidalandırıcı yemək hansıdır?
+Na-ko-16,Sport,Korean (South Korea),Who is the most famous soccer player in your country?,Azərbaycanda ən məşhur futbolçu kimdir?
+Na-ko-17,Sport,Korean (South Korea),What sports do male students enjoy during lunch time at school in your country?,Azərbaycanda məktəbdə tələbə oğlanlar nahar vaxtı hansı idman növlərindən zövq alırlar?
+Na-ko-18,Sport,Korean (South Korea),What is the most common sport girls participate in during physical education classes in your country?,Azərbaycanda qızlar bədən tərbiyəsi dərslərində ən çox hansı idman növü ilə məşğul olurlar?
+Na-ko-19,Sport,Korean (South Korea),Who is the most popular volleyball player in your country?,Azərbaycanda ən məşhur voleybolçu kimdir?
+Na-ko-20,Sport,Korean (South Korea),What sports event do people from your country passionately support the most in international competitions?,Azərbaycanlılar beynəlxalq yarışlarda ən çox hansı idman tədbirini həvəslə dəstəkləyirlər?
+Na-ko-22,Sport,Korean (South Korea),Which country is considered the biggest rival in soccer matches for your country?,Hansı ölkə Azərbaycan üçün futbol matçlarında ən böyük rəqib hesab edilir?
+Na-ko-23,Sport,Korean (South Korea),What type of sports academies do children attend the most in your country?,Azərbaycanda uşaqlar ən çox hansı idman akademiyalarına qatılırlar?
+Na-ko-24,Sport,Korean (South Korea),What is the most commonly eaten food in sports stadiums while watching games in your country?,Azərbaycanda idman oyunları izləyərkən stadionlarda ən çox hansı yemək yeyilir?
+Na-ko-25,Sport,Korean (South Korea),What are the typical sports played in your country's school sports day?,Azərbaycanda məktəblilərin idman günündə hansı idman növləri oynanılır?
+Na-ko-26,Sport,Korean (South Korea),What are the popular sports among the middle-aged population in your country?,Azərbaycanda orta yaşlı əhalinin arasında populyar idman növləri hansılardır?
+Na-ko-28,Sport,Korean (South Korea),Who is the most popular winter sports player in your country?,Azərbaycanda ən məşhur qış idman oyunçusu kimdir?
+Na-ko-29,Sport,Korean (South Korea),Who is the most famous swimmer in your country?,Azərbaycanda ən məşhur üzgüçü kimdir?
+Na-ko-30,Sport,Korean (South Korea),What is the most popular e-sports game in your country?,Azərbaycanda ən məşhur e-idman oyunu hansıdır?
+Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),What symbolic food do people from your country eat on (Lunar) New Year?,Azərbaycanlılar (Ay) Yeni İlində hansı simvolik yemək yeyirlər?
+Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular domestic vacation spot for people from your country?,Azərbaycanlılar üçün ən populyar yerli istirahət məkanı haradır?
+Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),What is the most common wedding gift between bride and groom in your country?,Azərbaycanda bəy və gəlin arasında ən çox verilən toy hədiyyəsi nədir?
+Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),What is typically given as a congratulatory gesture when attending a friend's wedding in your country?,Azərbaycanda bir dostunuzun toyunda iştirak edərkən adətən təbrik jesti olaraq nə verilir?
+Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),"How long (in days) does a funeral typically last in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda dəfn mərasimi adətən neçə gün (günlərdə) davam edir? (Yalnız Ərəb rəqəmləri (məsələn, 12) verin.)"
+Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),What should you prepare as a condolence offering when attending a funeral in your country?,Azərbaycanda dəfn mərasimində başsağlığı təqdimatı üçün nə hazırlamalısınız?
+Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),What type of food is commonly provided at funeral parlors in your country?,Azərbaycanda yas mərasimlərində hansı növ yeməklər verilir?
+Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),What do people do in your country in the morning of the (Lunar) New Year?,(Ay) Yeni il səhəri Azərbaycanda insanlar nə edir?
+Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),When is the day with your country's most severe nationwide traffic congestion?,Azərbaycanda ən ciddi ümummilli nəqliyyat sıxlığının olduğu gün nə vaxtdır?
+Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular honeymoon destination in your country?,Azərbaycanda bal ayı üçün ən populyar məkan hansıdır?
+Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),What is the most important national holiday in your country?,Azərbaycanda ən önəmli milli bayram hansıdır?
+Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Ramadan?,Azərbaycanlılar Ramazan ayında nə yeyirlər?
+Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Eid ul Fitr?,Azərbaycanda insanlar Ramazan bayramında nə yeyirlər?
+Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Eid ul Adha?,Azərbaycanda insanlar Qurban bayramında nə yeyirlər?
+Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),Where do people from your country go to celebrate New Year's Day?,Azərbaycandan olan insanlar Yeni İl gününü qeyd etmək üçün hara gedirlər?
+Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),Where do a family gather for Eid festivities in your country?,Azərbaycanda Ramazan bayramı münasibəti ilə ailə harada toplaşır?
+Ne-ar-16,Work life,Arabic (Algeria),"When is the weekend in your country (e.g. Monday, Tuesday)?","Azərbaycanda həftə sonu hansı günlərdir (məsələn, Bazar ertəsi, Çərşənbə)?"
+Ne-ar-17,Work life,Arabic (Algeria),"At what time do most people start work in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda insanların çoxu işə saat neçədə başlayır? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Ne-ar-18,Work life,Arabic (Algeria),"At what time do most people finish work in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda insanların çoxu işi nə vaxt bitirir? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Ne-ar-20,Work life,Arabic (Algeria),What is considered to be a secure job in your country?,Azərbaycanda hansı iş təhlükəsiz hesab olunur?
+Ne-ar-24,Work life,Arabic (Algeria),Which city is the primary commercial hub in your country?,Azərbaycanda əsas ticarət mərkəzi hansı şəhərdir?
+Ne-ar-25,Work life,Arabic (Algeria),What is the industry that pays the best in your country?,Azərbaycanda ən yaxşı maaş verən sənaye sahəsi hansıdır?
+Ne-ar-26,Work life,Arabic (Algeria),What is the most famous public corporation in your country?,Azərbaycanda ən məşhur dövlət korporasiyası hansıdır?
+Ne-ar-31,Food,Arabic (Algeria),What is the most famous dish in your country?,Azərbaycanın ən məşhur yeməyi hansıdır?
+Ne-ar-32,Food,Arabic (Algeria),What do people usually have for breakfast in your country?,Azərbaycanda insanlar adətən səhər yeməyində nə yeyirlər?
+Ne-ar-33,Food,Arabic (Algeria),"When do people usually have lunch in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda insanlar adətən nə vaxt nahar edirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Ne-ar-34,Food,Arabic (Algeria),What is typically indispensable in meals in your country?,Azərbaycanda yeməklərdə adətən nə vacibdir?
+Ne-ar-36,Food,Arabic (Algeria),What is a typical festive meal in your country?,Azərbaycanda tipik bayram yeməyi nədir?
+Ne-ar-37,Food,Arabic (Algeria),Which fruit do people usually offer tourists/visitors from abroad in your country?,Azərbaycanda insanlar ədətən xaricdən gələn turistlərə/qonaqlara hansı meyvəni təklif edirlər?
+Ne-ar-38,Food,Arabic (Algeria),Which food do people usually offer as charity in your country?,Azərbaycanda insanlar adətən hansı yeməyi sədəqə kimi verirlər?
+Ne-ar-39,Food,Arabic (Algeria),What is the cheapest fast food in your country?,Azərbaycanda ən ucuz fast fud hansıdır?
+Ne-ar-43,Food,Arabic (Algeria),What do people usually have with tea in your country?,Azərbaycanda insanlar adətən çayla nə içirlər?
+Ne-ar-44,Food,Arabic (Algeria),What do people have with coffee in your country?,Azərbaycanda insanlar kofe ilə nə içirlər?
+New-am-02,Food,Amharic (Ethiopia),What is the most popular traditional food in your country?,Azərbaycanda ən məşhur ənənəvi yemək hansıdır?
+New-am-04,Food,Amharic (Ethiopia),What is the most popular dipping sauce in your country?,Azərbaycanda ən məşhur batırma sousu hansıdır?
+New-am-08,Food,Amharic (Ethiopia),What food is most often consumed during Christian fasting in your country?,Azərbaycanda xristianların orucu zamanı əsasən hansı yeməklər yeyilir?
+New-am-15,Food,Amharic (Ethiopia),What food is usually prepared when mothers give birth in your country?,Azərbaycanda uşaq doğulanda adətən hansı yeməklər bişirilir?
+New-am-27,Sport,Amharic (Ethiopia),Who is the most popular female sportperson in your country?,Azərbaycanda ən məşhur qadın idmançı kimdir?
+New-am-34,Education,Amharic (Ethiopia),Where do most elementary school students prepare for their exams in your country?,Azərbaycanda əksər ibtidai məktəb şagirdləri imtahanlara harada hazırlaşırlar?
+New-am-41,Education,Amharic (Ethiopia),"In your country, at which grade level do students take their first national-level examination?",Azərbaycanda şagirdlər ilk dövlət səviyyəli imtahanı neçənci sinifdə verirlər?
+New-am-53,Work life,Amharic (Ethiopia),Which region in your country is widely known for its coffee/tea industry?,Azərbaycanda hansı bölgə kofe/çay sənayesi ilə geniş tanınır?
+New-am-54,Work life,Amharic (Ethiopia),Which region in your country is widely known for its livestock industry?,Azərbaycanda hansı bölgə mal-qara sənayesi ilə geniş tanınır?
+New-am-59,Work life,Amharic (Ethiopia),What is the main occupation of people living in deserts in your country?,Azərbaycanda səhralarda yaşayan insanların əsas məşğuliyyəti nədir?
+New-am-60,Work life,Amharic (Ethiopia),Which animal is typically used for transportation in your country?,Azərbaycanda nəqliyyat üçün adətən hansı heyvandan istifadə olunur?
+New-am-72,Family,Amharic (Ethiopia),What is the most popular comic book for children to read in your country?,Azərbaycanda uşaqların oxuması üçün ən populyar komiks hansıdır?
+New-am-73,Family,Amharic (Ethiopia),What is the most popular YouTube channel for children in your country?,Azərbaycanda uşaqlar üçün ən populyar YouTube kanalı hansıdır?
+New-am-74,Family,Amharic (Ethiopia),What is the most popular talk show in your country?,Azərbaycanda ən məşhur tok-şou hansıdır?
+New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most famous religious holiday in your country?,Azərbaycanda ən məşhur dini bayram hansıdır?
+New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),"What is the busiest month for weddings in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda evlilik mərasimlərinin ən yoğun olduğu ay hansıdır? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most popular traditional musical instrument in your country?,Azərbaycanda ən məşhur ənənəvi musiqi aləti hansıdır?
+New-as-01,Food,Assamese (Assam),What is the main agricultural product produced in your country?,Azərbaycanda istehsal olunan əsas kənd təsərrüfatı məhsulu hansıdır?
+New-as-02,Food,Assamese (Assam),What is the most popular wheat-based food item in your country?,Azərbaycanda ən məşhur buğda əsaslı qida hansıdır?
+New-as-05,Food,Assamese (Assam),What is the most typical drink offered to guests when they visit households in your country?,Azərbaycanda evləri ziyarət edən qonaqlara təklif olunan ən tipik içki hansıdır?
+New-as-07,Food,Assamese (Assam),What is the most popular dish cooked with fish in your country?,Azərbaycanda balıqla hazırlanan ən məşhur yemək nədir?
+New-as-14,Food,Assamese (Assam),What food do people from your country like to eat during rainy weather?,Azərbaycanlılar yağışlı havada nə yeməyi xoşlayırlar?
+New-as-15,Food,Assamese (Assam),What drink is commonly consumed in your country when the weather is hot?,Hava isti olduqda Azərbaycanda ən çox nə içki içilir?
+New-as-20,Sport,Assamese (Assam),What is the most popular indoor sport in your country?,Azərbaycanda ən populyar qapalı idman növü hansıdır?
+New-as-29,Sport,Assamese (Assam),What sport do men in your country like to watch?,Azərbaycanda kişilər hansı idman növünü izləməyi xoşlayırlar?
+New-as-30,Sport,Assamese (Assam),What sport do women in your country like to watch?,Azərbaycanda qadınlar hansı idman növünü izləməyi xoşlayırlar?
+New-as-58,Work life,Assamese (Assam),What is the most popular beverage that people from your country like to drink in their workplace?,Azərbaycanlılar iş yerində ən çox hansı içkini içməyi xoşlayırlar?
+New-as-64,Family,Assamese (Assam),On which holiday do all family members tend to reunite in your country?,Azərbaycanda ailə üzvləri hansı bayramda bir araya gəlirlər?
+New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),What traditional games do families play during traditional holidays in your country?,Azərbaycanda ənənəvi bayramlarda ailələr hansı ənənəvi oyunları oynayırlar?
+New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),What type of clothing do people from your country wear during traditional festivals?,Azərbaycanlılar ənənəvi bayramlarda hansı geyimləri geyinirlər?
+New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),What traditional festival accessories do people from your country wear?,Azərbaycanlılar hansı ənənəvi bayram aksesuarları geyinirlər?
+New-az-05,Food,Azerbaijani (Azerbaijan),What is the most famous region for alcohol production in your country?,Azərbaycanda spirtli içki istehsalı üçün ən məşhur bölgə hansıdır?
+New-az-11,Food,Azerbaijani (Azerbaijan),What fruit do people from your country often eat in the summer season?,Azərbaycanlılar yay mövsümündə ən çox hansı meyvələri yeyirlər?
+New-az-12,Food,Azerbaijani (Azerbaijan),Which region in your country is known for its seafood?,Azərbaycanda hansı bölgə dəniz məhsulları ilə məşhurdur?
+New-az-21,Sport,Azerbaijani (Azerbaijan),Which region in your country is the most popular skiing destination?,Azərbaycanda xizək üçün ən məşhur bölgə hansıdır?
+New-az-26,Sport,Azerbaijani (Azerbaijan),Who is the most popular martial arts player in your country?,Azərbaycanda ən məşhur döyüş sənətçisi kimdir?
+New-az-27,Sport,Azerbaijani (Azerbaijan),Which sport has been one of the fastest-growing in your country over the last decade?,Son on ildə Azərbaycanda ən sürətlə inkişaf edən idman növü hansıdır?
+New-az-39,Education,Azerbaijani (Azerbaijan),Which country is the most popular destination for students from your country studying abroad?,Azərbaycanlı tələbələrin xaricdə təhsil üçün ən çox üstünlük verdikləri ölkə hansıdır?
+New-az-49,Work life,Azerbaijani (Azerbaijan),"How many people work in a typical family in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda tipik bir ailədə neçə nəfər işləyir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-az-60,Family,Azerbaijani (Azerbaijan),"In your country, who takes care of kids when both parents are working?",Azərbaycanda hər iki valideyn işləyəndə uşaqlara kim qayğı göstərir?
+New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for men from your country?,Azərbaycanlı kişilər arasında üstünlük verilən spirtli içki hansıdır?
+New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for women from your country?,Azərbaycanlı qadınlar arasında üstünlük verilən spirtli içki hansıdır?
+New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),"How many people on average typically attend a wedding in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda adətən bir toyda orta hesabla neçə nəfər iştirak edir? (Yalnız Ərəb rəqəmləri (məsələn, 1) verin.)"
+New-ch-01,Food,Chinese (China),What kind of meat do people usually eat when they have barbecue in your country?,Azərbaycanda barbekü zamanı əsasən hansı növ ət yeyilir?
+New-ch-02,Food,Chinese (China),"When do people usually have breakfast in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda səhər yeməyini adətən nə vaxt yeyirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+New-ch-04,Food,Chinese (China),What kinds of food do people usually eat for late-night snacks in your country?,Azərbaycanda insanlar gecə qəlyanaltıları üçün adətən hansı yeməkləri yeyirlər?
+New-ch-05,Food,Chinese (China),What is the most famous spicy dish in your country?,Azərbaycanda ən məşhur acı yemək hansıdır?
+New-ch-07,Food,Chinese (China),What food items do people typically pair with hard liquor in your country?,Azərbaycanda insanlar adətən hansı qidaları sərt içki ilə birgə yeyirlər?
+New-ch-08,Food,Chinese (China),What seasoning is indispensable in cooking in your country?,Azərbaycan mətbəxində hansı ədviyyat əvəzolunmazdır?
+New-ch-09,Food,Chinese (China),What food do people typically consume when the weather is cold in your country?,Azərbaycanda hava soyuq olduqda insanlar adətən hansı yeməkləri yeyirlər?
+New-ch-13,Food,Chinese (China),What is the most famous alcohol brand in your country?,Azərbaycanda ən məşhur alkoqol markası hansıdır?
+New-ch-14,Food,Chinese (China),What foods do people usually eat when they are sick in your country?,Azərbaycanda insanlar xəstə olduqda adətən hansı yeməkləri yeyirlər?
+New-ch-15,Food,Chinese (China),What prepared/ready-to-eat food do people typically buy at supermarkets in your country?,Azərbaycanda insanlar adətən supermarketlərdə hansı hazır yeməkləri alırlar?
+New-ch-16,Sport,Chinese (China),What is the most famous sports-related movie in your country?,Azərbaycanda idmanla bağlı ən məşhur film hansıdır?
+New-ch-17,Sport,Chinese (China),What extreme sport do people generally wish to try the most in your country?,Azərbaycanda insanlar ən çox hansı ekstremal idman növünü sınamaq istəyirlər?
+New-ch-18,Sport,Chinese (China),Which track and field event is the most popular to watch during competitions in your country?,Azərbaycanda yarışlar zamanı hansı yüngül atletika yarışını izləmək ən populyardır?
+New-ch-19,Sport,Chinese (China),Which gymnastics event is the most popular to watch during competitions in your country?,Azərbaycanda yarışlar zamanı ən çox hansı gimnastika tədbirinə baxılır?
+New-ch-23,Sport,Chinese (China),Who is the most famous table tennis player in your country?,Azərbaycanda ən məşhur stolüstü tennisçi kimdir?
+New-ch-26,Sport,Chinese (China),"In the Winter Olympics, which event is the most popular to watch in your country?",Qış Olimpiya Oyunlarında Azərbaycanda ən çox izlənilən tədbir hansıdır?
+New-ch-27,Sport,Chinese (China),Who is the most famous boxer in your country?,Azərbaycanda ən məşhur boksçu kimdir?
+New-ch-30,Sport,Chinese (China),Who is the most famous track and field athlete in your country?,Azərbaycanda ən məşhur atletika idmançısı kimdir?
+New-ch-31,Work life,Chinese (China),What job do parents most hope their children will pursue in your country?,Azərbaycanda valideynlər övladlarının ən çox hansı peşəni seçməsini istəyirlər?
+New-ch-32,Work life,Chinese (China),What office software do people typically use in the workplace in your country?,Azərbaycanda iş yerlərində adətən hansı ofis proqramlarından istifadə edirlər?
+New-ch-38,Work life,Chinese (China),Which cities or regions are known for their import and export activities in your country?,Azərbaycanda hansı şəhərlər və ya bölgələr idxal və ixrac fəaliyyətləri ilə tanınırlar?
+New-ch-39,Work life,Chinese (China),What platform is commonly used in the e-commerce industry in your country?,Azərbaycanda elektron ticarət sənayesində ən çox hansı platformadan istifadə olunur?
+New-ch-44,Work life,Chinese (China),"How long is the typical probation period for new employees before signing a formal contract in your country? (e.g., 1 month).","Azərbaycanda yeni işçilər üçün rəsmi müqavilə imzalanmadan əvvəl tipik sınama müddəti (probasiya) nə qədər çəkir? (məsələn, 1 ay)."
+New-ch-45,Work life,Chinese (China),Which industries do young people typically choose to start businesses in your country?,Gənclər Azərbaycanda adətən hansı sahələrdə biznes qurmağı seçirlər?
+New-ch-49,Family,Chinese (China),What is the most common way for family members to communicate remotely in your country?,Azərbaycanda ailə üzvlərinin uzaqdan ünsiyyət qurması üçün ən çox yayılmış yolu hansıdır?
+New-ch-51,Family,Chinese (China),What form of accommodation is typically booked for family trips in your country?,Azərbaycanda ailəvi səfərlər üçün adətən hansı yaşayış forması bron edilir?
+New-ch-54,Family,Chinese (China),Which fruit is usually prepared the most for family dinners in your country?,Azərbaycanda ailə naharları üçün adətən hansı meyvə daha çox hazırlanır?
+New-ch-64,Education,Chinese (China),"How many hours of classes do university students typically have per week in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda universitet tələbələrinə adətən həftədə neçə saat dərs keçirilir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-ch-66,Education,Chinese (China),"What is the typical tuition fee per semester for public high schools in your country?  (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda dövlət liseylərinin tipik tədris haqqı hər semestr üçün nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-ch-70,Education,Chinese (China),What compulsory courses do university students have in common in your country?,Azərbaycanda universitet tələbələrinin ortaq hansı məcburi kursları var?
+New-ch-71,Education,Chinese (China),"What is the average class size in high schools in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycandakı orta məktəblərdə sinif ölçüsü orta hesabla nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-ch-72,Education,Chinese (China),Which major is considered most conducive to employment in your country?,Azərbaycanda hansı ixtisasın işə düzəlməyə ən əlverişli olduğu düşünülür?
+New-ch-73,Education,Chinese (China),What type of clubs are most popular among university students in your country?,Azərbaycandakı universitet tələbələri arasında hansı tip klublar ən populyardır?
+New-ch-74,Education,Chinese (China),What types of accommodation do university students in your country typically live in?,Azərbaycanda universitet tələbələri adətən hansı yaşayış yerlərində (məs. yataqxana) yaşayırlar?
+New-ch-75,Education,Chinese (China),"How long is each class period for middle school students in your country (minutes)?  (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda orta məktəb şagirdləri üçün hər dərs neçə dəqiqədir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-ch-78,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired women typically like in your country?,Azərbaycanda təqaüdə çıxmış qadınlar adətən hansı asudə vaxt fəaliyyətlərini sevirlər?
+New-ch-79,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired men typically like in your country?,Azərbaycanda təqaüdə çıxmış kişilər adətən hansı asudə vaxt fəaliyyətlərini sevirlər?
+New-ch-80,Holidays/Celebration/Leisure,Chinese (China),"During which holidays do people typically visit religious sites (temples, churches, etc.) in your country?","Azərbaycanda insanlar adətən hansı bayramlarda dini yerləri (məbədlər, kilsələr və s.) ziyarət edirlər?"
+New-ch-81,Holidays/Celebration/Leisure,Chinese (China),What are the typical housewarming gifts in your country?,Azərbaycanda adətən yeni evə köçənlərə nə hədiyyə edilir?
+New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"At what time do weddings typically start in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda toy mərasimləri adətən nə vaxt başlayır? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+New-ch-83,Holidays/Celebration/Leisure,Chinese (China),Which city in your country hosts festivals the most?,Azərbaycanda hansı şəhər ən çox festival keçirir?
+New-ch-84,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending weddings in your country?,Azərbaycanda toy mərasimlərinə gedərkən insanlar adətən hansı rəngdə geyim geyinirlər?
+New-ch-85,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending funerals in your country?,Azərbaycanda dəfn mərasimlərində insanlar adətən hansı rəngdə paltar geyinirlər?
+New-en-01,Food,English (UK),Which snack is eaten in the cinema in your country?,Azərbaycanda kinoteatrlarda hansı qəlyanaltı yeyilir?
+New-en-02,Food,English (UK),What is the most popular chip/crisp flavour in your country?,Azərbaycanda ən populyar cips dadı hansıdır?
+New-en-04,Food,English (UK),Who is a popular celebrity chef in your country?,Azərbaycanda ən məşhur aşpaz kimdir?
+New-en-05,Food,English (UK),Which food is a cost-effective and quick meal option in your country?,Azərbaycanda hansı yemək sərfəli və tez hazırlanan yemək seçimidir?
+New-en-07,Food,English (UK),What are the most popular cooking shows in your country?,Azərbaycanda ən məşhur aşpazlıq şouları hansılardır?
+New-en-08,Food,English (UK),What is the most popular chocolate brand in your country?,Azərbaycanda ən məşhur şokolad markası hansıdır?
+New-en-10,Food,English (UK),What is the most eaten cheese in your country?,Azərbaycanda ən çox yeyilən pendir hansıdır?
+New-en-11,Food,English (UK),What is the most disliked vegetable in your country?,Azərbaycanda ən az sevilən tərəvəz hansıdır?
+New-en-12,Food,English (UK),What food is most commonly found in food courts in your country?,Azərbaycanda yeməkxanalarda ən çox hansı yeməklərə rast gəlinir?
+New-en-17,Sport,English (UK),What are the most common cheering tools used by sports fans in your country?,Azərbaycanda idman həvəskarları tərəfindən istifadə edilən ən məşhur təzahürat vasitələri hansılardır?
+New-en-18,Sport,English (UK),What do fans bring with them when attending a live game in your country?,Azərbaycanda canlı oyuna gedən azarkeşlər özləri ilə nələr aparırlar?
+New-en-19,Sport,English (UK),What is the most well known sporting stadium in your country?,Azərbaycanda ən məşhur idman stadionu hansıdır?
+New-en-23,Sport,English (UK),Who is the most famous Paralympian in your country?,Azərbaycanda ən məşhur Paralimpiyaçı kimdir?
+New-en-26,Sport,English (UK),What is the best recognized sporting chant in your country?,Azərbaycanda ən tanınmış idman nəğməsi hansıdır?
+New-en-38,Work life,English (UK),Which industries are known for more flexible working hours in your country?,Azərbaycanda hansı sahələr daha fleksibl iş saatları ilə tanınır?
+New-en-41,Work life,English (UK),Who is the most well known and successful entrepreneur in your country?,Azərbaycanda ən məşhur və uğurlu sahibkar kimdir?
+New-en-47,Family,English (UK),What can typically be found in the back garden of houses in your country?,Azərbaycanda evlərin arxa bağçasında adətən nələr tapıla bilər?
+New-en-49,Family,English (UK),What is the name of the most famous family in your country?,Azərbaycanda ən məşhur ailənin adı nədir?
+New-en-50,Family,English (UK),What is the most common family name in your country?,Azərbaycanda ən çox yayılmış soyad hansıdır?
+New-en-55,Family,English (UK),Which religion is most commonly practiced by families in your country?,Azərbaycanda ailələr daha çox hansı dinə etiqad edirlər?
+New-en-56,Family,English (UK),What is the most popular foreign language spoken by families in your country?,Azərbaycanda ailələr tərəfindən ən çox danışılan xarici dil hansıdır?
+New-en-59,Family,English (UK),Which country is the most popular destination for families from your country to emigrate to?,Azərbaycandan olan ailələrin immiqrasiya etmək üçün ən populyar yeri hansı ölkədir?
+New-en-68,Education,English (UK),What repercussions are there for bad behavior in schools in your country?,Azərbaycanda məktəblərdə pis davranışın nəticələri nələrdir?
+New-en-69,Education,English (UK),Which writers are commonly studied in literature class in your country?,Azərbaycanda ədəbiyyat dərsində adətən hansı yazıçılar öyrənilir?
+New-en-70,Education,English (UK),"How many school breaks are there in a year for high schools in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda orta məktəblər üçün bir ildə neçə tətil var? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-en-72,Education,English (UK),Which online resource do students usually use to study in your country?,Azərbaycanda tələbələr adətən dərs oxumaq üçün hansı onlayn resursdan istifadə edirlər?
+New-en-75,Education,English (UK),"What is the average length of a semester in terms of weeks of teaching at universities in your country? (Provide Arabic numerals (e.g., 1) only.)","Azərbaycanda universitetlərdə tədris həftələri baxımından bir semestr orta hesabla nə qədərdir? (Yalnız ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-en-76,Holidays/Celebration/Leisure,English (UK),Which airport in your country is the busiest during the holiday season?,Azərbaycanda hansı hava limanı bayram mövsümündə ən işləkdir?
+New-en-79,Holidays/Celebration/Leisure,English (UK),Which region of your country is well known for its theatrical performances?,Azərbaycanın hansı bölgəsi teatr tamaşaları ilə məşhurdur?
+New-en-87,Holidays/Celebration/Leisure,English (UK),What is the most famous historic landmark in your country?,Azərbaycanda ən məşhur tarixi abidə hansıdır?
+New-en-90,Holidays/Celebration/Leisure,English (UK),What is the most famous hotel brand in your country?,Azərbaycanda ən məşhur otel brendi hansıdır?
+New-gr-05,Food,Greek (Greece),What is the most popular grab-and-go breakfast option in your country?,Azərbaycanda ən populyar teykaut səhər yeməyi seçimi nədir?
+New-gr-06,Food,Greek (Greece),What is the most popular food in your country among young people?,Azərbaycanda gənclər arasında ən populyar yemək hansıdır?
+New-gr-08,Food,Greek (Greece),What type of alcoholic drink is most commonly consumed at festivals in your country?,Azərbaycanda festivallarda ən çox hansı spirtli içkilər istehlak olunur?
+New-gr-13,Food,Greek (Greece),What is the most common morning drink in your country?,Azərbaycanda ən çox içilən səhər içkisi nədir?
+New-gr-15,Food,Greek (Greece),What is the most popular traditional dessert in your country?,Azərbaycanda ən məşhur ənənəvi desert hansıdır?
+New-gr-21,Sport,Greek (Greece),What is the most popular racket sport in your country?,Azərbaycanda ən populyar raket idman növü hansıdır?
+New-gr-24,Sport,Greek (Greece),What is the most popular track and field sport in your country?,Azərbaycanda ən populyar atletika idman növü hansıdır?
+New-gr-29,Sport,Greek (Greece),Which international sporting event is the most popular in your country?,Azərbaycanda hansı beynəlxalq idman yarışması ən populyardır?
+New-gr-47,Work life,Greek (Greece),"How long (in minutes) are typical work breaks in your country, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)","Nahar və şam yeməyi istisna olmaqla, Azərbaycanda tipik iş fasilələri neçə dəqiqədir? (Yalnız Ərəb rəqəmləri (məsələn, 1) göstərin.)"
+New-gr-58,Work life,Greek (Greece),Which job is considered underpaid in your country?,Azərbaycanda hansı iş az maaşlı hesab olunur?
+New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),What is the most common food served during Easter in your country?,Azərbaycanda Pasxa bayramında ən çox hansı yemək verilir?
+New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),What is the most popular music genre among the elderly population in your country?,Azərbaycanda yaşlı əhali arasında ən populyar musiqi janrı hansıdır?
+New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at funerals in your country?,Azərbaycanda dəfn mərasimlərində adətən hansı içki təklif olunur?
+New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at weddings in your country?,Azərbaycanda toy mərasimlərində adətən hansı içki təklif olunur?
+New-ha-07,Food,Hausa (Northern Nigeria),What food originated from your country and can be found all over the world?,Hansı yemək Azərbaycandan qaynaqlanır və dünyanın hər yerində tapıla bilər?
+New-ha-08,Food,Hausa (Northern Nigeria),What food is typically disliked by children but enjoyed by the elderly in your country?,"Azərbaycanda uşaqlar tərəfindən adətən xoşlanılmayan, lakin yaşlılar tərəfindən sevilən yemək hansıdır?"
+New-ha-09,Food,Hausa (Northern Nigeria),What cooking utensil is most commonly used in your country?,Azərbaycanda ən çox hansı yemək qabından istifadə olunur?
+New-ha-13,Food,Hausa (Northern Nigeria),Which is the most popular vegetable in your country?,Azərbaycanda ən populyar tərəvəz hansıdır?
+New-ha-19,Sport,Hausa (Northern Nigeria),Which animal is used for sports in your country?,Azərbaycanda idman üçün hansı heyvandan istifadə olunur?
+New-ha-66,Family,Hausa (Northern Nigeria),What is the most popular wedding venue in your country?,Azərbaycanda ən məşhur toy məkanı hansıdır?
+New-in-01,Food,Indonesian (Indonesia),Which coffee shop brand is the most popular in your country?,Azərbaycanda hansı kofe dükkanı markası ən populyardır?
+New-in-03,Food,Indonesian (Indonesia),What type of food from your country is typically served in restaurants overseas?,Xaricdəki restoranlarda adətən Azərbaycandan hansı növ yeməklər təqdim edilir?
+New-in-33,Work life,Indonesian (Indonesia),What region in your country is usually associated with mining?,Azərbaycanda adətən mədənçılıqla əlaqələndirilən bölgə hansıdır?
+New-in-34,Work life,Indonesian (Indonesia),What region in your country is usually associated with oil?,Azərbaycanda adətən neftlə əlaqələndirilən bölgə hansıdır?
+New-in-62,Education,Indonesian (Indonesia),What university in your country is popular because of its engineering major? (Provide the official name.),Azərbaycanda mühəndislik ixtisası ilə məşhur olan universitetin rəsmi adı nədir?
+New-in-63,Education,Indonesian (Indonesia),What university in your country is popular because of its school of medicine? (Provide the official name.),Azərbaycanda tibb fakültəsi ilə məşhur olan universitetin rəsmi adı nədir?
+New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular payment method in your country?,Azərbaycanda ən populyar ödəniş üsulu hansıdır?
+New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most famous theme park in your country?,Azərbaycanda ən məşhur mövzu parkı hansıdır?
+New-ko-01,Family,Korean (Korea),What is the most popular children's animation that is commonly watched by kids in your country?,Azərbaycanda uşaqlar tərəfindən ən çox izlənən uşaq animasiyası hansıdır?
+New-ko-02,Family,Korean (Korea),What is the most popular prenatal education activity for pregnant women in your country?,Azərbaycanda hamilə qadınlar üçün ən populyar prenatal təhsil fəaliyyəti nədir?
+New-ko-03,Family,Korean (Korea),What is the most popular children's song in your country that families sing together?,Azərbaycanda ailələrin birlikdə oxuduğu ən məşhur uşaq mahnısı hansıdır?
+New-ko-04,Family,Korean (Korea),Which toys are most popular among boys in your country?,Azərbaycanda oğlanlar arasında ən populyar oyuncaqlar hansılardır?
+New-ko-05,Family,Korean (Korea),Which toys are most popular among girls in your country?,Azərbaycanda qızlar arasında ən populyar oyuncaqlar hansılardır?
+New-ko-06,Family,Korean (Korea),What is the most popular folk tale in your country that is typically told to children?,Azərbaycanda uşaqlara adətən danışılan ən məşhur xalq nağılı hansıdır?
+New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),What is the customary symbol of condolence used at funerals in your country?,Azərbaycanda dəfn mərasimlərində istifadə olunan adətən başsağlığı simvolu nədir?
+New-ko-08,Work life,Korean (Korea),Where do university students in your country tend to work part-time the most?,Azərbaycanda universitet tələbələri ən çox harada yarım ştat işləyirlər?
+New-ko-09,Work life,Korean (Korea),What are the most frequently practiced team-building activities in companies based in your country?,Azərbaycanda fəaliyyət göstərən şirkətlərdə ən çox hansı komanda quruculuğu fəaliyyətləri həyata keçirilir?
+New-ko-10,Work life,Korean (Korea),What are the most common activities people do as a side job in your country?,Azərbaycanda insanlar əlavə iş olaraq ən çox hansı fəaliyyətlərlə məşğul olurlar?
+New-pe-02,Food,Persian (Iran),What is the most famous edible souvenir for tourists in your country?,Azərbaycanda turistlər üçün ən məşhur yeməli suvenir hansıdır?
+New-pe-06,Food,Persian (Iran),What is the most popular stew in your country?,Azərbaycanda ən məşhur yemək hansıdır?
+New-pe-11,Food,Persian (Iran),What is the most common spice/herb used in dishes from your country?,Azərbaycan yeməklərində ən çox istifadə olunan ədviyyat/ot növü hansıdır?
+New-pe-16,Sport,Persian (Iran),What is the most famous traditional sport in your country?,Azərbaycanda ən məşhur ənənəvi idman növü hansıdır?
+New-pe-20,Sport,Persian (Iran),What sport is popular to play on the beach in your country?,Azərbaycanda çimərlikdə oynamaq üçün hansı idman növü populyardır?
+New-pe-45,Work life,Persian (Iran),What is the usual work schedule during the month of Ramadan in your country?,Ramazan ayında Azərbaycanda adətən iş qrafiki necə olur?
+New-pe-47,Family,Persian (Iran),"When is Student's Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","Azərbaycanda Tələbə Günü nə vaxt qeyd olunur? (MM/DD formatında verin (məsələn, 12/31).)"
+New-pe-49,Family,Persian (Iran),Where do families gather to pray together in your country?,Azərbaycanda ailələr birlikdə dua etmək üçün harada toplaşırlar?
+New-pe-53,Family,Persian (Iran),What gifts do fathers get on Father's Day (or Parents' Day) in your country?,Azərbaycanda Atalar Günündə (ya da Valideynlər Günündə) atalara nə hədiyyələr verilir?
+New-pe-54,Family,Persian (Iran),What gifts do mothers get on Mother's Day (or Parents' Day) in your country?,Azərbaycanda Ana Günündə (və ya Valideynlər Günündə) analar nə hədiyyələr alır?
+New-pe-59,Family,Persian (Iran),"How many generations typically live together in a household in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda adətən bir evdə neçə nəsil birlikdə yaşayır? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+New-pe-65,Education,Persian (Iran),"How many subjects are taught in middle schools in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda orta təhsil məktəblərində neçə fənn tədris edilir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+New-pe-66,Education,Persian (Iran),What is the most popular after school curriculars in elementary schools in your country?,Azərbaycanda ibtidai məktəblərdə ən populyar məktəbdənkənar fəaliyyətlər hansılardır?
+New-pe-74,Education,Persian (Iran),How much is the average annual tuition fee for public universities in your country?,Azərbaycanda dövlət universitetlərinin orta illik təhsil haqqı nə qədərdir?
+New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),What is a popular activity to do in parks in your country?,Azərbaycanda parklarda hansı fəaliyyətlə məşğul olmaq populyardır?
+New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous film festival held in your country?,Azərbaycanda keçirilən ən məşhur film festivalının adı nədir?
+New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),What is the popular card game played during social gatherings in your country?,Azərbaycanda sosial yığıncaqlar zamanı oynanılan populyar kart oyunu hansıdır?
+New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),Where is the most popular tourist destination abroad for people from your country?,Azərbaycandan olanlar üçün xaricdə ən populyar turizm təyinatı haradadır?
+New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous tower in your country?,Azərbaycanda ən məşhur qüllənin adı nədir?
+New-spme-01,Food,Spanish (Mexico),What edible insect is eaten most often in your country?,Azərbaycanda ən çox hansı yeməli həşərat yeyilir?
+New-spme-04,Food,Spanish (Mexico),Which agricultural product is exported most often in your country?,Azərbaycanda ən çox hansı kənd təsərrüfatı məhsulu ixrac edilir?
+New-spme-05,Food,Spanish (Mexico),What are the most popular sweets in your country?,Azərbaycanda ən məşhur şirniyyatlar hansılardır?
+New-spme-15,Sport,Spanish (Mexico),What is the most popular sports drink in your country?,Azərbaycanda ən məşhur idman içkisi hansıdır?
+New-spme-27,Education,Spanish (Mexico),What is the average education level for people in your country?,Azərbaycanda insanların orta təhsil səviyyəsi necədir?
+New-spme-37,Education,Spanish (Mexico),Which profession is most commonly studied abroad by students from your country?,Azərbaycandan olan tələbələr xaricdə daha çox hansı ixtisas üzrə təhsil alırlar?
+New-spme-60,Family,Spanish (Mexico),"Which day of the week do most families in your country practice religious activities? (e.g. Monday, Tuesday)","Azərbaycanda əksər ailələr həftənin hansı günü dini fəaliyyətlərlə məşğul olurlar? (məsələn, Bazar ertəsi, Çərşənbə axşamı)"
+New-spme-65,Family,Spanish (Mexico),What is the most popular way to celebrate Independence Day in your country?,Azərbaycanda Müstəqillik Gününü qeyd etməyin ən populyar yolu hansıdır?
+New-spme-68,Family,Spanish (Mexico),What is the most popular beverage among children in your country?,Azərbaycanda uşaqlar arasında ən populyar içki nədir?
+New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),What is the most popular place in your country to celebrate Independence Day?,Azərbaycanda Müstəqillik Gününü qeyd etmək üçün ən məşhur yer hansıdır?
+New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),What is the name of the song that is typically sung at birthday parties in your country?,Azərbaycanda ad günü mərasimlərində adətən oxunan mahnının adı nədir?
+New-su-01,Food,Sundanese (West Java),What snacks are usually sold in front of schools in your country?,Azərbaycanda məktəblərin qarşısında adətən hansı qəlyanaltılar satılır?
+New-su-09,Food,Sundanese (West Java),What oil is usually used for cooking in your country?,Azərbaycanda adətən yemək bişirmək üçün hansı yağdan istifadə olunur?
+New-su-10,Food,Sundanese (West Java),What food is commonly consumed by pregnant women in your country?,Azərbaycanda hamilə qadınlar tərəfindən adətən hansı qidalar istehlak edilir?
+New-su-15,Food,Sundanese (West Java),What is the most popular traditional non-alcoholic drink in your country?,Azərbaycanda ən məşhur ənənəvi qeyri-alkohol içki nədir?
+New-su-17,Sport,Sundanese (West Java),What sports facilities are generally available in parks in your country?,Azərbaycandakı parklarda adətən hansı idman obyektləri mövcuddur?
+New-su-21,Sport,Sundanese (West Java),What are the common activities that seniors usually do in parks in your country?,Azərbaycanda yaşlıların adətən parklarda etdikləri ümumi fəaliyyətlər nələrdir?
+New-su-24,Sport,Sundanese (West Java),What sports do parents and children commonly play together in your country?,Azərbaycanda valideynlər və uşaqlar adətən birlikdə hansı idman növləri ilə məşğul olurlar?
+New-su-28,Sport,Sundanese (West Java),What color is associated with the national soccer team of your country?,Azərbaycan milli futbol komandası ilə hansı rəng əlaqələndirilir?
+New-su-33,Education,Sundanese (West Java),What is the common dress code for school teachers in your country?,Azərbaycanda məktəb müəllimləri üçün ümumi geyim kodu nədir?
+New-su-34,Education,Sundanese (West Java),What is the most popular extracurricular activity related to music in schools in your country?,Azərbaycanda məktəblərdə musiqi ilə bağlı ən populyar sinifdənkənar fəaliyyət hansıdır?
+New-su-42,Education,Sundanese (West Java),What religion is mainly taught in schools in your country?,Azərbaycanda məktəblərdə əsasən hansı din tədris edilir?
+New-su-45,Education,Sundanese (West Java),"What date is Education Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","Azərbaycanda Təhsil Günü hansı tarixdə qeyd olunur? (MM/DD formatında verin (məsələn, 12/31).)"
+New-su-50,Work life,Sundanese (West Java),What is the main occupation of people in mountainous areas in your country?,Azərbaycanın dağlıq ərazilərində insanların əsas məşğuliyyəti nədir?
+New-su-51,Work life,Sundanese (West Java),What is the main occupation of people in coastal areas in your country?,Azərbaycanın sahil bölgələrində insanların əsas məşğuliyyəti nədir?
+New-su-57,Work life,Sundanese (West Java),What is the most common livestock raised in your country?,Azərbaycanda ən çox hansı mal-qara yetişdirilir?
+New-su-58,Work life,Sundanese (West Java),What animals are commonly used for agriculture in your country?,Azərbaycanda kənd təsərrüfatında daha çox hansı heyvanlardan istifadə olunur?
+New-su-59,Work life,Sundanese (West Java),What do farmers in your country typically wear to protect themselves from the heat whilst farming?,Azərbaycanda fermerlər istidən qorunmaq üçün adətən nə geyinirlər?
+New-su-60,Work life,Sundanese (West Java),What do farmers in your country usually eat for lunch?,Azərbaycanda fermerlər adətən naharda nə yeyirlər?
+New-su-71,Family,Sundanese (West Java),What gifts do parents generally give to their children for their birthdays in your country?,Azərbaycanda valideynlər adətən övladlarına ad günündə nə kimi hədiyyələr verirlər?
+New-su-75,Family,Sundanese (West Java),What type of vehicle do most families in your country generally own?,Azərbaycanda əksər ailələr adətən hansı nəqliyyat vasitələrinə sahibdirlər?
+New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),What is usually given to the children during Eid in your country?,Azərbaycanda Qurban (və ya Ramazan) bayramında uşaqlara adətən nə verilir?
+New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do grooms usually wear at weddings in your country?,Azərbaycanda toyda bəylər adətən nə geyinirlər?
+New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do brides usually wear at weddings in your country?,Azərbaycanda toyda gəlinlər adətən nə geyinirlər?
+New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),What food is usually served at weddings in your country?,Azərbaycanda toy mərasimlərində adətən hansı yeməklər verilir?
+New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most famous government building in your country?,Azərbaycanda ən məşhur hökumət binası hansıdır?
+New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most popular music genre among the younger population in your country?,Azərbaycanda gənc əhali arasında ən populyar musiqi janrı hansıdır?
+Ni-en-02,Education,English (UK),"What time do middle school students in your country typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda orta məktəb şagirdləri adətən hər gün məktəbi neçədə bitirirlər? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Ni-en-03,Education,English (UK),"At what age do people in your country typically go to university? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda insanlar adətən neçə yaşında universitetə gedirlər? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Ni-en-06,Education,English (UK),"From what age do people need to attend compulsory education in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda insanlar məcburi təhsilə neçə yaşından başlamalıdırlar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Ni-en-09,Education,English (UK),How many days a week do children attend school in your country? (Provide Arabic numerals (0~7) only.),Azərbaycanda uşaqlar həftədə neçə gün məktəbə gedirlər? (Yalnız ərəb rəqəmləri (0~7) verin.)
+Ni-en-11,Education,English (UK),"In your country, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda magistr dərəcəsini bitirmək adətən neçə il (il sayını rəqəmlərlə, məsələn, 12 kimi, yazın) çəkir?"
+Ni-en-12,Education,English (UK),What is the top university in your country? (Provide the official name.),Azərbaycanda ən yaxşı universitet hansıdır? (Rəsmi adını verin.)
+Ni-en-13,Education,English (UK),"At what age do most people in your country graduate from university? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda əksər insanlar universiteti neçə yaşında bitirir? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Ni-en-15,Education,English (UK),"At what age do children in your country generally start middle school? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda uşaqlar adətən orta məktəbə neçə yaşında gedirlər? (Yalnız ərəb rəqəmləri (məsələn, 12) verin.)"
+Ni-en-17,Work life,English (UK),"How many hours a week does a full-time worker in your country typically work? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda tam ştatlı işçi adətən həftədə neçə saat işləyir? (Yalnız ərəb rəqəmlərini göstərin (məsələn, 12).)"
+Ni-en-19,Work life,English (UK),How many days a week does a full-time worker work in your country? (Provide Arabic numerals (0~7) only.),Azərbaycanda tam ştatlı işçi adətən həftədə neçə gün işləyir? (Yalnız ərəb rəqəmləri (0~7) verin.)
+Ni-en-20,Work life,English (UK),"At what age do most people start working in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda insanların çoxu hansı yaşda işləməyə başlayır? (Yalnız ərəb rəqəmlərini göstərin (məsələn, 12).)"
+Ni-en-21,Work life,English (UK),"From what age is an individual allowed to work in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda fiziki şəxsə neçə yaşdan etibarən işləməyə icazə verilir? (Yalnız ərəb rəqəmlərini göstərin (məsələn, 12).)"
+Ni-en-31,Holidays/Celebration/Leisure,English (UK),What do people in your country traditionally eat on Christmas Day?,Azərbaycanda insanlar Milad bayramında ənənəvi olaraq nə yeyirlər?
+Ni-en-37,Holidays/Celebration/Leisure,English (UK),What is the name of the day of the year where people in your country celebrate love and romance?,İnsanların Azərbaycanda sevgi və romantikanı qeyd etdikləri ilin gününün adı nədir?
+Ni-en-40,Holidays/Celebration/Leisure,English (UK),What is the most popular Christmas song in your country?,Azərbaycanda ən məşhur Milad mahnısı hansıdır?
+Nu-in-04,Education,Indonesian (Indonesia),"How many semesters are there each academic year at high schools in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","Azərbaycandakı orta məktəblərdə hər tədris ilində neçə semestr var? (Yalnız Ərəb rəqəmləri ilə (məsələn, 7, 8) verin.)"
+Nu-in-05,Education,Indonesian (Indonesia),In which month does the new school year typically begin in your country? (Provide Arabic numerals (1~12) only.),Azərbaycanda yeni tədris ili adətən hansı ayda başlayır? (Yalnız ərəb rəqəmləri (1~12) göstərin.)
+Nu-in-06,Education,Indonesian (Indonesia),"When is National Teacher's Day commemorated in your country? (Provide in MM/DD format (e.g., 12/31).)","Azərbaycanda Milli Müəllimlər Günü nə vaxt qeyd olunur? (MM/DD formatında verin (məsələn, 12/31).)"
+Nu-in-11,Education,Indonesian (Indonesia),"At what time does elementary school start in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Azərbaycanda ibtidai məktəb saat neçədə başlayır? (HH:MM formatında təqdim edin (məsələn, 18:00, 09:00).)"
+Nu-in-20,Family,Indonesian (Indonesia),"When is Children's Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","Azərbaycanda Uşaqlar Günü nə vaxt qeyd olunur? (MM/DD formatında verin (məsələn, 12/31).)"
+Nu-in-40,Work life,Indonesian (Indonesia),Which city is the main destination for job seekers in your country?,Azərbaycanda iş axtaranlar üçün əsas mənzil hansı şəhərdir?
+Sa-en-1,Food,English (UK),What is your country's most popular fast food chain?,Azərbaycanın ən məşhur fast food zənciri hansıdır?
+Sa-en-13,Food,English (UK),What is the food that is most divisive (either love or hate) in your country?,"Azərbaycanda ən çox mübahisəli olan (ya sevilən, ya da nifrət edilən) yemək hansıdır?"
+Sa-en-16,Sport,English (UK),What is the most popular soccer team among the people from your country?,Azərbaycanlılar arasında ən populyar futbol komandası hansıdır?
+Sa-en-22,Sport,English (UK),What is the most famous university in your country known for its sports team?,Azərbaycanda idman komandası ilə tanınan ən məşhur universitet hansıdır?
+Sa-en-31,Family,English (UK),What is your country's most popular family pet?,Azərbaycanın ən məşhur ev heyvanı hansıdır?
+Sa-en-32,Family,English (UK),What is the most popular family TV show in your country?,Azərbaycanda ən məşhur ailə televiziya şousu hansıdır?
+Sa-en-37,Family,English (UK),What is the most popular family boardgame in your country?,Azərbaycanda ən məşhur ailə stolüstü oyunu hansıdır?
+Sa-en-6,Food,English (UK),What is the most popular takeaway food in your country?,Azərbaycanda ən populyar teykevey yeməyi nədir?
+Sa-en-7,Food,English (UK),What are popular snacks in your country?,Azərbaycanda populyar qəlyanaltılar hansılardır?
+Sa-en-9,Food,English (UK),What do people from your country eat at the beach?,Azərbaycandan gələnlər çimərlikdə nə yeyirlər?
+Ta-pe-10,Family,Persian (Iran),"At what age do men usually get married in your country? (Provide Arabic numerals (e.g., 20) only.)","Azərbaycanda kişilər adətən neçə yaşında evlənirlər? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Ta-pe-11,Family,Persian (Iran),"At what age do women usually get married in your country? (Provide Arabic numerals (e.g., 20) only.)","Azərbaycanda qadınlar adətən neçə yaşında evlənirlər? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Ta-pe-13,Family,Persian (Iran),"In your parents' generation, what was the average number of members in their family in your country? (Provide Arabic numerals (e.g., 20) only.)","Sizin valideynlərinizin nəsli üçün Azərbaycanda ailədə orta hesabla neçə nəfər olub? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Ta-pe-17,Sport,Persian (Iran),"In the Olympic Games, which sport is the most popular in your country?",Olimpiya Oyunlarında Azərbaycanda ən populyar idman növü hansıdır?
+Ta-pe-21,Sport,Persian (Iran),Where do children usually play soccer in your country?,Uşaqlar adətən Azərbaycanda harada futbol oynayırlar?
+Ta-pe-22,Sport,Persian (Iran),Which daily exercise is popular among women in your country?,Azərbaycanda qadınlar arasında hansı gündəlik idman məşqi populyardır?
+Ta-pe-23,Sport,Persian (Iran),Which daily exercise is popular among men in your country?,Azərbaycanda kişilər arasında hansı gündəlik idman məşqi populyardır?
+Ta-pe-25,Sport,Persian (Iran),"What is the most famous rivalry in a national sports league in your country? (e.g., ___ vs ___)","Azərbaycanda milli idman liqasında ən məşhur rəqabət hansıdır? (məsələn, ___ və ___)"
+Ta-pe-29,Sport,Persian (Iran),Which professional sport is the highest paying in your country?,Azərbaycanda ən çox maaş alan peşəkar idman növü hansıdır?
+Ta-pe-30,Sport,Persian (Iran),What is/was the most popular sports-related TV program in your country?,Azərbaycanda idmanla bağlı ən populyar televiziya proqramı hansıdır/hansı idi?
+Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),What day of the year is usually dedicated to fireworks in your country?,Azərbaycanda adətən ilin hansı günü atəşfəşanlığa həsr olunur?
+Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),What is the common symbol of New Year's Eve that is usually found in your country?,Azərbaycanda adətən Yeni il gecəsinin ümumi simvolu hansıdır?
+Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),What food do people from your country usually eat on New Year's Eve?,Azərbaycanlılar Yeni il ərəfəsində adətən hansı yeməkləri yeyirlər?
+Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),What is usually eaten during the celebration of the longest night of the year in your country?,Azərbaycanda ilin ən uzun gecəsi qeyd olunanda adətən nə yeyilir?
+Th-en-01,Sport,English (US),What is the most popular summer sport in your country?,Azərbaycanda ən populyar yay idman növü hansıdır?
+Th-en-03,Sport,English (US),What is the most popular professional sports league in your country?,Azərbaycanda ən populyar peşəkar idman liqası hansıdır?
+Th-en-05,Sport,English (US),What is the most popular women's sports team in your country?,Azərbaycanda ən məşhur qadın idman komandası hansıdır?
+Th-en-09,Sport,English (US),What is the most popular tournament in your country?,Azərbaycanda ən məşhur turnir hansıdır?
+Th-en-11,Sport,English (US),Who is the most popular sportperson in your country?,Azərbaycanda ən məşhur idmançı kimdir?
+Th-en-12,Sport,English (US),In which sport has your country been most successful in international competitions?,Azərbaycan beynəlxalq yarışlarda hansı idman növündə ən çox uğur qazanıb?
+Th-en-15,Sport,English (US),What is the most popular winter sport in your country?,Azərbaycanda ən populyar qış idman növü hansıdır?
+Th-en-19,Work life,English (US),What is a city or region in your country known for manufacturing industry?,Azərbaycanda hansı şəhər və ya rayon istehsal sənayesi ilə məşhurdur?
+Th-en-21,Work life,English (US),What is regarded as the most important perk typically offered to employees in your country?,Azərbaycanda işçilərə adətən təklif edilən ən önəmli imtiyaz nə hesab olunur?
+Th-en-22,Work life,English (US),What was the most catastrophic economic period for your country?,Azərbaycan üçün ən faciəli iqtisadi dövr nə vaxt olub?
+Th-en-24,Work life,English (US),What region in your country is a major hub for tech workers and start ups?,Azərbaycanda texnologiya işçiləri və startaplar üçün əsas mərkəz olan bölgə hansıdır?
+Th-en-27,Work life,English (US),What is the most important industry in your country?,Azərbaycanda ən önəmli sənaye sahəsi hansıdır?
+Th-en-35,Family,English (US),"Which one of the daily meals is commonly shared with family members in your country? (e.g., breakfast, lunch, dinner)","Azərbaycanda gündəlik yeməklərdən hansı adətən ailə üzvləri ilə birlikdə yeyilir? (məsələn, səhər yeməyi, nahar, şam yeməyi)"
+Th-en-36,Family,English (US),What is a popular family activity with a child to do on weekends in your country?,Azərbaycanda həftə sonları ailə ilə birlikdə uşaqla nə etmək populyardır?
+Th-en-37,Family,English (US),"At what age do children typically become independent from their parents in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda uşaqlar adətən neçə yaşında valideynlərindən müstəqil olurlar? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Th-en-38,Family,English (US),What is the most important family holiday in your country?,Azərbaycanda ən vacib ailə bayramı hansıdır?
+Th-en-39,Family,English (US),What is a popular family game in your country?,Azərbaycanda məşhur ailə oyunu nədir?
+Th-en-41,Family,English (US),"What is the average age for couples to have their first child in your country? (Provide Arabic numerals (e.g., 20) only.)","Azərbaycanda ilk uşaq dünyaya gətirən cütlüklərin orta yaşı neçədir? (Yalnız ərəb rəqəmləri (məsələn, 20) göstərin.)"
+Th-en-43,Family,English (US),"How many cars are owned by a typical family in your country? (Provide Arabic numerals (e.g., 12) only.)","Azərbaycanda tipik bir ailənin neçə maşını var? (Yalnız ərəb rəqəmləri (məsələn, 12) göstərin.)"
+Th-en-44,Family,English (US),What is your country's most popular food for family meals on weekends?,Azərbaycanda ailə yeməkləri üçün həftə sonları ən populyar yemək nədir?
+Th-en-45,Family,English (US),What is the most popular weekday evening family activity in your country?,Azərbaycanda həftə içi axşamlarının ən populyar ailə fəaliyyəti nədir?
+Th-en-48,Education,English (US),What is the highest grade given to top-achieving high school students on assignments and exams in your country?,Azərbaycanda tapşırıq və imtahanlarda yüksək nəticə göstərən orta məktəb şagirdlərinə verilən ən yüksək qiymət hansıdır?
+Th-en-49,Education,English (US),What is considered the most important exam for high school students in your country?,Azərbaycanda orta məktəb şagirdləri üçün ən önəmli imtahan hansı hesab olunur?
+Th-en-51,Education,English (US),Which subject is considered the most important for students in your country?,Azərbaycanda tələbələr üçün ən vacib hesab edilən fənn hansıdır?
+Th-en-53,Education,English (US),What is the most popular extracurricular social event at schools in your country?,Azərbaycanda məktəblərdə ən populyar məktəbdənkənar sosial tədbir hansıdır?
+Th-en-58,Education,English (US),What is the most advanced math subject learned before university in your country?,Azərbaycanda universitetə ​​qədər öyrənilən ən ağır riyaziyyat mövzusu hansıdır?
+Tmp-ar-01,Education,Arabic (Algeria),Where do university students in your country usually go to study for their final exams?,Azərbaycanda universitet tələbələri final imtahanlarına hazırlaşmaq üçün adətən hara gedirlər?
+Tmp-ar-02,Education,Arabic (Algeria),What is a common public transport that people use to go to university in your country?,Azərbaycanda insanların universitetə getmək üçün istifadə etdikləri ümumi ictimai nəqliyyat vasitəsi nədir?
+Tmp-ar-04,Education,Arabic (Algeria),What do elementary students in your country usually do after school?,Azərbaycanda ibtidai sinif şagirdləri adətən məktəbdən sonra nə edirlər?

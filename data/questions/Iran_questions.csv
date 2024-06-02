@@ -1,0 +1,501 @@
+ID,Topic,Source,Question,Translation
+Al-en-01,Food,English (US),What is a common snack for preschool kids in Iran?,یک میان وعده معمول برای بچه‌های پیش دبستانی درایران چیست؟
+Al-en-02,Food,English (US),What is a popular food to go with beer in Iran?,یک غذای محبوب برای خوردن با آبجو درایران چیست؟
+Al-en-04,Food,English (US),What is the most popular fruit in Iran?,محبوب‌ترین میوه درایران چیست؟
+Al-en-06,Food,English (US),What is a common school cafeteria food in Iran?,یک غذای معمولی کافه‌تریای مدارسایران چیست؟
+Al-en-08,Food,English (US),What are the most commonly eaten snacks at shopping malls in Iran?,در ایران متداول‌ترین تنقلاتی که در مراکز خرید مصرف می‌شوند چیست؟
+Al-en-09,Food,English (US),What is a popular snack at an amusement park in Iran?,یک میان وعده محبوب در شهربازی درایران چیست؟
+Al-en-16,Education,English (US),"At what age do kids start preschool in Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران در چه سنی بچه‌ها به پیش‌دبستانی می‌روند؟ (فقط اعداد عربی (مثلاً 12) ارائه دهید.)
+Al-en-17,Education,English (US),What is a popular afterschool sport for elementary schools in Iran?,در ایران یک ورزش محبوب بعد از مدرسه برای دانش‌آموزان دبستانی چیست؟
+Al-en-18,Education,English (US),For which subject do elementary students get private education in Iran?,درایران دانش‌آموزان دبستانی برای چه درسی تحصیلات خصوصی می‌گیرند؟
+Al-en-19,Education,English (US),What is a popular second language for high school students in Iran?,درایران یک زبان دوم محبوب برای دانش‌آموزان دبیرستانی چیست؟
+Al-en-21,Education,English (US),Which subject is the most important for gifted education in Iran?,درایران کدام درس برای آموزش استعدادهای درخشان مهم‌تر است؟
+Al-en-32,Holidays/Celebration/Leisure,English (US),What is the main dish for Thanksgiving in Iran?,غذای اصلی شکرگزاری درایران چیست؟
+Al-en-33,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Halloween in Iran?,مردم برای جشن گرفتن هالووین درایران چه کارهایی انجام می‌دهند؟
+Al-en-34,Holidays/Celebration/Leisure,English (US),What do people do to celebrate New Year's Day in Iran?,مردم برای جشن گرفتن روز سال نو درایران چه کاری انجام می‌دهند؟
+Al-en-35,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Christmas in Iran?,درایران مردم برای جشن گرفتن کریسمس چه کارهایی انجام می‌دهند؟
+Al-en-36,Holidays/Celebration/Leisure,English (US),What food is associated with Halloween in Iran?,چه غذایی با هالووین درایران مرتبط است؟
+Al-en-37,Holidays/Celebration/Leisure,English (US),What food is associated with Christmas in Iran?,چه غذایی با کریسمس درایران مرتبط است؟
+Al-en-38,Holidays/Celebration/Leisure,English (US),What food is associated with Valentine's day in Iran?,چه غذایی با روز ولنتاین درایران مرتبط است؟
+Al-en-39,Holidays/Celebration/Leisure,English (US),What do people eat on their birthday in Iran?,مردم درایران در روز تولدشان چه چیزی می‌خورند؟
+Al-en-40,Holidays/Celebration/Leisure,English (US),What is a popular outdoor place for families to have fun with little kids in Iran?,یک مکان محبوب فضای باز برای خانواده‌ها برای تفریح با بچه‌های کوچک درایران چیست؟
+Al-en-43,Holidays/Celebration/Leisure,English (US),What is a popular indoor activity for families in Iran?,یک فعالیت داخلی محبوب برای خانواده‌ها درایران چیست؟
+An-ar-02,Education,Arabic (Algeria),Where do university students have lunch in Iran?,در ایران دانشجویان دانشگاه  کجا ناهار می‌خورند؟
+An-ar-03,Education,Arabic (Algeria),Which month is the final exam term usually scheduled at high schools in Iran? (Provide Arabic numerals (1~12) only.),در ایران امتحانات نهایی دبیرستان‌ها معمولاً در چه ماهی برگزار می‌شود؟ (فقط اعداد عربی (1 تا 12) را وارد کنید.)
+An-ar-08,Education,Arabic (Algeria),"How many hours a day do students in Iran usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)",در ایران دانش‌آموزان  معمولاً چند ساعت در روز را در دبیرستان می‌گذرانند؟ (از اعداد عربی به صورت صحیح (0 تا 24) و بدون نقطه اعشار استفاده کنید.)
+An-ar-09,Education,Arabic (Algeria),"How many languages do students study at high school in Iran? (Provide Arabic numerals (e.g., 5) only.)",در ایران دانش‌آموزان در دبیرستان چند زبان مطالعه می‌کنند؟ (فقط عدد عربی (مثلاً 5) ارائه دهید.)
+An-ar-34,Sport,Arabic (Algeria),What is the most popular sport played in a team at school in Iran?,درایران محبوب‌ترین ورزش دسته‌جمعی که در مدارس بازی می‌شود، چیست؟
+An-ar-35,Sport,Arabic (Algeria),Who is the most popular sport commentator in Iran?,درایران محبوب‌ترین گزارشگر ورزشی چه کسی است؟
+An-ar-36,Sport,Arabic (Algeria),What is the most popular sport team in Iran?,درایران محبوب‌ترین تیم ورزشی کدام است؟
+An-ar-43,Sport,Arabic (Algeria),What are the common places or venues where individuals in Iran usually gather to watch sports broadcasts?,در ایران مکان‌ ها یا محل‌های معمول که افراد معمولاً برای تماشای پخش‌های ورزشی در آنجا جمع می‌شوند، کدام‌ها هستند؟
+Ca-sp-05,Food,Spanish (Spain),"How many meals per day do people from Iran usually have? (Provide Arabic numerals (e.g., 5) only.)",مردم درایران معمولاً روزانه چند وعده غذا می‌خورند؟ (فقط اعداد عربی (مثلاً 5) را وارد کنید.)
+Ca-sp-06,Food,Spanish (Spain),Which is the most important meal of the day to people from Iran?,کدام وعده غذایی از روز برای مردم درایران مهم‌تر است؟
+Ca-sp-08,Food,Spanish (Spain),What is the most common ingredient used in Iran's diet?,متداول‌ترین ماده‌ی غذایی مورد استفاده در رژیم غذایی درایران چیست؟
+Ca-sp-09,Food,Spanish (Spain),What do people from Iran usually eat for dessert?,مردم درایران معمولاً برای دسر چه می‌خورند؟
+Ca-sp-11,Food,Spanish (Spain),Which day of the week do people usually organize a family meal in Iran?,مردم درایران معمولاً در چه روزی از هفته مهمانی خانوادگی برگزار می‌کنند؟
+Ca-sp-14,Food,Spanish (Spain),Which is the most popular hot drink in Iran?,محبوب‌ترین نوشیدنی گرم درایران کدام است؟
+Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),What do young people from Iran usually drink at the night club?,جوانان درایران معمولاً در کلاب شبانه چه چیزی می‌نوشند؟
+Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),At which month do people usually take holidays in Iran? (Provide Arabic numerals (1~12) only.),مردم معمولاً در چه ماهی درایران تعطیلات می‌گیرند؟ (فقط اعداد عربی (1 تا 12) را وارد کنید.)
+Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),What tradition is there in Iran for New Year's Eve?,در شب سال نو درایران چه سنت‌هایی وجود دارد؟
+Ca-sp-38,Family,Spanish (Spain),Which is the typical type of house for a family in Iran?,درایران معمولاً چه نوع خانه‌ای برای یک خانواده معمول است؟
+Ca-sp-41,Family,Spanish (Spain),Where do the dependent elderly usually live in Iran?,درایران افراد مسن وابسته معمولاً در کجا زندگی می‌کنند؟
+Ca-sp-42,Family,Spanish (Spain),"How long (in weeks) is Iran's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)",درایران مرخصی زایمان برای مادران چند هفته است؟ (فقط عدد عربی (مثلاً 20) ارائه دهید.)
+Ca-sp-43,Family,Spanish (Spain),"How long (in weeks) is Iran's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)",درایران مرخصی زایمان برای پدران چند هفته است؟ (فقط عدد عربی (مثلاً 20) ارائه دهید.)
+Ca-sp-45,Family,Spanish (Spain),What type of destination is commonly chosen for a family vacation in Iran?,درایران معمولاً چه نوع مقصدی برای تعطیلات خانوادگی انتخاب می‌شود؟
+Gu-ch-05,Sport,Chinese (China),What sports do seniors like the most in Iran?,درایران سالمندان بیشتر از چه ورزش‌هایی خوششان می‌آید؟
+Gu-ch-06,Sport,Chinese (China),What sports do men like to play the most in Iran?,درایران مردان بیشتر به بازی کردن چه ورزش‌هایی علاقه دارند؟
+Gu-ch-07,Sport,Chinese (China),Who is the most famous basketball player in Iran?,درایران معروف‌ترین بازیکن بسکتبال چه کسی است؟
+Gu-ch-08,Sport,Chinese (China),What is the most popular sports among children in Iran?,درایران محبوب‌ترین ورزش بین کودکان چیست؟
+Gu-ch-09,Sport,Chinese (China),What sports do women like to play the most in Iran?,درایران زنان بیشتر به بازی کردن چه ورزش‌هایی علاقه دارند؟
+Gu-ch-11,Sport,Chinese (China),What sports event has Iran won the most gold medals at the Olympics?,درایران چه رویداد ورزشی در المپیک بیشترین مدال طلا را کسب کرده است؟
+Gu-ch-15,Sport,Chinese (China),What sports do male students in university like to play the most in Iran?,درایران دانشجویان پسر در دانشگاه‌ها بیشتر به چه ورزش‌هایی علاقه دارند؟
+Gu-ch-16,Family,Chinese (China),"How many people are there in a family on average in Iran? (Provide Arabic numerals (e.g., 12) only.)",درایران میانگین تعداد افراد در یک خانواده چند نفر است؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Gu-ch-18,Family,Chinese (China),"How many children do couples usually have in Iran? (Provide Arabic numerals (e.g., 12) only.)",درایران معمولاً زوج‌ها چند فرزند دارند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Gu-ch-31,Education,Chinese (China),"What is the duration of elementary school in years in Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران مدت زمان دبستان  به تعداد سال چقدر است؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Gu-ch-32,Education,Chinese (China),"What is the duration of compulsory education in years in Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران مدت زمان آموزش اجباری به سال چقدر است؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Gu-ch-33,Education,Chinese (China),"From which age do students start learning their second language in Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران دانش‌آموزان از چه سنی شروع به یادگیری زبان دوم می‌کنند؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Gu-ch-38,Education,Chinese (China),"What is the duration of undergraduate education in Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران مدت زمان تحصیل کارشناسی چقدر است؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Gu-ch-40,Education,Chinese (China),"What time do younger elementary school students finish school in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",در ایران دانش‌آموزان کوچک دبستانی چه ساعتی از مدرسه تعطیل می‌شوند؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+Gu-ch-41,Education,Chinese (China),"How many musical instruments do elementary school students in Iran typically play? (Provide Arabic numerals (e.g., 12) only.)",در ایران دانش‌آموزان دبستانی معمولاً چند ساز موسیقی می‌نوازند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ji-ko-02,Work life,Korean (South Korea),What day of the week do people in Iran prefer to have company dinners?,مردم درایران ترجیح می‌دهند شام‌های شرکتی را چه روزی از هفته برگزار کنند؟
+Ji-ko-03,Work life,Korean (South Korea),Which region/city has the highest number of financial companies in Iran?,کدام منطقه/شهر بیشترین تعداد شرکت‌های مالی را درایران دارد؟
+Ji-ko-07,Work life,Korean (South Korea),What is the most famous private company in Iran?,معروف‌ترین شرکت خصوصی درایران چیست؟
+Ji-ko-08,Work life,Korean (South Korea),"What is the maximum number of hours one can work per week in Iran? (Provide Arabic numerals (e.g., 12) only.)",حداکثر تعداد ساعات کاری که یک نفر می‌تواند در هفته درایران کار کند چند ساعت است؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Ji-ko-09,Work life,Korean (South Korea),What do people typically eat during company get-together in Iran?,مردم معمولاً در دورهمی‌های شرکتی درایران چه غذاهایی می‌خورند؟
+Ji-ko-14,Work life,Korean (South Korea),What is the representative export item of Iran?,کالای صادراتی نماینده درایران چیست؟
+Ji-ko-15,Work life,Korean (South Korea),"How long (in hours) is the typical lunch break in Iran? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",معمولاً زمان استراحت ناهار درایران چند ساعت است؟ (فقط عدد عربی تا یک رقم اعشاری (مثلاً 2، 3.5) ارائه دهید.)
+Ji-ko-16,Family,Korean (South Korea),Where do mothers stay for a certain period after childbirth for recovery in Iran?,درایران مادران پس از زایمان برای مدتی به منظور بهبودی در کجا اقامت دارند؟
+Ji-ko-19,Family,Korean (South Korea),What is Iran's most commonly given flower on Parents' Day?,درایران متداول‌ترین گلی که در روز والدین اهدا می‌شود، چیست؟
+Ji-ko-22,Family,Korean (South Korea),What do people especially spend their first salary on in Iran's society?,درایران مردم در جامعه معمولاً اولین حقوق خود را صرف چه چیزی می‌کنند؟
+Ji-ko-24,Family,Korean (South Korea),What is the most preferred recreational facility among children in Iran?,درایران محبوب‌ترین امکانات تفریحی بین کودکان چیست؟
+Ji-ko-25,Family,Korean (South Korea),What are the family-related holidays in Iran?,درایران تعطیلات مرتبط با خانواده چیست؟
+Ji-ko-26,Family,Korean (South Korea),What are the key milestones associated with children's independence from their parents in Iran's society?,درایران مهم‌ترین نقاط عطف مرتبط با استقلال فرزندان از والدین در جامعه چیست؟
+Ji-ko-27,Family,Korean (South Korea),What is the common gift you give when visiting elderly parents in Iran?,درایران هنگام دیدن والدین مسن، معمولاً چه هدیه‌ای می‌دهید؟
+Ji-ko-28,Family,Korean (South Korea),When is the first day that people celebrate after a child is born in Iran?,درایران اولین روزی که مردم پس از تولد کودک جشن می‌گیرند، چه زمانی است؟
+Ji-ko-29,Family,Korean (South Korea),Which age's birthday is celebrated the most grandly in Iran's society?,درایران در جامعه، تولد چه سنی باشکوه‌ترین جشن گرفته می‌شود؟
+Ji-ko-31,Education,Korean (South Korea),Where do middle and high school students in Iran usually study for exams?,درایران دانش‌آموزان دبیرستانی و متوسطه معمولاً کجا برای امتحانات درس می‌خوانند؟
+Ji-ko-33,Education,Korean (South Korea),Where do high school students in Iran usually go after dinner?,درایران دانش‌آموزان دبیرستانی معمولاً بعد از شام به کجا می‌روند؟
+Ji-ko-34,Education,Korean (South Korea),How do elementary school students in Iran go to school?,درایران دانش‌آموزان دبستانی چگونه به مدرسه می‌روند؟
+Ji-ko-35,Education,Korean (South Korea),What is the most common form of private education in Iran?,درایران شایع‌ترین شکل آموزش خصوصی چیست؟
+Ji-ko-36,Education,Korean (South Korea),Which subject’s academy/private educational institute do middle or high students most frequently attend in Iran?,درایران دانش‌آموزان متوسطه یا دبیرستان بیشتر به آکادمی/موسسه آموزشی خصوصی کدام درس می‌روند؟
+Ji-ko-37,Education,Korean (South Korea),What type of clothing do middle and high school students wear to school in Iran?,درایران دانش‌آموزان دبیرستان و راهنمایی چه نوع لباسی به مدرسه می‌پوشند؟
+Ji-ko-38,Education,Korean (South Korea),Which major is considered the most difficult to gain admission to in Iran?,درایران کدام رشته تحصیلی برای ورود به آن  دشوارترین شناخته می‌شود؟
+Ji-ko-39,Education,Korean (South Korea),What is the most commonly learned musical instrument by elementary school students in Iran?,درایران پرطرفدارترین ساز موسیقی که دانش‌آموزان دبستانی یاد می‌گیرند، چیست؟
+Ji-ko-40,Education,Korean (South Korea),What do high school students typically do during break time in schools in Iran?,درایران دانش‌آموزان دبیرستانی معمولاً در زنگ تفریح مدارس چه کارهایی انجام می‌دهند؟
+Ji-ko-41,Education,Korean (South Korea),What kind of shoes do students wear in schools in Iran?,درایران دانش‌آموزان در مدارس چه نوع کفش‌هایی به پا می‌کنند؟
+Ji-ko-42,Education,Korean (South Korea),What are the required subjects in Iran's university entrance exam?,درایران در آزمون ورودی دانشگاه، چه دروسی اجباری هستند؟
+Ji-ko-44,Education,Korean (South Korea),Which region (within a city) in Iran has the highest academic fervor?,درایران کدام منطقه (در درون یک شهر) بیشترین شور و شوق علمی را دارد؟
+Ji-ko-45,Education,Korean (South Korea),What do people look forward to the most at university festivals in Iran?,درایران مردم در جشن‌های دانشگاهی بیشتر منتظر چه چیزی هستند؟
+Jo-sp-01,Sport,Spanish (Spain),What is the second most popular sport in Iran?,درایران دومین ورزش محبوب چیست؟
+Jo-sp-02,Sport,Spanish (Spain),What is the most popular sport played without a ball in Iran?,درایران محبوب‌ترین ورزشی که بدون توپ انجام می‌شود، چیست؟
+Jo-sp-09,Sport,Spanish (Spain),What sports are most associated with the upper class in Iran?,درایران چه ورزش‌هایی بیشتر با طبقه پولداران ارتباط دارند؟
+Jo-sp-13,Sport,Spanish (Spain),What is the most popular water sport in Iran?,درایران محبوب‌ترین ورزش آبی چیست؟
+Jo-sp-14,Sport,Spanish (Spain),What is the most popular mental sport in Iran?,درایران محبوب‌ترین ورزش ذهنی چیست؟
+Jo-sp-18,Work life,Spanish (Spain),"How many holiday days per year does a standard worker gets in Iran? (Provide Arabic numerals (e.g., 12) only.)",یک کارگر استاندارد درایران سالانه چند روز تعطیلی دارد؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Jo-sp-19,Work life,Spanish (Spain),What region in Iran has been traditionally associated with agriculture?,کدام منطقه درایران به طور سنتی با کشاورزی مرتبط بوده است؟
+Jo-sp-21,Work life,Spanish (Spain),"What time, if any, do people usually leave work for lunch in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",درایران مردم معمولاً چه ساعتی برای ناهار از کار خارج می‌شوند؟ (با فرمت HH:MM ارائه دهید، مثلاً 18:00، 09:00).
+Jo-sp-31,Education,Spanish (Spain),"What time do high school students tend to leave school in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",درایران دانش‌آموزان دبیرستانی معمولاً چه ساعتی از مدرسه خارج می‌شوند؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+Jo-sp-32,Education,Spanish (Spain),What sport do elementary school students tend to practice at school in Iran?,درایران دانش‌آموزان دبستانی معمولاً چه ورزشی را در مدرسه تمرین می‌کنند؟
+Jo-sp-36,Education,Spanish (Spain),"How long (in weeks) are summer vacations at elementary schools in Iran? (Provide in Arabic numerals (e.g., 7, 8) only.)",درایران تعطیلات تابستانی مدارس ابتدایی چند هفته است؟ (فقط به اعداد عربی (مثلاً 7، 8) پاسخ دهید.)
+Jo-sp-37,Education,Spanish (Spain),"How long (in weeks) are summer vacations at universities in Iran? (Provide in Arabic numerals (e.g., 7, 8) only.)",درایران تعطیلات تابستانی دانشگاه‌ها چند هفته است؟ (فقط به اعداد عربی (مثلاً 7، 8) پاسخ دهید.)
+Jo-sp-39,Education,Spanish (Spain),"At what age does elementary education begin in Iran? (Provide in Arabic numerals (e.g., 7, 8) only.)",درایران تحصیلات ابتدایی از چه سنی شروع می‌شود؟ (فقط به اعداد عربی (مثلاً 7، 8) پاسخ دهید.)
+Jo-sp-43,Education,Spanish (Spain),"How many languages are studied in elementary education besides Iran's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)",درایران به جز زبان رسمی، چند زبان دیگر در آموزش ابتدایی مطالعه می‌شود؟ (فقط به اعداد عربی (مثلاً 7، 8) پاسخ دهید.)
+Jod-ch-01,Food,Chinese (China),What eating utensils do people commonly used in Iran?,در ایران مردم معمولاً از چه وسایل غذاخوری استفاده می‌کنند؟
+Jod-ch-04,Food,Chinese (China),What soft drink do people in Iran like to have?,در ایران کدام نوشیدنی غیرالکلی مورد پسند مردم است؟
+Jod-ch-06,Food,Chinese (China),What is the most popular traditional alcohol in Iran?,محبوب‌ترین نوع الکل سنتی درایران چیست؟
+Jod-ch-07,Food,Chinese (China),"How long (in hours) on average does it take for people in Iran to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",مردم درایران به طور متوسط چند ساعت (با اعداد عربی و تا یک رقم اعشار مثلاً 2، 3.5) برای شام خوردن در رستوران وقت می‌گذارند؟
+Jod-ch-09,Food,Chinese (China),"What time do people usually have dinner in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",مردم معمولاً چه ساعتی درایران شام می‌خورند؟ (با فرمت HH:MM ارائه دهید، مثلاً 18:00، 09:00).
+Jod-ch-12,Food,Chinese (China),What kind of soup do people from Iran like to have?,مردم درایران چه نوع سوپی دوست دارند بخورند؟
+Jod-ch-13,Food,Chinese (China),What street food do people from Iran like to eat?,مردم درایران چه غذاهای خیابانی دوست دارند بخورند؟
+Jod-ch-15,Food,Chinese (China),What kind of seafood do people from Iran like to eat?,مردم درایران چه نوع غذاهای دریایی دوست دارند بخورند؟
+Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),What is the biggest festival in Iran?,درایران بزرگترین جشن چیست؟
+Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),What is the most commonly used public transport by people when travelling between cites in Iran?,متداول‌ترین وسیله حمل و نقل عمومی که مردم هنگام سفر بین شهرها درایران استفاده می‌کنند، چیست؟
+Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),What are the specific decorations or symbols associated with the most biggest festival in Iran?,درایران تزئینات یا نمادهای خاص مرتبط با بزرگترین جشن چیست؟
+Jod-ch-37,Sport,Chinese (China),What sports do women like to watch the most in Iran?,درایران زنان بیشتر دوست دارند چه ورزش‌هایی را تماشا کنند؟
+Jod-ch-38,Sport,Chinese (China),What sports do men like to watch the most in Iran?,درایران مردان بیشتر دوست دارند چه ورزش‌هایی را تماشا کنند؟
+Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that females in their 20s in Iran engage in?,در ایران فعالیت تفریحی معمولی که خانم‌ها در دهه بیست سالگی زندگی شان انجام میدهند چیست؟
+Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that males in their 20s in Iran engage in?,در ایران فعالیت تفریحی معمولی که مردان در دهه بیست سالگی زندگی شان انجام میدهند چیست؟
+Jod-ch-46,Work life,Chinese (China),"How long (in hours) do people usually take a break after lunch on a weekday in Iran? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",مردم معمولاً چند ساعت (به ساعت) پس از ناهار در یک روز کاری درایران استراحت می‌کنند؟ (فقط اعداد عربی تا یک رقم اعشار (مثلاً 2، 3.5) ارائه دهید.)
+Jod-ch-48,Work life,Chinese (China),What do people eat for lunch during the working days in Iran?,مردم درایران در طول روزهای کاری برای ناهار چه چیزی می‌خورند؟
+Jod-ch-50,Work life,Chinese (China),"What is the average commute time (in minutes) for people in Iran? (Provide Arabic numerals (e.g., 1) only.)",در ایران میانگین زمان سفر به محل کار (به دقیقه) برای مردم چقدر است؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+Jod-ch-51,Work life,Chinese (China),What is the most common transportation that people take to get to work in Iran?,متداول‌ترین وسیله نقلیه‌ای که مردم برای رفتن به سر کار درایران استفاده می‌کنند چیست؟
+Jod-ch-54,Work life,Chinese (China),"How long (in days) is the marriage leave in Iran? (Provide Arabic numerals (e.g., 12) only.)",مرخصی عروسی درایران چند روز است؟ (فقط عدد عربی (مثلا 12) ارائه دهید.)
+Jod-ch-56,Work life,Chinese (China),"What is the typical retirement age for women in Iran? (Provide Arabic numerals (e.g., 12) only.)",سن بازنشستگی معمول برای زنان درایران چند سال است؟ (فقط عدد عربی (مثلا 12) بنویسید.)
+Jod-ch-57,Work life,Chinese (China),"What is the typical retirement age for men in Iran? (Provide Arabic numerals (e.g., 12) only.)",سن بازنشستگی معمول برای مردان درایران چند سال است؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Jod-ch-58,Work life,Chinese (China),Which profession is the most respected in Iran?,کدام حرفه درایران بیشترین احترام را دارد؟
+Jod-ch-60,Work life,Chinese (China),What is the duration (in hours) of a typical workday in Iran? (Provide Arabic numerals (0~24) only.),مدت زمان (به ساعت) یک روز کاری معمولی درایران چقدر است؟ (فقط اعداد عربی (0 تا 24) را ارائه دهید.)
+Jod-ch-61,Work life,Chinese (China),Which occupation is most preferred among females in Iran?,کدام شغل در میان زنان درایران بیشتر مورد ترجیح است؟
+Jod-ch-62,Work life,Chinese (China),Which occupation is most preferred among males in Iran?,کدام شغل در میان مردان درایران بیشتر مورد ترجیح قرار می‌گیرد؟
+Ki-pe-17,Education,Persian (Iran),"On average, how far do students typically pursue their education in Iran? (e.g., elementary, high school)",درایران به طور متوسط، دانش‌آموزان تا چه مرحله‌ای از تحصیلات خود را ادامه می‌دهند؟ (مثلاً دبستان، دبیرستان)
+Ki-pe-24,Education,Persian (Iran),What language is taught in schools in Iran besides English?,درایران به جز انگلیسی، چه زبان‌هایی در مدارس تدریس داده می‌شود؟
+Ki-pe-30,Education,Persian (Iran),What days of the week are schools closed in Iran?,درایران مدارس چه روزهایی از هفته تعطیل هستند؟
+Ki-pe-32,Food,Persian (Iran),What food do the hosts usually prepare for the guests in Iran?,معمولاً میزبان‌ها درایران چه غذاهایی برای مهمان‌ها تهیه می‌کنند؟
+Ki-pe-34,Food,Persian (Iran),What is the usual drink in the breakfast in Iran?,معمولاً درایران چه نوشیدنی‌ای برای صبحانه می‌نوشند؟
+Ki-pe-36,Food,Persian (Iran),"Except the food original from Iran, which country's food is more popular in Iran?",به جز غذاهای بومی درایران، غذای کدام کشور در ایران محبوب‌تر است؟
+Ki-pe-39,Food,Persian (Iran),What food is usually prepared for a family picnic in Iran?,معمولاً چه غذاهایی برای پیک‌نیک خانوادگی درایران تهیه می‌شود؟
+Ki-pe-40,Food,Persian (Iran),Which food from Iran is considered disgusting by the rest of the world?,کدام غذا درایران از نظر بقیه جهان نفرت‌انگیز تلقی می‌شود؟
+Ki-pe-43,Food,Persian (Iran),What is the name of the popular bread in Iran?,نام نان محبوب درایران چیست؟
+Ki-pe-51,Work life,Persian (Iran),"What time of day are government offices closed in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",ساعت چند ادارات دولتی درایران تعطیل می‌شوند؟(با فرمت HH:MM ارائه دهید، مثلاً 18:00، 09:00).
+Ki-pe-53,Work life,Persian (Iran),"What is the normal start time of government offices in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",ساعت شروع کار معمول دفاتر دولتی درایران چه زمانی است؟ (با فرمت HH:MM ارائه دهید، مثلاً 18:00، 09:00).
+Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),What national holiday has the longest duration in Iran?,درایران کدام تعطیلات ملی طولانی‌ترین مدت زمان را دارد؟
+Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),What are the common activities people from Iran do to celebrate Independence day?,فعالیت‌های معمولی که مردم درایران برای جشن گرفتن روز استقلال انجام می‌دهند چیست؟
+Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is installed in front of the house when a family member dies in Iran?,وقتی یکی از اعضای خانواده درایران فوت می‌کند، چه چیزی جلوی خانه نصب می‌شود؟
+Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),When is a pregnancy celebration or ceremony usually held in Iran?,مراسم جشن بارداری یا مراسم مربوط به آن معمولاً چه زمانی درایران برگزار می‌شود؟
+Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),What event is usually held before a wedding in Iran?,چه مراسمی معمولاً قبل از عروسی درایران برگزار می‌شود؟
+Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is usually shared to the children during (Lunar) New Year in Iran?,معمولاً چه چیزهایی در طول سال نو (قمری) درایران بین کودکان تقسیم می‌شود؟
+Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),What activities are usually done days before Ramadan in Iran?,درایران چه فعالیت‌هایی معمولاً در روزهای قبل از رمضان انجام می‌شود؟
+Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular tourist attraction for foreign visitors in Iran?,محبوب‌ترین جاذبه‌ی گردشگری برای بازدیدکنندگان خارجی درایران چیست؟
+Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),"What is the most popular religious sites (temple, church, etc.) for tourism in Iran?",محبوب‌ترین اماکن مذهبی (معبد، کلیسا و غیره) برای گردشگری درایران کدامند؟
+Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),What clothes do women usually wear on graduation commencement ceremony in Iran?,زنان معمولاً چه لباس‌هایی را در مراسم فارغ‌التحصیلی درایران می‌پوشند؟
+Kik-in-16,Food,Indonesian (Indonesia),What drink is commonly consumed in Iran when the weather is cold?,چه نوشیدنی‌ای معمولاً درایران هنگام سردی هوا مصرف می‌شود؟
+Kik-in-17,Food,Indonesian (Indonesia),What fruit is more commonly sold and found during Ramadan in Iran?,چه میوه‌ای در ماه رمضان درایران بیشتر فروخته و یافت می‌شود؟
+Kik-in-24,Food,Indonesian (Indonesia),What carbohydrate is usually served with chicken in a fast-food restaurant in Iran?,چه کربوهیدراتی معمولاً همراه با مرغ در رستوران‌های فست‌فود درایران سرو می‌شود؟
+Kik-in-31,Sport,Indonesian (Indonesia),What is the most famous martial art sports in Iran?,درایران معروف‌ترین ورزش‌های رزمی چیست؟
+Kik-in-34,Sport,Indonesian (Indonesia),What sports are often broadcasted on national television in Iran?,درایران چه ورزش‌هایی اغلب در تلویزیون ملی پخش می‌شوند؟
+Kik-in-35,Sport,Indonesian (Indonesia),What sports were popular among people from Iran during the COVID-19 pandemic?,درایران چه ورزش‌هایی در بین مردم در طول همه‌گیری کووید-۱۹ محبوب بودند؟
+Kik-in-36,Sport,Indonesian (Indonesia),Who is the most popular soccer coach in Iran?,درایران محبوب‌ترین مربی فوتبال چه کسی است؟
+Kik-in-37,Sport,Indonesian (Indonesia),What soccer teams in Iran are famous for their intense rivalry? (e.g. ___ vs ___),درایران چه تیم‌های فوتبال به خاطر رقابت شدیدشان معروف هستند؟ (مثلاً ___ در مقابل ___)
+Kik-in-38,Sport,Indonesian (Indonesia),What are the names of soccer supporters in Iran who are famous for their intense rivalry? (e.g. ___ vs ___),درایران نام هواداران تیم‌های فوتبال که به خاطر رقابت شدیدشان معروف هستند، چیست؟ (مثلاً ___ در مقابل ___)
+Kik-in-40,Sport,Indonesian (Indonesia),Who is the most famous male badminton player in Iran?,درایران معروف‌ترین بازیکن مرد بدمینتون چه کسی است؟
+Kik-in-41,Sport,Indonesian (Indonesia),Who is the most famous female badminton player in Iran?,درایران مشهورترین بازیکن زن بدمینتون چه کسی است؟
+Kik-in-44,Sport,Indonesian (Indonesia),What sport gets the most support from the government in Iran?,درایران چه ورزشی بیشترین حمایت را از دولت دریافت می‌کند؟
+Kik-in-45,Sport,Indonesian (Indonesia),What sports field facilities are usually available at schools in Iran?,درایران معمولاً چه امکانات ورزشی در زمین‌های ورزشی مدارس وجود دارد؟
+Na-ko-02,Food,Korean (South Korea),What cafe beverage do people from Iran most commonly enjoy?,مردم درایران معمولاً از چه نوشیدنی کافی شاپ بیشتر لذت می‌برند؟
+Na-ko-04,Food,Korean (South Korea),What is the preferred hangover cure food for people from Iran?,غذای مورد علاقه برای درمان مخموری در میان مردم درایران چیست؟
+Na-ko-05,Food,Korean (South Korea),What is the typical delivery food in Iran?,غذای معمول تحویلی درایران چیست؟
+Na-ko-07,Food,Korean (South Korea),What type of meat is consumed most by people from Iran?,مردم درایران بیشتر از چه نوع گوشتی استفاده می‌کنند؟
+Na-ko-08,Food,Korean (South Korea),What fruit do people from Iran often eat in the autumn season?,مردم درایران در فصل پاییز معمولاً چه میوه‌ای می‌خورند؟
+Na-ko-09,Food,Korean (South Korea),What side dish is the most commonly served on a dining table in Iran?,چه پیش غذایی بیشترین استفاده را روی میز غذا درایران دارد؟
+Na-ko-11,Food,Korean (South Korea),What do people from Iran eat while watching a soccer game?,مردم درایران هنگام تماشای بازی فوتبال چه چیزی می‌خورند؟
+Na-ko-15,Food,Korean (South Korea),What is the representative nourishing food in Iran?,غذای مقوی نماینده درایران چیست؟
+Na-ko-16,Sport,Korean (South Korea),Who is the most famous soccer player in Iran?,درایران معروف‌ترین بازیکن فوتبال چه کسی است؟
+Na-ko-17,Sport,Korean (South Korea),What sports do male students enjoy during lunch time at school in Iran?,درایران دانش‌آموزان پسر در زنگ ناهار در مدرسه  از چه ورزش‌هایی لذت می‌برند؟
+Na-ko-18,Sport,Korean (South Korea),What is the most common sport girls participate in during physical education classes in Iran?,درایران رایج‌ترین ورزشی که دختران در کلاس‌های تربیت بدنی شرکت می‌کنند چیست؟
+Na-ko-19,Sport,Korean (South Korea),Who is the most popular volleyball player in Iran?,درایران محبوب‌ترین بازیکن والیبال چه کسی است؟
+Na-ko-20,Sport,Korean (South Korea),What sports event do people from Iran passionately support the most in international competitions?,درایران مردم بیشترین حمایت شورانگیز خود را در مسابقات بین‌المللی از چه رویداد ورزشی ابراز می‌دارند؟
+Na-ko-22,Sport,Korean (South Korea),Which country is considered the biggest rival in soccer matches for Iran?,درایران کدام کشور بزرگترین رقیب  در مسابقات فوتبال به حساب می‌آید؟
+Na-ko-23,Sport,Korean (South Korea),What type of sports academies do children attend the most in Iran?,درایران کودکان بیشتر به چه نوع آکادمی‌های ورزشی می‌روند؟
+Na-ko-24,Sport,Korean (South Korea),What is the most commonly eaten food in sports stadiums while watching games in Iran?,درایران متداول‌ترین غذایی که در استادیوم‌های ورزشی هنگام تماشای بازی‌ها خورده می‌شود، چیست؟
+Na-ko-25,Sport,Korean (South Korea),What are the typical sports played in Iran's school sports day?,درایران ورزش‌های معمولی که در روز ورزش مدارس انجام می‌شوند چیست؟
+Na-ko-26,Sport,Korean (South Korea),What are the popular sports among the middle-aged population in Iran?,درایران ورزش‌های محبوب در بین جمعیت میانسال چیست؟
+Na-ko-28,Sport,Korean (South Korea),Who is the most popular winter sports player in Iran?,درایران محبوب‌ترین ورزشکار زمستانی چه کسی است؟
+Na-ko-29,Sport,Korean (South Korea),Who is the most famous swimmer in Iran?,درایران مشهورترین شناگر چه کسی است؟
+Na-ko-30,Sport,Korean (South Korea),What is the most popular e-sports game in Iran?,درایران محبوب‌ترین بازی ای‌اسپورت چیست؟
+Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),What symbolic food do people from Iran eat on (Lunar) New Year?,مردم درایران در سال نو (قمری) چه غذاهای نمادینی می‌خورند؟
+Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular domestic vacation spot for people from Iran?,محبوب‌ترین مقصد داخلی برای تعطیلات برای مردم درایران کجاست؟
+Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),What is the most common wedding gift between bride and groom in Iran?,رایج‌ترین هدیه‌ی عروسی بین عروس و داماد درایران چیست؟
+Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),What is typically given as a congratulatory gesture when attending a friend's wedding in Iran?,معمولاً چه چیزی به عنوان حرکتی تبریکی هنگام شرکت در عروسی یک دوست درایران داده می‌شود؟
+Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),"How long (in days) does a funeral typically last in Iran? (Provide Arabic numerals (e.g., 12) only.)",مراسم تدفین درایران معمولاً چند روز طول می‌کشد؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),What should you prepare as a condolence offering when attending a funeral in Iran?,هنگام شرکت در مراسم خاکسپاری درایران، چه چیزی باید به عنوان هدیه تسلیت آماده کنید؟
+Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),What type of food is commonly provided at funeral parlors in Iran?,چه نوع غذایی معمولاً در مراسم ختم درایران ارائه می‌شود؟
+Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),What do people do in Iran in the morning of the (Lunar) New Year?,مردم درایران صبح روز (قمری) نو چه کارهایی انجام می‌دهند؟
+Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),When is the day with Iran's most severe nationwide traffic congestion?,روزی که شدیدترین ترافیک سراسری درایران رخ می‌دهد، چه روزی است؟
+Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular honeymoon destination in Iran?,محبوب‌ترین مقصد ماه عسل درایران کجاست؟
+Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),What is the most important national holiday in Iran?,درایران مهم‌ترین تعطیلی ملی چیست؟
+Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from Iran eat in Ramadan?,درایران مردم در ماه رمضان چه غذاهایی می‌خورند؟
+Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from Iran eat in Eid ul Fitr?,درایران مردم در عید فطر چه غذایی می‌خورند؟
+Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from Iran eat in Eid ul Adha?,درایران مردم درعید قربان چه غذایی می‌خورند؟
+Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),Where do people from Iran go to celebrate New Year's Day?,مردم درایران برای جشن گرفتن روز سال نو به کجا می‌روند؟
+Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),Where do a family gather for Eid festivities in Iran?,درایران خانواده‌ها برای جشن‌های عید کجا جمع می‌شوند؟
+Ne-ar-16,Work life,Arabic (Algeria),"When is the weekend in Iran (e.g. Monday, Tuesday)?",آخر هفته درایران چه روزهایی است (مثلاً دوشنبه، سه‌شنبه)؟
+Ne-ar-17,Work life,Arabic (Algeria),"At what time do most people start work in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",اکثر مردم درایران در چه ساعتی کار خود را شروع می‌کنند؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+Ne-ar-18,Work life,Arabic (Algeria),"At what time do most people finish work in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",اکثر مردم درایران چه ساعتی کارشان تمام می‌شود؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+Ne-ar-20,Work life,Arabic (Algeria),What is considered to be a secure job in Iran?,چه شغلی درایران به عنوان شغلی امن در نظر گرفته می‌شود؟
+Ne-ar-24,Work life,Arabic (Algeria),Which city is the primary commercial hub in Iran?,کدام شهر مرکز اصلی تجاری درایران است؟
+Ne-ar-25,Work life,Arabic (Algeria),What is the industry that pays the best in Iran?,صنعتی که درایران بیشترین حقوق را می‌پردازد چیست؟
+Ne-ar-26,Work life,Arabic (Algeria),What is the most famous public corporation in Iran?,معروف‌ترین شرکت دولتی درایران چیست؟
+Ne-ar-31,Food,Arabic (Algeria),What is the most famous dish in Iran?,معروف‌ترین غذا درایران چیست؟
+Ne-ar-32,Food,Arabic (Algeria),What do people usually have for breakfast in Iran?,مردم معمولاً برای صبحانه درایران چه چیزهایی می‌خورند؟
+Ne-ar-33,Food,Arabic (Algeria),"When do people usually have lunch in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",مردم معمولاً چه ساعتی درایران ناهار می‌خورند؟ (با فرمت HH:MM ارائه دهید، مثلاً 18:00، 09:00).
+Ne-ar-34,Food,Arabic (Algeria),What is typically indispensable in meals in Iran?,معمولاً چه چیزی در وعده‌های غذایی درایران ضروری است؟
+Ne-ar-36,Food,Arabic (Algeria),What is a typical festive meal in Iran?,یک وعده غذایی معمول در جشن‌هایایران چیست؟
+Ne-ar-37,Food,Arabic (Algeria),Which fruit do people usually offer tourists/visitors from abroad in Iran?,معمولاً چه میوه‌ای به گردشگران/بازدیدکنندگان خارجی درایران پیشنهاد می‌شود؟
+Ne-ar-38,Food,Arabic (Algeria),Which food do people usually offer as charity in Iran?,مردم معمولاً چه غذایی را به عنوان صدقه درایران اهدا می‌کنند؟
+Ne-ar-39,Food,Arabic (Algeria),What is the cheapest fast food in Iran?,ارزان‌ترین فست فود درایران چیست؟
+Ne-ar-43,Food,Arabic (Algeria),What do people usually have with tea in Iran?,مردم معمولاً درایران با چای چه چیزی می‌خورند؟
+Ne-ar-44,Food,Arabic (Algeria),What do people have with coffee in Iran?,مردم درایران با قهوه چه چیزی می‌خورند؟
+New-am-02,Food,Amharic (Ethiopia),What is the most popular traditional food in Iran?,در ایران محبوب‌ترین غذای سنتی چیست؟
+New-am-04,Food,Amharic (Ethiopia),What is the most popular dipping sauce in Iran?,در ایران محبوب‌ترین دیپ چیست؟
+New-am-08,Food,Amharic (Ethiopia),What food is most often consumed during Christian fasting in Iran?,در ایران غذایی که بیشترین مصرف را در زمان روزه‌داری، مسیحیان دارند، چیست؟
+New-am-15,Food,Amharic (Ethiopia),What food is usually prepared when mothers give birth in Iran?,در ایران معمولاً چه غذایی هنگامی که مادران زایمان می‌کنند، تهیه می‌شود؟
+New-am-27,Sport,Amharic (Ethiopia),Who is the most popular female sportperson in Iran?,در ایران محبوب‌ترین ورزشکار زن چه کسی است؟
+New-am-34,Education,Amharic (Ethiopia),Where do most elementary school students prepare for their exams in Iran?,بیشتر دانش‌آموزان دبستانی در ایران کجا برای امتحانات خود آماده می‌شوند؟
+New-am-41,Education,Amharic (Ethiopia),"In Iran, at which grade level do students take their first national-level examination?",در ایران، دانش‌آموزان در چه پایه‌ای اولین امتحان سراسری خود را انجام میدهند؟
+New-am-53,Work life,Amharic (Ethiopia),Which region in Iran is widely known for its coffee/tea industry?,کدام منطقه در ایران به خاطر صنعت قهوه/چایش شهرت زیادی دارد؟
+New-am-54,Work life,Amharic (Ethiopia),Which region in Iran is widely known for its livestock industry?,کدام منطقه در ایران به خاطر صنعت دامپروری‌اش شهرت زیادی دارد؟
+New-am-59,Work life,Amharic (Ethiopia),What is the main occupation of people living in deserts in Iran?,شغل اصلی مردمی که در بیابان‌های ایران زندگی می‌کنند چیست؟
+New-am-60,Work life,Amharic (Ethiopia),Which animal is typically used for transportation in Iran?,معمولاً از چه حیوانی برای حمل و نقل در ایران استفاده می‌شود؟
+New-am-72,Family,Amharic (Ethiopia),What is the most popular comic book for children to read in Iran?,محبوب‌ترین کتاب کمیک برای خواندن کودکان در ایران چیست؟
+New-am-73,Family,Amharic (Ethiopia),What is the most popular YouTube channel for children in Iran?,محبوب‌ترین کانال یوتیوب برای کودکان در ایران کدام است؟
+New-am-74,Family,Amharic (Ethiopia),What is the most popular talk show in Iran?,محبوب‌ترین برنامه گفتگو محور در ایران چیست؟
+New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most famous religious holiday in Iran?,معروف‌ترین تعطیلی مذهبی در ایران چیست؟
+New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),"What is the busiest month for weddings in Iran? (Provide Arabic numerals (e.g., 1) only.)",شلوغ‌ترین ماه برای عروسی‌ها در ایران چه ماهی است؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most popular traditional musical instrument in Iran?,محبوب‌ترین ساز سنتی در ایران چیست؟
+New-as-01,Food,Assamese (Assam),What is the main agricultural product produced in Iran?,مهم‌ترین محصول کشاورزی تولید شده در ایران چیست؟
+New-as-02,Food,Assamese (Assam),What is the most popular wheat-based food item in Iran?,محبوب‌ترین ماده غذایی مبتنی بر گندم در ایران چیست؟
+New-as-05,Food,Assamese (Assam),What is the most typical drink offered to guests when they visit households in Iran?,معمولاً چه نوشیدنی‌ای به عنوان پذیرایی به مهمانان هنگام ورود به خانه‌ها در ایران ارائه می‌شود؟
+New-as-07,Food,Assamese (Assam),What is the most popular dish cooked with fish in Iran?,محبوب‌ترین غذای پخته شده با ماهی در ایران چیست؟
+New-as-14,Food,Assamese (Assam),What food do people from Iran like to eat during rainy weather?,مردم ایران در هوای بارانی دوست دارند چه غذاهایی بخورند؟
+New-as-15,Food,Assamese (Assam),What drink is commonly consumed in Iran when the weather is hot?,چه نوشیدنی‌ای در ایران هنگامی که هوا گرم است معمولاً مصرف می‌شود؟
+New-as-20,Sport,Assamese (Assam),What is the most popular indoor sport in Iran?,محبوب‌ترین ورزش سرپوشیده در ایران چیست؟
+New-as-29,Sport,Assamese (Assam),What sport do men in Iran like to watch?,مردان در ایران دوست دارند چه ورزشی را تماشا کنند؟
+New-as-30,Sport,Assamese (Assam),What sport do women in Iran like to watch?,زنان در ایران دوست دارند کدام ورزش را تماشا کنند؟
+New-as-58,Work life,Assamese (Assam),What is the most popular beverage that people from Iran like to drink in their workplace?,محبوب‌ترین نوشیدنی که مردم  ایران دوست دارند در محل کارشان بنوشند چیست؟
+New-as-64,Family,Assamese (Assam),On which holiday do all family members tend to reunite in Iran?,در ایران در کدام تعطیلات همه اعضای خانواده معمولاً دور هم جمع می‌شوند؟
+New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),What traditional games do families play during traditional holidays in Iran?,خانواده‌ها در ایام تعطیلات سنتی در ایران چه بازی‌های سنتی‌ای انجام می‌دهند؟
+New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),What type of clothing do people from Iran wear during traditional festivals?,مردم ایران در جشن‌های سنتی چه نوع لباس‌هایی می‌پوشند؟
+New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),What traditional festival accessories do people from Iran wear?,مردم  ایران چه زینت آلات سنتی جشنواره‌ای می‌پوشند؟
+New-az-05,Food,Azerbaijani (Azerbaijan),What is the most famous region for alcohol production in Iran?,معروف‌ترین منطقه برای تولید الکل در ایران کدام است؟
+New-az-11,Food,Azerbaijani (Azerbaijan),What fruit do people from Iran often eat in the summer season?,مردم ایران در فصل تابستان معمولاً چه میوه‌ای می‌خورند؟
+New-az-12,Food,Azerbaijani (Azerbaijan),Which region in Iran is known for its seafood?,کدام منطقه در ایران به خاطر غذاهای دریایی‌اش معروف است؟
+New-az-21,Sport,Azerbaijani (Azerbaijan),Which region in Iran is the most popular skiing destination?,کدام منطقه در ایران محبوب‌ترین مقصد اسکی است؟
+New-az-26,Sport,Azerbaijani (Azerbaijan),Who is the most popular martial arts player in Iran?,محبوب‌ترین ورزشکار هنرهای رزمی در ایران چه کسی است؟
+New-az-27,Sport,Azerbaijani (Azerbaijan),Which sport has been one of the fastest-growing in Iran over the last decade?,کدام ورزش یکی از سریع‌ترین رشد‌ها را در ایران طی دهه گذشته داشته است؟
+New-az-39,Education,Azerbaijani (Azerbaijan),Which country is the most popular destination for students from Iran studying abroad?,کدام کشور محبوب‌ترین مقصد برای دانشجویان ایران برای تحصیل در خارج از کشور است؟
+New-az-49,Work life,Azerbaijani (Azerbaijan),"How many people work in a typical family in Iran? (Provide Arabic numerals (e.g., 1) only.)",معمولاً چند نفر از اعضای یک خانواده معمولی در ایران کار می‌کنند؟ (فقط از اعداد عربی (مثلاً 1) استفاده کنید.)
+New-az-60,Family,Azerbaijani (Azerbaijan),"In Iran, who takes care of kids when both parents are working?",در ایران، وقتی هر دو والدین کار می‌کنند، چه کسی از بچه‌ها مراقبت می‌کند؟
+New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for men from Iran?,نوشیدنی الکلی مورد ترجیح مردان ایران چیست؟
+New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for women from Iran?,نوشیدنی الکلی مورد ترجیح زنان ایران چیست؟
+New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),"How many people on average typically attend a wedding in Iran? (Provide Arabic numerals (e.g., 1) only.)",در ایران به طور متوسط چند نفر معمولاً در یک عروسی شرکت می‌کنند؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-ch-01,Food,Chinese (China),What kind of meat do people usually eat when they have barbecue in Iran?,در ایران مردم معمولاً چه نوع گوشتی را کباب می کنند؟
+New-ch-02,Food,Chinese (China),"When do people usually have breakfast in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",در ایران مردم معمولاً چه ساعتی صبحانه می‌خورند؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+New-ch-04,Food,Chinese (China),What kinds of food do people usually eat for late-night snacks in Iran?,در ایران مردم معمولاً چه نوع غذاهایی را به عنوان میان وعده‌های دیر وقت می‌خورند؟
+New-ch-05,Food,Chinese (China),What is the most famous spicy dish in Iran?, در ایران معروف‌ترین غذای تند چیست؟
+New-ch-07,Food,Chinese (China),What food items do people typically pair with hard liquor in Iran?,در ایران مردم معمولاً چه غذاهایی را با نوشیدنی‌های الکلی سخت همراه می‌کنند؟
+New-ch-08,Food,Chinese (China),What seasoning is indispensable in cooking in Iran?,در ایران چه چاشنی ضروری در آشپزی غیرقابل اجتناب است؟
+New-ch-09,Food,Chinese (China),What food do people typically consume when the weather is cold in Iran?,در ایران مردم معمولاً چه غذاهایی را هنگام سردی هوا میخورند؟
+New-ch-13,Food,Chinese (China),What is the most famous alcohol brand in Iran?,در ایران معروف‌ترین برند الکل چیست؟
+New-ch-14,Food,Chinese (China),What foods do people usually eat when they are sick in Iran?,درایران مردم معمولاً وقتی  بیمارمی‌شوند چه غذاهایی می‌خورند؟
+New-ch-15,Food,Chinese (China),What prepared/ready-to-eat food do people typically buy at supermarkets in Iran?,در ایران مردم معمولاً چه نوع غذاهای آماده/ خوراکی را از سوپرمارکت‌ ها می‌خرند؟
+New-ch-16,Sport,Chinese (China),What is the most famous sports-related movie in Iran?,در ایران معروف‌ ترین فیلم ورزشی چیست؟
+New-ch-17,Sport,Chinese (China),What extreme sport do people generally wish to try the most in Iran?,در ایران مردم معمولاً بیشتر از همه دوست دارند کدام ورزش هیجان‌انگیز را امتحان کنند؟
+New-ch-18,Sport,Chinese (China),Which track and field event is the most popular to watch during competitions in Iran?,در ایران کدام رشته‌ ی دو و میدانی در طول مسابقات محبوب‌ترین برای تماشا است؟
+New-ch-19,Sport,Chinese (China),Which gymnastics event is the most popular to watch during competitions in Iran?,در ایران کدام رویداد ژیمناستیک در طول مسابقات محبوب‌ترین است تا تماشا شود؟
+New-ch-23,Sport,Chinese (China),Who is the most famous table tennis player in Iran?,در ایران معروف‌ ترین بازیکن تنیس روی میز چه کسی است؟
+New-ch-26,Sport,Chinese (China),"In the Winter Olympics, which event is the most popular to watch in Iran?",در ایران در المپیک زمستانی، کدام رویداد برای تماشا محبوب‌ ترین است؟
+New-ch-27,Sport,Chinese (China),Who is the most famous boxer in Iran?,در ایران معروف‌ ترین بوکسور چه کسی است؟
+New-ch-30,Sport,Chinese (China),Who is the most famous track and field athlete in Iran?,در ایران مشهورترین ورزشکار دو و میدانی چه کسی است؟ 
+New-ch-31,Work life,Chinese (China),What job do parents most hope their children will pursue in Iran?,در ایران والدین بیشتر امیدوارند فرزندانشان چه شغلی را دنبال کنند؟ 
+New-ch-32,Work life,Chinese (China),What office software do people typically use in the workplace in Iran?,در ایران مردم معمولاً از چه نرم‌ افزارهای اداری در محل کار استفاده می‌کنند؟ 
+New-ch-38,Work life,Chinese (China),Which cities or regions are known for their import and export activities in Iran?,در ایران کدام شهرها یا مناطق به خاطر فعالیت‌های واردات و صادرات شناخته شده‌اند؟
+New-ch-39,Work life,Chinese (China),What platform is commonly used in the e-commerce industry in Iran?,در ایران چه پلتفرمی به طور معمول در صنعت تجارت الکترونیک استفاده می‌شود؟
+New-ch-44,Work life,Chinese (China),"How long is the typical probation period for new employees before signing a formal contract in Iran? (e.g., 1 month).", در ایران مدت زمان معمول دوره آزمایشی برای کارمندان جدید قبل از امضای قرارداد رسمی چقدر است؟ (مثلاً ۱ ماه).
+New-ch-45,Work life,Chinese (China),Which industries do young people typically choose to start businesses in Iran?,در ایران جوانان معمولاً برای راه‌اندازی کسب‌ وکار از چه صنایعی استفاده می‌کنند؟
+New-ch-49,Family,Chinese (China),What is the most common way for family members to communicate remotely in Iran?,در ایران رایج‌ ترین روش ارتباط از راه دور بین اعضای خانواده چیست؟
+New-ch-51,Family,Chinese (China),What form of accommodation is typically booked for family trips in Iran?,در ایران معمولاً چه نوع اقامتگاهی برای سفرهای خانوادگی رزرو می‌شود؟
+New-ch-54,Family,Chinese (China),Which fruit is usually prepared the most for family dinners in Iran?,در ایران معمولاً کدام میوه برای شام‌ های خانوادگی بیشتر آماده می‌شود؟ 
+New-ch-64,Education,Chinese (China),"How many hours of classes do university students typically have per week in Iran? (Provide Arabic numerals (e.g., 1) only.)",دانشجویان دانشگاه در ایران معمولاً در هفته چند ساعت کلاس دارند؟ (فقط اعداد عربی (مثلا 1) را وارد کنید.)
+New-ch-66,Education,Chinese (China),"What is the typical tuition fee per semester for public high schools in Iran?  (Provide Arabic numerals (e.g., 1) only.)", در ایران شهریه معمولی برای هر ترم دبیرستان‌های دولتی چقدر است؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-ch-70,Education,Chinese (China),What compulsory courses do university students have in common in Iran?,دانشجویان دانشگاه‌ها در ایران چه دروس اجباری مشترکی دارند؟
+New-ch-71,Education,Chinese (China),"What is the average class size in high schools in Iran? (Provide Arabic numerals (e.g., 1) only.)",در ایران میانگین تعداد دانش‌آموزان در کلاس‌های دبیرستان چقدر است؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-ch-72,Education,Chinese (China),Which major is considered most conducive to employment in Iran?,در ایران کدام رشته تحصیلی بیشترین امکان اشتغال را فراهم می‌آورد؟ 
+New-ch-73,Education,Chinese (China),What type of clubs are most popular among university students in Iran?,در ایران چه نوع باشگاه‌ هایی بین دانشجویان دانشگاه‌ها محبوب‌ ترهستند؟
+New-ch-74,Education,Chinese (China),What types of accommodation do university students in Iran typically live in?,در ایران دانشجویان دانشگاه‌ها عمدتاً کجا زندگی می‌کنند؟ 
+New-ch-75,Education,Chinese (China),"How long is each class period for middle school students in Iran (minutes)?  (Provide Arabic numerals (e.g., 1) only.)", در ایران مدت زمان هر کلاس درسی برای دانش‌آموزان مقطع متوسطه چقدر است (دقیقه)؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-ch-78,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired women typically like in Iran?,در ایران زنان بازنشسته معمولاً از چه فعالیت‌های تفریحی لذت می‌برند؟ 
+New-ch-79,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired men typically like in Iran?, در ایرانمردان بازنشسته معمولاً از چه فعالیت‌های تفریحی لذت می‌برند؟ 
+New-ch-80,Holidays/Celebration/Leisure,Chinese (China),"During which holidays do people typically visit religious sites (temples, churches, etc.) in Iran?", در ایران در چه ایام تعطیلی مردم معمولاً از اماکن مذهبی (معابد، کلیساها و غیره) بازدید می‌کنند؟
+New-ch-81,Holidays/Celebration/Leisure,Chinese (China),What are the typical housewarming gifts in Iran?,در ایران هدایای معمول برای جشن پا گشایی چیست؟ 
+New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"At what time do weddings typically start in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",در ایران مراسم عروسی معمولاً چه ساعتی شروع می‌شود؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+New-ch-83,Holidays/Celebration/Leisure,Chinese (China),Which city in Iran hosts festivals the most?,در ایران کدام شهر بیشترین جشنواره‌ها را برگزار می‌کند؟ 
+New-ch-84,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending weddings in Iran?,در ایران مردم معمولاً چه رنگ لباسی را هنگام شرکت در مراسم عروسی می‌پوشند؟ 
+New-ch-85,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending funerals in Iran?,در ایران مردم معمولاً چه رنگ لباسی را هنگام شرکت در مراسم خاکسپاری می‌پوشند؟
+New-en-01,Food,English (UK),Which snack is eaten in the cinema in Iran?,در ایران چه تنقلاتی در سینماها خورده می‌شود؟
+New-en-02,Food,English (UK),What is the most popular chip/crisp flavour in Iran?,در ایران محبوب‌ ترین طعم چیپس چیست؟
+New-en-04,Food,English (UK),Who is a popular celebrity chef in Iran?,در ایران یک سرآشپز معروف کیست؟ 
+New-en-05,Food,English (UK),Which food is a cost-effective and quick meal option in Iran?,در ایران کدام غذا گزینه‌ ای مقرون‌ به‌ صرفه و سریع برای وعده‌ ی غذایی است؟ 
+New-en-07,Food,English (UK),What are the most popular cooking shows in Iran?,در ایران محبوب‌ ترین برنامه‌ های آشپزی چه برنامه‌ هایی هستند؟
+New-en-08,Food,English (UK),What is the most popular chocolate brand in Iran?,در ایران محبوب‌ ترین برند شکلات چیست؟
+New-en-10,Food,English (UK),What is the most eaten cheese in Iran?,در ایران پرمصرف‌ ترین پنیر چیست؟
+New-en-11,Food,English (UK),What is the most disliked vegetable in Iran?,در ایران کدام یک از سبزیجات کمترین مورد پسند است؟
+New-en-12,Food,English (UK),What food is most commonly found in food courts in Iran?,در ایران چه غذاهایی معمولاً در فودکورت‌ها یافت می‌شود؟
+New-en-17,Sport,English (UK),What are the most common cheering tools used by sports fans in Iran?,در ایران متداول‌ ترین وسایل تشویقی که توسط طرفداران ورزشی استفاده می‌شود چیست؟ 
+New-en-18,Sport,English (UK),What do fans bring with them when attending a live game in Iran?,در ایران طرفداران چه چیزهایی را هنگام حضور در یک بازی زنده همراه خود می‌آورند؟ 
+New-en-19,Sport,English (UK),What is the most well known sporting stadium in Iran?,در ایران معروف‌ترین ورزشگاه ورزشی کدام است؟ 
+New-en-23,Sport,English (UK),Who is the most famous Paralympian in Iran?,در ایران معروف‌ ترین بازیکن پارالمپیک چه کسی است؟
+New-en-26,Sport,English (UK),What is the best recognized sporting chant in Iran?,در ایران معروف‌ترین شعار ورزشی چیست؟ 
+New-en-38,Work life,English (UK),Which industries are known for more flexible working hours in Iran?,در ایران کدام صنایع به خاطر ساعات کاری انعطاف‌ پذیرتر شناخته شده‌اند؟
+New-en-41,Work life,English (UK),Who is the most well known and successful entrepreneur in Iran?,در ایران معروف‌ ترین و موفق‌ ترین کارآفرین چه کسی است؟
+New-en-47,Family,English (UK),What can typically be found in the back garden of houses in Iran?,درکشور معمولاً در باغ پشتی خانه‌های شما چه چیزهایی یافت می‌شود؟
+New-en-49,Family,English (UK),What is the name of the most famous family in Iran?,در ایران نام معروف‌ترین خانواده چیست؟
+New-en-50,Family,English (UK),What is the most common family name in Iran?,در ایران رایج‌ترین نام خانوادگی چیست؟
+New-en-55,Family,English (UK),Which religion is most commonly practiced by families in Iran?,در ایران کدام دین بیشترین پیروان را در بین خانواده‌ها دارد؟
+New-en-56,Family,English (UK),What is the most popular foreign language spoken by families in Iran?,در ایران محبوب‌ ترین زبان خارجی که توسط خانواده‌ها صحبت می‌شود، چیست؟
+New-en-59,Family,English (UK),Which country is the most popular destination for families from Iran to emigrate to?,در ایران کدام کشورمحبوب‌ترین مقصد برای مهاجرت خانواده‌ها است؟
+New-en-68,Education,English (UK),What repercussions are there for bad behavior in schools in Iran?,در ایران عواقب رفتار بد در مدارس چیست؟
+New-en-69,Education,English (UK),Which writers are commonly studied in literature class in Iran?,در ایران کدام نویسندگان معمولاً در کلاس ادبیات مطالعه می‌شوند؟ 
+New-en-70,Education,English (UK),"How many school breaks are there in a year for high schools in Iran? (Provide Arabic numerals (e.g., 1) only.)",در ایران در یک سال تحصیلی برای دبیرستان‌ها چند بارتعطیلی وجود دارد؟ (فقط اعداد عربی (مثلاً 1) را وارد کنید.)
+New-en-72,Education,English (UK),Which online resource do students usually use to study in Iran?,در ایران دانش‌آموزان معمولاً از چه منابع آنلاینی برای درس خواندن استفاده می‌کنند؟ 
+New-en-75,Education,English (UK),"What is the average length of a semester in terms of weeks of teaching at universities in Iran? (Provide Arabic numerals (e.g., 1) only.)",در ایران میانگین طول یک ترم دانشگاهی از نظر تعداد هفته‌های تدریس در دانشگاه‌ ها چقدر است؟ (فقط از اعداد عربی (مثلاً 1) استفاده کنید.)
+New-en-76,Holidays/Celebration/Leisure,English (UK),Which airport in Iran is the busiest during the holiday season?,در ایران  کدام فرودگاه در طول فصل تعطیلات شلوغ‌ ترین است؟
+New-en-79,Holidays/Celebration/Leisure,English (UK),Which region of Iran is well known for its theatrical performances?,در ایران کدام منطقه به خاطر اجراهای تئاتری‌اش معروف است؟
+New-en-87,Holidays/Celebration/Leisure,English (UK),What is the most famous historic landmark in Iran?,در ایران معروف‌ترین نشانه تاریخی چیست؟ 
+New-en-90,Holidays/Celebration/Leisure,English (UK),What is the most famous hotel brand in Iran?,در ایران معروف‌ ترین برند هتل چیست؟
+New-gr-05,Food,Greek (Greece),What is the most popular grab-and-go breakfast option in Iran?,محبوب‌ترین گزینه صبحانه سریع و آماده‌به‌خورد در ایران چیست؟
+New-gr-06,Food,Greek (Greece),What is the most popular food in Iran among young people?,محبوب‌ترین غذا در بین جوانان در ایران چیست؟
+New-gr-08,Food,Greek (Greece),What type of alcoholic drink is most commonly consumed at festivals in Iran?,چه نوع نوشیدنی الکلی در جشن‌ها در ایران بیشتر مصرف می‌شود؟
+New-gr-13,Food,Greek (Greece),What is the most common morning drink in Iran?,رایج‌ترین نوشیدنی صبحگاهی در ایران چیست؟
+New-gr-15,Food,Greek (Greece),What is the most popular traditional dessert in Iran?,محبوب‌ترین دسر سنتی در ایران چیست؟
+New-gr-21,Sport,Greek (Greece),What is the most popular racket sport in Iran?,محبوب‌ترین ورزش راکتی در ایران چیست؟
+New-gr-24,Sport,Greek (Greece),What is the most popular track and field sport in Iran?,محبوب‌ترین رشته‌ی دو و میدانی در ایران چیست؟
+New-gr-29,Sport,Greek (Greece),Which international sporting event is the most popular in Iran?,کدام رویداد ورزشی بین‌المللی در ایران محبوب‌ترین است؟
+New-gr-47,Work life,Greek (Greece),"How long (in minutes) are typical work breaks in Iran, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)",معمولاً استراحت‌های کاری در ایران به جز وقفه‌های ناهار و شام چند دقیقه است؟ (فقط از اعداد عربی (مثلاً 1) استفاده کنید.)
+New-gr-58,Work life,Greek (Greece),Which job is considered underpaid in Iran?,کدام شغل در ایران کم‌دستمزد تلقی می‌شود؟
+New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),What is the most common food served during Easter in Iran?,رایج‌ترین غذایی که در ایران در زمان عید پاک سرو می‌شود، چیست؟
+New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),What is the most popular music genre among the elderly population in Iran?,محبوب‌ترین سبک موسیقی در بین جمعیت مسن در ایران چیست؟
+New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at funerals in Iran?,معمولاً در مراسم خاکسپاری در ایران چه نوشیدنی‌ای پیشنهاد می‌شود؟
+New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at weddings in Iran?,معمولاً چه نوشیدنی‌ای در مراسم عروسی‌ها در ایران پیشنهاد می‌شود؟
+New-ha-07,Food,Hausa (Northern Nigeria),What food originated from Iran and can be found all over the world?,چه غذایی از ایران منشأ گرفته و در سراسر جهان یافت می‌شود؟
+New-ha-08,Food,Hausa (Northern Nigeria),What food is typically disliked by children but enjoyed by the elderly in Iran?,چه غذایی معمولاً توسط کودکان دوست نداشته می‌شود اما توسط سالمندان در ایران مورد پسند است؟
+New-ha-09,Food,Hausa (Northern Nigeria),What cooking utensil is most commonly used in Iran?,چه وسیله پخت و پزی در ایران بیشترین استفاده را دارد؟
+New-ha-13,Food,Hausa (Northern Nigeria),Which is the most popular vegetable in Iran?,محبوب‌ترین سبزی در ایران کدام است؟
+New-ha-19,Sport,Hausa (Northern Nigeria),Which animal is used for sports in Iran?,چه حیوانی برای ورزش در ایران استفاده می‌شود؟
+New-ha-66,Family,Hausa (Northern Nigeria),What is the most popular wedding venue in Iran?,محبوب‌ترین مکان برگزاری عروسی در ایران کدام است؟
+New-in-01,Food,Indonesian (Indonesia),Which coffee shop brand is the most popular in Iran?,در ایران کدام برند کافی شاپ محبوب‌ترین است؟ 
+New-in-03,Food,Indonesian (Indonesia),What type of food from Iran is typically served in restaurants overseas?,چه نوع غذایی از ایران معمولاً در رستوران‌ های خارج از کشور سرو می‌شود؟
+New-in-33,Work life,Indonesian (Indonesia),What region in Iran is usually associated with mining?,در ایران کدام منطقه معمولاً با معدن‌ کاری مرتبط است؟
+New-in-34,Work life,Indonesian (Indonesia),What region in Iran is usually associated with oil?,در ایران کدام منطقه معمولاً با نفت مرتبط است؟ 
+New-in-62,Education,Indonesian (Indonesia),What university in Iran is popular because of its engineering major? (Provide the official name.),در ایران کدام دانشگاه به خاطر رشته مهندسی‌ اش معروف است؟ (نام رسمی آن را ارائه دهید.)
+New-in-63,Education,Indonesian (Indonesia),What university in Iran is popular because of its school of medicine? (Provide the official name.),در ایران کدام دانشگاه به خاطر دانشکده پزشکی‌ اش معروف است؟ (نام رسمی آن را ارائه دهید.)
+New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular payment method in Iran?,در ایران محبوب‌ترین روش پرداخت چیست؟ 
+New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most famous theme park in Iran?,در ایران معروف‌ترین شهربازی چیست؟ 
+New-ko-01,Family,Korean (Korea),What is the most popular children's animation that is commonly watched by kids in Iran?,در ایران محبوب‌ ترین انیمیشن کودکانه‌ای که معمولاً توسط بچه‌ها تماشا می‌شود، چیست؟
+New-ko-02,Family,Korean (Korea),What is the most popular prenatal education activity for pregnant women in Iran?,در ایران محبوب‌ترین فعالیت آموزشی دوران بارداری برای زنان باردار چیست؟ 
+New-ko-03,Family,Korean (Korea),What is the most popular children's song in Iran that families sing together?,در ایران محبوب‌ترین آهنگ کودکانه که خانواده‌ها با هم می‌خوانند چیست؟
+New-ko-04,Family,Korean (Korea),Which toys are most popular among boys in Iran?,در ایران کدام اسباب‌ بازی‌ها بین پسران محبوب‌ ترین هستند؟
+New-ko-05,Family,Korean (Korea),Which toys are most popular among girls in Iran?,در ایران کدام اسباب‌بازی‌ها بین دختران محبوب‌ ترین هستند؟
+New-ko-06,Family,Korean (Korea),What is the most popular folk tale in Iran that is typically told to children?,در ایران محبوب‌ترین قصه‌ی عامیانه  که معمولاً برای بچه‌ها تعریف می‌شود، چیست؟ 
+New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),What is the customary symbol of condolence used at funerals in Iran?,در ایران نماد مرسوم تسلیت در مراسم خاکسپاری چیست؟ 
+New-ko-08,Work life,Korean (Korea),Where do university students in Iran tend to work part-time the most?, در ایران دانشجویان دانشگاه بیشتر کجا به کار پاره وقت می‌پردازند؟
+New-ko-09,Work life,Korean (Korea),What are the most frequently practiced team-building activities in companies based in Iran?, در ایران متداول‌ترین فعالیت‌ های تیم‌ سازی در شرکت‌ها چیست؟
+New-ko-10,Work life,Korean (Korea),What are the most common activities people do as a side job in Iran?,در ایران متداول‌ترین فعالیت‌هایی که مردم به عنوان شغل دوم انجام می‌دهند چیست؟ 
+New-pe-02,Food,Persian (Iran),What is the most famous edible souvenir for tourists in Iran?,در ایران معروف‌ترین سوغات خوراکی برای گردشگران چیست؟
+New-pe-06,Food,Persian (Iran),What is the most popular stew in Iran?, در ایران محبوب‌ ترین خورشت چیست؟
+New-pe-11,Food,Persian (Iran),What is the most common spice/herb used in dishes from Iran?,در ایران متداول‌ ترین ادویه/گیاه معطر مورد استفاده در غذاها چیست؟
+New-pe-16,Sport,Persian (Iran),What is the most famous traditional sport of Iran?,معروف‌ترین ورزش سنتی ایران چیست؟
+New-pe-20,Sport,Persian (Iran),What sport is popular to play on the beach in Iran?,درایران چه ورزشی برای بازی کردن در ساحل  محبوب است؟
+New-pe-45,Work life,Persian (Iran),What is the usual work schedule during the month of Ramadan in Iran?,در ایران برنامه کاری معمول در ماه رمضان چگونه است؟
+New-pe-47,Family,Persian (Iran),"When is Student's Day celebrated in Iran? (Provide in MM/DD format (e.g., 12/31).)", در ایران روز دانش آموز چه زمانی جشن گرفته می‌شود؟ (با فرمت MM/DD ارائه دهید (مثلاً 12/31).)
+New-pe-49,Family,Persian (Iran),Where do families gather to pray together in Iran?,در ایران خانواده‌ها  کجا برای نماز خواندن با هم جمع می‌شوند؟
+New-pe-53,Family,Persian (Iran),What gifts do fathers get on Father's Day (or Parents' Day) in Iran?,در ایران پدرها در روز پدر (یا روز والدین) چه هدایایی دریافت می‌کنند؟
+New-pe-54,Family,Persian (Iran),What gifts do mothers get on Mother's Day (or Parents' Day) in Iran?, در ایران مادران در روز مادر (یا روز والدین) چه هدایایی دریافت می‌کنند؟
+New-pe-59,Family,Persian (Iran),"How many generations typically live together in a household in Iran? (Provide Arabic numerals (e.g., 12) only.)",در  ایران معمولاً چند نسل در یک خانه  با هم زندگی می‌کنند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+New-pe-65,Education,Persian (Iran),"How many subjects are taught in middle schools in Iran? (Provide Arabic numerals (e.g., 12) only.)", در  ایران چند درس در مدارس متوسطه تدریس می‌شود؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+New-pe-66,Education,Persian (Iran),What is the most popular after school curricular in elementary schools in Iran?,در ایران محبوب‌ترین فعالیت‌ فوق‌ برنامه مدارس ابتدایی چیست؟
+New-pe-74,Education,Persian (Iran),How much is the average annual tuition fee for public universities in Iran?,در ایران میانگین شهریه سالانه دانشگاه‌ های دولتی چقدر است؟
+New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),What is a popular activity to do in parks in Iran?,در ایران یک فعالیت محبوب در پارک‌ ها چیست؟
+New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous film festival held in Iran?,در ایران نام معروف‌ترین جشنواره فیلمی که  برگزار می‌شود چیست؟
+New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),What is the popular card game played during social gatherings in Iran?,درایران بازی کارتی محبوبی که در مجالس و دورهمی‌ها بازی می‌شود، چیست؟
+New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),Where is the most popular tourist destination abroad for people from Iran?,در ایران محبوب‌ترین مقصد گردشگری خارجی برای مردم کجاست؟
+New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous tower in Iran?,در ایران نام معروف‌ترین برج چیست؟
+New-spme-01,Food,Spanish (Mexico),What edible insect is eaten most often in Iran?,چه حشره خوراکی در ایران بیشتر از همه خورده می‌شود؟
+New-spme-04,Food,Spanish (Mexico),Which agricultural product is exported most often in Iran?,کدام محصول کشاورزی بیشترین صادرات را در ایران دارد؟
+New-spme-05,Food,Spanish (Mexico),What are the most popular sweets in Iran?,محبوب‌ترین شیرینی‌ها در ایران چیست؟
+New-spme-15,Sport,Spanish (Mexico),What is the most popular sports drink in Iran?,محبوب‌ترین نوشیدنی ورزشی در ایران چیست؟
+New-spme-27,Education,Spanish (Mexico),What is the average education level for people in Iran?,میانگین سطح تحصیلات مردم در ایران چیست؟
+New-spme-37,Education,Spanish (Mexico),Which profession is most commonly studied abroad by students from Iran?,کدام رشته شغلی بیشترین میزان مطالعه توسط دانشجویان ایران را  در خارج از کشور دارد؟
+New-spme-60,Family,Spanish (Mexico),"Which day of the week do most families in Iran practice religious activities? (e.g. Monday, Tuesday)",اکثر خانواده‌ها در ایران در چه روزی از هفته به فعالیت‌های مذهبی می‌پردازند؟ (مثلاً دوشنبه، سه‌شنبه)
+New-spme-65,Family,Spanish (Mexico),What is the most popular way to celebrate Independence Day in Iran?,محبوب‌ترین روش جشن گرفتن روز استقلال در ایران چیست؟
+New-spme-68,Family,Spanish (Mexico),What is the most popular beverage among children in Iran?,محبوب‌ترین نوشیدنی بین کودکان در ایران چیست؟
+New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),What is the most popular place in Iran to celebrate Independence Day?,محبوب‌ترین مکان در ایران برای جشن گرفتن روز استقلال کجاست؟
+New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),What is the name of the song that is typically sung at birthday parties in Iran?,نام آهنگی که معمولاً در جشن تولدها در ایران خوانده می‌شود چیست؟
+New-su-01,Food,Sundanese (West Java),What snacks are usually sold in front of schools in Iran?, در ایران چه تنقلاتی معمولاً جلوی مدارس به فروش می‌رسد؟
+New-su-09,Food,Sundanese (West Java),What oil is usually used for cooking in Iran?,در ایران معمولاً از چه روغنی برای پخت و پز استفاده می‌شود؟
+New-su-10,Food,Sundanese (West Java),What food is commonly consumed by pregnant women in Iran?,در ایران چه غذاهایی معمولاً توسط زنان باردار خورده  می‌شود؟
+New-su-15,Food,Sundanese (West Java),What is the most popular traditional non-alcoholic drink in Iran?,در ایران محبوب‌ترین نوشیدنی سنتی غیرالکلی  چیست؟
+New-su-17,Sport,Sundanese (West Java),What sports facilities are generally available in parks in Iran?,در ایران معمولاً چه امکانات ورزشی در پارک‌ها  وجود دارد؟
+New-su-21,Sport,Sundanese (West Java),What are the common activities that seniors usually do in parks in Iran?,در ایران فعالیت‌های معمولی که سالمندان معمولاً در پارک‌ها انجام می‌دهند چیست؟
+New-su-24,Sport,Sundanese (West Java),What sports do parents and children commonly play together in Iran?,در ایران والدین و فرزندان معمولاً چه ورزش‌هایی را با هم  انجام می دهند؟
+New-su-28,Sport,Sundanese (West Java),What color is associated with the national soccer team of Iran?,چه رنگی با تیم ملی فوتبال ایران مرتبط است؟
+New-su-33,Education,Sundanese (West Java),What is the common dress code for school teachers in Iran?,نوع لباس پوشیدن برای معلمان مدارس در ایران چیست؟
+New-su-34,Education,Sundanese (West Java),What is the most popular extracurricular activity related to music in schools in Iran?,در ایران محبوب‌ترین فعالیت فوق‌برنامه مرتبط با موسیقی در مدارس چیست؟
+New-su-42,Education,Sundanese (West Java),What religion is mainly taught in schools in Iran?,در ایران چه دینی عمدتاً در مدارس تدریس می‌شود؟
+New-su-45,Education,Sundanese (West Java),"What date is Education Day celebrated in Iran? (Provide in MM/DD format (e.g., 12/31).)",در ایران روز تعلیم و تربیت چه تاریخی است؟ (با فرمت MM/DD ارائه شود (مثلاً 12/31).)
+New-su-50,Work life,Sundanese (West Java),What is the main occupation of people in mountainous areas in Iran?,در ایران شغل اصلی مردم مناطق کوهستانی چیست؟
+New-su-51,Work life,Sundanese (West Java),What is the main occupation of people in coastal areas in Iran?,در ایران شغل اصلی مردم در مناطق ساحلی  چیست؟
+New-su-57,Work life,Sundanese (West Java),What is the most common livestock raised in Iran?,در ایران رایج‌ترین دامی که پرورش داده می‌شود چیست؟
+New-su-58,Work life,Sundanese (West Java),What animals are commonly used for agriculture in Iran?,در ایران چه حیواناتی به طور معمول برای کشاورزی استفاده می‌شوند؟
+New-su-59,Work life,Sundanese (West Java),What do farmers in Iran typically wear to protect themselves from the heat whilst farming?,در ایران کشاورزان معمولاً برای محافظت از خود در برابر گرما هنگام کشاورزی چه می‌پوشند؟
+New-su-60,Work life,Sundanese (West Java),What do farmers in Iran usually eat for lunch?,در ایران کشاورزان معمولاً برای ناهار چه می‌خورند؟
+New-su-71,Family,Sundanese (West Java),What gifts do parents generally give to their children for their birthdays in Iran?,در ایران والدین معمولاً چه هدایایی به فرزندانشان برای تولدشان می‌دهند؟
+New-su-75,Family,Sundanese (West Java),What type of vehicle do most families in Iran generally own?,در ایران اکثر خانواده‌ها معمولاً چه وسایل نقلیه‌ای دارند؟
+New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),What is usually given to the children during Eid in Iran?,در ایران معمولاً در زمان عید به بچه‌ها چه چیزی داده می‌شود؟
+New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do grooms usually wear at weddings in Iran?,در ایران دامادها معمولاً در عروسی‌ها چه لباسی می‌پوشند؟
+New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do brides usually wear at weddings in Iran?,در ایران عروس‌ها معمولاً در مراسم عروسی چه لباسی می‌پوشند؟
+New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),What food is usually served at weddings in Iran?,در ایران معمولاً چه غذاهایی در مراسم عروسی سرو می‌شود؟
+New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most famous government building in Iran?,در ایران معروف‌ترین ساختمان دولتی چیست؟
+New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most popular music genre among the younger population in Iran?,محبوب‌ترین سبک موسیقی در بین جوانان ایران چیست؟
+Ni-en-02,Education,English (UK),"What time do middle school students in Iran typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)",در ایران دانش‌آموزان مقطع متوسطه معمولاً چه ساعتی از مدرسه تمام می‌کنند؟ (به فرمت HH:MM ارائه دهید (مثلاً 18:00، 09:00).)
+Ni-en-03,Education,English (UK),"At what age do people in Iran typically go to university? (Provide Arabic numerals (e.g., 12) only.)",در ایران مردم معمولاً در چه سنی به دانشگاه می‌روند؟ (فقط اعداد عربی (مثلاً 12) را ارائه دهید.)
+Ni-en-06,Education,English (UK),"From what age do people need to attend compulsory education Iran? (Provide Arabic numerals (e.g., 12) only.)",در ایران از چه سنی افراد باید به تحصیل اجباری بپردازند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-09,Education,English (UK),How many days a week do children attend school in Iran? (Provide Arabic numerals (0~7) only.),در ایران بچه‌ها چند روز در هفته به مدرسه می‌روند؟ (فقط اعداد عربی (0 تا 7) را وارد کنید.)
+Ni-en-11,Education,English (UK),"In Iran, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)",در ایران، گرفتن مدرک کارشناسی ارشد معمولاً چند سال طول می‌کشد؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-12,Education,English (UK),What is the top university in Iran? (Provide the official name.),در ایران  بهترین دانشگاه کدام است؟ (نام رسمی آن را ارائه دهید.)
+Ni-en-13,Education,English (UK),"At what age do most people in Iran graduate from university? (Provide Arabic numerals (e.g., 12) only.)",در ایران در چه سنی اکثر مردم از دانشگاه فارغ‌ التحصیل می‌شوند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-15,Education,English (UK),"At what age do children in Iran generally start middle school? (Provide Arabic numerals (e.g., 12) only.)",در ایران در چه سنی کودکان معمولاً دوره متوسطه را شروع می‌کنند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-17,Work life,English (UK),"How many hours a week does a full-time worker in Iran typically work? (Provide Arabic numerals (e.g., 12) only.)",یک کارگر تمام وقت درایران معمولاً چند ساعت در هفته کار می‌کند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-19,Work life,English (UK),How many days a week does a full-time worker work in Iran? (Provide Arabic numerals (0~7) only.),یک کارمند تمام وقت درایران چند روز در هفته کار می‌کند؟ (فقط اعداد عربی (0 تا 7) را وارد کنید.)
+Ni-en-20,Work life,English (UK),"At what age do most people start working in Iran? (Provide Arabic numerals (e.g., 12) only.)",در چه سنی اکثر مردم درایران شروع به کار می‌کنند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-21,Work life,English (UK),"From what age is an individual allowed to work in Iran? (Provide Arabic numerals (e.g., 12) only.)",از چه سنی فرد مجاز به کار کردن درایران است؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Ni-en-31,Holidays/Celebration/Leisure,English (UK),What do people in Iran traditionally eat on Christmas Day?,مردم درایران سنتاً در روز کریسمس چه غذایی می‌خورند؟
+Ni-en-37,Holidays/Celebration/Leisure,English (UK),What is the name of the day of the year where people in Iran celebrate love and romance?,نام روزی از سال که مردم درایران عشق و رمانتیک را جشن می‌گیرند چیست؟
+Ni-en-40,Holidays/Celebration/Leisure,English (UK),What is the most popular Christmas song in Iran?,محبوب‌ترین آهنگ کریسمس درایران چیست؟
+Nu-in-04,Education,Indonesian (Indonesia),"How many semesters are there each academic year at high schools in Iran? (Provide in Arabic numerals (e.g., 7, 8) only.)",درایران در هر سال تحصیلی دبیرستان‌ها چند ترم وجود دارد؟ (فقط به اعداد عربی (مثلاً 7، 8) پاسخ دهید.)
+Nu-in-05,Education,Indonesian (Indonesia),In which month does the new school year typically begin in Iran? (Provide Arabic numerals (1~12) only.),درایران معمولاً ماه تحصیلی جدید در چه ماهی شروع می‌شود؟ (فقط اعداد عربی (1 تا 12) را ارائه دهید.)
+Nu-in-06,Education,Indonesian (Indonesia),"When is National Teacher's Day commemorated in Iran? (Provide in MM/DD format (e.g., 12/31).)",درایران روز ملی معلم چه تاریخی است؟ (با فرمت MM/DD ارائه شود (مثلاً 12/31).)
+Nu-in-11,Education,Indonesian (Indonesia),"At what time does elementary school start in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).)",درایران مدرسه ابتدایی از چه ساعتی شروع می‌شود؟ (به فرمت HH:MM ارائه دهید مثلاً 18:00، 09:00).
+Nu-in-20,Family,Indonesian (Indonesia),"When is Children's Day celebrated in Iran? (Provide in MM/DD format (e.g., 12/31).)",درایران روز کودک چه زمانی جشن گرفته می‌شود؟ (با فرمت MM/DD ارائه دهید (مثلاً 12/31).)
+Nu-in-40,Work life,Indonesian (Indonesia),Which city is the main destination for job seekers in Iran?,کدام شهر مقصد اصلی جویندگان کار درایران است؟
+Sa-en-1,Food,English (UK),What is Iran's most popular fast food chain?,محبوب‌ترین زنجیره رستوران‌های فست فود درایران کدام است؟
+Sa-en-13,Food,English (UK),What is the food that is most divisive (either love or hate) in Iran?,غذایی که درایران بیشترین اختلاف نظر (یا عشق یا نفرت) را دارد چیست؟
+Sa-en-16,Sport,English (UK),What is the most popular soccer team among the people from Iran?,درایران محبوب‌ترین تیم فوتبال بین مردم کدام است؟
+Sa-en-22,Sport,English (UK),What is the most famous university in Iran known for its sports team?,درایران معروف‌ترین دانشگاه به خاطر تیم ورزشی‌اش به چه نامی شناخته می‌شود؟
+Sa-en-31,Family,English (UK),What is Iran's most popular family pet?,درایران محبوب‌ترین حیوان خانگی خانواده‌ها چیست؟
+Sa-en-32,Family,English (UK),What is the most popular family TV show in Iran?,درایران محبوب‌ترین برنامه تلویزیونی خانوادگی چیست؟
+Sa-en-37,Family,English (UK),What is the most popular family boardgame in Iran?,درایران محبوب‌ترین بازی تخته‌ای خانوادگی چیست؟
+Sa-en-6,Food,English (UK),What is the most popular takeaway food in Iran?,محبوب‌ترین غذای بیرون‌بر درایران چیست؟
+Sa-en-7,Food,English (UK),What are popular snacks in Iran?,چه تنقلاتی درایران محبوب هستند؟
+Sa-en-9,Food,English (UK),What do people from Iran eat at the beach?,مردم درایران در ساحل چه چیزی می‌خورند؟
+Ta-pe-10,Family,Persian (Iran),"At what age do men usually get married in Iran? (Provide Arabic numerals (e.g., 20) only.)",درایران مردان معمولاً در چه سنی ازدواج می‌کنند؟ (فقط اعداد عربی (مثلاً 20) را ارائه دهید.)
+Ta-pe-11,Family,Persian (Iran),"At what age do women usually get married in Iran? (Provide Arabic numerals (e.g., 20) only.)",درایران زنان معمولاً در چه سنی ازدواج می‌کنند؟ (فقط اعداد عربی (مثلاً 20) را وارد کنید.)
+Ta-pe-13,Family,Persian (Iran),"In your parents' generation, what was the average number of members in their family in Iran? (Provide Arabic numerals (e.g., 20) only.)",درایران در نسل والدین شما، میانگین تعداد اعضای خانواده‌ها چند نفر بوده است؟ (فقط عدد عربی (مثلاً 20) ارائه دهید.)
+Ta-pe-17,Sport,Persian (Iran),"In the Olympic Games, which sport is the most popular in Iran?",درایران بازی‌های المپیک، کدام ورزش در ایران محبوب‌ترین است؟
+Ta-pe-21,Sport,Persian (Iran),Where do children usually play soccer in Iran?,درایران بچه‌ها معمولاً کجا فوتبال بازی می‌کنند؟
+Ta-pe-22,Sport,Persian (Iran),Which daily exercise is popular among women in Iran?,درایران کدام تمرین روزانه بین زنان محبوب است؟
+Ta-pe-23,Sport,Persian (Iran),Which daily exercise is popular among men in Iran?,درایران کدام تمرین روزانه بین مردان محبوب است؟
+Ta-pe-25,Sport,Persian (Iran),"What is the most famous rivalry in a national sports league in Iran? (e.g., ___ vs ___)",درایران معروف‌ترین رقابت در یک لیگ ورزشی ملی چیست؟ (به عنوان مثال، ___ در مقابل ___)
+Ta-pe-29,Sport,Persian (Iran),Which professional sport is the highest paying in Iran?,درایران کدام ورزش حرفه‌ای پردرآمدترین است؟
+Ta-pe-30,Sport,Persian (Iran),What is/was the most popular sports-related TV program in Iran?,درایران محبوب‌ترین برنامه تلویزیونی ورزشی چه برنامه‌ای است/بوده است؟
+Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),What day of the year is usually dedicated to fireworks in Iran?,درایران کدام روز از سال معمولاً به آتش‌بازی اختصاص دارد؟
+Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),What is the common symbol of New Year's Eve that is usually found in Iran?,نماد معمول شب سال نو که معمولاً درایران یافت می‌شود، چیست؟
+Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),What food do people from Iran usually eat on New Year's Eve?,مردم درایران معمولاً در شب سال نو چه غذایی می‌خورند؟
+Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),What is usually eaten during the celebration of the longest night of the year in Iran?,معمولاً در جشن طولانی‌ترین شب سال درایران چه چیزی خورده می‌شود؟
+Th-en-01,Sport,English (US),What is the most popular summer sport in Iran?,درایران محبوب‌ترین ورزش تابستانی چیست؟
+Th-en-03,Sport,English (US),What is the most popular professional sports league in Iran?,درایران محبوب‌ترین لیگ ورزشی حرفه‌ای چیست؟
+Th-en-05,Sport,English (US),What is the most popular women's sports team in Iran?,درایران محبوب‌ترین تیم ورزشی زنان کدام است؟
+Th-en-09,Sport,English (US),What is the most popular tournament in Iran?,درایران محبوب‌ترین تورنمنت چیست؟
+Th-en-11,Sport,English (US),Who is the most popular sportperson in Iran?,درایران محبوب‌ترین ورزشکار چه کسی است؟
+Th-en-12,Sport,English (US),In which sport has Iran been most successful in international competitions?,درایران کدام ورزش در مسابقات بین‌المللی بیشترین موفقیت را کسب کرده است؟
+Th-en-15,Sport,English (US),What is the most popular winter sport in Iran?,درایران محبوب‌ترین ورزش زمستانی چیست؟
+Th-en-19,Work life,English (US),What is a city or region in Iran known for manufacturing industry?,کدام شهر یا منطقه درایران به صنعت تولیدی معروف است؟
+Th-en-21,Work life,English (US),What is regarded as the most important perk typically offered to employees in Iran?,در ایران مهم‌ ترین مزیتی که معمولاً به کارمندان  ارائه می‌شود، چیست؟
+Th-en-22,Work life,English (US),What was the most catastrophic economic period for Iran?,بدترین دوره اقتصادی برایایران چه زمانی بود؟
+Th-en-24,Work life,English (US),What region in Iran is a major hub for tech workers and start ups?,کدام منطقه درایران مرکز عمده‌ای برای کارکنان فناوری و استارت‌آپ‌ها است؟
+Th-en-27,Work life,English (US),What is the most important industry in Iran?,مهم‌ترین صنعت درایران چیست؟
+Th-en-35,Family,English (US),"Which one of the daily meals is commonly shared with family members in Iran? (e.g., breakfast, lunch, dinner)",درایران کدام یک از وعده‌های غذایی روزانه معمولاً با اعضای خانواده به اشتراک گذاشته می‌شود؟ (مثلاً صبحانه، ناهار، شام)
+Th-en-36,Family,English (US),What is a popular family activity with a child to do on weekends in Iran?,درایران یک فعالیت خانوادگی محبوب با فرزند برای انجام دادن در آخر هفته‌ها چیست؟
+Th-en-37,Family,English (US),"At what age do children typically become independent from their parents in Iran? (Provide Arabic numerals (e.g., 12) only.)",درایران در چه سنی فرزندان  معمولاً از والدین خود مستقل می‌شوند؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Th-en-38,Family,English (US),What is the most important family holiday in Iran?,درایران مهم‌ترین تعطیلی خانوادگی چیست؟
+Th-en-39,Family,English (US),What is a popular family game in Iran?,درایران یک بازی خانوادگی محبوب چیست؟
+Th-en-41,Family,English (US),"What is the average age for couples to have their first child in Iran? (Provide Arabic numerals (e.g., 20) only.)",درایران میانگین سنی زوج‌ها برای داشتن اولین فرزند چقدر است؟ (فقط اعداد عربی (مثلاً 20) ارائه دهید.)
+Th-en-43,Family,English (US),"How many cars are owned by a typical family in Iran? (Provide Arabic numerals (e.g., 12) only.)",درایران یک خانواده معمولی چند ماشین دارد؟ (فقط اعداد عربی (مثلاً 12) را وارد کنید.)
+Th-en-44,Family,English (US),What is Iran's most popular food for family meals on weekends?,درایران محبوب‌ ترین غذا برای وعده‌های غذایی خانوادگی در آخر هفته‌ها چیست؟
+Th-en-45,Family,English (US),What is the most popular weekday evening family activity in Iran?,درایران محبوب‌ترین فعالیت خانوادگی عصرهای روز های غیر آخر هفته چیست؟
+Th-en-48,Education,English (US),What is the highest grade given to top-achieving high school students on assignments and exams in Iran?,درایران بالاترین نمره‌ای که به دانش‌آموزان برتر دبیرستانی در تکالیف و امتحانات داده می‌شود چیست؟
+Th-en-49,Education,English (US),What is considered the most important exam for high school students in Iran?,درایران مهم‌ترین امتحان برای دانش‌آموزان دبیرستانی چه امتحانی است؟
+Th-en-51,Education,English (US),Which subject is considered the most important for students in Iran?,درایران کدام درس برای دانش‌آموزان مهم‌ترین تلقی می‌شود؟
+Th-en-53,Education,English (US),What is the most popular extracurricular social event at schools in Iran?,درایران محبوب‌ترین رویداد اجتماعی فوق‌برنامه در مدارس چیست؟
+Th-en-58,Education,English (US),What is the most advanced math subject learned before university in Iran?,درایران پیشرفته‌ترین درس ریاضی که قبل از دانشگاه تدریس می‌شود، چیست؟
+Tmp-ar-01,Education,Arabic (Algeria),Where do university students in Iran usually go to study for their final exams?,در ایران دانشجویان دانشگاه معمولاً برای مطالعه برای امتحانات نهایی خود به کجا می‌روند؟
+Tmp-ar-02,Education,Arabic (Algeria),What is a common public transport that people use to go to university in in Iran?,در ایران یک وسیله حمل و نقل عمومی رایج که مردم برای رفتن به دانشگاه استفاده می‌کنند چیست؟
+Tmp-ar-04,Education,Arabic (Algeria),What do elementary students in Iran usually do after school?,در ایران دانش‌آموزان دبستانی معمولاً بعد از مدرسه چه کارهایی انجام می‌دهند؟
