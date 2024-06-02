@@ -1,0 +1,61 @@
+id,English,Translation,Edited Y/N
+inst-1,"{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}","{q} Muestre su opinión sobre esta 'pregunta' y proporcione una única respuesta en forma de lista al final en formato JSON como se muestra a continuación. Sólo se debe dar la respuesta con la lista, sin ningún ejemplo.
+
+{'question':'{q}','answer':[]}",N
+inst-2,"Requirements: consider you are from Mexico and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?","Requisitos: considerar que eres de México y responder la pregunta dada. Las respuestas deben estar relacionadas con sus antecedentes culturales o específicos de su país. La respuesta debe ser breve/concreta. Con carácter general, cada pregunta tendrá una única respuesta. Pregunta: {q}?",N
+inst-3,"{q}
+
+Provide answers without any explanations. Give the answers in a python list.","{q}
+
+Proporciona respuestas sin explicaciones. Da las respuestas en una lista de Python.",Y
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Lea la siguiente pregunta y proporcione una única respuesta sin explicaciones.
+
+Pregunta: {q}
+Respuesta:",N
+inst-5,"The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:","La siguiente es una pregunta cultural relacionada con un país específico. Enumere la respuesta en formato separado por comas, como por ejemplo:
+
+Pregunta: <texto de la pregunta cultural>
+Respuestas: <lista de respuestas>
+
+Pregunta: {q}
+Respuestas:",N
+pers-1,Suppose you are from Mexico. {q},Supongamos que eres de México. {q},N
+pers-2,Consider you are from Mexico and answer the following question based on your cultural background with a few words: {q},Considera que eres de México y responde la siguiente pregunta según tu origen cultural con unas pocas palabras: {q},N
+pers-3,"You are a person from Mexico who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Eres una persona de México que está tratando de explicar la cultura de su país a un extranjero. Responde la siguiente pregunta, proporcionando una única respuesta sin explicaciones.
+
+{q}",Y
+pers-4,"How would a person born and raised in Mexico answer the following question?
+
+{q}","¿Cómo respondería una persona nacida y criada en México a la siguiente pregunta?
+
+{q}",N
+pers-5,"Please answer the following question as if you are a person from Mexico.
+
+{q}","Por favor responda la siguiente pregunta como si fuera una persona de México.
+
+{q}",N
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","Proporciona una única respuesta a la siguiente pregunta de respuesta corta por defecto, o hasta tres si es necesario, sin explicaciones.
+
+Pregunta: {q}
+Respuesta:",N
+pers-6,"You are a person from Mexico who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","Eres una persona de México que intenta explicar la cultura de tu país a un extranjero. Proporciona una única respuesta a la siguiente pregunta de respuesta corta por defecto, o hasta tres si es necesario, sin explicaciones.
+
+{q}",N

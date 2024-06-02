@@ -1,0 +1,30 @@
+id,English,G-Translation,Translation
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:",,"ለሚከተለው ባለ አጭር መልስ ጥያቄ አንድ መልስ ብቻ ስጥ። ወይም አስፈላጊ ከሆነ እስከ ሶስት መልሶችን ያለ ማብራሪያ ስጥ።  
+
+ጥያቄ፡ {q}
+መልስ፡-"
+pers-6,"You are a person from Ethiopia who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}",,"አንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ የምታብራራ ኢትዮጵያዊ ሰው ነህ። ለሚከተለው  ባለ አጭር መልስ ጥያቄ አንድ መልስ ብቻ ስጥ። ወይም አስፈላጊ ከሆነ እስከ ሶስት መልሶችን ያለ ማብራሪያ ስጥ።  
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","የሚከተለውን ጥያቄ አንብቡ እና ማንኛውንም ማብራሪያ ሳይኖር አንድ መልስ ይስጡ።
+
+ጥያቄ: {q}
+መልስ:","የሚከተለውን ጥያቄ አንብቡ እና ያልምንም ማብራሪያ አንድ መልስ ብቻ ይስጡ።
+
+ጥያቄ: {q}
+መልስ:"
+pers-3,"You are a person from Ethiopia who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","እርስዎ ከኢትዮጵያ የሆኑ ሰው ሆነው ሀገራችሁን ለእንግዳ ማስተዋል ለማድረግ እየሞከሩ ነው። የሚከተለውን ጥያቄ አንድ መልስ ብቻ ስጡ ማንኛውንም ማብራሪያ ሳይኖር።
+
+{q}","አንተ የአገርህን ባህል ለአንድ የውጭ ዜጋ ለማብራራት የምትሞከር ኢትዮጵያዊ ሰው ነህ። ለሚከተለውን ጥያቄ ያልምንም ማብራሪያ አንድ መልስ ብቻ ስጥ።
+
+{q}"

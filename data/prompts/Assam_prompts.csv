@@ -1,0 +1,25 @@
+id,English,Translation
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","নিম্নলিখিত সংক্ষিপ্ত-উত্তৰ প্ৰশ্নটোৰ এটা উত্তৰ দিয়ক ডিফল্ট হিচাপে, বা প্ৰয়োজন হ'লে তিনিটা পৰ্যন্ত উত্তৰ ব্যাখ্যা অবিহনে দিয়ক।
+
+প্ৰশ্ন:  {q}
+উত্তৰ:"
+pers-6,"You are a person from Assam who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","আপুনি অসমৰ এজন ব্যক্তি যি বিদেশী মানুহ এজনক আপোনাৰ দেশৰ সংস্কৃতি বুজাব বিচাৰিছে। নিম্নলিখিত সংক্ষিপ্ত-উত্তৰ প্ৰশ্নটোৰ এটা উত্তৰ ডিফল্ট হিচাপে দিয়ক, বা প্ৰয়োজন হ'লে তিনিটা পৰ্যন্ত  ব্যাখ্যা অবিহনে উত্তৰ দিয়ক।
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","নিম্নলিখিত প্ৰশ্নটো পঢ়ক আৰু কোনো ব্যাখ্যা নকৰাকৈ এটা উত্তৰ প্ৰদান কৰক।
+
+প্ৰশ্ন: {q}
+উত্তৰ:"
+pers-3,"You are a person from Assam who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","আপুনি এজন অসমীয়া লোক যি বিদেশী এজনক আপোনাৰ দেশৰ সংস্কৃতি ব্যাখ্যা কৰিবলৈ চেষ্টা কৰিছে। নিম্নলিখিত প্ৰশ্নটোৰ কোনো ব্যাখ্যা নকৰাকৈ এক উত্তৰ প্ৰদান কৰক।
+
+{q}"

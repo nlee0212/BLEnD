@@ -1,0 +1,25 @@
+id,English,Translation
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","Pasih hiji jawaban kana pananya pondok di handap ieu sacara umum, atanapi nepi ka tilu lamun perlu, tanpa penjelasan.
+
+Pananya: {q}
+Jawaban:"
+pers-6,"You are a person from West Java who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","Anjeun nyaéta jalma ti Jawa Barat anu keur nyobaan ngajelaskeun budaya nagara anjeun ka urang asing. Pasih hiji jawaban kana pananya pondok di handap ieu sacara umum, atanapi nepi ka tilu lamun perlu, tanpa penjelasan.
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Bacakeun pananya di handap ieu jeung pasih hiji jawaban tanpa penjelasan nanaon.
+
+Pananya: {q}
+Jawaban:"
+pers-3,"You are a person from West Java who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Anjeun nyaéta jalma ti Jawa Barat anu keur nyobaan ngajelaskeun budaya nagara anjeun ka urang asing. Jawab pananya di handap ieu, pasih hiji jawaban tanpa penjelasan nanaon.
+
+{q}"

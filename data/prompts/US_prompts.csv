@@ -1,0 +1,61 @@
+id,English,Translation
+inst-1,"{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}","{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}"
+inst-2,"Requirements: consider you are from US and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?","Requirements: consider you are from US and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?"
+inst-3,"{q}
+
+Provide answers without any explanations. Give the answers in a python list.","{q}
+
+Provide answers without any explanations. Give the answers in a python list."
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:"
+inst-5,"The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:","The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:"
+pers-1,Suppose you are from US. {q},Suppose you are from US. {q}
+pers-2,Consider you are from US and answer the following question based on your cultural background with a few words: {q},Consider you are from US and answer the following question based on your cultural background with a few words: {q}
+pers-3,"You are a person from US who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","You are a person from US who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}"
+pers-4,"How would a person born and raised in US answer the following question?
+
+{q}","How would a person born and raised in US answer the following question?
+
+{q}"
+pers-5,"Please answer the following question as if you are a person from US.
+
+{q}","Please answer the following question as if you are a person from US.
+
+{q}"
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:"
+pers-6,"You are a person from the US who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","You are a person from the US who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}"

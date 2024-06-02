@@ -1,0 +1,61 @@
+id,English,Translation
+inst-1,"{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}","{q} 이 '질문'에 대한 본인의 생각을 제시하고, 아래와 같이 마지막에 오직 하나의 답변을 JSON 포맷에 맞추어 리스트 형태로 제공해주세요. 예시 없이 리스트 형태로 되어 있는 답변만 제시하여야 합니다.
+
+{'question':'{q}','answer':[]}"
+inst-2,"Requirements: consider you are from South Korea and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?",요구 사항: 본인이 대한민국 출신이라고 생각하고 주어진 질문에 답하시오. 답변은 본인의 문화적 또는 국가적 배경과 관련되어야 합니다. 대답은 짧고 구체적이어야 합니다. 일반적으로 각 질문에는 하나의 답변만 제시합니다. 질문: {q}?
+inst-3,"{q}
+
+Provide answers without any explanations. Give the answers in a python list.","{q}
+
+아무런 설명 없이 답변만 제공하시오. 파이썬 리스트 형태로 답변을 제공하시오."
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","다음 질문을 읽고 설명 없이 단 하나의 답변만을 제공하시오. 
+
+질문: {q}
+답변:"
+inst-5,"The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:","다음은 특정 국가와 관련된 문화적 질문입니다. 아래와 같이 쉼표로 구분하여 답변을 나열하시오. 
+
+질문: <문화 질문 텍스트> 
+답변: <답변 목록> 
+
+질문: {q} 
+답변:"
+pers-1,Suppose you are from South Korea. {q},본인이 대한민국 출신이라고 가정하시오. {q}
+pers-2,Consider you are from South Korea and answer the following question based on your cultural background with a few words: {q},본인이 대한민국 출신이라고 가정하고 본인의 문화적 배경을 바탕으로 적은 수의 단어로 다음 질문에 답하십시오: {q}
+pers-3,"You are a person from South Korea who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","당신은 외국인에게 당신의 나라의 문화를 설명하려는 대한민국 사람입니다. 설명 없이 단일 답변을 제공하여 다음 질문에 답하십시오.
+
+{q}"
+pers-4,"How would a person born and raised in South Korea answer the following question?
+
+{q}","대한민국에서 태어나고 자란 사람은 다음 질문에 어떻게 답변하겠습니까?
+
+{q}"
+pers-5,"Please answer the following question as if you are a person from South Korea.
+
+{q}","다음 질문에 본인이 대한민국 사람이라고 생각하며 답변해 주십시오.
+
+{q}"
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","다음 주관식 질문에 대하여 기본적으로 하나의 답변만을 설명없이 제공하되, 필요시 세 개까지 제공하시오.
+
+질문: {q}
+답변:"
+pers-6,"You are a person from Korea who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","당신은 외국인에게 당신의 나라의 문화를 설명하려는 대한민국 사람입니다. 다음 주관식 질문에 대하여 기본적으로 하나의 답변만을 설명없이 제공하되, 필요시 세 개까지 제공하시오.
+
+{q}"

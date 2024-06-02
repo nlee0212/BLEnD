@@ -1,0 +1,25 @@
+id,English,Translation
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","다음 주관식 질문에 대하여 기본적으로 하나의 답변만을 설명없이 제공하되, 필요시 세 개까지 제공하시오.
+
+질문: {q}
+답변:"
+pers-6,"You are a person from North Korea who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","당신은 외국인에게 당신의 나라의 문화를 설명하려는 북한 사람입니다. 다음 주관식 질문에 대하여 기본적으로 하나의 답변만을 설명없이 제공하되, 필요시 세 개까지 제공하시오.
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","다음 질문을 읽고 설명 없이 단 하나의 답변만을 제공하시오. 
+
+질문: {q}
+답변:"
+pers-3,"You are a person from North Korea who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","당신은 외국인에게 당신의 나라의 문화를 설명하려는 북한 사람입니다. 설명 없이 단일 답변을 제공하여 다음 질문에 답하십시오.
+
+{q}"

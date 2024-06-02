@@ -1,0 +1,35 @@
+id,English,G-Translation,Translation
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","Δώστε μία μοναδική απάντηση στην παρακάτω ερώτηση σύντομης απάντησης ως προεπιλογή, ή μέχρι τρεις αν χρειάζεται, χωρίς εξηγήσεις.
+
+Ερώτηση: {q}
+Απάντηση:","Δώστε μία μοναδική, σύντομη απάντηση στην παρακάτω ερώτηση, ή μέχρι τρεις αν χρειάζεται, χωρίς εξηγήσεις.
+
+Ερώτηση: {q}
+Απάντηση:"
+pers-6,"You are a person from Greece who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","Είστε ένα άτομο από την Ελλάδα που προσπαθεί να εξηγήσει τον πολιτισμό της χώρας σας σε έναν ξένο. Δώστε μία μοναδική απάντηση στην παρακάτω ερώτηση σύντομης απάντησης ως προεπιλογή, ή μέχρι τρεις αν χρειάζεται, χωρίς εξηγήσεις.
+
+{q}","Είστε ένα άτομο από την Ελλάδα που προσπαθεί να εξηγήσει τον πολιτισμό της χώρας σας σε έναν ξένο. Δώστε μία μοναδική, σύντομη απάντηση στην παρακάτω ερώτηση, ή μέχρι τρεις αν χρειάζεται, χωρίς εξηγήσεις.
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Διάβασε την ακόλουθη ερώτηση και δώσε μία μόνο απάντηση χωρίς καμία εξήγηση.
+
+Ερώτηση: {q}
+Απάντηση:","Διάβασε την ακόλουθη ερώτηση και δώσε μία μόνο απάντηση χωρίς καμία εξήγηση.
+
+Ερώτηση: {q}
+Απάντηση:"
+pers-3,"You are a person from Greece who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Είσαι ένας άνθρωπος από την Ελλάδα που προσπαθεί να εξηγήσει τον πολιτισμό της χώρας του σε έναν ξένο. Απάντησε στην ακόλουθη ερώτηση, δίνοντας μία μόνο απάντηση χωρίς καμία εξήγηση.
+
+{q}","Είσαι ένας άνθρωπος από την Ελλάδα που προσπαθεί να εξηγήσει τον πολιτισμό της χώρας του σε έναν ξένο. Απάντησε στην ακόλουθη ερώτηση, δίνοντας μία μόνο απάντηση χωρίς καμία εξήγηση.
+
+{q}"

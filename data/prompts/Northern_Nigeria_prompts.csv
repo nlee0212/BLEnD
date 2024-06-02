@@ -1,0 +1,25 @@
+id,English,Translation,Edited
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","Ba da amsa guda daya ga tambayar gajerun amsa mai zuwa a tsoho, ko kuma har zuwa uku idan akwai bukata, ba tare da bayanai ba.
+
+Tambaya: {q}
+Amsa:","Ba da amsa guda daya ga tambayar nan mai gajeriyar amsa, ko kuma har zuwa uku idan akwai bukata, ba tare da bayanai ba."
+pers-6,"You are a person from Northern Nigeria who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","Kai mutum ne daga Arewacin Najeriya da ke kokarin bayyana al'adun kasarka ga bako. Ba da amsa guda daya ga tambayar gajerun amsa mai zuwa a tsoho, ko kuma har zuwa uku idan akwai bukata, ba tare da bayanai ba.
+
+{q}","Kai mutum ne daga Arewacin Najeriya da ke kokarin bayyana al'adun kasarka ga bako. Ba da amsa guda daya ga tambayar nan mai gajeriyar amsa, ko kuma har zuwa uku idan akwai bukata, ba tare da bayanai ba."
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Karanta tambayar da ke ƙasa kuma ka bayar da amsa guda ba tare da wani bayani ba.
+
+Tambaya: {q}
+Amsa:",N
+pers-3,"You are a person from Northern Nigeria who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Kai mutum ne daga Arewacin Najeriya da ke ƙoƙarin bayyana al'adun ƙasarka ga baƙo. Amsa tambayar da ke ƙasa, ka bayar da amsa guda ba tare da wani bayani ba.
+
+{q}",Y

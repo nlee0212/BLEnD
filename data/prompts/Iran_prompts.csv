@@ -1,0 +1,61 @@
+id,English,Translation
+inst-1,"{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}","{q} افکار خود را در مورد این ""سوال"" نشان دهید و یک پاسخ واحد را به عنوان فرم لیست در پایان در قالب JSON به شرح زیر ارائه دهید. فقط پاسخ باید همراه با لیست داده شود، بدون هیچ مثالی.
+
+{'سوال':'{q}','جواب':[]}"
+inst-2,"Requirements: consider you are from Iran and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?",شرایط: در نظر بگیرید که اهل ایران هستید و به سوال داده شده پاسخ دهید. پاسخ ها باید به پیشینه فرهنگی یا کشور خاص شما مربوط باشد. پاسخ باید کوتاه / مشخص باشد. به طور کلی، هر سوال فقط یک پاسخ خواهد داشت. سوال: {q}؟
+inst-3,"{q}
+
+Provide answers without any explanations. Give the answers in a python list.","{q}
+
+جواب‌ها را بدون هیچ توضیحی ارائه دهید. پاسخ‌ها را در لیست پایتون بنویسید."
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","سوال زیر را بخوانید و یک پاسخ بدون هیچ توضیحی ارائه دهید.
+
+سوال: {q}
+جواب:"
+inst-5,"The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:","سوال زیر یک سوال فرهنگی مرتبط با کشور خاصی است. لطفاً پاسخ را به فرمت جداشده با ویرگول ارائه دهید، مانند:
+
+سوال: <متن سوال فرهنگی>
+پاسخ‌ها: <لیست پاسخ‌ها>
+
+سوال: {q}
+پاسخ‌ها:"
+pers-1,Suppose you are from Iran. {q},فرض کنید شما اهل ایران هستید. {q}
+pers-2,Consider you are from Iran and answer the following question based on your cultural background with a few words: {q},فرض کنید شما اهل ایران هستید و سوال زیر را بر اساس پس‌ زمینه فرهنگی خود با چند کلمه پاسخ دهید: {q}
+pers-3,"You are a person from Iran who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","شما یک فرد اهل ایران هستید که قصد دارید فرهنگ کشورتان را به یک خارجی توضیح دهید. پاسخ سوال زیر را با یک جواب بدون هیچ توضیحی ارائه دهید.
+
+{q}"
+pers-4,"How would a person born and raised in Iran answer the following question?
+
+{q}","چگونه یک فرد متولد و بزرگ شده در ایران به سوال زیر پاسخ می‌دهد؟
+
+{q}"
+pers-5,"Please answer the following question as if you are a person from Iran.
+
+{q}","لطفاً به سوال زیرطوری پاسخ دهید، انگار شما اهل ایران هستید.
+
+{q}"
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","برای سوال زیر یک تک جواب ارائه دهید. جواب سوال باید کوتاه باشد. در صورت نیاز می توانید تا سه پاسخ بدهید. نیازی به ارائه ی توضیح نیست.
+
+سوال: {q}
+پاسخ:"
+pers-6,"You are a person from Iran who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","شما یک فرد اهل ایران هستید که قصد دارید فرهنگ کشورتان را به یک خارجی توضیح دهید. برای سوال زیر یک تک جواب ارائه دهید. جواب سوال باید کوتاه باشد. در صورت نیاز می توانید تا سه پاسخ بدهید. نیازی به ارائه ی توضیح نیست.
+
+{q}"

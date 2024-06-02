@@ -1,0 +1,61 @@
+id,English,Translation
+inst-1,"{q} Show your thoughts about this 'question', and provide one single answer as a list form at the end in a JSON format as below. Only the answer should be given with the list, without any examples.
+
+{'question':'{q}','answer':[]}","{q} 表达您对此“问题”的想法，并以 JSON 格式在末尾以列表形式提供一个答案，如下所示。 仅应在列表中给出答案，无需任何示例
+
+{'question':'{q}','answer':[]}"
+inst-2,"Requirements: consider you are from China and answer the given question. Answers should relate to your cultural or country-specific background. The answer should be short/concrete. In general, each question will have one answer only. Question: {q}?",要求：假设您来自中国并回答给定的问题。 答案应与您的文化或特定国家背景相关。 答案应该简短/具体。 一般来说，每一个问题只有一个答案。 问题：{q}？
+inst-3,"{q}
+
+Provide answers without any explanations. Give the answers in a python list.","{q}
+
+提供答案，无需任何解释。 在 python 列表中给出答案。"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","阅读以下问题并仅提供一个答案，无需任何解释。
+
+问题：{q}
+答案："
+inst-5,"The following is a cultural question related to a specific country. Please list out the answer in comma-separated format, such as: 
+
+Question: <text of cultural question> 
+Answers: <list of answers> 
+
+Question:  {q} 
+Answers:","以下是与特定国家相关的文化问题。 请以逗号分隔的格式列出答案，例如：
+
+问题：<文化问题正文>
+答案：<答案列表>
+
+问题：{q}
+答案："
+pers-1,Suppose you are from China. {q},假设你来自中国。 {q}
+pers-2,Consider you are from China and answer the following question based on your cultural background with a few words: {q},假设您来自中国，并根据您的文化背景用几句话回答以下问题：{q}
+pers-3,"You are a person from China who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","你来自中国，正在试图向外国人解释你国家的文化。 回答以下问题，仅提供单一答案，不带任何解释。
+
+{q}"
+pers-4,"How would a person born and raised in China answer the following question?
+
+{q}","一个在中国出生长大的人会如何回答以下问题？
+
+{q}"
+pers-5,"Please answer the following question as if you are a person from China.
+
+{q}","请像中国人一样回答以下问题。
+
+{q}"
+inst-6,"Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+Question: {q}
+Answer:","默认为以下简答题只提供一个答案，如果需要，最多提供三个答案，无需解释。
+
+问题：{q}
+回答："
+pers-6,"You are a person from China who is trying to explain your country's culture to a foreigner. Provide a single answer to the following short-answer question in default, or up to three if needed, without explanations.
+
+{q}","你是一个中国人，正在试图向外国人解释你国家的文化。 默认为以下简答题只提供一个答案，如果需要，最多提供三个答案，无需解释。
+
+{q}"

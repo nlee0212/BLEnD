@@ -1,0 +1,25 @@
+id,English,Translation
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Aşağıdakı sualı oxuyun və heç bir izahatsız tək bir cavab verin.
+
+Sual: {q}
+Cavab:"
+pers-3,"You are a person from Azerbaijan who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Siz Azərbaycandan olan bir şəxssiniz və ölkənizin mədəniyyətini xarici bir şəxsə izah etməyə çalışırsınız. Aşağıdakı suala açıqlama vermədən yalnız bir cavab verərək cavablayın.
+
+{q}"
+inst-4,"Read the following question and provide a single answer without any explanations.
+
+Question: {q}
+Answer:","Aşağıdakı sualı oxuyun və izahsız bir cavab təqdim edin.
+
+Sual: {q}
+Cavab: "
+pers-3,"You are a person from Azerbaijan who is trying to explain your country's culture to a foreigner. Answer the following question, providing a single answer without any explanations.
+
+{q}","Siz Azərbaycandan olan bir şəxssiniz və ölkənizin mədəniyyətini bir xariciyə izah etməyə çalışırsınız. Aşağıdakı sualı izahatsız, yalnız bir cavabla təqdim edin.
+
+{q}"
