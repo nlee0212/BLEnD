@@ -9860,46 +9860,56 @@
         "annotations": [
             {
                 "answers": [
-                    "florida"
+                    "florida",
+                    "fl"
                 ],
                 "en_answers": [
-                    "florida"
+                    "florida",
+                    "fl"
                 ],
                 "count": 4
             },
             {
                 "answers": [
-                    "hawaii"
+                    "hawaii",
+                    "hi"
                 ],
                 "en_answers": [
-                    "hawaii"
+                    "hawaii",
+                    "hi"
                 ],
                 "count": 2
             },
             {
                 "answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "en_answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "count": 2
             },
             {
                 "answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "en_answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "alaska"
+                    "alaska",
+                    "ak"
                 ],
                 "en_answers": [
-                    "alaska"
+                    "alaska",
+                    "ak"
                 ],
                 "count": 1
             }
@@ -9917,11 +9927,15 @@
             {
                 "answers": [
                     "honeymoon travel",
-                    "honey moon travel"
+                    "honey moon travel",
+                    "honeymoon",
+                    "going on a honeymoon"
                 ],
                 "en_answers": [
                     "honeymoon travel",
-                    "honey moon travel"
+                    "honey moon travel",
+                    "honeymoon",
+                    "going on a honeymoon"
                 ],
                 "count": 1
             },
@@ -10125,10 +10139,12 @@
         "annotations": [
             {
                 "answers": [
-                    "sleep late"
+                    "sleep late",
+                    "stay up late"
                 ],
                 "en_answers": [
-                    "sleep late"
+                    "sleep late",
+                    "stay up late"
                 ],
                 "count": 1
             },
@@ -10671,19 +10687,23 @@
             },
             {
                 "answers": [
-                    "programmer"
+                    "programmer",
+                    "coding"
                 ],
                 "en_answers": [
-                    "programmer"
+                    "programmer",
+                    "coding"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "doctor"
+                    "doctor",
+                    "medicine"
                 ],
                 "en_answers": [
-                    "doctor"
+                    "doctor",
+                    "medicine"
                 ],
                 "count": 1
             },
@@ -10716,10 +10736,12 @@
             },
             {
                 "answers": [
-                    "accountant"
+                    "accountant",
+                    "accounting"
                 ],
                 "en_answers": [
-                    "accountant"
+                    "accountant",
+                    "accounting"
                 ],
                 "count": 1
             }
@@ -10738,23 +10760,29 @@
                 "answers": [
                     "new york",
                     "nyc",
-                    "new york city"
+                    "new york city",
+                    "ny"
                 ],
                 "en_answers": [
                     "new york",
                     "nyc",
-                    "new york city"
+                    "new york city",
+                    "ny"
                 ],
                 "count": 5
             },
             {
                 "answers": [
                     "los angeles",
-                    "los angles"
+                    "los angles",
+                    "la",
+                    "chi"
                 ],
                 "en_answers": [
                     "los angeles",
-                    "los angles"
+                    "los angles",
+                    "la",
+                    "chi"
                 ],
                 "count": 3
             },
@@ -10818,10 +10846,12 @@
             },
             {
                 "answers": [
-                    "it"
+                    "it",
+                    "information technology"
                 ],
                 "en_answers": [
-                    "it"
+                    "it",
+                    "information technology"
                 ],
                 "count": 1
             }
@@ -11190,10 +11220,12 @@
             },
             {
                 "answers": [
-                    "burger"
+                    "burger",
+                    "hamburger"
                 ],
                 "en_answers": [
-                    "burger"
+                    "burger",
+                    "hamburger"
                 ],
                 "count": 1
             },
@@ -11402,39 +11434,25 @@
         "annotations": [
             {
                 "answers": [
-                    "canned soup"
+                    "canned soup",
+                    "soup"
                 ],
                 "en_answers": [
-                    "canned soup"
+                    "canned soup",
+                    "soup"
+                ],
+                "count": 3
+            },
+            {
+                "answers": [
+                    "canned goods",
+                    "canned foods"
+                ],
+                "en_answers": [
+                    "canned goods",
+                    "canned foods"
                 ],
                 "count": 2
-            },
-            {
-                "answers": [
-                    "canned goods"
-                ],
-                "en_answers": [
-                    "canned goods"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "soup"
-                ],
-                "en_answers": [
-                    "soup"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "canned foods"
-                ],
-                "en_answers": [
-                    "canned foods"
-                ],
-                "count": 1
             }
         ],
         "idks": {
@@ -11625,10 +11643,12 @@
         "annotations": [
             {
                 "answers": [
-                    "ranch"
+                    "ranch",
+                    "ranch dressing"
                 ],
                 "en_answers": [
-                    "ranch"
+                    "ranch",
+                    "ranch dressing"
                 ],
                 "count": 4
             },
@@ -11643,9 +11663,11 @@
             },
             {
                 "answers": [
+                    "barbeque",
                     "barbecue"
                 ],
                 "en_answers": [
+                    "barbeque",
                     "barbecue"
                 ],
                 "count": 1
@@ -11699,10 +11721,12 @@
             },
             {
                 "answers": [
-                    "vegetables"
+                    "vegetables",
+                    "veggies"
                 ],
                 "en_answers": [
-                    "vegetables"
+                    "vegetables",
+                    "veggies"
                 ],
                 "count": 1
             }
@@ -12718,12 +12742,14 @@
                 "answers": [
                     "football",
                     "american football",
-                    "nfl"
+                    "nfl",
+                    "national football league"
                 ],
                 "en_answers": [
                     "football",
                     "american football",
-                    "nfl"
+                    "nfl",
+                    "national football league"
                 ],
                 "count": 4
             },
@@ -12731,12 +12757,14 @@
                 "answers": [
                     "basketball",
                     "nba",
-                    "mba"
+                    "mba",
+                    "national basketball association"
                 ],
                 "en_answers": [
                     "basketball",
                     "nba",
-                    "mba"
+                    "mba",
+                    "national basketball association"
                 ],
                 "count": 3
             },
@@ -12753,10 +12781,12 @@
             },
             {
                 "answers": [
-                    "nhl"
+                    "nhl",
+                    "national hockey league"
                 ],
                 "en_answers": [
-                    "nhl"
+                    "nhl",
+                    "national hockey league"
                 ],
                 "count": 1
             },
@@ -13213,19 +13243,23 @@
         "annotations": [
             {
                 "answers": [
-                    "new england"
+                    "new england",
+                    "ne"
                 ],
                 "en_answers": [
-                    "new england"
+                    "new england",
+                    "ne"
                 ],
                 "count": 2
             },
             {
                 "answers": [
+                    "northeast coastal states",
                     "northeast coasts",
                     "northeast"
                 ],
                 "en_answers": [
+                    "northeast coastal states",
                     "northeast coasts",
                     "northeast"
                 ],
@@ -13233,27 +13267,33 @@
             },
             {
                 "answers": [
-                    "new orleans"
+                    "new orleans",
+                    "no"
                 ],
                 "en_answers": [
-                    "new orleans"
+                    "new orleans",
+                    "no"
                 ],
                 "count": 1
             },
             {
                 "answers": [
+                    "southeast coastal states",
                     "southeast coasts"
                 ],
                 "en_answers": [
+                    "southeast coastal states",
                     "southeast coasts"
                 ],
                 "count": 1
             },
             {
                 "answers": [
+                    "west coast",
                     "west coasts"
                 ],
                 "en_answers": [
+                    "west coast",
                     "west coasts"
                 ],
                 "count": 1
@@ -13451,10 +13491,12 @@
             },
             {
                 "answers": [
-                    "uk"
+                    "uk",
+                    "united kingdom"
                 ],
                 "en_answers": [
-                    "uk"
+                    "uk",
+                    "united kingdom"
                 ],
                 "count": 1
             },
@@ -13789,10 +13831,12 @@
             },
             {
                 "answers": [
-                    "hamburger"
+                    "hamburger",
+                    "burger"
                 ],
                 "en_answers": [
-                    "hamburger"
+                    "hamburger",
+                    "burger"
                 ],
                 "count": 1
             },
@@ -13985,6 +14029,19 @@
         "annotations": [
             {
                 "answers": [
+                    "burgers",
+                    "burger",
+                    "hamburgers"
+                ],
+                "en_answers": [
+                    "burgers",
+                    "burger",
+                    "hamburgers"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "cheeseburger"
                 ],
                 "en_answers": [
@@ -14021,15 +14078,6 @@
             },
             {
                 "answers": [
-                    "burgers"
-                ],
-                "en_answers": [
-                    "burgers"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
                     "tater tots"
                 ],
                 "en_answers": [
@@ -14045,15 +14093,6 @@
                 "en_answers": [
                     "negroni aged cheese",
                     "nwgroni aged cheese"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "burger"
-                ],
-                "en_answers": [
-                    "burger"
                 ],
                 "count": 1
             },
@@ -14314,6 +14353,17 @@
         "annotations": [
             {
                 "answers": [
+                    "frozen pizza",
+                    "pizza"
+                ],
+                "en_answers": [
+                    "frozen pizza",
+                    "pizza"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "frozen entrees"
                 ],
                 "en_answers": [
@@ -14332,10 +14382,12 @@
             },
             {
                 "answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "en_answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "count": 1
             },
@@ -14354,24 +14406,6 @@
                 ],
                 "en_answers": [
                     "chicken sandwiches"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "frozen pizza"
-                ],
-                "en_answers": [
-                    "frozen pizza"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "pizza"
-                ],
-                "en_answers": [
-                    "pizza"
                 ],
                 "count": 1
             },
@@ -14671,10 +14705,12 @@
             },
             {
                 "answers": [
+                    "mayweather",
                     "maywhether",
                     "floyd mayweather"
                 ],
                 "en_answers": [
+                    "mayweather",
                     "maywhether",
                     "floyd mayweather"
                 ],
@@ -14818,46 +14854,60 @@
         "annotations": [
             {
                 "answers": [
-                    "new york city"
+                    "new york city",
+                    "new york",
+                    "nyc",
+                    "ny"
                 ],
                 "en_answers": [
-                    "new york city"
+                    "new york city",
+                    "new york",
+                    "nyc",
+                    "ny"
+                ],
+                "count": 3
+            },
+            {
+                "answers": [
+                    "los angeles",
+                    "la"
+                ],
+                "en_answers": [
+                    "los angeles",
+                    "la"
                 ],
                 "count": 2
             },
             {
                 "answers": [
-                    "los angeles"
+                    "florida",
+                    "fl"
                 ],
                 "en_answers": [
-                    "los angeles"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "florida"
-                ],
-                "en_answers": [
-                    "florida"
+                    "florida",
+                    "fl"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "texas"
+                    "texas",
+                    "tx"
                 ],
                 "en_answers": [
-                    "texas"
+                    "texas",
+                    "tx"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "en_answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "count": 1
             },
@@ -14872,37 +14922,34 @@
             },
             {
                 "answers": [
-                    "baltimore"
+                    "baltimore",
+                    "bal"
                 ],
                 "en_answers": [
-                    "baltimore"
+                    "baltimore",
+                    "bal"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "new york"
+                    "seattle",
+                    "sea"
                 ],
                 "en_answers": [
-                    "new york"
+                    "seattle",
+                    "sea"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "seattle"
+                    "boston",
+                    "bos"
                 ],
                 "en_answers": [
-                    "seattle"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "boston"
-                ],
-                "en_answers": [
-                    "boston"
+                    "boston",
+                    "bos"
                 ],
                 "count": 1
             }
@@ -14987,10 +15034,12 @@
         "annotations": [
             {
                 "answers": [
-                    "clothing"
+                    "clothing",
+                    "clothes"
                 ],
                 "en_answers": [
-                    "clothing"
+                    "clothing",
+                    "clothes"
                 ],
                 "count": 1
             },
@@ -15014,10 +15063,12 @@
             },
             {
                 "answers": [
-                    "doctor"
+                    "doctor",
+                    "medicine"
                 ],
                 "en_answers": [
-                    "doctor"
+                    "doctor",
+                    "medicine"
                 ],
                 "count": 1
             },
@@ -15050,10 +15101,12 @@
             },
             {
                 "answers": [
-                    "tech"
+                    "tech",
+                    "technology"
                 ],
                 "en_answers": [
-                    "tech"
+                    "tech",
+                    "technology"
                 ],
                 "count": 1
             }
@@ -15071,13 +15124,15 @@
             {
                 "answers": [
                     "phone calls",
+                    "phone",
                     "phone call"
                 ],
                 "en_answers": [
                     "phone calls",
+                    "phone",
                     "phone call"
                 ],
-                "count": 2
+                "count": 3
             },
             {
                 "answers": [
@@ -15085,15 +15140,6 @@
                 ],
                 "en_answers": [
                     "video calls"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "phone"
-                ],
-                "en_answers": [
-                    "phone"
                 ],
                 "count": 1
             },
@@ -15418,10 +15464,12 @@
             },
             {
                 "answers": [
-                    "technology"
+                    "technology",
+                    "tech"
                 ],
                 "en_answers": [
-                    "technology"
+                    "technology",
+                    "tech"
                 ],
                 "count": 1
             },
@@ -15535,11 +15583,13 @@
             {
                 "answers": [
                     "dormitories",
-                    "dorm rooms"
+                    "dorm rooms",
+                    "dorms"
                 ],
                 "en_answers": [
                     "dormitories",
-                    "dorm rooms"
+                    "dorm rooms",
+                    "dorms"
                 ],
                 "count": 3
             },
@@ -15881,10 +15931,12 @@
             },
             {
                 "answers": [
-                    "baked goods"
+                    "baked goods",
+                    "pastries"
                 ],
                 "en_answers": [
-                    "baked goods"
+                    "baked goods",
+                    "pastries"
                 ],
                 "count": 1
             },
@@ -16982,10 +17034,12 @@
             },
             {
                 "answers": [
-                    "biotech"
+                    "biotech",
+                    "bio-technology"
                 ],
                 "en_answers": [
-                    "biotech"
+                    "biotech",
+                    "bio-technology"
                 ],
                 "count": 1
             },
@@ -17423,11 +17477,15 @@
             {
                 "answers": [
                     "uk",
-                    "the u.k."
+                    "the u.k.",
+                    "united kingdom",
+                    "the united kingdom"
                 ],
                 "en_answers": [
                     "uk",
-                    "the u.k."
+                    "the u.k.",
+                    "united kingdom",
+                    "the united kingdom"
                 ],
                 "count": 2
             },
@@ -17549,9 +17607,11 @@
             },
             {
                 "answers": [
+                    "charles dickens",
                     "charles dickins"
                 ],
                 "en_answers": [
+                    "charles dickens",
                     "charles dickins"
                 ],
                 "count": 1
@@ -17694,12 +17754,16 @@
         "annotations": [
             {
                 "answers": [
-                    "atlanta"
+                    "atlanta",
+                    "jackson international airport (atl)",
+                    "atl"
                 ],
                 "en_answers": [
-                    "atlanta"
+                    "atlanta",
+                    "jackson international airport (atl)",
+                    "atl"
                 ],
-                "count": 3
+                "count": 4
             },
             {
                 "answers": [
@@ -17718,15 +17782,6 @@
                 ],
                 "en_answers": [
                     "newark"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "jackson international airport (atl)"
-                ],
-                "en_answers": [
-                    "jackson international airport (atl)"
                 ],
                 "count": 1
             },
@@ -17764,11 +17819,15 @@
             {
                 "answers": [
                     "new york",
-                    "new york city"
+                    "new york city",
+                    "ny",
+                    "nyc"
                 ],
                 "en_answers": [
                     "new york",
-                    "new york city"
+                    "new york city",
+                    "ny",
+                    "nyc"
                 ],
                 "count": 4
             },
@@ -17783,10 +17842,12 @@
             },
             {
                 "answers": [
-                    "los angeles"
+                    "los angeles",
+                    "la"
                 ],
                 "en_answers": [
-                    "los angeles"
+                    "los angeles",
+                    "la"
                 ],
                 "count": 1
             }
@@ -17879,12 +17940,12 @@
             },
             {
                 "answers": [
-                    "marriot",
-                    "marriott"
+                    "marriott",
+                    "marriot"
                 ],
                 "en_answers": [
-                    "marriot",
-                    "marriott"
+                    "marriott",
+                    "marriot"
                 ],
                 "count": 2
             },
@@ -17955,10 +18016,12 @@
             },
             {
                 "answers": [
-                    "donuts"
+                    "donuts",
+                    "doughnuts"
                 ],
                 "en_answers": [
-                    "donuts"
+                    "donuts",
+                    "doughnuts"
                 ],
                 "count": 1
             },
@@ -18011,10 +18074,12 @@
             },
             {
                 "answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "en_answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "count": 2
             },
@@ -18029,10 +18094,12 @@
             },
             {
                 "answers": [
-                    "ramen"
+                    "ramen",
+                    "ramen noodles"
                 ],
                 "en_answers": [
-                    "ramen"
+                    "ramen",
+                    "ramen noodles"
                 ],
                 "count": 1
             },
@@ -18047,10 +18114,12 @@
             },
             {
                 "answers": [
-                    "chicken wings"
+                    "chicken wings",
+                    "wings"
                 ],
                 "en_answers": [
-                    "chicken wings"
+                    "chicken wings",
+                    "wings"
                 ],
                 "count": 1
             }
@@ -18273,19 +18342,12 @@
             },
             {
                 "answers": [
-                    "indianapolis"
+                    "sprinting",
+                    "sprints"
                 ],
                 "en_answers": [
-                    "indianapolis"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "sprinting"
-                ],
-                "en_answers": [
-                    "sprinting"
+                    "sprinting",
+                    "sprints"
                 ],
                 "count": 1
             }
@@ -18311,10 +18373,12 @@
             },
             {
                 "answers": [
-                    "f1"
+                    "f1",
+                    "formula 1"
                 ],
                 "en_answers": [
-                    "f1"
+                    "f1",
+                    "formula 1"
                 ],
                 "count": 1
             },
@@ -18434,10 +18498,12 @@
             },
             {
                 "answers": [
-                    "phds"
+                    "phds",
+                    "doctor of philosophy"
                 ],
                 "en_answers": [
-                    "phds"
+                    "phds",
+                    "doctor of philosophy"
                 ],
                 "count": 1
             },
@@ -18452,9 +18518,11 @@
             },
             {
                 "answers": [
+                    "internships",
                     "interships"
                 ],
                 "en_answers": [
+                    "internships",
                     "interships"
                 ],
                 "count": 1
@@ -18685,10 +18753,12 @@
             },
             {
                 "answers": [
-                    "soft drinks"
+                    "soft drinks",
+                    "sodas"
                 ],
                 "en_answers": [
-                    "soft drinks"
+                    "soft drinks",
+                    "sodas"
                 ],
                 "count": 2
             },
@@ -18714,10 +18784,12 @@
         "annotations": [
             {
                 "answers": [
-                    "hamburgers"
+                    "hamburgers",
+                    "burgers"
                 ],
                 "en_answers": [
-                    "hamburgers"
+                    "hamburgers",
+                    "burgers"
                 ],
                 "count": 2
             },
@@ -18732,10 +18804,14 @@
             },
             {
                 "answers": [
-                    "barbecue"
+                    "barbeque",
+                    "barbecue",
+                    "bbq"
                 ],
                 "en_answers": [
-                    "barbecue"
+                    "barbeque",
+                    "barbecue",
+                    "bbq"
                 ],
                 "count": 1
             },
@@ -18750,10 +18826,12 @@
             },
             {
                 "answers": [
-                    "french fries"
+                    "french fries",
+                    "fries"
                 ],
                 "en_answers": [
-                    "french fries"
+                    "french fries",
+                    "fries"
                 ],
                 "count": 1
             }
@@ -18996,10 +19074,12 @@
             },
             {
                 "answers": [
-                    "las vegas"
+                    "las vegas",
+                    "lv"
                 ],
                 "en_answers": [
-                    "las vegas"
+                    "las vegas",
+                    "lv"
                 ],
                 "count": 1
             },
@@ -19014,10 +19094,12 @@
             },
             {
                 "answers": [
-                    "ca"
+                    "ca",
+                    "california"
                 ],
                 "en_answers": [
-                    "ca"
+                    "ca",
+                    "california"
                 ],
                 "count": 1
             }
@@ -19043,11 +19125,15 @@
             },
             {
                 "answers": [
+                    "dunkin'",
                     "dunkin",
+                    "dunkin' donuts",
                     "dunkin donuts"
                 ],
                 "en_answers": [
+                    "dunkin'",
                     "dunkin",
+                    "dunkin' donuts",
                     "dunkin donuts"
                 ],
                 "count": 2
@@ -19172,19 +19258,23 @@
             },
             {
                 "answers": [
-                    "nevada"
+                    "nevada",
+                    "nv"
                 ],
                 "en_answers": [
-                    "nevada"
+                    "nevada",
+                    "nv"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "en_answers": [
-                    "california"
+                    "california",
+                    "ca"
                 ],
                 "count": 1
             },
@@ -19199,10 +19289,12 @@
             },
             {
                 "answers": [
-                    "west virginia"
+                    "west virginia",
+                    "wv"
                 ],
                 "en_answers": [
-                    "west virginia"
+                    "west virginia",
+                    "wv"
                 ],
                 "count": 1
             }
@@ -19219,10 +19311,12 @@
         "annotations": [
             {
                 "answers": [
-                    "texas"
+                    "texas",
+                    "tx"
                 ],
                 "en_answers": [
-                    "texas"
+                    "texas",
+                    "tx"
                 ],
                 "count": 2
             },
@@ -19239,19 +19333,23 @@
             },
             {
                 "answers": [
-                    "alaska"
+                    "alaska",
+                    "ak"
                 ],
                 "en_answers": [
-                    "alaska"
+                    "alaska",
+                    "ak"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "florida"
+                    "florida",
+                    "fl"
                 ],
                 "en_answers": [
-                    "florida"
+                    "florida",
+                    "fl"
                 ],
                 "count": 1
             },
@@ -19290,10 +19388,12 @@
             },
             {
                 "answers": [
-                    "caltech"
+                    "caltech",
+                    "california institute of technology"
                 ],
                 "en_answers": [
-                    "caltech"
+                    "caltech",
+                    "california institute of technology"
                 ],
                 "count": 2
             },
@@ -19350,10 +19450,12 @@
             },
             {
                 "answers": [
-                    "unc"
+                    "unc",
+                    "university of north carolina"
                 ],
                 "en_answers": [
-                    "unc"
+                    "unc",
+                    "university of north carolina"
                 ],
                 "count": 1
             },
@@ -19386,10 +19488,12 @@
             },
             {
                 "answers": [
-                    "carnegie mellon"
+                    "carnegie mellon",
+                    "cmu"
                 ],
                 "en_answers": [
-                    "carnegie mellon"
+                    "carnegie mellon",
+                    "cmu"
                 ],
                 "count": 1
             }
@@ -19802,13 +19906,13 @@
         "annotations": [
             {
                 "answers": [
-                    "paul bunyan",
                     "paul bunyon",
+                    "paul bunyan",
                     "paul bunion"
                 ],
                 "en_answers": [
-                    "paul bunyan",
                     "paul bunyon",
+                    "paul bunyan",
                     "paul bunion"
                 ],
                 "count": 3
@@ -20072,10 +20176,12 @@
             },
             {
                 "answers": [
-                    "mlm"
+                    "mlm",
+                    "multi-level marketing"
                 ],
                 "en_answers": [
-                    "mlm"
+                    "mlm",
+                    "multi-level marketing"
                 ],
                 "count": 1
             },
@@ -20099,19 +20205,23 @@
             },
             {
                 "answers": [
-                    "some type of sales"
+                    "some type of sales",
+                    "sales"
                 ],
                 "en_answers": [
-                    "some type of sales"
+                    "some type of sales",
+                    "sales"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "wait tables"
+                    "wait tables",
+                    "waiter"
                 ],
                 "en_answers": [
-                    "wait tables"
+                    "wait tables",
+                    "waiter"
                 ],
                 "count": 1
             }
@@ -20146,10 +20256,12 @@
             },
             {
                 "answers": [
-                    "hamburgers"
+                    "hamburgers",
+                    "burgers"
                 ],
                 "en_answers": [
-                    "hamburgers"
+                    "hamburgers",
+                    "burgers"
                 ],
                 "count": 1
             },
@@ -20213,10 +20325,12 @@
             },
             {
                 "answers": [
-                    "gumbo (cajun style)"
+                    "gumbo (cajun style)",
+                    "gumbo"
                 ],
                 "en_answers": [
-                    "gumbo (cajun style)"
+                    "gumbo (cajun style)",
+                    "gumbo"
                 ],
                 "count": 1
             },
@@ -20524,10 +20638,12 @@
             },
             {
                 "answers": [
-                    "bbq related items"
+                    "bbq related items",
+                    "barbeque related items"
                 ],
                 "en_answers": [
-                    "bbq related items"
+                    "bbq related items",
+                    "barbeque related items"
                 ],
                 "count": 1
             },
@@ -20571,19 +20687,23 @@
             },
             {
                 "answers": [
-                    "clothing"
+                    "dinner",
+                    "taken to a restaurant",
+                    "taken to a resturant"
                 ],
                 "en_answers": [
-                    "clothing"
+                    "dinner",
+                    "taken to a restaurant",
+                    "taken to a resturant"
                 ],
-                "count": 1
+                "count": 2
             },
             {
                 "answers": [
-                    "dinner"
+                    "clothing"
                 ],
                 "en_answers": [
-                    "dinner"
+                    "clothing"
                 ],
                 "count": 1
             },
@@ -20611,15 +20731,6 @@
                 ],
                 "en_answers": [
                     "perfume"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "taken to a resturant"
-                ],
-                "en_answers": [
-                    "taken to a resturant"
                 ],
                 "count": 1
             }
@@ -20696,12 +20807,14 @@
                 "answers": [
                     "sports",
                     "soccer / sports",
-                    "sports programs"
+                    "sports programs",
+                    "athletics"
                 ],
                 "en_answers": [
                     "sports",
                     "soccer / sports",
-                    "sports programs"
+                    "sports programs",
+                    "athletics"
                 ],
                 "count": 4
             },
@@ -20858,10 +20971,12 @@
         "annotations": [
             {
                 "answers": [
-                    "picnic"
+                    "picnic",
+                    "picnicking"
                 ],
                 "en_answers": [
-                    "picnic"
+                    "picnic",
+                    "picnicking"
                 ],
                 "count": 3
             },
@@ -20885,10 +21000,12 @@
             },
             {
                 "answers": [
-                    "walk dog"
+                    "walk dog",
+                    "dog walking"
                 ],
                 "en_answers": [
-                    "walk dog"
+                    "walk dog",
+                    "dog walking"
                 ],
                 "count": 1
             },
@@ -20903,10 +21020,12 @@
             },
             {
                 "answers": [
-                    "camp"
+                    "camp",
+                    "camping"
                 ],
                 "en_answers": [
-                    "camp"
+                    "camp",
+                    "camping"
                 ],
                 "count": 1
             }
@@ -21039,10 +21158,12 @@
             },
             {
                 "answers": [
-                    "uk"
+                    "uk",
+                    "united kingdom"
                 ],
                 "en_answers": [
-                    "uk"
+                    "uk",
+                    "united kingdom"
                 ],
                 "count": 1
             },
@@ -21066,19 +21187,23 @@
             },
             {
                 "answers": [
-                    "califonia"
+                    "califonia",
+                    "ca"
                 ],
                 "en_answers": [
-                    "califonia"
+                    "califonia",
+                    "ca"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "the statue of liberty"
+                    "the statue of liberty",
+                    "lady liberty"
                 ],
                 "en_answers": [
-                    "the statue of liberty"
+                    "the statue of liberty",
+                    "lady liberty"
                 ],
                 "count": 1
             }
@@ -21231,10 +21356,12 @@
             },
             {
                 "answers": [
-                    "soda"
+                    "soda",
+                    "soft drink"
                 ],
                 "en_answers": [
-                    "soda"
+                    "soda",
+                    "soft drink"
                 ],
                 "count": 1
             },
@@ -21259,11 +21386,13 @@
             {
                 "answers": [
                     "reese's",
-                    "receese"
+                    "receese",
+                    "resse's puffs"
                 ],
                 "en_answers": [
                     "reese's",
-                    "receese"
+                    "receese",
+                    "resse's puffs"
                 ],
                 "count": 1
             },
@@ -21414,10 +21543,14 @@
             },
             {
                 "answers": [
-                    "it tech"
+                    "it",
+                    "it tech",
+                    "information technology"
                 ],
                 "en_answers": [
-                    "it tech"
+                    "it",
+                    "it tech",
+                    "information technology"
                 ],
                 "count": 1
             },
@@ -21441,10 +21574,12 @@
             },
             {
                 "answers": [
-                    "mathematics"
+                    "mathematics",
+                    "math"
                 ],
                 "en_answers": [
-                    "mathematics"
+                    "mathematics",
+                    "math"
                 ],
                 "count": 1
             }
@@ -21502,11 +21637,13 @@
             {
                 "answers": [
                     "bbq",
-                    "cookout"
+                    "cookout",
+                    "barbeque"
                 ],
                 "en_answers": [
                     "bbq",
-                    "cookout"
+                    "cookout",
+                    "barbeque"
                 ],
                 "count": 3
             },
@@ -21570,10 +21707,12 @@
             },
             {
                 "answers": [
-                    "soda"
+                    "soda",
+                    "soft drink"
                 ],
                 "en_answers": [
-                    "soda"
+                    "soda",
+                    "soft drink"
                 ],
                 "count": 1
             },
@@ -21680,19 +21819,23 @@
             },
             {
                 "answers": [
-                    "washington d.c."
+                    "washington d.c.",
+                    "dc"
                 ],
                 "en_answers": [
-                    "washington d.c."
+                    "washington d.c.",
+                    "dc"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "en_answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "count": 1
             }
@@ -21710,11 +21853,15 @@
             {
                 "answers": [
                     "happy birthday to you",
-                    "happy birthday"
+                    "happy birthday",
+                    "happy birthday song",
+                    "birthday song"
                 ],
                 "en_answers": [
                     "happy birthday to you",
-                    "happy birthday"
+                    "happy birthday",
+                    "happy birthday song",
+                    "birthday song"
                 ],
                 "count": 5
             }
@@ -21953,10 +22100,12 @@
             },
             {
                 "answers": [
-                    "monster"
+                    "monster",
+                    "coca-cola"
                 ],
                 "en_answers": [
-                    "monster"
+                    "monster",
+                    "coca-cola"
                 ],
                 "count": 1
             }
@@ -22741,10 +22890,12 @@
         "annotations": [
             {
                 "answers": [
-                    "money"
+                    "money",
+                    "cash"
                 ],
                 "en_answers": [
-                    "money"
+                    "money",
+                    "cash"
                 ],
                 "count": 2
             },
@@ -22771,11 +22922,13 @@
             {
                 "answers": [
                     "tuxedo",
-                    "tuxedos"
+                    "tuxedos",
+                    "tux"
                 ],
                 "en_answers": [
                     "tuxedo",
-                    "tuxedos"
+                    "tuxedos",
+                    "tux"
                 ],
                 "count": 3
             },
@@ -23203,10 +23356,12 @@
             },
             {
                 "answers": [
-                    "mit"
+                    "mit",
+                    "massachusetts institute of technology"
                 ],
                 "en_answers": [
-                    "mit"
+                    "mit",
+                    "massachusetts institute of technology"
                 ],
                 "count": 1
             },
@@ -23771,37 +23926,45 @@
         "annotations": [
             {
                 "answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "en_answers": [
-                    "new york"
+                    "new york",
+                    "ny"
                 ],
                 "count": 4
             },
             {
                 "answers": [
-                    "new york city"
+                    "new york city",
+                    "nyc"
                 ],
                 "en_answers": [
-                    "new york city"
+                    "new york city",
+                    "nyc"
                 ],
                 "count": 2
             },
             {
                 "answers": [
-                    "los angeles"
+                    "los angeles",
+                    "la"
                 ],
                 "en_answers": [
-                    "los angeles"
+                    "los angeles",
+                    "la"
                 ],
                 "count": 2
             },
             {
                 "answers": [
-                    "boston"
+                    "boston",
+                    "bos"
                 ],
                 "en_answers": [
-                    "boston"
+                    "boston",
+                    "bos"
                 ],
                 "count": 1
             }
@@ -23858,10 +24021,12 @@
             },
             {
                 "answers": [
-                    "bbq"
+                    "bbq",
+                    "barbeque"
                 ],
                 "en_answers": [
-                    "bbq"
+                    "bbq",
+                    "barbeque"
                 ],
                 "count": 1
             },
@@ -23932,10 +24097,12 @@
             },
             {
                 "answers": [
-                    "usmnt"
+                    "usmnt",
+                    "us men's national team"
                 ],
                 "en_answers": [
-                    "usmnt"
+                    "usmnt",
+                    "us men's national team"
                 ],
                 "count": 1
             }
@@ -23981,37 +24148,45 @@
             },
             {
                 "answers": [
-                    "university of florida"
+                    "university of florida",
+                    "fu"
                 ],
                 "en_answers": [
-                    "university of florida"
+                    "university of florida",
+                    "fu"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "michigan state university"
+                    "michigan state university",
+                    "msu"
                 ],
                 "en_answers": [
-                    "michigan state university"
+                    "michigan state university",
+                    "msu"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "university of south carolina"
+                    "university of south carolina",
+                    "usc"
                 ],
                 "en_answers": [
-                    "university of south carolina"
+                    "university of south carolina",
+                    "usc"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "university of texas at austin"
+                    "university of texas at austin",
+                    "ut austin"
                 ],
                 "en_answers": [
-                    "university of texas at austin"
+                    "university of texas at austin",
+                    "ut austin"
                 ],
                 "count": 1
             }
@@ -24142,10 +24317,12 @@
             },
             {
                 "answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "en_answers": [
-                    "burgers"
+                    "burgers",
+                    "hamburgers"
                 ],
                 "count": 1
             },
@@ -24735,20 +24912,24 @@
             {
                 "answers": [
                     "cubs vs white sox",
-                    "cubs v white sox"
+                    "cubs v white sox",
+                    "chicago cubs vs chicago white sox"
                 ],
                 "en_answers": [
                     "cubs vs white sox",
-                    "cubs v white sox"
+                    "cubs v white sox",
+                    "chicago cubs vs chicago white sox"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "packers vs. bears"
+                    "packers vs. bears",
+                    "green bay packers vs chicago bears"
                 ],
                 "en_answers": [
-                    "packers vs. bears"
+                    "packers vs. bears",
+                    "green bay packers vs chicago bears"
                 ],
                 "count": 1
             },

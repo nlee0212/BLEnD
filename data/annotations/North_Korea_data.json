@@ -413,10 +413,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "pullup bar",
-                    "iron bar",
-                    "horizontal bar",
-                    "high bar"
+                    "bar"
                 ],
                 "count": 1
             }
@@ -952,7 +949,7 @@
                     "꼬니놀이"
                 ],
                 "en_answers": [
-                    "hopscotch"
+                    "kono"
                 ],
                 "count": 1
             },
@@ -1280,7 +1277,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 1
             },
@@ -1289,7 +1286,7 @@
                     "평행봉"
                 ],
                 "en_answers": [
-                    "parallel bars"
+                    "bar"
                 ],
                 "count": 1
             }
@@ -1519,7 +1516,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 1
             },
@@ -1800,9 +1799,10 @@
                     "사사끼"
                 ],
                 "en_answers": [
+                    "card game",
                     "trump",
-                    "playing card",
-                    "card game"
+                    "sasaki",
+                    "playing cards"
                 ],
                 "count": 1
             },
@@ -3309,19 +3309,28 @@
             },
             {
                 "answers": [
-                    "탄생일(3명)"
+                    "탄생일(3명)",
+                    "태양절",
+                    "4·15",
+                    "광명성절"
                 ],
                 "en_answers": [
-                    "birthday (3 people)"
+                    "birthday of kim family",
+                    "birthday of president",
+                    "birthday of kim il sung",
+                    "birthday of kim jong il",
+                    "birthday of kim jong un"
                 ],
                 "count": 1
             },
             {
                 "answers": [
-                    "3.8절"
+                    "3.8절",
+                    "국제부녀절"
                 ],
                 "en_answers": [
-                    "march 8th"
+                    "international women's day",
+                    "march 8"
                 ],
                 "count": 1
             }
@@ -3353,7 +3362,7 @@
                     "학교 졸업 후"
                 ],
                 "en_answers": [
-                    "after graduating from school"
+                    "graduation"
                 ],
                 "count": 1
             },
@@ -3362,15 +3371,18 @@
                     "대학공부"
                 ],
                 "en_answers": [
-                    "university studies"
+                    "university"
                 ],
                 "count": 1
             },
             {
                 "answers": [
+                    "군대 입대",
                     "군대입대"
                 ],
                 "en_answers": [
+                    "join the army",
+                    "conscripted into the army",
                     "military enlistment"
                 ],
                 "count": 1
@@ -3400,6 +3412,7 @@
                     "선물"
                 ],
                 "en_answers": [
+                    "present",
                     "gift"
                 ],
                 "count": 1
@@ -3418,7 +3431,8 @@
                     "식품"
                 ],
                 "en_answers": [
-                    "food"
+                    "food",
+                    "groceries"
                 ],
                 "count": 1
             },
@@ -3476,7 +3490,8 @@
                 ],
                 "en_answers": [
                     "10",
-                    "10 days later"
+                    "after 10 days",
+                    "10 days after birth"
                 ],
                 "count": 2
             },
@@ -3485,7 +3500,10 @@
                     "한달 후"
                 ],
                 "en_answers": [
-                    "one month later"
+                    "after a month",
+                    "after one month",
+                    "a month after birth",
+                    "one month after birth"
                 ],
                 "count": 1
             },
@@ -3494,7 +3512,8 @@
                     "백일"
                 ],
                 "en_answers": [
-                    "100 days"
+                    "100th day",
+                    "hundredth day"
                 ],
                 "count": 1
             }
@@ -3512,37 +3531,22 @@
             {
                 "answers": [
                     "환갑",
+                    "60",
                     "60(환갑)"
                 ],
                 "en_answers": [
+                    "60",
                     "60th birthday"
                 ],
                 "count": 3
             },
             {
                 "answers": [
-                    "양력"
-                ],
-                "en_answers": [
-                    "solar calendar"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "음력"
-                ],
-                "en_answers": [
-                    "lunar calendar"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
                     "돌"
                 ],
                 "en_answers": [
-                    "rock"
+                    "1",
+                    "first birthday"
                 ],
                 "count": 1
             },
@@ -3551,7 +3555,8 @@
                     "진갑"
                 ],
                 "en_answers": [
-                    "60th birthday"
+                    "61",
+                    "61st birthday"
                 ],
                 "count": 1
             }
@@ -3621,6 +3626,8 @@
                     "동네"
                 ],
                 "en_answers": [
+                    "village",
+                    "town",
                     "neighborhood"
                 ],
                 "count": 1
@@ -3639,7 +3646,9 @@
                     "장마당"
                 ],
                 "en_answers": [
-                    "marketplace"
+                    "jangmadang",
+                    "market grounds",
+                    "market"
                 ],
                 "count": 1
             },
@@ -3679,16 +3688,28 @@
                     "자전거"
                 ],
                 "en_answers": [
-                    "bicycle"
+                    "bicycle",
+                    "bike"
                 ],
                 "count": 1
             },
             {
                 "answers": [
+                    "버스",
                     "버스 및 지하철"
                 ],
                 "en_answers": [
-                    "bus and subway"
+                    "bus"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "지하철",
+                    "버스 및 지하철"
+                ],
+                "en_answers": [
+                    "subway"
                 ],
                 "count": 1
             }
@@ -3727,7 +3748,9 @@
                     "예체능"
                 ],
                 "en_answers": [
-                    "arts and physical education"
+                    "art",
+                    "music",
+                    "physical education"
                 ],
                 "count": 2
             },
@@ -3831,7 +3854,9 @@
                     "예체능"
                 ],
                 "en_answers": [
-                    "arts and physical education"
+                    "art",
+                    "music",
+                    "physical education"
                 ],
                 "count": 1
             }
@@ -3976,7 +4001,8 @@
                     "가야금"
                 ],
                 "en_answers": [
-                    "gayageum"
+                    "gayageum",
+                    "korean harp"
                 ],
                 "count": 1
             },
@@ -3985,7 +4011,7 @@
                     "피리"
                 ],
                 "en_answers": [
-                    "flute"
+                    "pipe"
                 ],
                 "count": 1
             }
@@ -4005,7 +4031,8 @@
                     "휴식"
                 ],
                 "en_answers": [
-                    "rest"
+                    "rest",
+                    "break"
                 ],
                 "count": 2
             },
@@ -4015,8 +4042,10 @@
                     "잡담"
                 ],
                 "en_answers": [
-                    "chatting",
-                    "idle talk"
+                    "chat",
+                    "chatter",
+                    "small talk",
+                    "chitchat"
                 ],
                 "count": 2
             },
@@ -4034,7 +4063,8 @@
                     "숙제"
                 ],
                 "en_answers": [
-                    "homework"
+                    "homework",
+                    "assignment"
                 ],
                 "count": 1
             },
@@ -4052,7 +4082,8 @@
                     "체조"
                 ],
                 "en_answers": [
-                    "gymnastics"
+                    "gymnastics",
+                    "exercise"
                 ],
                 "count": 1
             },
@@ -4101,7 +4132,7 @@
                     "덧신(슬리퍼)"
                 ],
                 "en_answers": [
-                    "overshoes (slippers)"
+                    "slipper"
                 ],
                 "count": 1
             },
@@ -4110,6 +4141,7 @@
                     "실내화"
                 ],
                 "en_answers": [
+                    "slippers",
                     "indoor shoes"
                 ],
                 "count": 1
@@ -4149,7 +4181,7 @@
                     "국어"
                 ],
                 "en_answers": [
-                    "national language"
+                    "korean"
                 ],
                 "count": 3
             },
@@ -4161,7 +4193,10 @@
                 ],
                 "en_answers": [
                     "revolutionary history",
-                    "kim il-sung revolutionary history"
+                    "modern and contemporary history",
+                    "modern history",
+                    "contemporary history",
+                    "kim il sung revolutionary history"
                 ],
                 "count": 3
             },
@@ -4194,10 +4229,11 @@
             },
             {
                 "answers": [
+                    "자연과학",
                     "자연과학 등"
                 ],
                 "en_answers": [
-                    "natural science, etc."
+                    "science"
                 ],
                 "count": 1
             }
@@ -4416,6 +4452,7 @@
                     "말타기"
                 ],
                 "en_answers": [
+                    "riding",
                     "horse riding"
                 ],
                 "count": 1
@@ -4460,19 +4497,12 @@
             },
             {
                 "answers": [
-                    "달리기"
-                ],
-                "en_answers": [
-                    "running"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
                     "수중무용"
                 ],
                 "en_answers": [
-                    "underwater ballet"
+                    "synchronized swimming",
+                    "synchronised swimming",
+                    "artistic swimming"
                 ],
                 "count": 1
             }
@@ -4492,7 +4522,7 @@
                     "바둑"
                 ],
                 "en_answers": [
-                    "go (board game)"
+                    "go"
                 ],
                 "count": 2
             },
@@ -4510,7 +4540,9 @@
                     "장기"
                 ],
                 "en_answers": [
-                    "chess"
+                    "janggi",
+                    "changgi",
+                    "korean chess"
                 ],
                 "count": 1
             }
@@ -4559,7 +4591,9 @@
                     "황해도"
                 ],
                 "en_answers": [
-                    "hwanghae province"
+                    "hwanghae",
+                    "hwanghae province",
+                    "hwanghae-do"
                 ],
                 "count": 4
             },
@@ -4568,7 +4602,12 @@
                     "평안도"
                 ],
                 "en_answers": [
-                    "pyongan province"
+                    "p'yŏngan",
+                    "pyeongan",
+                    "pyongan",
+                    "pyongan province",
+                    "pyeong-an-do",
+                    "p'yŏngan-do"
                 ],
                 "count": 1
             },
@@ -4578,7 +4617,12 @@
                     "함경도 등"
                 ],
                 "en_answers": [
-                    "hamgyong province, etc."
+                    "hamgyŏng",
+                    "hamgyeong",
+                    "hamgyong",
+                    "hamgyong province",
+                    "hamgyeong-do",
+                    "hamgyŏng-do"
                 ],
                 "count": 1
             }
@@ -4738,7 +4782,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 1
             }
@@ -4892,7 +4936,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 2
             },
@@ -5018,7 +5064,7 @@
                     "소주"
                 ],
                 "en_answers": [
-                    "alcohol"
+                    "soju"
                 ],
                 "count": 1
             },
@@ -6513,7 +6559,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             },
@@ -6699,7 +6747,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             }
@@ -7701,7 +7751,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 1
             },
@@ -7716,6 +7766,7 @@
             },
             {
                 "answers": [
+                    "높이뛰기",
                     "높이뛰기 등"
                 ],
                 "en_answers": [
@@ -7954,7 +8005,7 @@
                     "사과"
                 ],
                 "en_answers": [
-                    "apology"
+                    "apple"
                 ],
                 "count": 4
             },
@@ -7972,7 +8023,7 @@
                     "돌배"
                 ],
                 "en_answers": [
-                    "round pear"
+                    "asian pear"
                 ],
                 "count": 1
             },
@@ -7981,7 +8032,8 @@
                     "귤"
                 ],
                 "en_answers": [
-                    "mandarin orange"
+                    "mandarin",
+                    "tangerine"
                 ],
                 "count": 1
             }
@@ -8001,7 +8053,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 3
             },
@@ -8094,7 +8148,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 1
             },
@@ -8263,7 +8320,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 1
             }
@@ -8360,7 +8417,10 @@
                     "정진심"
                 ],
                 "en_answers": [
-                    "true heart"
+                    "jeong jin-sim",
+                    "jin-sim jeong",
+                    "chŏng chin-sim",
+                    "chin-sim chŏng"
                 ],
                 "count": 1
             }
@@ -8444,16 +8504,17 @@
         "annotations": [
             {
                 "answers": [
+                    "남한",
                     "대한민국",
                     "남조선",
                     "한국"
                 ],
                 "en_answers": [
-                    "republic of korea",
                     "south korea",
-                    "korea"
+                    "republic of korea",
+                    "rok"
                 ],
-                "count": 3
+                "count": 4
             },
             {
                 "answers": [
@@ -8463,15 +8524,6 @@
                     "japan"
                 ],
                 "count": 2
-            },
-            {
-                "answers": [
-                    "남한"
-                ],
-                "en_answers": [
-                    "south korea"
-                ],
-                "count": 1
             },
             {
                 "answers": [
@@ -8562,8 +8614,7 @@
                     "밧줄당기기 등"
                 ],
                 "en_answers": [
-                    "tug-of-war",
-                    "tug-of-war, etc."
+                    "tug-of-war"
                 ],
                 "count": 3
             },
@@ -9171,20 +9222,21 @@
             },
             {
                 "answers": [
-                    "밥"
-                ],
-                "en_answers": [
-                    "rice"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "떡"
+                    "떡",
+                    "일반 음식과 떡 등"
                 ],
                 "en_answers": [
                     "rice cake",
                     "tteok"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
+                    "밥"
+                ],
+                "en_answers": [
+                    "rice"
                 ],
                 "count": 1
             },
@@ -9199,6 +9251,7 @@
             },
             {
                 "answers": [
+                    "일반 음식",
                     "일반 음식과 떡 등"
                 ],
                 "en_answers": [
@@ -9993,6 +10046,7 @@
             },
             {
                 "answers": [
+                    "옥류관국수",
                     "옥류관국수 등"
                 ],
                 "en_answers": [
@@ -10026,15 +10080,6 @@
                 ],
                 "en_answers": [
                     "rice"
-                ],
-                "count": 1
-            },
-            {
-                "answers": [
-                    "7:00"
-                ],
-                "en_answers": [
-                    "7시"
                 ],
                 "count": 1
             },
@@ -10092,7 +10137,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 4
             },
@@ -10158,7 +10205,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             },
@@ -10211,6 +10260,7 @@
             },
             {
                 "answers": [
+                    "복숭아",
                     "복숭아 등"
                 ],
                 "en_answers": [
@@ -10311,7 +10361,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 2
             },
@@ -10367,7 +10420,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 2
             },
@@ -10405,7 +10461,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 2
             },
@@ -11114,11 +11172,20 @@
             },
             {
                 "answers": [
+                    "콩",
                     "콩등 잡곡"
                 ],
                 "en_answers": [
                     "mixed grains including beans"
                 ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "잡곡",
+                    "콩등 잡곡"
+                ],
+                "en_answers": [],
                 "count": 1
             },
             {
@@ -11884,6 +11951,7 @@
             },
             {
                 "answers": [
+                    "평성",
                     "평성 등"
                 ],
                 "en_answers": [
@@ -12449,7 +12517,7 @@
                     "소주"
                 ],
                 "en_answers": [
-                    "alcohol"
+                    "soju"
                 ],
                 "count": 1
             }
@@ -12528,8 +12596,7 @@
                     "돼지"
                 ],
                 "en_answers": [
-                    "pork",
-                    "pig"
+                    "pork"
                 ],
                 "count": 4
             },
@@ -12780,7 +12847,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 1
             },
@@ -13110,7 +13179,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 1
             },
@@ -14532,7 +14604,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 2
             },
@@ -14830,7 +14905,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             }
@@ -15234,7 +15311,12 @@
                     "미국"
                 ],
                 "en_answers": [
-                    "usa"
+                    "united states of america",
+                    "usa",
+                    "u.s.a.",
+                    "the united states",
+                    "us",
+                    "u.s."
                 ],
                 "count": 1
             },
@@ -15243,7 +15325,8 @@
                     "스위스"
                 ],
                 "en_answers": [
-                    "switzerland"
+                    "switzerland",
+                    "swiss confederation"
                 ],
                 "count": 1
             }
@@ -15726,7 +15809,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             },
@@ -16031,7 +16116,7 @@
                     "80분"
                 ],
                 "en_answers": [
-                    "80 minutes"
+                    "80"
                 ],
                 "count": 1
             },
@@ -16041,7 +16126,7 @@
                     "1"
                 ],
                 "en_answers": [
-                    "1"
+                    "60"
                 ],
                 "count": 1
             },
@@ -16187,7 +16272,6 @@
                     "soju",
                     "home brewed liquor",
                     "homemade alcohol",
-                    "agricultural machine (sorghum liquor)",
                     "makgeolli",
                     "makkoli",
                     "rice wine"
@@ -16208,10 +16292,15 @@
             },
             {
                 "answers": [
+                    "감주",
                     "감주(식혜)"
                 ],
                 "en_answers": [
-                    "agricultural season"
+                    "gamju",
+                    "kamju",
+                    "dansul",
+                    "tansul",
+                    "sweet wine"
                 ],
                 "count": 1
             },
@@ -16247,8 +16336,7 @@
                     "nongtaegi",
                     "soju",
                     "home brewed liquor",
-                    "homemade alcohol",
-                    "agricultural machine (sorghum liquor)"
+                    "homemade alcohol"
                 ],
                 "count": 5
             },
@@ -16257,7 +16345,7 @@
                     "맥주"
                 ],
                 "en_answers": [
-                    "agricultural season"
+                    "beer"
                 ],
                 "count": 2
             },
@@ -16266,7 +16354,7 @@
                     "소주"
                 ],
                 "en_answers": [
-                    "homemade alcohol"
+                    "soju"
                 ],
                 "count": 1
             }
@@ -16286,7 +16374,9 @@
                     "김치"
                 ],
                 "en_answers": [
-                    "kimchi"
+                    "kimchi",
+                    "gimchi",
+                    "kimch'i"
                 ],
                 "count": 2
             },
@@ -16295,7 +16385,9 @@
                     "순대"
                 ],
                 "en_answers": [
-                    "blood sausage"
+                    "korean sausage",
+                    "sundae",
+                    "soondae"
                 ],
                 "count": 1
             },
@@ -17321,6 +17413,7 @@
             },
             {
                 "answers": [
+                    "집짐승 기르기",
                     "집짐승 기르기 등"
                 ],
                 "en_answers": [
@@ -17925,6 +18018,7 @@
             },
             {
                 "answers": [
+                    "꽃구경",
                     "꽃구경 등"
                 ],
                 "en_answers": [
@@ -17966,14 +18060,16 @@
         "annotations": [
             {
                 "answers": [
+                    "주패",
                     "사사끼",
                     "사사끼/흥수",
                     "흥수"
                 ],
                 "en_answers": [
-                    "sasakki",
-                    "snack/refreshment",
-                    "prosperity"
+                    "card game",
+                    "trump",
+                    "sasaki",
+                    "playing cards"
                 ],
                 "count": 6
             },
@@ -18037,6 +18133,7 @@
             },
             {
                 "answers": [
+                    "칠보산",
                     "칠보산 등"
                 ],
                 "en_answers": [
@@ -18362,7 +18459,7 @@
                     "단 물"
                 ],
                 "en_answers": [
-                    "sweet water",
+                    "juice",
                     "candy powder/liquid sugar",
                     "fruit syrup"
                 ],
@@ -18467,7 +18564,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 3
             },
@@ -18614,7 +18714,7 @@
                     "단물"
                 ],
                 "en_answers": [
-                    "sweet water"
+                    "juice"
                 ],
                 "count": 1
             }
@@ -18634,7 +18734,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 3
             },
@@ -18658,6 +18758,7 @@
             },
             {
                 "answers": [
+                    "그네",
                     "그네 등"
                 ],
                 "en_answers": [
@@ -18737,7 +18838,7 @@
                     "철봉"
                 ],
                 "en_answers": [
-                    "iron bar"
+                    "bar"
                 ],
                 "count": 1
             },
@@ -19177,7 +19278,10 @@
                 ],
                 "en_answers": [
                     "rice",
-                    "mixed grain rice"
+                    "steamed rice",
+                    "japgokbap",
+                    "multi-grain rice",
+                    "steamed multi-grain rice"
                 ],
                 "count": 2
             },
@@ -19186,7 +19290,9 @@
                     "개인도시락"
                 ],
                 "en_answers": [
-                    "individual lunchbox"
+                    "box lunch",
+                    "lunch box",
+                    "packed lunch"
                 ],
                 "count": 1
             },
@@ -19213,7 +19319,8 @@
                     "보리밥"
                 ],
                 "en_answers": [
-                    "barley rice"
+                    "barley rice",
+                    "steamed barley rice"
                 ],
                 "count": 1
             }
@@ -19233,7 +19340,8 @@
                     "옷"
                 ],
                 "en_answers": [
-                    "clothes"
+                    "clothes",
+                    "dress"
                 ],
                 "count": 3
             },
@@ -19260,7 +19368,9 @@
                     "간식"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "refreshments",
+                    "nosh"
                 ],
                 "count": 1
             },
@@ -19279,6 +19389,7 @@
                     "학용품"
                 ],
                 "en_answers": [
+                    "school supplices",
                     "stationery"
                 ],
                 "count": 1
@@ -19288,7 +19399,9 @@
                     "돈"
                 ],
                 "en_answers": [
-                    "money"
+                    "money",
+                    "pocket money",
+                    "allowance"
                 ],
                 "count": 1
             },
@@ -19317,7 +19430,8 @@
                     "자전거"
                 ],
                 "en_answers": [
-                    "bicycle"
+                    "bicycle",
+                    "bike"
                 ],
                 "count": 4
             },
@@ -19336,7 +19450,8 @@
                     "걸어다닌다"
                 ],
                 "en_answers": [
-                    "walks around"
+                    "on foot",
+                    "walk"
                 ],
                 "count": 1
             },
@@ -19395,6 +19510,8 @@
                     "한복"
                 ],
                 "en_answers": [
+                    "hanbok",
+                    "korean traditional clothes",
                     "korean traditional dress"
                 ],
                 "count": 2
@@ -19424,6 +19541,8 @@
                     "한복"
                 ],
                 "en_answers": [
+                    "hanbok",
+                    "korean traditional clothes",
                     "korean traditional dress"
                 ],
                 "count": 2
@@ -19435,8 +19554,9 @@
                     "조선옷"
                 ],
                 "en_answers": [
-                    "korean traditional jacket (hanbok)",
-                    "korean clothing"
+                    "hanbok",
+                    "korean traditional clothes",
+                    "korean traditional dress"
                 ],
                 "count": 2
             },
@@ -19454,7 +19574,8 @@
                     "드레스"
                 ],
                 "en_answers": [
-                    "dress"
+                    "dress",
+                    "wedding dress"
                 ],
                 "count": 1
             }
@@ -19485,8 +19606,8 @@
                     "국수"
                 ],
                 "en_answers": [
-                    "banquet noodles",
-                    "noodles"
+                    "noodles",
+                    "banquet noodles"
                 ],
                 "count": 3
             },
@@ -19536,7 +19657,7 @@
                     "인민대학습당"
                 ],
                 "en_answers": [
-                    "grand people's study house"
+                    "grand people's study hall"
                 ],
                 "count": 1
             },
@@ -19545,7 +19666,8 @@
                     "조선혁명박물관"
                 ],
                 "en_answers": [
-                    "korean revolution museum"
+                    "korea revolutionary museum",
+                    "museum of the korean revolution"
                 ],
                 "count": 1
             },
@@ -19554,7 +19676,10 @@
                     "금수산기념궁전"
                 ],
                 "en_answers": [
-                    "kumsusan palace of the sun"
+                    "kumsusan palace of the sun",
+                    "kumsusan memorial palace",
+                    "mausoleum for kim il-sung",
+                    "kumsusan assembly hall"
                 ],
                 "count": 1
             },
@@ -19563,7 +19688,10 @@
                     "금수산의사당"
                 ],
                 "en_answers": [
-                    "kumsusan palace of the sun"
+                    "kumsusan palace of the sun",
+                    "kumsusan memorial palace",
+                    "mausoleum for kim il-sung",
+                    "kumsusan assembly hall"
                 ],
                 "count": 1
             },
@@ -19572,7 +19700,8 @@
                     "당중앙위원회청사"
                 ],
                 "en_answers": [
-                    "central committee of the party building"
+                    "the office building of the central committee of the wpk",
+                    "the office building of the central committee of the party"
                 ],
                 "count": 1
             }
@@ -19821,8 +19950,7 @@
                     "김일성 종합대학 등"
                 ],
                 "en_answers": [
-                    "kim il-sung university",
-                    "kim il-sung university, etc."
+                    "kim il-sung university"
                 ],
                 "count": 5
             },
@@ -19831,7 +19959,7 @@
                     "김정은국방종합대학"
                 ],
                 "en_answers": [
-                    "kim jong un national defence university"
+                    "kim il-sung military university"
                 ],
                 "count": 1
             }
@@ -19888,7 +20016,9 @@
                 "answers": [
                     "8"
                 ],
-                "en_answers": [],
+                "en_answers": [
+                    "8"
+                ],
                 "count": 1
             }
         ],
@@ -19907,7 +20037,7 @@
                     "48"
                 ],
                 "en_answers": [
-                    "60"
+                    "48"
                 ],
                 "count": 2
             },
@@ -19916,7 +20046,7 @@
                     "60"
                 ],
                 "en_answers": [
-                    "50"
+                    "60"
                 ],
                 "count": 1
             },
@@ -19925,7 +20055,7 @@
                     "50"
                 ],
                 "en_answers": [
-                    "8"
+                    "50"
                 ],
                 "count": 1
             }
@@ -19944,7 +20074,9 @@
                 "answers": [
                     "6"
                 ],
-                "en_answers": [],
+                "en_answers": [
+                    "6"
+                ],
                 "count": 5
             }
         ],
@@ -19963,7 +20095,7 @@
                     "18"
                 ],
                 "en_answers": [
-                    "17"
+                    "18"
                 ],
                 "count": 3
             },
@@ -19972,7 +20104,7 @@
                     "17"
                 ],
                 "en_answers": [
-                    "19"
+                    "17"
                 ],
                 "count": 1
             },
@@ -19980,7 +20112,9 @@
                 "answers": [
                     "19"
                 ],
-                "en_answers": [],
+                "en_answers": [
+                    "19"
+                ],
                 "count": 1
             }
         ],
@@ -19999,7 +20133,7 @@
                     "18"
                 ],
                 "en_answers": [
-                    "10"
+                    "18"
                 ],
                 "count": 3
             },
@@ -20099,7 +20233,7 @@
                     "9.5"
                 ],
                 "en_answers": [
-                    "9.5"
+                    "09/05"
                 ],
                 "count": 4
             },
@@ -20108,7 +20242,7 @@
                     "10월 05일"
                 ],
                 "en_answers": [
-                    "october 05"
+                    "10/05"
                 ],
                 "count": 1
             }
@@ -20128,7 +20262,7 @@
                     "08:00"
                 ],
                 "en_answers": [
-                    "8:00"
+                    "08:00"
                 ],
                 "count": 3
             },
@@ -20137,7 +20271,7 @@
                     "08:30"
                 ],
                 "en_answers": [
-                    "8:30"
+                    "08:30"
                 ],
                 "count": 1
             }
@@ -20158,7 +20292,7 @@
                     "6.1"
                 ],
                 "en_answers": [
-                    "6.1"
+                    "6/1"
                 ],
                 "count": 3
             },
@@ -20169,8 +20303,7 @@
                     "6.6"
                 ],
                 "en_answers": [
-                    "june 06",
-                    "6.6"
+                    "6/6"
                 ],
                 "count": 2
             }
@@ -20250,7 +20383,10 @@
                     "썩장"
                 ],
                 "en_answers": [
-                    "food waste"
+                    "cheonggukjang",
+                    "fast-fermented bean paste",
+                    "rish soybean paste",
+                    "fermented soybeans"
                 ],
                 "count": 1
             },
@@ -20292,7 +20428,8 @@
                     "북한축구국가대표팀"
                 ],
                 "en_answers": [
-                    "north korea national football team"
+                    "north korea national football team",
+                    "dprk national football team"
                 ],
                 "count": 1
             }
@@ -20312,7 +20449,9 @@
                     "평양체육대학"
                 ],
                 "en_answers": [
-                    "pyongyang university of physical education"
+                    "pyongyang sports university",
+                    "pyongyang sports college",
+                    "pyongyang college of physical education"
                 ],
                 "count": 3
             },
@@ -20321,7 +20460,9 @@
                     "북한체육대학"
                 ],
                 "en_answers": [
-                    "north korea sports university"
+                    "dprk sports university",
+                    "dprk sports college",
+                    "dprk college of physical education"
                 ],
                 "count": 1
             },
@@ -20330,7 +20471,15 @@
                     "조선체육대학"
                 ],
                 "en_answers": [
-                    "korean physical education university"
+                    "joseon sports university",
+                    "joseon sports college",
+                    "joseon college of physical education",
+                    "chosun sports university",
+                    "chosun sports college",
+                    "chosun college of physical education",
+                    "dprk sports university",
+                    "dprk sports college",
+                    "dprk college of physical education"
                 ],
                 "count": 1
             }
@@ -20352,9 +20501,8 @@
                     "개(강아지)"
                 ],
                 "en_answers": [
-                    "puppy",
                     "dog",
-                    "dog (puppy)"
+                    "puppy"
                 ],
                 "count": 5
             },
@@ -20363,7 +20511,8 @@
                     "고양이"
                 ],
                 "en_answers": [
-                    "cat"
+                    "cat",
+                    "kitty"
                 ],
                 "count": 1
             }
@@ -20384,7 +20533,10 @@
                     "텔레비전연속극"
                 ],
                 "en_answers": [
-                    "television series"
+                    "soap opera",
+                    "drama",
+                    "television drama",
+                    "tv drama"
                 ],
                 "count": 2
             },
@@ -20393,6 +20545,8 @@
                     "아동영화"
                 ],
                 "en_answers": [
+                    "a film for school kids",
+                    "film for children",
                     "children's film"
                 ],
                 "count": 1
@@ -20402,7 +20556,8 @@
                     "어린이프로그람"
                 ],
                 "en_answers": [
-                    "children's program"
+                    "children's program",
+                    "program for hildren"
                 ],
                 "count": 1
             },
@@ -20420,7 +20575,8 @@
                     "영화"
                 ],
                 "en_answers": [
-                    "movie"
+                    "movie",
+                    "film"
                 ],
                 "count": 1
             }
@@ -20443,8 +20599,10 @@
                     "카드놀이"
                 ],
                 "en_answers": [
-                    "sasakki",
-                    "card/token"
+                    "card game",
+                    "trump",
+                    "sasaki",
+                    "playing cards"
                 ],
                 "count": 4
             },
@@ -20466,7 +20624,7 @@
                     "꼬니놀이"
                 ],
                 "en_answers": [
-                    "hopscotch"
+                    "kono"
                 ],
                 "count": 1
             },
@@ -20475,7 +20633,8 @@
                     "장기두기"
                 ],
                 "en_answers": [
-                    "card game"
+                    "janggi",
+                    "korean chess"
                 ],
                 "count": 1
             }
@@ -20523,6 +20682,7 @@
                     "음료"
                 ],
                 "en_answers": [
+                    "drink",
                     "beverage"
                 ],
                 "count": 1
@@ -20563,7 +20723,10 @@
                     "과자"
                 ],
                 "en_answers": [
-                    "snack"
+                    "snack",
+                    "cracker",
+                    "cookie",
+                    "biscuit"
                 ],
                 "count": 2
             },
@@ -20856,7 +21019,8 @@
                     "축구"
                 ],
                 "en_answers": [
-                    "soccer"
+                    "soccer",
+                    "football"
                 ],
                 "count": 3
             },
@@ -20885,7 +21049,7 @@
                     "롱구"
                 ],
                 "en_answers": [
-                    "table tennis"
+                    "basketball"
                 ],
                 "count": 1
             },
@@ -20913,7 +21077,8 @@
                     "수영 등"
                 ],
                 "en_answers": [
-                    "swimming, etc."
+                    "swimming",
+                    "swim"
                 ],
                 "count": 1
             }
@@ -20933,7 +21098,9 @@
                     "운동장"
                 ],
                 "en_answers": [
-                    "playground"
+                    "playground",
+                    "field",
+                    "schoolyard"
                 ],
                 "count": 2
             },
@@ -20943,6 +21110,9 @@
                     "학교운동장"
                 ],
                 "en_answers": [
+                    "playground",
+                    "field",
+                    "schoolyard",
                     "school playground"
                 ],
                 "count": 2
@@ -20962,6 +21132,7 @@
                     "가정에서"
                 ],
                 "en_answers": [
+                    "home",
                     "at home"
                 ],
                 "count": 1
@@ -21000,7 +21171,7 @@
                     "그네뛰기"
                 ],
                 "en_answers": [
-                    "swing jumping"
+                    "swing"
                 ],
                 "count": 1
             },
@@ -21029,7 +21200,8 @@
                     "축구"
                 ],
                 "en_answers": [
-                    "soccer"
+                    "soccer",
+                    "football"
                 ],
                 "count": 3
             },
@@ -21110,7 +21282,8 @@
                     "축구"
                 ],
                 "en_answers": [
-                    "soccer"
+                    "soccer",
+                    "football"
                 ],
                 "count": 1
             },
@@ -21141,7 +21314,7 @@
                     "롱구"
                 ],
                 "en_answers": [
-                    "table tennis"
+                    "basketball"
                 ],
                 "count": 1
             },
@@ -21200,6 +21373,7 @@
                     "설날"
                 ],
                 "en_answers": [
+                    "new year's day",
                     "lunar new year"
                 ],
                 "count": 1
@@ -21229,7 +21403,8 @@
                     "전승기념일 등"
                 ],
                 "en_answers": [
-                    "victory day, etc."
+                    "v-day",
+                    "anniversary of victory"
                 ],
                 "count": 1
             }
@@ -21315,7 +21490,9 @@
                     "잡곡밥"
                 ],
                 "en_answers": [
-                    "mixed grain rice"
+                    "japgokbap",
+                    "multi-grain rice",
+                    "steamed multigrain rice"
                 ],
                 "count": 1
             },
@@ -21347,7 +21524,8 @@
                     "동지죽"
                 ],
                 "en_answers": [
-                    "red bean porridge"
+                    "red bean porridge",
+                    "winter solstice red bean porridge"
                 ],
                 "count": 5
             },
@@ -21356,7 +21534,8 @@
                     "송편떡"
                 ],
                 "en_answers": [
-                    "rice cake"
+                    "songpyeon",
+                    "half-moon rice cake"
                 ],
                 "count": 1
             }
@@ -21376,6 +21555,7 @@
                     "수영"
                 ],
                 "en_answers": [
+                    "swim",
                     "swimming"
                 ],
                 "count": 3
@@ -21407,7 +21587,7 @@
                     "수중발레무용"
                 ],
                 "en_answers": [
-                    "underwater ballet dance"
+                    "artistic swimming"
                 ],
                 "count": 1
             }
@@ -21485,7 +21665,8 @@
                     "축구"
                 ],
                 "en_answers": [
-                    "soccer"
+                    "soccer",
+                    "football"
                 ],
                 "count": 1
             },
@@ -21514,7 +21695,8 @@
                     "박영순"
                 ],
                 "en_answers": [
-                    "park young-soon"
+                    "yung-sun pak",
+                    "pak yung-sun"
                 ],
                 "count": 4
             },
@@ -21523,7 +21705,8 @@
                     "정성옥"
                 ],
                 "en_answers": [
-                    "jeong seong-ok"
+                    "jong song-ok",
+                    "song-ok jong"
                 ],
                 "count": 3
             },
@@ -21532,7 +21715,8 @@
                     "계순희"
                 ],
                 "en_answers": [
-                    "gye soon-hee"
+                    "kye sun-hui",
+                    "sun-hui kye"
                 ],
                 "count": 1
             }
@@ -21572,7 +21756,7 @@
                     "기계체조"
                 ],
                 "en_answers": [
-                    "mass gymnastics"
+                    "artistic gymnastics"
                 ],
                 "count": 1
             },
@@ -21642,7 +21826,8 @@
                     "스키"
                 ],
                 "en_answers": [
-                    "ski"
+                    "ski",
+                    "skiing"
                 ],
                 "count": 2
             }
@@ -21671,6 +21856,7 @@
                     "라선"
                 ],
                 "en_answers": [
+                    "rasun",
                     "rason"
                 ],
                 "count": 1
@@ -21680,7 +21866,7 @@
                     "평성"
                 ],
                 "en_answers": [
-                    "pyongsong"
+                    "phyongsong"
                 ],
                 "count": 1
             },
@@ -21698,7 +21884,7 @@
                     "함흥"
                 ],
                 "en_answers": [
-                    "hamhung"
+                    "hamheung"
                 ],
                 "count": 1
             }
@@ -21738,7 +21924,8 @@
                     "표창"
                 ],
                 "en_answers": [
-                    "commendation"
+                    "commendation",
+                    "citation"
                 ],
                 "count": 1
             }
@@ -21762,11 +21949,11 @@
                     "94년 이후"
                 ],
                 "en_answers": [
-                    "1995~99 years",
+                    "1995~99",
                     "1995~98",
                     "1995",
                     "late 1990s",
-                    "after '94"
+                    "after 1994"
                 ],
                 "count": 5
             },
@@ -21775,7 +21962,9 @@
                     "고난의 행군"
                 ],
                 "en_answers": [
-                    "arduous march"
+                    "north korean famine",
+                    "arduous march",
+                    "march of suffering"
                 ],
                 "count": 1
             }
@@ -21795,7 +21984,8 @@
                     "함경북도 라진"
                 ],
                 "en_answers": [
-                    "rajin, north hamgyong province"
+                    "rajin",
+                    "rajin district"
                 ],
                 "count": 1
             },
@@ -21804,7 +21994,7 @@
                     "평성"
                 ],
                 "en_answers": [
-                    "pyongsong"
+                    "phyongsong"
                 ],
                 "count": 1
             },
@@ -21813,7 +22003,7 @@
                     "함흥"
                 ],
                 "en_answers": [
-                    "hamhung"
+                    "hamheung"
                 ],
                 "count": 1
             }
@@ -21834,8 +22024,10 @@
                     "군수"
                 ],
                 "en_answers": [
-                    "military industry",
-                    "military supplies"
+                    "munitions industry",
+                    "armaments industry",
+                    "war industry",
+                    "military industry"
                 ],
                 "count": 2
             },
@@ -21844,7 +22036,12 @@
                     "비날론화학공업"
                 ],
                 "en_answers": [
-                    "vinalon chemical industry"
+                    "vinalon",
+                    "vinylon",
+                    "vinalon chemical industry",
+                    "vinylon chemical industry",
+                    "vinalon industry",
+                    "vinylon industry"
                 ],
                 "count": 1
             },
@@ -21853,7 +22050,9 @@
                     "철"
                 ],
                 "en_answers": [
-                    "iron"
+                    "iron",
+                    "steel",
+                    "iron and steel"
                 ],
                 "count": 1
             },
@@ -21862,7 +22061,8 @@
                     "철광업"
                 ],
                 "en_answers": [
-                    "iron mining"
+                    "steel industry",
+                    "iron and steel industry"
                 ],
                 "count": 1
             },
@@ -21984,6 +22184,7 @@
             },
             {
                 "answers": [
+                    "바다구경",
                     "바다구경 등",
                     "해수욕장 체험"
                 ],
@@ -22177,7 +22378,7 @@
                     "꼬니놀이"
                 ],
                 "en_answers": [
-                    "hopscotch"
+                    "kono"
                 ],
                 "count": 1
             },
@@ -22732,6 +22933,7 @@
             {
                 "answers": [
                     "원족",
+                    "원족 가는 날",
                     "원족(등산)가는날"
                 ],
                 "en_answers": [

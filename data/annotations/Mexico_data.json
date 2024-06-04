@@ -2378,6 +2378,7 @@
         "annotations": [
             {
                 "answers": [
+                    "fútbol",
                     "futbol",
                     "futbol soccer"
                 ],
@@ -2504,7 +2505,7 @@
             },
             {
                 "answers": [
-                    "fúbol",
+                    "fútbol",
                     "futbol"
                 ],
                 "en_answers": [

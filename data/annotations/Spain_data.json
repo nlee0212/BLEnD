@@ -2196,10 +2196,12 @@
             },
             {
                 "answers": [
-                    "chicho terremoto lopez"
+                    "chicho terremoto lopez",
+                    "chicho terremoto"
                 ],
                 "en_answers": [
-                    "chicho earthquake lopez"
+                    "chicho terremoto lopez",
+                    "chicho terremoto"
                 ],
                 "count": 1
             }
@@ -2219,6 +2221,7 @@
                     "fútbol"
                 ],
                 "en_answers": [
+                    "football",
                     "soccer"
                 ],
                 "count": 5
@@ -2264,11 +2267,13 @@
             },
             {
                 "answers": [
-                    "entrenamiento en el gym"
+                    "entrenamiento en el gym",
+                    "gimnasio"
                 ],
                 "en_answers": [
                     "workout at the gym",
-                    "workout"
+                    "workout",
+                    "gym"
                 ],
                 "count": 1
             },
@@ -3116,11 +3121,12 @@
             },
             {
                 "answers": [
-                    "a los padres ninguna"
+                    "a los padres ninguna",
+                    "ninguna"
                 ],
                 "en_answers": [
                     "to the parents, none",
-                    "no to the parents"
+                    "no to the parents, none"
                 ],
                 "count": 1
             }
@@ -20357,19 +20363,23 @@
         "annotations": [
             {
                 "answers": [
-                    "la moncloa"
+                    "la moncloa",
+                    "moncloa"
                 ],
                 "en_answers": [
-                    "the moncloa"
+                    "the moncloa",
+                    "moncloa"
                 ],
                 "count": 3
             },
             {
                 "answers": [
-                    "el congreso de los diputados"
+                    "el congreso de los diputados",
+                    "congreso de los diputados"
                 ],
                 "en_answers": [
-                    "the congress of deputies"
+                    "the congress of deputies",
+                    "congress of deputies"
                 ],
                 "count": 1
             }
@@ -20396,7 +20406,8 @@
             {
                 "answers": [
                     "reggaeton",
-                    "reggeton"
+                    "reggeton",
+                    "reguetón"
                 ],
                 "en_answers": [
                     "reggaeton"
@@ -21375,7 +21386,7 @@
                     "ucam murcia"
                 ],
                 "en_answers": [
-                    "central university of michigan",
+                    "ucam",
                     "ucam murcia"
                 ],
                 "count": 2
@@ -21435,7 +21446,7 @@
                     "grand prix"
                 ],
                 "en_answers": [
-                    "gran premio"
+                    "grand prix"
                 ],
                 "count": 1
             },
@@ -21621,7 +21632,7 @@
                     "chivito"
                 ],
                 "en_answers": [
-                    "little goat"
+                    "chivito"
                 ],
                 "count": 1
             }
@@ -21959,6 +21970,7 @@
                     "futbol"
                 ],
                 "en_answers": [
+                    "football",
                     "soccer"
                 ],
                 "count": 4
@@ -22329,7 +22341,8 @@
             {
                 "answers": [
                     "fin de año",
-                    "24 junio"
+                    "24 junio",
+                    "24 de junio"
                 ],
                 "en_answers": [
                     "end of year",
@@ -22348,7 +22361,8 @@
             },
             {
                 "answers": [
-                    "el 14 de marzo"
+                    "el 14 de marzo",
+                    "14 de marzo"
                 ],
                 "en_answers": [
                     "march 14th"
@@ -22681,7 +22695,7 @@
                     "laliga"
                 ],
                 "en_answers": [
-                    "the league",
+                    "la liga",
                     "the football league"
                 ],
                 "count": 3
@@ -22692,7 +22706,7 @@
                     "mundial"
                 ],
                 "en_answers": [
-                    "world"
+                    "world cup"
                 ],
                 "count": 1
             },
@@ -23697,8 +23711,7 @@
                     "10 (colegio y universidad)"
                 ],
                 "en_answers": [
-                    "10",
-                    "10 (school and university)"
+                    "10"
                 ],
                 "count": 5
             },
@@ -23715,10 +23728,11 @@
             },
             {
                 "answers": [
-                    "14 (selectividad)"
+                    "14 (selectividad)",
+                    "14"
                 ],
                 "en_answers": [
-                    "14 (university entrance exam)"
+                    "14"
                 ],
                 "count": 1
             }
@@ -23799,6 +23813,7 @@
                     "fútbol"
                 ],
                 "en_answers": [
+                    "football",
                     "soccer"
                 ],
                 "count": 3
@@ -23818,7 +23833,8 @@
                     "graduación"
                 ],
                 "en_answers": [
-                    "end of the school year"
+                    "end of the school year",
+                    "graduation"
                 ],
                 "count": 1
             },
