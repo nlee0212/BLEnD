@@ -942,7 +942,7 @@
                     "football",
                     "volleyball"
                 ],
-                "count": 5
+                "count": 4
             }
         ],
         "idks": {
@@ -996,7 +996,7 @@
                     "persepolis",
                     "esteghlal"
                 ],
-                "count": 7
+                "count": 5
             }
         ],
         "idks": {
@@ -1332,7 +1332,7 @@
                     "setting the haft-seen table",
                     "family gathering around the haft-seen spread at the moment of the new year"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -3314,7 +3314,7 @@
                     "arabic",
                     "mathematics"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -8345,7 +8345,7 @@
                     "nowruz",
                     "the first day of nowruz holidays"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -8955,21 +8955,21 @@
         "annotations": [
             {
                 "answers": [
+                    "قورمه سبزی"
+                ],
+                "en_answers": [
+                    "herb stew"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "قیمه",
                     "قرمه سبزی"
                 ],
                 "en_answers": [
                     "stew",
                     "ghormeh sabzi"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
-                    "قورمه سبزی"
-                ],
-                "en_answers": [
-                    "herb stew"
                 ],
                 "count": 2
             },
@@ -14777,7 +14777,7 @@
                     "expulsion from school",
                     "invitation of parents to school"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -16481,7 +16481,7 @@
                     "medical sciences",
                     "tehran"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -21284,7 +21284,7 @@
                     "pomegranate",
                     "ash (a type of thick soup or stew)"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -22247,7 +22247,7 @@
                     "mathematics",
                     "biology"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -22326,7 +22326,7 @@
                 "en_answers": [
                     "algebra"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [

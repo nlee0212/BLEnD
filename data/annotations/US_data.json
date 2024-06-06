@@ -1054,25 +1054,25 @@
             },
             {
                 "answers": [
-                    "cake",
-                    "cupcakes"
+                    "candy",
+                    "candies",
+                    "sweets"
                 ],
                 "en_answers": [
-                    "cake",
-                    "cupcakes"
+                    "candy",
+                    "candies",
+                    "sweets"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
-                    "candy",
-                    "candies",
-                    "sweets"
+                    "cake",
+                    "cupcakes"
                 ],
                 "en_answers": [
-                    "candy",
-                    "candies",
-                    "sweets"
+                    "cake",
+                    "cupcakes"
                 ],
                 "count": 1
             },
@@ -1155,7 +1155,7 @@
                     "six flags",
                     "disneyworld"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -1635,7 +1635,7 @@
                     "friends homes",
                     "house"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -2229,7 +2229,7 @@
                     "assisted living",
                     "senior citizen homes"
                 ],
-                "count": 7
+                "count": 5
             },
             {
                 "answers": [
@@ -4376,19 +4376,6 @@
             },
             {
                 "answers": [
-                    "fast fashion brands",
-                    "trendy",
-                    "modern"
-                ],
-                "en_answers": [
-                    "fast fashion brands",
-                    "trendy",
-                    "modern"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "hoodies"
                 ],
                 "en_answers": [
@@ -4402,6 +4389,19 @@
                 ],
                 "en_answers": [
                     "casual"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "fast fashion brands",
+                    "trendy",
+                    "modern"
+                ],
+                "en_answers": [
+                    "fast fashion brands",
+                    "trendy",
+                    "modern"
                 ],
                 "count": 1
             },
@@ -4744,7 +4744,7 @@
                     "urban",
                     "dense city"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -19719,7 +19719,7 @@
                     "little star",
                     "twinkle little star"
                 ],
-                "count": 6
+                "count": 3
             },
             {
                 "answers": [
@@ -20580,7 +20580,7 @@
                     "tools",
                     "gear"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -21645,7 +21645,7 @@
                     "cookout",
                     "barbeque"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [

@@ -3070,6 +3070,15 @@
             },
             {
                 "answers": [
+                    "አይለብሱም"
+                ],
+                "en_answers": [
+                    "don't wear"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
                     "ነጠላ ጫማ",
                     "ክፍት ጫማ"
                 ],
@@ -3077,15 +3086,6 @@
                     "flip flops",
                     "flat shoes",
                     "sandals"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "አይለብሱም"
-                ],
-                "en_answers": [
-                    "don't wear"
                 ],
                 "count": 1
             },
@@ -5239,7 +5239,7 @@
                     "ethiopian clothing",
                     "habesha"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -15038,7 +15038,7 @@
                     "hat",
                     "cap"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -18021,7 +18021,7 @@
                 "en_answers": [
                     "bus"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [

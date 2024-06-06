@@ -1984,7 +1984,7 @@
                     "exchange presents",
                     "dinner"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -5425,7 +5425,7 @@
                 "en_answers": [
                     "oysters"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -7232,7 +7232,7 @@
                     "6 months pregnant",
                     "7 months pregnant"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -7522,7 +7522,7 @@
                     "a traditional hot mexican beverage made from cornmeal and water or milk",
                     "chocolate flavored beverage made from cornmeal and water or milk"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -11790,17 +11790,6 @@
             },
             {
                 "answers": [
-                    "limonada",
-                    "jamaica"
-                ],
-                "en_answers": [
-                    "lemonade",
-                    "hibiscus drink"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "café",
                     "cafe"
                 ],
@@ -11815,6 +11804,17 @@
                 ],
                 "en_answers": [
                     "soda"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "limonada",
+                    "jamaica"
+                ],
+                "en_answers": [
+                    "lemonade",
+                    "hibiscus drink"
                 ],
                 "count": 1
             },
@@ -14871,18 +14871,6 @@
             },
             {
                 "answers": [
-                    "nocturnos",
-                    "de futbol"
-                ],
-                "en_answers": [
-                    "night clubs",
-                    "soccer clubs",
-                    "football clubs"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "cocina",
                     "clubes de cocina"
                 ],
@@ -14898,6 +14886,18 @@
                 "en_answers": [
                     "music clubs",
                     "music"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "nocturnos",
+                    "de futbol"
+                ],
+                "en_answers": [
+                    "night clubs",
+                    "soccer clubs",
+                    "football clubs"
                 ],
                 "count": 1
             },
@@ -15819,7 +15819,7 @@
                     "sandwiches",
                     "sandwich"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -16223,7 +16223,7 @@
                     "ratchet",
                     "wigs"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -17258,7 +17258,7 @@
                     "sandwich",
                     "sandwiches"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -17886,6 +17886,15 @@
         "annotations": [
             {
                 "answers": [
+                    "boleros"
+                ],
+                "en_answers": [
+                    "boleros"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "banda",
                     "corridos"
                 ],
@@ -17893,15 +17902,6 @@
                     "band",
                     "political ballads",
                     "folk music"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
-                    "boleros"
-                ],
-                "en_answers": [
-                    "boleros"
                 ],
                 "count": 2
             },
@@ -21044,7 +21044,7 @@
                     "independence celebration",
                     "go downtown"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -23262,7 +23262,7 @@
                     "day of love and friendship",
                     "valentine's day"
                 ],
-                "count": 7
+                "count": 5
             }
         ],
         "idks": {
@@ -23972,7 +23972,7 @@
                     "sandwiches",
                     "sandwich"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [

@@ -143,18 +143,6 @@
         "annotations": [
             {
                 "answers": [
-                    "kökə",
-                    "kətə"
-                ],
-                "en_answers": [
-                    "keta",
-                    "gata",
-                    "ahar sweet is a type of pastry typical of eastern anatolia and south azerbaijani cuisines"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "dolma"
                 ],
                 "en_answers": [
@@ -178,6 +166,18 @@
                 ],
                 "en_answers": [
                     "buckwheat"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "kökə",
+                    "kətə"
+                ],
+                "en_answers": [
+                    "keta",
+                    "gata",
+                    "ahar sweet is a type of pastry typical of eastern anatolia and south azerbaijani cuisines"
                 ],
                 "count": 1
             },
@@ -1397,7 +1397,7 @@
                 "en_answers": [
                     "cottage"
                 ],
-                "count": 4
+                "count": 3
             }
         ],
         "idks": {
@@ -9490,7 +9490,7 @@
                     "sheep",
                     "lamb"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -9913,19 +9913,6 @@
         "annotations": [
             {
                 "answers": [
-                    "pelmeni",
-                    "xəngəl",
-                    "xingal"
-                ],
-                "en_answers": [
-                    "pelmeni",
-                    "dumpling",
-                    "hingel"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "hazır saladlar",
                     "hazır salatlar və dondurulmuş yeməklər"
                 ],
@@ -9966,6 +9953,19 @@
                 ],
                 "en_answers": [
                     "sweets"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "pelmeni",
+                    "xəngəl",
+                    "xingal"
+                ],
+                "en_answers": [
+                    "pelmeni",
+                    "dumpling",
+                    "hingel"
                 ],
                 "count": 1
             },

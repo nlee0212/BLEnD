@@ -15558,20 +15558,20 @@
             },
             {
                 "answers": [
+                    "kembang"
+                ],
+                "en_answers": [
+                    "flower"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
                     "tahlilan",
                     "pangajian"
                 ],
                 "en_answers": [
                     "islamic prayer gathering"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "kembang"
-                ],
-                "en_answers": [
-                    "flower"
                 ],
                 "count": 1
             }
@@ -18706,7 +18706,7 @@
                     "d'besto",
                     "sabana"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [

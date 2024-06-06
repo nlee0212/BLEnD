@@ -3610,7 +3610,7 @@
                 "en_answers": [
                     "tea snack"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {
@@ -4597,7 +4597,7 @@
                 "en_answers": [
                     "shirt"
                 ],
-                "count": 6
+                "count": 4
             },
             {
                 "answers": [
@@ -4612,7 +4612,7 @@
                 "en_answers": [
                     "pants"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -4628,7 +4628,7 @@
                     "shalwar",
                     "chalwar"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -4641,7 +4641,7 @@
                     "uniform",
                     "college uniform"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -6996,19 +6996,6 @@
             },
             {
                 "answers": [
-                    "টেমপো",
-                    "বাছ",
-                    "ৰাজহুৱা বাহন"
-                ],
-                "en_answers": [
-                    "tempo",
-                    "bus",
-                    "public transport"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
                     "বাইক"
                 ],
                 "en_answers": [
@@ -7023,6 +7010,19 @@
                 ],
                 "en_answers": [
                     "scooty"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
+                    "টেমপো",
+                    "বাছ",
+                    "ৰাজহুৱা বাহন"
+                ],
+                "en_answers": [
+                    "tempo",
+                    "bus",
+                    "public transport"
                 ],
                 "count": 2
             },
@@ -8725,7 +8725,7 @@
                     "pilav",
                     "pilau"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -12280,7 +12280,7 @@
                     "lemon",
                     "round lemon"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -12474,7 +12474,7 @@
                     "rice cake",
                     "rice ball"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -12752,28 +12752,6 @@
         "annotations": [
             {
                 "answers": [
-                    "মাছৰ জালুকীয়া",
-                    "শাকৰ সতে জীয়া মাছৰ জোল"
-                ],
-                "en_answers": [
-                    "fish with black pepper",
-                    "fish curry with leafy greens"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "কচুশাকৰ জালুকীয়া",
-                    "বনশাকৰ জালুকীয়া"
-                ],
-                "en_answers": [
-                    "pepper leafy vegetables",
-                    "wild leafy pepper"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "কচু শাক"
                 ],
                 "en_answers": [
@@ -12814,6 +12792,28 @@
                 ],
                 "en_answers": [
                     "food without spices"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "মাছৰ জালুকীয়া",
+                    "শাকৰ সতে জীয়া মাছৰ জোল"
+                ],
+                "en_answers": [
+                    "fish with black pepper",
+                    "fish curry with leafy greens"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "কচুশাকৰ জালুকীয়া",
+                    "বনশাকৰ জালুকীয়া"
+                ],
+                "en_answers": [
+                    "pepper leafy vegetables",
+                    "wild leafy pepper"
                 ],
                 "count": 1
             }
@@ -15105,7 +15105,7 @@
                     "barbecue chicken",
                     "chicken meat"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -17076,7 +17076,7 @@
                     "university student hostel",
                     "privately owned student hostel"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -18514,7 +18514,7 @@
                     "greens/vegetables",
                     "vegetable"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -20198,7 +20198,7 @@
                     "gas cylinder",
                     "gas"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -22732,7 +22732,7 @@
                     "school",
                     "college"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -23065,6 +23065,17 @@
         "annotations": [
             {
                 "answers": [
+                    "চাহ পানী",
+                    "চাহ"
+                ],
+                "en_answers": [
+                    "tea water",
+                    "tea"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "কোকা কোলা",
                     "শীতল পানীয়",
                     "মাজা"
@@ -23072,17 +23083,6 @@
                 "en_answers": [
                     "coca cola",
                     "cold drink"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
-                    "চাহ পানী",
-                    "চাহ"
-                ],
-                "en_answers": [
-                    "tea water",
-                    "tea"
                 ],
                 "count": 2
             },
@@ -23946,7 +23946,7 @@
                     "cheleng",
                     "cheleng shawl"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -24120,17 +24120,6 @@
         "annotations": [
             {
                 "answers": [
-                    "ভাত",
-                    "ভাত মাংস",
-                    "মাছ মাংস ভাত"
-                ],
-                "en_answers": [
-                    "rice"
-                ],
-                "count": 4
-            },
-            {
-                "answers": [
                     "মাছ",
                     "মাছ মাংস ইত্যাদি",
                     "মাছ মাংস ভাত"
@@ -24142,6 +24131,17 @@
             },
             {
                 "answers": [
+                    "ভাত",
+                    "ভাত মাংস",
+                    "মাছ মাংস ভাত"
+                ],
+                "en_answers": [
+                    "rice"
+                ],
+                "count": 3
+            },
+            {
+                "answers": [
                     "মাংস",
                     "মাছ মাংস ইত্যাদি",
                     "ভাত মাংস",
@@ -24150,7 +24150,7 @@
                 "en_answers": [
                     "meat"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -25061,7 +25061,7 @@
                     "christmas celebration",
                     "christmas christmas"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -25695,7 +25695,7 @@
                     "soft rice",
                     "sticky rice"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -25711,7 +25711,7 @@
                     "rice beer snack",
                     "fried rice snack"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [
@@ -27617,7 +27617,7 @@
                     "differentiation",
                     "calculus"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -27724,7 +27724,7 @@
                     "ape",
                     "auto"
                 ],
-                "count": 5
+                "count": 3
             },
             {
                 "answers": [

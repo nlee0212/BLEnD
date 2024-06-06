@@ -17135,7 +17135,7 @@
                     "black clothes",
                     "black clothing"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -20433,6 +20433,17 @@
         "annotations": [
             {
                 "answers": [
+                    "χριστούγεννα",
+                    "χριστούγεννα της βανδή"
+                ],
+                "en_answers": [
+                    "christmas",
+                    "vandi's christmas"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "τρίγωνα κάλαντα",
                     "τριγωνα καλαντα",
                     "κάλαντα",
@@ -20442,18 +20453,7 @@
                     "christmas carols",
                     "carols"
                 ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "χριστούγεννα",
-                    "χριστούγεννα της βανδή"
-                ],
-                "en_answers": [
-                    "christmas",
-                    "vandi's christmas"
-                ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [

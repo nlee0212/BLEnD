@@ -770,7 +770,7 @@
                     "play with fireworks",
                     "play with firecrackers"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -2019,7 +2019,7 @@
                 "en_answers": [
                     "nursing home"
                 ],
-                "count": 4
+                "count": 3
             }
         ],
         "idks": {
@@ -3302,7 +3302,7 @@
                     "clothes",
                     "pants"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -5507,7 +5507,7 @@
                     "fish",
                     "fried fish"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -7400,7 +7400,7 @@
                     "angpau",
                     "money"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -12348,16 +12348,6 @@
             },
             {
                 "answers": [
-                    "makan berkuah panas",
-                    "sop panas"
-                ],
-                "en_answers": [
-                    "hot soup"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "sate"
                 ],
                 "en_answers": [
@@ -12372,6 +12362,16 @@
                 ],
                 "en_answers": [
                     "noodle soup"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "makan berkuah panas",
+                    "sop panas"
+                ],
+                "en_answers": [
+                    "hot soup"
                 ],
                 "count": 1
             }
@@ -13903,7 +13903,7 @@
                     "instant noodles",
                     "indomie"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -14045,7 +14045,7 @@
                     "aerobics",
                     "rhytmic exercise"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -15792,7 +15792,7 @@
                     "kfc",
                     "mcdonald's"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -16702,18 +16702,6 @@
         "annotations": [
             {
                 "answers": [
-                    "bullying",
-                    "kekerasan anak",
-                    "kekerasan"
-                ],
-                "en_answers": [
-                    "bullying",
-                    "abuse"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "diskors",
                     "skors",
                     "skorsing"
@@ -16774,6 +16762,18 @@
                 ],
                 "en_answers": [
                     "promiscuity"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "bullying",
+                    "kekerasan anak",
+                    "kekerasan"
+                ],
+                "en_answers": [
+                    "bullying",
+                    "abuse"
                 ],
                 "count": 1
             },
@@ -20817,17 +20817,6 @@
             },
             {
                 "answers": [
-                    "coca cola",
-                    "sprite"
-                ],
-                "en_answers": [
-                    "coca cola",
-                    "sprite"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "pop ice"
                 ],
                 "en_answers": [
@@ -20841,6 +20830,17 @@
                 ],
                 "en_answers": [
                     "milk"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "coca cola",
+                    "sprite"
+                ],
+                "en_answers": [
+                    "coca cola",
+                    "sprite"
                 ],
                 "count": 1
             }
@@ -21977,7 +21977,7 @@
                     "avanza",
                     "xenia"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [

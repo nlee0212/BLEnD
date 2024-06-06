@@ -1232,7 +1232,7 @@
                     "aminu halilu tudunwada",
                     "babs shariff abdallah"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {
@@ -4309,7 +4309,7 @@
                     "tiger nut milk",
                     "sweet porridge"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -13359,7 +13359,7 @@
                     "bayero university",
                     "kano"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -13370,7 +13370,7 @@
                     "ahmadu bello university",
                     "zaria"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -13404,7 +13404,7 @@
                     "zaria",
                     "ahmadu bello university zaria"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -13415,7 +13415,7 @@
                     "bayero university",
                     "kano"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -13426,7 +13426,7 @@
                     "usman danfodio university",
                     "trousers"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {
@@ -14387,21 +14387,21 @@
         "annotations": [
             {
                 "answers": [
+                    "gidan ado bayero"
+                ],
+                "en_answers": [
+                    "ado bayero's house"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
                     "dogon banki",
                     "skyline university"
                 ],
                 "en_answers": [
                     "long bench",
                     "skyline university"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "gidan ado bayero"
-                ],
-                "en_answers": [
-                    "ado bayero's house"
                 ],
                 "count": 1
             }
@@ -14872,7 +14872,7 @@
                     "peanut oil",
                     "vegetable oil"
                 ],
-                "count": 7
+                "count": 5
             },
             {
                 "answers": [
@@ -15712,7 +15712,7 @@
                 "en_answers": [
                     "large flowing gown"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -16103,7 +16103,7 @@
                     "zaria",
                     "thing"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -16116,7 +16116,7 @@
                     "bayero university",
                     "kano"
                 ],
-                "count": 3
+                "count": 2
             }
         ],
         "idks": {
@@ -16685,7 +16685,7 @@
                     "ahmadu bello university",
                     "zaria"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {

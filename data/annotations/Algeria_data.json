@@ -2389,18 +2389,6 @@
             },
             {
                 "answers": [
-                    "الباص",
-                    "النقل العمومي",
-                    "الحافلة"
-                ],
-                "en_answers": [
-                    "bus",
-                    "public transport"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "يوصلهم احد الوالدين"
                 ],
                 "en_answers": [
@@ -2416,6 +2404,18 @@
                 ],
                 "en_answers": [
                     "alone"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "الباص",
+                    "النقل العمومي",
+                    "الحافلة"
+                ],
+                "en_answers": [
+                    "bus",
+                    "public transport"
                 ],
                 "count": 1
             }
@@ -7397,7 +7397,7 @@
                 "en_answers": [
                     "coffee"
                 ],
-                "count": 2
+                "count": 1
             },
             {
                 "answers": [
@@ -8075,7 +8075,7 @@
                     "camels",
                     "camel"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -12153,7 +12153,7 @@
                 "en_answers": [
                     "coffee"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -16364,7 +16364,7 @@
                     "valentine's day",
                     "valentine's"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {

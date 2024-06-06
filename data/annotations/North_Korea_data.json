@@ -658,7 +658,7 @@
                     "new year's greeting",
                     "new year's bow and visiting friends' houses"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -1659,17 +1659,6 @@
         "annotations": [
             {
                 "answers": [
-                    "커피",
-                    "우유"
-                ],
-                "en_answers": [
-                    "coffee",
-                    "milk"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
                     "숭늉",
                     "누룽지 물",
                     "슝늉"
@@ -1682,6 +1671,17 @@
                     "scorched-rice water"
                 ],
                 "count": 3
+            },
+            {
+                "answers": [
+                    "커피",
+                    "우유"
+                ],
+                "en_answers": [
+                    "coffee",
+                    "milk"
+                ],
+                "count": 2
             }
         ],
         "idks": {
@@ -1852,7 +1852,7 @@
                     "single-story terraced house",
                     "multi-family housing"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -3114,7 +3114,7 @@
                     "pyongyang maternity hospital",
                     "gynecology"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -5402,21 +5402,21 @@
         "annotations": [
             {
                 "answers": [
+                    "집단체조"
+                ],
+                "en_answers": [
+                    "mass gymnastics"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
                     "꽃",
                     "꽃다발"
                 ],
                 "en_answers": [
                     "flower",
                     "bouquet"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
-                    "집단체조"
-                ],
-                "en_answers": [
-                    "mass gymnastics"
                 ],
                 "count": 1
             },
@@ -6302,17 +6302,6 @@
             },
             {
                 "answers": [
-                    "무역일군",
-                    "보위원"
-                ],
-                "en_answers": [
-                    "trade worker",
-                    "security officer"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "공무원"
                 ],
                 "en_answers": [
@@ -6372,6 +6361,17 @@
                 ],
                 "en_answers": [
                     "money master"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "무역일군",
+                    "보위원"
+                ],
+                "en_answers": [
+                    "trade worker",
+                    "security officer"
                 ],
                 "count": 1
             }
@@ -6616,7 +6616,7 @@
                     "milk",
                     "goat milk"
                 ],
-                "count": 2
+                "count": 1
             }
         ],
         "idks": {
@@ -9032,17 +9032,6 @@
             },
             {
                 "answers": [
-                    "이불감",
-                    "금반지"
-                ],
-                "en_answers": [
-                    "blanket cover",
-                    "gold ring"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "반지"
                 ],
                 "en_answers": [
@@ -9083,6 +9072,17 @@
                 ],
                 "en_answers": [
                     "furniture"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "이불감",
+                    "금반지"
+                ],
+                "en_answers": [
+                    "blanket cover",
+                    "gold ring"
                 ],
                 "count": 1
             }
@@ -9415,7 +9415,7 @@
                     "4.15",
                     "kim il-sung's birthday"
                 ],
-                "count": 4
+                "count": 3
             },
             {
                 "answers": [
@@ -9428,7 +9428,7 @@
                     "kim jong-il's birthday",
                     "day of the shining star"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -12342,19 +12342,6 @@
         "annotations": [
             {
                 "answers": [
-                    "할머니",
-                    "할아버지",
-                    "로부모"
-                ],
-                "en_answers": [
-                    "grandmother",
-                    "grandfather",
-                    "old parents"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
                     "탁아소"
                 ],
                 "en_answers": [
@@ -12368,6 +12355,19 @@
                 ],
                 "en_answers": [
                     "kindergarten"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
+                    "할머니",
+                    "할아버지",
+                    "로부모"
+                ],
+                "en_answers": [
+                    "grandmother",
+                    "grandfather",
+                    "old parents"
                 ],
                 "count": 2
             },
@@ -14515,7 +14515,7 @@
                     "doesn't matter",
                     "neat clothes"
                 ],
-                "count": 3
+                "count": 2
             },
             {
                 "answers": [
@@ -15068,7 +15068,7 @@
                     "win, win",
                     "our athlete"
                 ],
-                "count": 6
+                "count": 4
             },
             {
                 "answers": [
@@ -16161,18 +16161,6 @@
             },
             {
                 "answers": [
-                    "농촌동원",
-                    "사회동원",
-                    "사회동원(철도지원"
-                ],
-                "en_answers": [
-                    "rural mobilization",
-                    "social mobilization (railway support)"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "광산로동자"
                 ],
                 "en_answers": [
@@ -16186,6 +16174,18 @@
                 ],
                 "en_answers": [
                     "farm worker"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "농촌동원",
+                    "사회동원",
+                    "사회동원(철도지원"
+                ],
+                "en_answers": [
+                    "rural mobilization",
+                    "social mobilization (railway support)"
                 ],
                 "count": 1
             }
@@ -16338,7 +16338,7 @@
                     "home brewed liquor",
                     "homemade alcohol"
                 ],
-                "count": 5
+                "count": 4
             },
             {
                 "answers": [
@@ -16741,17 +16741,6 @@
             },
             {
                 "answers": [
-                    "함남도",
-                    "함경도"
-                ],
-                "en_answers": [
-                    "south hamgyong province",
-                    "hamgyong province"
-                ],
-                "count": 2
-            },
-            {
-                "answers": [
                     "검덕"
                 ],
                 "en_answers": [
@@ -16765,6 +16754,17 @@
                 ],
                 "en_answers": [
                     "north pyongan province"
+                ],
+                "count": 1
+            },
+            {
+                "answers": [
+                    "함남도",
+                    "함경도"
+                ],
+                "en_answers": [
+                    "south hamgyong province",
+                    "hamgyong province"
                 ],
                 "count": 1
             }
@@ -18071,7 +18071,7 @@
                     "sasaki",
                     "playing cards"
                 ],
-                "count": 6
+                "count": 5
             },
             {
                 "answers": [
@@ -22280,6 +22280,16 @@
         "annotations": [
             {
                 "answers": [
+                    "본인생일",
+                    "생일"
+                ],
+                "en_answers": [
+                    "birthday"
+                ],
+                "count": 2
+            },
+            {
+                "answers": [
                     "부모님 생일",
                     "아버지 생일",
                     "아버지생일",
@@ -22290,16 +22300,6 @@
                     "parents' birthday",
                     "father's birthday",
                     "mother's day"
-                ],
-                "count": 3
-            },
-            {
-                "answers": [
-                    "본인생일",
-                    "생일"
-                ],
-                "en_answers": [
-                    "birthday"
                 ],
                 "count": 2
             },
