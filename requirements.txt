@@ -20,6 +20,5 @@ spacy==3.7.4
 spark_nlp==5.3.3
 together==1.2.0
 torch==2.2.1
-tqdm==4.66.2
 tqdm==4.66.4
 transformers==4.40.1
