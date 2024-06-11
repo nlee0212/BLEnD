@@ -29,7 +29,6 @@ MODEL_KEYS=(
     "text-bison-002"
     "c4ai-command-r-v01"
     "c4ai-command-r-plus"
-    "hcx"
     "aya-23"
     "SeaLLM-7B-v2.5"
     "Merak-7B-v4"

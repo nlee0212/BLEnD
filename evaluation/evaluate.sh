@@ -15,7 +15,6 @@ MODEL_KEYS=(
     "text-bison-002"
     "c4ai-command-r-v01"
     "c4ai-command-r-plus"
-    "hcx"
 )
 
 # Define countries and languages as an associative array
