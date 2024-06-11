@@ -55,9 +55,59 @@ The topics and source language for each question can be found in the `data/quest
 
 ## Evaluation Codes
 The code for retrieving answers from LLMs for the short-answer questions is provided at `model_inference.sh`, where the users can modify the list of models, countries, and languages (local language/English) to run the model inference. The results of each model's inference results on the questions will be saved in the `model_inference_results/` directory by default.
-To calculate the scores for the short-answer questions, the users can run `evaluation/evaluate.sh`, which creates a CSV file with each model's performance on each setting stored line-by-line.  
+
+```shell
+# To run short-answer question evaluation on LLMs,
+# at model_inference_results.sh, set the following:
+
+export CUDA_VISIBLE_DEVICES=""
+
+export HF_TOKEN="" 
+export COHERE_API_KEY=""
+export OPENAI_API_KEY=""
+export OPENAI_ORG_ID=""
+export AZURE_OPENAI_API_KEY=""
+export AZURE_OPENAI_API_VER=""
+export AZURE_OPENAI_API_ENDPT=""
+export CLAUDE_API_KEY=""
+export GOOGLE_API_KEY=""
+export GOOGLE_APPLICATION_CREDENTIALS=""
+export GOOGLE_PROJECT_NAME=""
+
+# Then, run the code below:
+$ bash model_inference_results.sh
+```
 
 The current set of multiple choice questions and their answers can be found at `evaluation/mc_data/mc_questions_file.csv`. Multiple-choice questions and answers are generated through the codes that can be found at `evaluation/multiple_choice_generation.sh`. 
 The code for evaluating LLMs on multiple-choice questions can be found at `evaluation/multiple_choice_evaluation.sh`, where the users can modify the list of models to evaluate on.
+```shell
+$ cd evaluation
+
+# To run multiple-choice question evaluation on LLMs,
+# at multiple_choice_evaluation.sh, set the following:
+
+export CUDA_VISIBLE_DEVICES=""
+
+export HF_TOKEN="" 
+export COHERE_API_KEY=""
+export OPENAI_API_KEY=""
+export OPENAI_ORG_ID=""
+export AZURE_OPENAI_API_KEY=""
+export AZURE_OPENAI_API_VER=""
+export AZURE_OPENAI_API_ENDPT=""
+export CLAUDE_API_KEY=""
+export GOOGLE_API_KEY=""
+export GOOGLE_APPLICATION_CREDENTIALS=""
+export GOOGLE_PROJECT_NAME=""
+
+# Then, run the code below:
+$ bash multiple_choice_evaluation.sh
+```
+
+To calculate the scores for both short-answer questions and multiple-choice questions, the users can run `evaluation/evaluate.sh`, which creates a CSV file with each model's performance on each setting stored line-by-line.  
+```shell
+$ cd evaluation
+$ bash evaluate.sh
+```
 
 The users will need to input their own API keys within these files for the required models.
