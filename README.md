@@ -50,9 +50,9 @@ Specifically, the annotations from each country are included in the `data/annota
 },
 ```
 We also include the prompts that we used for LLM evaluation in both local languages and English in the data/prompts/ directory. Each file is named `{country/region}_prompts.csv`. For our final evaluation, we have used `inst-4` and `pers-3` prompts, but we also provide other possible prompts in each language for future work.
+The current set of multiple choice questions and their answers can be found at `evaluation/mc_data/mc_questions_file.csv`. 
 
 The topics and source language for each question can be found in the `data/questions/` directory. Each file is named `{country/region}_questions.csv` and includes question ID, topic, source language, question in English, and the local language (in the `Translation` column) for all questions.
-
 ## Evaluation Codes
 ### Requirements
 We recommend using Python version $\ge$ 3.10.
@@ -102,7 +102,7 @@ export GOOGLE_PROJECT_NAME=""
 $ bash model_inference_results.sh
 ```
 
-The current set of multiple choice questions and their answers can be found at `evaluation/mc_data/mc_questions_file.csv`. Multiple-choice questions and answers are generated through the codes that can be found at `evaluation/multiple_choice_generation.sh`. 
+Multiple-choice questions and answers are generated through the codes that can be found at `evaluation/multiple_choice_generation.sh`. 
 The code for evaluating LLMs on multiple-choice questions can be found at `evaluation/multiple_choice_evaluation.sh`, where the users can modify the list of models to evaluate on.
 ```shell
 $ cd evaluation
