@@ -40,6 +40,7 @@ for model_key in "${MODEL_KEYS[@]}"; do
         --model_cache_dir '.cache' \
         --mc_dir './mc_data' \
         --questions_file 'mc_questions_file.csv' \
+        --response_file "${model_key}-mc_res.csv" \
         --temperature 0 \
         --top_p 1 \
         --gpt_azure 'True'

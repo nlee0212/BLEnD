@@ -33,6 +33,7 @@ from vertexai.language_models import TextGenerationModel
 import anthropic
 from anthropic import HUMAN_PROMPT, AI_PROMPT
 import cohere
+from together import Together
 
 MODEL_PATHS = {
     "gpt-3.5-turbo-0125":"gpt-3.5-turbo-0125",
@@ -81,7 +82,7 @@ COUNTRY_LANG = {
 def get_tokenizer_model(model_name,model_path,model_cache_dir):
     tokenizer,model = None,None
     
-    if 'gpt' not in model_name and 'gemini' not in model_name and 'claude' not in model_name and 'bison' not in model_name and 'plus' not in model_name:
+    if 'gpt' not in model_name and 'gemini' not in model_name and 'claude' not in model_name and 'bison' not in model_name and 'command' not in model_name and 'Qwen' not in model_name:
         if 'llama' in model_name.lower():
             tokenizer = LlamaTokenizer.from_pretrained(model_path, use_fast=False,token=os.getenv("HF_TOKEN"))
             model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", 
@@ -92,12 +93,6 @@ def get_tokenizer_model(model_name,model_path,model_cache_dir):
         elif 'Orion' in model_name or 'polylm' in model_name:
             tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False, trust_remote_code=True)
             model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto", trust_remote_code=True ,torch_dtype=torch.bfloat16,
-                                                                resume_download=True,
-                                                                cache_dir=os.path.join(model_cache_dir,model_path))
-            
-        elif 'c4ai' in model_name:
-            tokenizer = AutoTokenizer.from_pretrained(model_path)
-            model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto",
                                                                 resume_download=True,
                                                                 cache_dir=os.path.join(model_cache_dir,model_path))
         
@@ -148,7 +143,6 @@ def get_tokenizer_model(model_name,model_path,model_cache_dir):
             model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto",
                                                                 resume_download=True,
                                                                 cache_dir=os.path.join(model_cache_dir,model_path))
-
             
     return tokenizer,model
 
@@ -195,12 +189,58 @@ class Prompter(object):
     def get_response(self, output: str) -> str:
         return output.split(self.template["response_split"])[1].strip()
     
+def get_together_response(
+    text,
+    model_name='Qwen/Qwen1.5-72B-Chat',
+    temperature=1.0,
+    top_p=1.0,
+    max_tokens=512,
+    greedy=False,
+    num_sequence=1,
+    max_try=10,
+    dialogue_history=None
+):
+
+    client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
+    n_try = 0
+    while True:
+        if n_try == max_try:
+            outputs = ["something wrong"]
+            response = None
+            break
+        try:
+            time.sleep(0.5)
+            response = client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": text}],
+                temperature=temperature,
+                top_p=top_p,
+                max_tokens=max_tokens,
+            )
+        
+            response = response.choices[0].message.content.strip()
+            break
+        except KeyboardInterrupt:
+            raise Exception("KeyboardInterrupted!")
+        except:
+            try:
+                print(response)
+            except:
+                print('ERROR')
+            print("Exception: Sleep for 10 sec")
+            
+            time.sleep(10)
+            n_try += 1
+            continue
+            
+    return response
+    
 def get_cohere_response(
     text,
     model_name='command-r-plus',
     temperature=1.0,
     top_p=1.0,
-    max_tokens=None,
+    max_tokens=512,
     greedy=False,
     num_sequence=1,
     max_try=10,
@@ -232,7 +272,7 @@ def get_cohere_response(
             raise Exception("KeyboardInterrupted!")
         except:
             try:
-                print(res.data)
+                print(response)
             except:
                 print('ERROR')
             print("Exception: Sleep for 10 sec")
@@ -370,7 +410,7 @@ def inference_azure(prompt,temperature=0,top_p=1,model_name,max_attempt=10):
             return "openai.BadRequestError"
     return res.strip()
 
-def inference_claude(prompt,temperature=0,top_p=1,model_name,max_attempt=10):
+def inference_claude(prompt,temperature=0,top_p=1,model_name="culture-gpt-4-1106-Preview",max_attempt=10):
     c =  anthropic.Anthropic(api_key=os.getenv('CLAUDE_API_KEY'))    
     
     attempt = 0
@@ -380,7 +420,7 @@ def inference_claude(prompt,temperature=0,top_p=1,model_name,max_attempt=10):
         try:
             message = c.messages.create(
                 model=model_name,
-                max_tokens=1024,
+                max_tokens=512,
                 temperature=temperature,
                 top_p=top_p,
                 messages=[
@@ -537,7 +577,7 @@ def model_inference(prompt,model_path,model,tokenizer,max_length=512):
         input_ids = tokenizer(prompt, return_tensors="pt", return_token_type_ids=False).to(model.device)
         outputs = model.generate(**input_ids,max_length=max_length)
         result = tokenizer.decode(outputs[0],skip_special_tokens=True)
-
+        result = result.replace(prompt,'').strip()
         
     return result
 
@@ -715,25 +755,26 @@ def get_palm2_response(prompt,model_name,
     return res.strip()  
 
 def get_model_response(model_name,prompt,model,tokenizer,temperature,top_p,gpt_azure):
-    model_path = MODEL_PATHS[model_name]
-    
+
     if gpt_azure:
         gpt_inference = inference_azure
     else:
         gpt_inference = get_gpt_response
     
     if 'gpt' in model_name:
-        response = gpt_inference(prompt,model_name=model_path,temperature=temperature,top_p=top_p)
+        response = gpt_inference(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
     elif 'gemini' in model_name:
-        response = get_gemini_response(prompt,model_name=model_path,temperature=temperature,top_p=top_p)
+        response = get_gemini_response(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
     elif 'bison' in model_name:
-        response = get_palm2_response(prompt,model_name=model_path,temperature=temperature,top_p=top_p)
+        response = get_palm2_response(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
     elif 'claude' in model_name:
-        response = inference_claude(prompt,model_name=model_path,temperature=temperature,top_p=top_p)
-    elif 'plus' in model_name:
-        response = get_cohere_response(prompt,model_name=model_path,temperature=temperature,top_p=top_p)
+        response = inference_claude(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
+    elif 'command' in model_name:
+        response = get_cohere_response(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
+    elif 'Qwen' in model_name:
+        response = get_together_response(prompt,model_name=model_name,temperature=temperature,top_p=top_p)
     else:
-        response = model_inference(prompt,model_path=model_path,model=model,tokenizer=tokenizer)
+        response = model_inference(prompt,model_path=model_name,model=model,tokenizer=tokenizer)
             
     return response
 
@@ -755,6 +796,7 @@ def get_json_str(response,return_list=False):
         
         if return_list:
             jsons = re.findall(r'\[\s*{.+}\s*\]',response)
+
             json_list = []
             json_object = json.loads(jsons[-1])
         else:
@@ -766,9 +808,10 @@ def get_json_str(response,return_list=False):
     except:
         return response 
 
+
     return json_object
 
-def import_google_sheet(id,gid=0,file_path='google_sheet_tmp.csv'):
+def import_google_sheet(id,gid=0,file_path='google_sheet_tmp.csv',overwrite=False):
 
     url = f'https://docs.google.com/spreadsheets/d/{id}/export?format=csv&gid={gid}'
     response = requests.get(url)
@@ -785,9 +828,9 @@ def import_google_sheet(id,gid=0,file_path='google_sheet_tmp.csv'):
 
 def read_jsonl(filename):
     js = []
-    with open(filename) as f: 
+    with open(filename) as f: # jsonl 형식임
         for line in f.readlines():
-            js.append(json.loads(line)) 
+            js.append(json.loads(line)) ## json 라이브러리 이용
     
     return js
 

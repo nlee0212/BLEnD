@@ -4,7 +4,7 @@ from multiple_choice_evaluation import *
 
 def evaluate_all_metrics(
     model,country,language,
-    prompt_no,response_dir,annotation_dir,
+    prompt_no,response_dir,annotation_dir,mc_dir,
     id_col,q_col,r_col,annotations_key,
     eval_res_filename,annotation_template='{country}_data.json'
     ):
@@ -22,6 +22,11 @@ def evaluate_all_metrics(
     
     res_df.to_csv(os.path.join(response_dir,f'{model}_{country}_{language}_{prompt_no}_response_score.csv'),index=False,encoding='utf-8')
     
+    # Multiple Choice Question
+    if language == 'English':
+        mc_score = multiple_choice_score(model,mc_dir,f'{model}-mc_res.csv',mc_res_file,eval_res_file,wrong_country_ratio_file,country)    
+        write_csv_row([model,country,'English',None,'MC',mc_score],eval_res_file)
+     
     # leave the latest result if duplicated
     # Read the file as pd.DataFrame
     df = pd.read_csv(eval_res_filename)
@@ -54,6 +59,8 @@ if __name__ == "__main__":
                         help='Provide the directory for the output files to be saved.')
     parser.add_argument('--annotation_dir',type=str,default='../final_dataset',
                         help='Provide the directory for the data files from the human annotators.')
+    parser.add_argument('--mc_dir',type=str,default='./mc_data',
+                        help='Provide the directory for the multiple choice result files.')
     parser.add_argument('--annotation_filename',type=str,default='{country}_data.json',)
     parser.add_argument('--annotations_key',type=str,default='annotations',
                         help='Provide the key for the annotations in the annotation file.')
@@ -62,4 +69,4 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    evaluate_all_metrics(model=args.model,country=args.country,language=args.language,prompt_no=args.prompt_no,response_dir=args.response_dir,annotation_dir=args.annotation_dir,id_col=args.id_col,q_col=args.question_col,r_col=args.response_col,eval_res_filename=args.evaluation_result_file,annotations_key=args.annotations_key,annotation_template=args.annotation_filename) 
+    evaluate_all_metrics(model=args.model,country=args.country,language=args.language,prompt_no=args.prompt_no,response_dir=args.response_dir,annotation_dir=args.annotation_dir,mc_dir=args.mc_dir,id_col=args.id_col,q_col=args.question_col,r_col=args.response_col,eval_res_filename=args.evaluation_result_file,annotations_key=args.annotations_key,annotation_template=args.annotation_filename) 

@@ -6,6 +6,44 @@ sys.path.append(parent_dir)
 
 from utils import *
 
+import matplotlib.pyplot as plt
+import numpy as np
+
+COUNTRY_ISO = {
+    "UK": "GB", 
+    "US": "US", 
+    "South_Korea": "KR",
+    "Algeria": "DZ",
+    "China": "CN",
+    "Indonesia": "ID",
+    "Spain": "ES",
+    "Iran": "IR",
+    "Mexico":"MX",
+    "Assam":"AS",
+    "Greece":"GR",
+    "Ethiopia":"ET",
+    "Northern_Nigeria":"NG",
+    "Azerbaijan":"AZ",
+    "North_Korea":"KP",
+    "West_Java":"JB"
+}
+
+LANG_CODE = {
+    'English':'en',
+    'Chinese':'zh',
+    'Spanish':'es',
+    'Indonesian':'id',
+    'Greek':'el',
+    'Sundanese':'su',
+    'Azerbaijani':'az',
+    'Korean':'ko',
+    'Arabic':'ar',
+    'Persian':'fa',
+    'Assamese':'as',
+    'Amharic':'am',
+    'Hausa':'ha',
+}
+
 def get_questions(
     filename=None,
     data_dir=None,
@@ -39,8 +77,6 @@ def get_annotations(
     with open(os.path.join(data_dir,filename),'r') as f:
         country_data = json.load(f)
         
-    # print(country_data)
-    
     return country_data
 
 def get_model_response_file(
@@ -78,7 +114,6 @@ def delete_prompt_from_answer(text,prompt):
     match = re.findall(r'^(\w+:)\s', text)
     extracted = ''
     for m in match:
-        # print(prompt)
         if len(m) > len(extracted) and m.replace(':','') in prompt:
             extracted = m
     

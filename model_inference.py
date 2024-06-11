@@ -46,7 +46,7 @@ def make_prompt(question,prompt_no,language,country,prompt_sheet):
 
     return prompt.replace('{q}',question)
 
-def generate_response(model_name,model_path,tokenizer,model,language,country,q_df,q_col,id_col,output_dir,prompt_dir,prompt_filename,prompt_no=None):
+def generate_response(model_name,model_path,tokenizer,model,language,country,q_df,q_col,id_col,output_dir,prompt_no=None):
     replace_country_flag = False
     if language != COUNTRY_LANG[country] and language == 'English':
         replace_country_flag = True
@@ -58,7 +58,7 @@ def generate_response(model_name,model_path,tokenizer,model,language,country,q_d
             q_col = 'Question'
     
     if prompt_no is not None:
-        prompt_sheet = pd.read_csv(os.path.join(prompt_dir,prompt_filename),encoding='utf-8')
+        prompt_sheet = import_google_sheet(PROMPT_SHEET_ID,PROMPT_COUNTRY_SHEET[country])
         output_filename = os.path.join(output_dir,f"{model_name}-{country}_{language}_{prompt_no}_result.csv")
     else:
         output_filename = os.path.join(output_dir,f"{model_name}-{country}_{language}_result.csv")
@@ -68,18 +68,12 @@ def generate_response(model_name,model_path,tokenizer,model,language,country,q_d
     if os.path.exists(output_filename):
         already = pd.read_csv(output_filename)
         guid_list = set(already[id_col])
+        print(already)
         
         
     else:        
         write_csv_row([id_col,q_col,'prompt','response','prompt_no'],output_filename)
-        
-    if 'gpt' in model_name:
-        if args.gpt_azure:
-            gpt_inference = inference_azure
-        else:
-            gpt_inference = get_gpt_response
-    
-            
+      
     pb = tqdm(q_df.iterrows(),desc=model_name,total=len(q_df))
     for _,d in pb:
         q = d[q_col]
@@ -98,21 +92,13 @@ def generate_response(model_name,model_path,tokenizer,model,language,country,q_d
             prompt = q
             
         print(prompt)
-        if 'gpt' in model_name:
-            response = gpt_inference(prompt,model_name=model_path,temperature=args.temperature,top_p=args.top_p)
-        elif 'gemini' in model_name:
-            response = get_gemini_response(prompt,model_name=model_path,temperature=args.temperature,top_p=args.top_p)
-        elif 'bison' in model_name:
-            response = get_palm2_response(prompt,model_name=model_path,temperature=args.temperature,top_p=args.top_p)
-        elif 'claude' in model_name:
-            response = inference_claude(prompt,model_name=model_path,temperature=args.temperature,top_p=args.top_p)
-        elif 'plus' in model_name:
-            response = get_cohere_response(prompt,model_name=model_path,temperature=args.temperature,top_p=args.top_p)
-        else:
-            response = model_inference(prompt,model_path=model_path,model=model,tokenizer=tokenizer)
+        
+        response = get_model_response(model_path,prompt,model,tokenizer,temperature=args.temperature,top_p=args.top_p,gpt_azure=args.gpt_azure)
             
         print(response)
         write_csv_row([guid,q,prompt,response,prompt_no],output_filename)
+        
+    del guid_list
             
 def get_response_from_all():
     models = args.model
