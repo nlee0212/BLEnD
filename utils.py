@@ -367,7 +367,7 @@ def get_gpt_response(
         outputs = outputs[0]
     return outputs
 
-def inference_azure(prompt,temperature=0,top_p=1,model_name,max_attempt=10):
+def inference_azure(prompt,model_name,temperature=0,top_p=1,max_attempt=10):
     client = AzureOpenAI(
         api_key=os.getenv("AZURE_OPENAI_API_KEY"),
         api_version=os.getenv("AZURE_OPENAI_API_VER"),
