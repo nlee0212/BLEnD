@@ -54,11 +54,35 @@ We also include the prompts that we used for LLM evaluation in both local langua
 The topics and source language for each question can be found in the `data/questions/` directory. Each file is named `{country/region}_questions.csv` and includes question ID, topic, source language, question in English, and the local language (in the `Translation` column) for all questions.
 
 ## Evaluation Codes
+### Requirements
+We recommend using Python version $\ge$ 3.10.
+```
+pip install -r requirements.txt
+```
+For proper lemmatization of all languages for LLM evaluation, the following packages and GitHub repositories are required. Copy & paste and run the following lines.
+```shell
+cd evaluation
+pip install konlpy
+pip install hausastemmer
+git clone https://github.com/aznlp-disc/stemmer.git,
+cp stemmer/word.txt ./evaluation
+cp stemmer/suffix.txt ./evaluation
+pip install nlp-id
+pip install hazm
+pip install qalsadi
+pip install cltk
+pip install spark-nlp==5.3.3 pyspark==3.3.1
+pip install jieba
+git clone https://github.com/anoopkunchukuttan/indic_nlp_library.git
+git clone https://github.com/anoopkunchukuttan/indic_nlp_resources.git
+```
+
+### Code Execution Details
 The code for retrieving answers from LLMs for the short-answer questions is provided at `model_inference.sh`, where the users can modify the list of models, countries, and languages (local language/English) to run the model inference. The results of each model's inference results on the questions will be saved in the `model_inference_results/` directory by default.
 
 ```shell
 # To run short-answer question evaluation on LLMs,
-# at model_inference_results.sh, set the following:
+# at model_inference_results.sh, change the following by putting in your own API keys and settings:
 
 export CUDA_VISIBLE_DEVICES=""
 
@@ -84,7 +108,7 @@ The code for evaluating LLMs on multiple-choice questions can be found at `evalu
 $ cd evaluation
 
 # To run multiple-choice question evaluation on LLMs,
-# at multiple_choice_evaluation.sh, set the following:
+# at multiple_choice_evaluation.sh, change the following:
 
 export CUDA_VISIBLE_DEVICES=""
 
