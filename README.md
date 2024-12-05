@@ -4,6 +4,8 @@ This is the official repository of **BLEnD: A Benchmark for LLMs on Everyday Kno
 
 Our dataset can also be found at 🤗 [HuggingFace Datasets](https://huggingface.co/datasets/nayeon212/BLEnD).
 
+*24/12/05: Updated translation errors*
+
 ## About
 ![BLEnD Construction & LLM Evaluation Framework](main_figure.png)
 
