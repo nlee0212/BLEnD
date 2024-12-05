@@ -1,501 +1,501 @@
-ID,Topic,Source,Question,Translation
-Al-en-01,Food,English (US),What is a common snack for preschool kids in your country?,What is a common snack for nursery kids in the UK?
-Al-en-02,Food,English (US),What is a popular food to go with beer in your country?,What is a popular food to go with beer in the UK?
-Al-en-04,Food,English (US),What is the most popular fruit in your country?,What is the most popular fruit in the UK?
-Al-en-06,Food,English (US),What is a common school cafeteria food in your country?,What is a common school cafeteria food in the UK?
-Al-en-08,Food,English (US),What are the most commonly eaten snacks at shopping malls in your country?,What are the most commonly eaten snacks at shopping malls in the UK?
-Al-en-09,Food,English (US),What is a popular snack at an amusement park in your country?,What is a popular snack at an amusement park in the UK?
-Al-en-16,Education,English (US),"At what age do kids start preschool in your country? (Provide Arabic numerals (e.g., 12) only.)","At what age do kids start nursery in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Al-en-17,Education,English (US),What is a popular afterschool sport for elementary schools in your country?,What is a popular afterschool sport for primary schools in the UK?
-Al-en-18,Education,English (US),For which subject do elementary students get private education in your country?,For which subject do primary school students get private education in the UK?
-Al-en-19,Education,English (US),What is a popular second language for high school students in your country?,What is a popular second language for secondary school students in the UK?
-Al-en-21,Education,English (US),Which subject is the most important for gifted education in your country?,Which subject is the most important for gifted education in the UK?
-Al-en-32,Holidays/Celebration/Leisure,English (US),What is the main dish for Thanksgiving in your country?,What is the main dish for Thanksgiving in the UK?
-Al-en-33,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Halloween in your country?,What do people do to celebrate Halloween in the UK?
-Al-en-34,Holidays/Celebration/Leisure,English (US),What do people do to celebrate New Year's Day in your country?,What do people do to celebrate New Year's Day in the UK?
-Al-en-35,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Christmas in your country?,What do people do to celebrate Christmas in the UK?
-Al-en-36,Holidays/Celebration/Leisure,English (US),What food is associated with Halloween in your country?,What food is associated with Halloween in the UK?
-Al-en-37,Holidays/Celebration/Leisure,English (US),What food is associated with Christmas in your country?,What food is associated with Christmas in the UK?
-Al-en-38,Holidays/Celebration/Leisure,English (US),What food is associated with Valentine's day in your country?,What food is associated with Valentine's day in the UK?
-Al-en-39,Holidays/Celebration/Leisure,English (US),What do people eat on their birthday in your country?,What do people eat on their birthday in the UK?
-Al-en-40,Holidays/Celebration/Leisure,English (US),What is a popular outdoor place for families to have fun with little kids in your country?,What is a popular outdoor place for families to have fun with little kids in the UK?
-Al-en-43,Holidays/Celebration/Leisure,English (US),What is a popular indoor activity for families in your country?,What is a popular indoor activity for families in the UK?
-An-ar-02,Education,Arabic (Algeria),Where do university students have lunch in your country?,Where do university students have lunch in the UK?
-An-ar-03,Education,Arabic (Algeria),Which month is the final exam term usually scheduled at high schools in your country? (Provide Arabic numerals (1~12) only.),Which month is the final exam term usually scheduled at secondary schools in the UK? (Provide Arabic numerals (1~12) only.)
-An-ar-08,Education,Arabic (Algeria),"How many hours a day do students in your country usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)","How many hours a day do students in the UK usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
-An-ar-09,Education,Arabic (Algeria),"How many languages do students study at high school in your country? (Provide Arabic numerals (e.g., 5) only.)","How many languages do students study at secondary school in the UK? (Provide Arabic numerals (e.g., 5) only.)"
-An-ar-34,Sport,Arabic (Algeria),What is the most popular sport played in a team at school in your country?,What is the most popular sport played in a team at school in the UK?
-An-ar-35,Sport,Arabic (Algeria),Who is the most popular sport commentator in your country?,Who is the most popular sport commentator in the UK?
-An-ar-36,Sport,Arabic (Algeria),What is the most popular sport team in your country?,What is the most popular sport team in the UK?
-An-ar-43,Sport,Arabic (Algeria),What are the common places or venues where individuals in your country usually gather to watch sports broadcasts?,What are the common places or venues where individuals in the UK usually gather to watch sports broadcasts?
-Ca-sp-05,Food,Spanish (Spain),"How many meals per day do people from your country usually have? (Provide Arabic numerals (e.g., 5) only.)","How many meals per day do people from the UK usually have? (Provide Arabic numerals (e.g., 5) only.)"
-Ca-sp-06,Food,Spanish (Spain),Which is the most important meal of the day to people from your country?,Which is the most important meal of the day to people from the UK?
-Ca-sp-08,Food,Spanish (Spain),What is the most common ingredient used in your country's diet?,What is the most common ingredient used in the UK's diet?
-Ca-sp-09,Food,Spanish (Spain),What do people from your country usually eat for dessert?,What do people from the UK usually eat for dessert?
-Ca-sp-11,Food,Spanish (Spain),Which day of the week do people usually organize a family meal in your country?,Which day of the week do people usually organize a family meal in the UK?
-Ca-sp-14,Food,Spanish (Spain),Which is the most popular hot drink in your country?,Which is the most popular hot drink in the UK?
-Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),What do young people from your country usually drink at the night club?,What do young people from the UK usually drink at the night club?
-Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),At which month do people usually take holidays in your country? (Provide Arabic numerals (1~12) only.),At which month do people usually take holidays in the UK? (Provide Arabic numerals (1~12) only.)
-Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),What tradition is there in your country for New Year's Eve?,What tradition is there in the UK for New Year's Eve?
-Ca-sp-38,Family,Spanish (Spain),Which is the typical type of house for a family in your country?,Which is the typical type of house for a family in the UK?
-Ca-sp-41,Family,Spanish (Spain),Where do the dependent elderly usually live in your country?,Where do the dependent elderly usually live in the UK?
-Ca-sp-42,Family,Spanish (Spain),"How long (in weeks) is your country's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)","How long (in weeks) is the UK's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
-Ca-sp-43,Family,Spanish (Spain),"How long (in weeks) is your country's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)","How long (in weeks) is the UK's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
-Ca-sp-45,Family,Spanish (Spain),What type of destination is commonly chosen for a family vacation in your country?,What type of destination is commonly chosen for a family holiday in the UK?
-Gu-ch-05,Sport,Chinese (China),What sports do seniors like the most in your country?,What sports do seniors like the most in the UK?
-Gu-ch-06,Sport,Chinese (China),What sports do men like to play the most in your country?,What sports do men like to play the most in the UK?
-Gu-ch-07,Sport,Chinese (China),Who is the most famous basketball player in your country?,Who is the most famous basketball player in the UK?
-Gu-ch-08,Sport,Chinese (China),What is the most popular sports among children in your country?,What is the most popular sports among children in the UK?
-Gu-ch-09,Sport,Chinese (China),What sports do women like to play the most in your country?,What sports do women like to play the most in the UK?
-Gu-ch-11,Sport,Chinese (China),What sports event has your country won the most gold medals at the Olympics?,What sports event has the UK won the most gold medals at the Olympics?
-Gu-ch-15,Sport,Chinese (China),What sports do male students in university like to play the most in your country?,What sports do male students in university like to play the most in the UK?
-Gu-ch-16,Family,Chinese (China),"How many people are there in a family on average in your country? (Provide Arabic numerals (e.g., 12) only.)","How many people are there in a family on average in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-18,Family,Chinese (China),"How many children do couples usually have in your country? (Provide Arabic numerals (e.g., 12) only.)","How many children do couples usually have in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-31,Education,Chinese (China),"What is the duration of elementary school in years in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of primary school in years in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-32,Education,Chinese (China),"What is the duration of compulsory education in years in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of compulsory education in years in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-33,Education,Chinese (China),"From which age do students start learning their second language in your country? (Provide Arabic numerals (e.g., 12) only.)","From which age do students start learning their second language in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-38,Education,Chinese (China),"What is the duration of undergraduate education in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of undergraduate education in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Gu-ch-40,Education,Chinese (China),"What time do younger elementary school students finish school in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do younger primary school students finish school in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Gu-ch-41,Education,Chinese (China),"How many musical instruments do elementary school students in your country typically play? (Provide Arabic numerals (e.g., 12) only.)","How many musical instruments do primary school students in the UK typically play? (Provide Arabic numerals (e.g., 12) only.)"
-Ji-ko-02,Work life,Korean (South Korea),What day of the week do people in your country prefer to have company dinners?,What day of the week do people in the UK prefer to have company dinners?
-Ji-ko-03,Work life,Korean (South Korea),Which region/city has the highest number of financial companies in your country?,Which region/city has the highest number of financial companies in the UK?
-Ji-ko-07,Work life,Korean (South Korea),What is the most famous private company in your country?,What is the most famous private company in the UK?
-Ji-ko-08,Work life,Korean (South Korea),"What is the maximum number of hours one can work per week in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the maximum number of hours one can work per week in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Ji-ko-09,Work life,Korean (South Korea),What do people typically eat during company get-together in your country?,What do people typically eat during company get-together in the UK?
-Ji-ko-14,Work life,Korean (South Korea),What is the representative export item of your country?,What is the representative export item of the UK?
-Ji-ko-15,Work life,Korean (South Korea),"How long (in hours) is the typical lunch break in your country? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) is the typical lunch break in the UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
-Ji-ko-16,Family,Korean (South Korea),Where do mothers stay for a certain period after childbirth for recovery in your country?,Where do mothers stay for a certain period after childbirth for recovery in the UK?
-Ji-ko-19,Family,Korean (South Korea),What is your country's most commonly given flower on Parents' Day?,What is the UK's most commonly given flower on Parents' Day?
-Ji-ko-22,Family,Korean (South Korea),What do people especially spend their first salary on in your country's society?,What do people especially spend their first salary on in the UK's society?
-Ji-ko-24,Family,Korean (South Korea),What is the most preferred recreational facility among children in your country?,What is the most preferred recreational facility among children in the UK?
-Ji-ko-25,Family,Korean (South Korea),What are the family-related holidays in your country?,What are the family-related holidays in the UK?
-Ji-ko-26,Family,Korean (South Korea),What are the key milestones associated with children's independence from their parents in your country's society?,What are the key milestones associated with children's independence from their parents in the UK's society?
-Ji-ko-27,Family,Korean (South Korea),What is the common gift you give when visiting elderly parents in your country?,What is the common gift you give when visiting elderly parents in the UK?
-Ji-ko-28,Family,Korean (South Korea),When is the first day that people celebrate after a child is born in your country?,When is the first day that people celebrate after a child is born in the UK?
-Ji-ko-29,Family,Korean (South Korea),Which age's birthday is celebrated the most grandly in your country's society?,Which age's birthday is celebrated the most grandly in the UK's society?
-Ji-ko-31,Education,Korean (South Korea),Where do middle and high school students in your country usually study for exams?,Where do secondary school students in the UK usually study for exams?
-Ji-ko-33,Education,Korean (South Korea),Where do high school students in your country usually go after dinner?,Where do secondary school students in the UK usually go after dinner?
-Ji-ko-34,Education,Korean (South Korea),How do elementary school students in your country go to school?,How do primary school students in the UK go to school?
-Ji-ko-35,Education,Korean (South Korea),What is the most common form of private education in your country?,What is the most common form of private education in the UK?
-Ji-ko-36,Education,Korean (South Korea),Which subject’s academy/private educational institute do middle or high students most frequently attend in your country?,Which subject’s academy/private educational institute do secondary school students most frequently attend in the UK?
-Ji-ko-37,Education,Korean (South Korea),What type of clothing do middle and high school students wear to school in your country?,What type of clothing do secondary school students wear to school in the UK?
-Ji-ko-38,Education,Korean (South Korea),Which major is considered the most difficult to gain admission to in your country?,Which degree is considered the most difficult to gain admission to in the UK?
-Ji-ko-39,Education,Korean (South Korea),What is the most commonly learned musical instrument by elementary school students in your country?,What is the most commonly learned musical instrument by primary school students in the UK?
-Ji-ko-40,Education,Korean (South Korea),What do high school students typically do during break time in schools in your country?,What do secondary school students typically do during break time in schools in the UK?
-Ji-ko-41,Education,Korean (South Korea),What kind of shoes do students wear in schools in your country?,What kind of shoes do students wear in schools in the UK?
-Ji-ko-42,Education,Korean (South Korea),What are the required subjects in your country's university entrance exam?,What are the required subjects in the UK's university entrance exam?
-Ji-ko-44,Education,Korean (South Korea),Which region (within a city) in your country has the highest academic fervor?,Which region (within a city) in the UK has the highest academic fervor?
-Ji-ko-45,Education,Korean (South Korea),What do people look forward to the most at university festivals in your country?,What do people look forward to the most at university festivals in the UK?
-Jo-sp-01,Sport,Spanish (Spain),What is the second most popular sport in your country?,What is the second most popular sport in the UK?
-Jo-sp-02,Sport,Spanish (Spain),What is the most popular sport played without a ball in your country?,What is the most popular sport played without a ball in the UK?
-Jo-sp-09,Sport,Spanish (Spain),What sports are most associated with the upper class in your country?,What sports are most associated with the upper class in the UK?
-Jo-sp-13,Sport,Spanish (Spain),What is the most popular water sport in your country?,What is the most popular water sport in the UK?
-Jo-sp-14,Sport,Spanish (Spain),What is the most popular mental sport in your country?,What is the most popular mental sport in the UK?
-Jo-sp-18,Work life,Spanish (Spain),"How many holiday days per year does a standard worker gets in your country? (Provide Arabic numerals (e.g., 12) only.)","How many holiday days per year does a standard worker gets in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Jo-sp-19,Work life,Spanish (Spain),What region in your country has been traditionally associated with agriculture?,What region in the UK has been traditionally associated with agriculture?
-Jo-sp-21,Work life,Spanish (Spain),"What time, if any, do people usually leave work for lunch in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time, if any, do people usually leave work for lunch in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Jo-sp-31,Education,Spanish (Spain),"What time do high school students tend to leave school in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do secondary school students tend to leave school in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Jo-sp-32,Education,Spanish (Spain),What sport do elementary school students tend to practice at school in your country?,What sport do primary school students tend to practice at school in the UK?
-Jo-sp-36,Education,Spanish (Spain),"How long (in weeks) are summer vacations at elementary schools in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","How long (in weeks) are summer holidays at primary schools in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
-Jo-sp-37,Education,Spanish (Spain),"How long (in weeks) are summer vacations at universities in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","How long (in weeks) are summer holidays at universities in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
-Jo-sp-39,Education,Spanish (Spain),"At what age does elementary education begin in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","At what age does primary education begin in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
-Jo-sp-43,Education,Spanish (Spain),"How many languages are studied in elementary education besides your country's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)","How many languages are studied in primary education besides the UK's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
-Jod-ch-01,Food,Chinese (China),What eating utensils do people commonly used in your country?,What eating utensils do people commonly used in the UK?
-Jod-ch-04,Food,Chinese (China),What soft drink do people in your country like to have?,What soft drink do people in the UK like to have?
-Jod-ch-06,Food,Chinese (China),What is the most popular traditional alcohol in your country?,What is the most popular traditional alcohol in the UK?
-Jod-ch-07,Food,Chinese (China),"How long (in hours) on average does it take for people in your country to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) on average does it take for people in the UK to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
-Jod-ch-09,Food,Chinese (China),"What time do people usually have dinner in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do people usually have dinner in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Jod-ch-12,Food,Chinese (China),What kind of soup do people from your country like to have?,What kind of soup do people from the UK like to have?
-Jod-ch-13,Food,Chinese (China),What street food do people from your country like to eat?,What street food do people from the UK like to eat?
-Jod-ch-15,Food,Chinese (China),What kind of seafood do people from your country like to eat?,What kind of seafood do people from the UK like to eat?
-Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),What is the biggest festival in your country?,What is the biggest festival in the UK?
-Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),What is the most commonly used public transport by people when travelling between cites in your country?,What is the most commonly used public transport by people when travelling between cites in the UK?
-Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),What are the specific decorations or symbols associated with the biggest festival in your country?,What are the specific decorations or symbols associated with the biggest festival in the UK?
-Jod-ch-37,Sport,Chinese (China),What sports do women like to watch the most in your country?,What sports do women like to watch the most in the UK?
-Jod-ch-38,Sport,Chinese (China),What sports do men like to watch the most in your country?,What sports do men like to watch the most in the UK?
-Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that females in their 20s in your country engage in?,What is the common leisure activity that females in their 20s in the UK engage in?
-Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that males in their 20s in your country engage in?,What is the common leisure activity that males in their 20s in the UK engage in?
-Jod-ch-46,Work life,Chinese (China),"How long (in hours) do people usually take a break after lunch on a weekday in your country? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) do people usually take a break after lunch on a weekday in the UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
-Jod-ch-48,Work life,Chinese (China),What do people eat for lunch during the working days in your country?,What do people eat for lunch during the working days in the UK?
-Jod-ch-50,Work life,Chinese (China),"What is the average commute time (in minutes) for people in your country? (Provide Arabic numerals (e.g., 1) only.)","What is the average commute time (in minutes) for people in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-Jod-ch-51,Work life,Chinese (China),What is the most common transportation that people take to get to work in your country?,What is the most common transportation that people take to get to work in the UK?
-Jod-ch-54,Work life,Chinese (China),"How long (in days) is the marriage leave in your country? (Provide Arabic numerals (e.g., 12) only.)","How long (in days) is the marriage leave in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Jod-ch-56,Work life,Chinese (China),"What is the typical retirement age for women in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the typical retirement age for women in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Jod-ch-57,Work life,Chinese (China),"What is the typical retirement age for men in your country? (Provide Arabic numerals (e.g., 12) only.)","What is the typical retirement age for men in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Jod-ch-58,Work life,Chinese (China),Which profession is the most respected in your country?,Which profession is the most respected in the UK?
-Jod-ch-60,Work life,Chinese (China),What is the duration (in hours) of a typical workday in your country? (Provide Arabic numerals (0~24) only.),What is the duration (in hours) of a typical workday in the UK? (Provide Arabic numerals (0~24) only.)
-Jod-ch-61,Work life,Chinese (China),Which occupation is most preferred among females in your country?,Which occupation is most preferred among females in the UK?
-Jod-ch-62,Work life,Chinese (China),Which occupation is most preferred among males in your country?,Which occupation is most preferred among males in the UK?
-Ki-pe-17,Education,Persian (Iran),"On average, how far do students typically pursue their education in your country? (e.g., elementary, high school)","On average, how far do students typically pursue their education in the UK? (e.g., primary, secondary school)"
-Ki-pe-24,Education,Persian (Iran),What language is taught in schools in your country besides English?,What language is taught in schools in the UK besides English?
-Ki-pe-30,Education,Persian (Iran),What days of the week are schools closed in your country?,What days of the week are schools closed in the UK?
-Ki-pe-32,Food,Persian (Iran),What food do the hosts usually prepare for the guests in your country?,What food do the hosts usually prepare for the guests in the UK?
-Ki-pe-34,Food,Persian (Iran),What is the usual drink in the breakfast in your country?,What is the usual drink in the breakfast in the UK?
-Ki-pe-36,Food,Persian (Iran),"Except the food original from your country, which country's food is more popular in your country?","Except the food original from the UK, which country's food is more popular in the UK?"
-Ki-pe-39,Food,Persian (Iran),What food is usually prepared for a family picnic in your country?,What food is usually prepared for a family picnic in the UK?
-Ki-pe-40,Food,Persian (Iran),Which food from your country is considered disgusting by the rest of the world?,Which food from the UK is considered disgusting by the rest of the world?
-Ki-pe-43,Food,Persian (Iran),What is the name of the popular bread in your country?,What is the name of the popular bread in the UK?
-Ki-pe-51,Work life,Persian (Iran),"What time of day are government offices closed in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time of day are government offices closed in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Ki-pe-53,Work life,Persian (Iran),"What is the normal start time of government offices in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What is the normal start time of government offices in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),What national holiday has the longest duration in your country?,What national holiday has the longest duration in the UK?
-Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),What are the common activities people from your country do to celebrate Independence day?,What are the common activities people from the UK do to celebrate Independence day?
-Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is installed in front of the house when a family member dies in your country?,What is installed in front of the house when a family member dies in the UK?
-Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),When is a pregnancy celebration or ceremony usually held in your country?,When is a pregnancy celebration or ceremony usually held in the UK?
-Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),What event is usually held before a wedding in your country?,What event is usually held before a wedding in the UK?
-Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is usually shared to the children during (Lunar) New Year in your country?,What is usually shared to the children during (Lunar) New Year in the UK?
-Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),What activities are usually done days before Ramadan in your country?,What activities are usually done days before Ramadan in the UK?
-Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular tourist attraction for foreign visitors in your country?,What is the most popular tourist attraction for foreign visitors in the UK?
-Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),"What is the most popular religious sites (temple, church, etc.) for tourism in your country?","What is the most popular religious sites (temple, church, etc.) for tourism in the UK?"
-Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),What clothes do women usually wear on graduation commencement ceremony in your country?,What clothes do women usually wear on graduation commencement ceremony in the UK?
-Kik-in-16,Food,Indonesian (Indonesia),What drink is commonly consumed in your country when the weather is cold?,What drink is commonly consumed in the UK when the weather is cold?
-Kik-in-17,Food,Indonesian (Indonesia),What fruit is more commonly sold and found during Ramadan in your country?,What fruit is more commonly sold and found during Ramadan in the UK?
-Kik-in-24,Food,Indonesian (Indonesia),What carbohydrate is usually served with chicken in a fast-food restaurant in your country?,What carbohydrate is usually served with chicken in a fast-food restaurant in the UK?
-Kik-in-31,Sport,Indonesian (Indonesia),What is the most famous martial art sports in your country?,What is the most famous martial art sports in the UK?
-Kik-in-34,Sport,Indonesian (Indonesia),What sports are often broadcasted on national television in your country?,What sports are often broadcasted on national television in the UK?
-Kik-in-35,Sport,Indonesian (Indonesia),What sports were popular among people from your country during the COVID-19 pandemic?,What sports were popular among people from the UK during the COVID-19 pandemic?
-Kik-in-36,Sport,Indonesian (Indonesia),Who is the most popular soccer coach in your country?,Who is the most popular football coach in the UK?
-Kik-in-37,Sport,Indonesian (Indonesia),What soccer teams in your country are famous for their intense rivalry? (e.g. ___ vs ___),What football teams in the UK are famous for their intense rivalry? (e.g. ___ vs ___)
-Kik-in-38,Sport,Indonesian (Indonesia),What are the names of soccer supporters in your country who are famous for their intense rivalry? (e.g. ___ vs ___),What are the names of football supporters in the UK who are famous for their intense rivalry? (e.g. ___ vs ___)
-Kik-in-40,Sport,Indonesian (Indonesia),Who is the most famous male badminton player in your country?,Who is the most famous male badminton player in the UK?
-Kik-in-41,Sport,Indonesian (Indonesia),Who is the most famous female badminton player in your country?,Who is the most famous female badminton player in the UK?
-Kik-in-44,Sport,Indonesian (Indonesia),What sport gets the most support from the government in your country?,What sport gets the most support from the government in the UK?
-Kik-in-45,Sport,Indonesian (Indonesia),What sports field facilities are usually available at schools in your country?,What sports field facilities are usually available at schools in the UK?
-Na-ko-02,Food,Korean (South Korea),What cafe beverage do people from your country most commonly enjoy?,What cafe beverage do people from the UK most commonly enjoy?
-Na-ko-04,Food,Korean (South Korea),What is the preferred hangover cure food for people from your country?,What is the preferred hangover cure food for people from the UK?
-Na-ko-05,Food,Korean (South Korea),What is the typical delivery food in your country?,What is the typical delivery food in the UK?
-Na-ko-07,Food,Korean (South Korea),What type of meat is consumed most by people from your country?,What type of meat is consumed most by people from the UK?
-Na-ko-08,Food,Korean (South Korea),What fruit do people from your country often eat in the autumn season?,What fruit do people from the UK often eat in the autumn season?
-Na-ko-09,Food,Korean (South Korea),What side dish is the most commonly served on a dining table in your country?,What side dish is the most commonly served on a dining table in the UK?
-Na-ko-11,Food,Korean (South Korea),What do people from your country eat while watching a soccer game?,What do people from the UK eat while watching a football game?
-Na-ko-15,Food,Korean (South Korea),What is the representative nourishing food in your country?,What is the representative nourishing food in the UK?
-Na-ko-16,Sport,Korean (South Korea),Who is the most famous soccer player in your country?,Who is the most famous football player in the UK?
-Na-ko-17,Sport,Korean (South Korea),What sports do male students enjoy during lunch time at school in your country?,What sports do male students enjoy during lunch time at school in the UK?
-Na-ko-18,Sport,Korean (South Korea),What is the most common sport girls participate in during physical education classes in your country?,What is the most common sport girls participate in during physical education classes in the UK?
-Na-ko-19,Sport,Korean (South Korea),Who is the most popular volleyball player in your country?,Who is the most popular volleyball player in the UK?
-Na-ko-20,Sport,Korean (South Korea),What sports event do people from your country passionately support the most in international competitions?,What sports event do people from the UK passionately support the most in international competitions?
-Na-ko-22,Sport,Korean (South Korea),Which country is considered the biggest rival in soccer matches for your country?,Which country is considered the biggest rival in football matches for the UK?
-Na-ko-23,Sport,Korean (South Korea),What type of sports academies do children attend the most in your country?,What type of sports academies do children attend the most in the UK?
-Na-ko-24,Sport,Korean (South Korea),What is the most commonly eaten food in sports stadiums while watching games in your country?,What is the most commonly eaten food in sports stadiums while watching games in the UK?
-Na-ko-25,Sport,Korean (South Korea),What are the typical sports played in your country's school sports day?,What are the typical sports played in the UK's school sports day?
-Na-ko-26,Sport,Korean (South Korea),What are the popular sports among the middle-aged population in your country?,What are the popular sports among the middle-aged population in the UK?
-Na-ko-28,Sport,Korean (South Korea),Who is the most popular winter sports player in your country?,Who is the most popular winter sports player in the UK?
-Na-ko-29,Sport,Korean (South Korea),Who is the most famous swimmer in your country?,Who is the most famous swimmer in the UK?
-Na-ko-30,Sport,Korean (South Korea),What is the most popular e-sports game in your country?,What is the most popular e-sports game in the UK?
-Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),What symbolic food do people from your country eat on (Lunar) New Year?,What symbolic food do people from the UK eat on (Lunar) New Year?
-Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular domestic vacation spot for people from your country?,What is the most popular domestic vacation spot for people from the UK?
-Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),What is the most common wedding gift between bride and groom in your country?,What is the most common wedding gift between bride and groom in the UK?
-Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),What is typically given as a congratulatory gesture when attending a friend's wedding in your country?,What is typically given as a congratulatory gesture when attending a friend's wedding in the UK?
-Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),"How long (in days) does a funeral typically last in your country? (Provide Arabic numerals (e.g., 12) only.)","How long (in days) does a funeral typically last in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),What should you prepare as a condolence offering when attending a funeral in your country?,What should you prepare as a condolence offering when attending a funeral in the UK?
-Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),What type of food is commonly provided at funeral parlors in your country?,What type of food is commonly provided at funeral parlors in the UK?
-Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),What do people do in your country in the morning of the (Lunar) New Year?,What do people do in the UK in the morning of the (Lunar) New Year?
-Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),When is the day with your country's most severe nationwide traffic congestion?,When is the day with the UK's most severe nationwide traffic congestion?
-Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular honeymoon destination in your country?,What is the most popular honeymoon destination in the UK?
-Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),What is the most important national holiday in your country?,What is the most important national holiday in the UK?
-Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Ramadan?,What do people from the UK eat in Ramadan?
-Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Eid ul Fitr?,What do people from the UK eat in Eid ul Fitr?
-Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from your country eat in Eid ul Adha?,What do people from the UK eat in Eid ul Adha?
-Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),Where do people from your country go to celebrate New Year's Day?,Where do people from the UK go to celebrate New Year's Day?
-Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),Where do a family gather for Eid festivities in your country?,Where do a family gather for Eid festivities in the UK?
-Ne-ar-16,Work life,Arabic (Algeria),"When is the weekend in your country (e.g. Monday, Tuesday)?","When is the weekend in the UK (e.g. Monday, Tuesday)?"
-Ne-ar-17,Work life,Arabic (Algeria),"At what time do most people start work in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do most people start work in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Ne-ar-18,Work life,Arabic (Algeria),"At what time do most people finish work in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do most people finish work in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Ne-ar-20,Work life,Arabic (Algeria),What is considered to be a secure job in your country?,What is considered to be a secure job in the UK?
-Ne-ar-24,Work life,Arabic (Algeria),Which city is the primary commercial hub in your country?,Which city is the primary commercial hub in the UK?
-Ne-ar-25,Work life,Arabic (Algeria),What is the industry that pays the best in your country?,What is the industry that pays the best in the UK?
-Ne-ar-26,Work life,Arabic (Algeria),What is the most famous public corporation in your country?,What is the most famous public corporation in the UK?
-Ne-ar-31,Food,Arabic (Algeria),What is the most famous dish in your country?,What is the most famous dish in the UK?
-Ne-ar-32,Food,Arabic (Algeria),What do people usually have for breakfast in your country?,What do people usually have for breakfast in the UK?
-Ne-ar-33,Food,Arabic (Algeria),"When do people usually have lunch in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","When do people usually have lunch in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Ne-ar-34,Food,Arabic (Algeria),What is typically indispensable in meals in your country?,What is typically indispensable in meals in the UK?
-Ne-ar-36,Food,Arabic (Algeria),What is a typical festive meal in your country?,What is a typical festive meal in the UK?
-Ne-ar-37,Food,Arabic (Algeria),Which fruit do people usually offer tourists/visitors from abroad in your country?,Which fruit do people usually offer tourists/visitors from abroad in the UK?
-Ne-ar-38,Food,Arabic (Algeria),Which food do people usually offer as charity in your country?,Which food do people usually offer as charity in the UK?
-Ne-ar-39,Food,Arabic (Algeria),What is the cheapest fast food in your country?,What is the cheapest fast food in the UK?
-Ne-ar-43,Food,Arabic (Algeria),What do people usually have with tea in your country?,What do people usually have with tea in the UK?
-Ne-ar-44,Food,Arabic (Algeria),What do people have with coffee in your country?,What do people have with coffee in the UK?
-New-am-02,Food,Amharic (Ethiopia),What is the most popular traditional food in your country?,What is the most popular traditional food in the UK?
-New-am-04,Food,Amharic (Ethiopia),What is the most popular dipping sauce in your country?,What is the most popular dipping sauce in the UK?
-New-am-08,Food,Amharic (Ethiopia),What food is most often consumed during Christian fasting in your country?,What food is most often consumed during Christian fasting in the UK?
-New-am-15,Food,Amharic (Ethiopia),What food is usually prepared when mothers give birth in your country?,What food is usually prepared when mothers give birth in the UK?
-New-am-27,Sport,Amharic (Ethiopia),Who is the most popular female sportperson in your country?,Who is the most popular female sportperson in the UK?
-New-am-34,Education,Amharic (Ethiopia),Where do most elementary school students prepare for their exams in your country?,Where do most primary school students prepare for their exams in the UK?
-New-am-41,Education,Amharic (Ethiopia),"In your country, at which grade level do students take their first national-level examination?","In the UK, at which grade level do students take their first national-level examination?"
-New-am-53,Work life,Amharic (Ethiopia),Which region in your country is widely known for its coffee/tea industry?,Which region in the UK is widely known for its coffee/tea industry?
-New-am-54,Work life,Amharic (Ethiopia),Which region in your country is widely known for its livestock industry?,Which region in the UK is widely known for its livestock industry?
-New-am-59,Work life,Amharic (Ethiopia),What is the main occupation of people living in deserts in your country?,What is the main occupation of people living in deserts in the UK?
-New-am-60,Work life,Amharic (Ethiopia),Which animal is typically used for transportation in your country?,Which animal is typically used for transportation in the UK?
-New-am-72,Family,Amharic (Ethiopia),What is the most popular comic book for children to read in your country?,What is the most popular comic book for children to read in the UK?
-New-am-73,Family,Amharic (Ethiopia),What is the most popular YouTube channel for children in your country?,What is the most popular YouTube channel for children in the UK?
-New-am-74,Family,Amharic (Ethiopia),What is the most popular talk show in your country?,What is the most popular talk show in the UK?
-New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most famous religious holiday in your country?,What is the most famous religious holiday in the UK?
-New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),"What is the busiest month for weddings in your country? (Provide Arabic numerals (e.g., 1) only.)","What is the busiest month for weddings in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most popular traditional musical instrument in your country?,What is the most popular traditional musical instrument in the UK?
-New-as-01,Food,Assamese (Assam),What is the main agricultural product produced in your country?,What is the main agricultural product produced in the UK?
-New-as-02,Food,Assamese (Assam),What is the most popular wheat-based food item in your country?,What is the most popular wheat-based food item in the UK?
-New-as-05,Food,Assamese (Assam),What is the most typical drink offered to guests when they visit households in your country?,What is the most typical drink offered to guests when they visit households in the UK?
-New-as-07,Food,Assamese (Assam),What is the most popular dish cooked with fish in your country?,What is the most popular dish cooked with fish in the UK?
-New-as-14,Food,Assamese (Assam),What food do people from your country like to eat during rainy weather?,What food do people from the UK like to eat during rainy weather?
-New-as-15,Food,Assamese (Assam),What drink is commonly consumed in your country when the weather is hot?,What drink is commonly consumed in the UK when the weather is hot?
-New-as-20,Sport,Assamese (Assam),What is the most popular indoor sport in your country?,What is the most popular indoor sport in the UK?
-New-as-29,Sport,Assamese (Assam),What sport do men in your country like to watch?,What sport do men in the UK like to watch?
-New-as-30,Sport,Assamese (Assam),What sport do women in your country like to watch?,What sport do women in the UK like to watch?
-New-as-58,Work life,Assamese (Assam),What is the most popular beverage that people from your country like to drink in their workplace?,What is the most popular beverage that people from the UK like to drink in their workplace?
-New-as-64,Family,Assamese (Assam),On which holiday do all family members tend to reunite in your country?,On which holiday do all family members tend to reunite in the UK?
-New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),What traditional games do families play during traditional holidays in your country?,What traditional games do families play during traditional holidays in the UK?
-New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),What type of clothing do people from your country wear during traditional festivals?,What type of clothing do people from the UK wear during traditional festivals?
-New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),What traditional festival accessories do people from your country wear?,What traditional festival accessories do people from the UK wear?
-New-az-05,Food,Azerbaijani (Azerbaijan),What is the most famous region for alcohol production in your country?,What is the most famous region for alcohol production in the UK?
-New-az-11,Food,Azerbaijani (Azerbaijan),What fruit do people from your country often eat in the summer season?,What fruit do people from the UK often eat in the summer season?
-New-az-12,Food,Azerbaijani (Azerbaijan),Which region in your country is known for its seafood?,Which region in the UK is known for its seafood?
-New-az-21,Sport,Azerbaijani (Azerbaijan),Which region in your country is the most popular skiing destination?,Which region in the UK is the most popular skiing destination?
-New-az-26,Sport,Azerbaijani (Azerbaijan),Who is the most popular martial arts player in your country?,Who is the most popular martial arts player in the UK?
-New-az-27,Sport,Azerbaijani (Azerbaijan),Which sport has been one of the fastest-growing in your country over the last decade?,Which sport has been one of the fastest-growing in the UK over the last decade?
-New-az-39,Education,Azerbaijani (Azerbaijan),Which country is the most popular destination for students from your country studying abroad?,Which country is the most popular destination for students from the UK studying abroad?
-New-az-49,Work life,Azerbaijani (Azerbaijan),"How many people work in a typical family in your country? (Provide Arabic numerals (e.g., 1) only.)","How many people work in a typical family in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-az-60,Family,Azerbaijani (Azerbaijan),"In your country, who takes care of kids when both parents are working?","In the UK, who takes care of kids when both parents are working?"
-New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for men from your country?,What is the preferred alcoholic beverage for men from the UK?
-New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for women from your country?,What is the preferred alcoholic beverage for women from the UK?
-New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),"How many people on average typically attend a wedding in your country? (Provide Arabic numerals (e.g., 1) only.)","How many people on average typically attend a wedding in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-ch-01,Food,Chinese (China),What kind of meat do people usually eat when they have barbecue in your country?,What kind of meat do people usually eat when they have barbecue in the UK?
-New-ch-02,Food,Chinese (China),"When do people usually have breakfast in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","When do people usually have breakfast in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-New-ch-04,Food,Chinese (China),What kinds of food do people usually eat for late-night snacks in your country?,What kinds of food do people usually eat for late-night snacks in the UK?
-New-ch-05,Food,Chinese (China),What is the most famous spicy dish in your country?,What is the most famous spicy dish in the UK?
-New-ch-07,Food,Chinese (China),What food items do people typically pair with hard liquor in your country?,What food items do people typically pair with hard liquor in the UK?
-New-ch-08,Food,Chinese (China),What seasoning is indispensable in cooking in your country?,What essential seasoning is indispensable in cooking in the UK?
-New-ch-09,Food,Chinese (China),What food do people typically consume when the weather is cold in your country?,What food do people typically consume when the weather is cold in the UK?
-New-ch-13,Food,Chinese (China),What is the most famous alcohol brand in your country?,What is the most famous alcohol brand in the UK?
-New-ch-14,Food,Chinese (China),What foods do people usually eat when they are sick in your country?,What foods do people usually eat when they are sick in the UK?
-New-ch-15,Food,Chinese (China),What prepared/ready-to-eat food do people typically buy at supermarkets in your country?,What prepared/ready-to-eat food do people typically buy at supermarkets in the UK?
-New-ch-16,Sport,Chinese (China),What is the most famous sports-related movie in your country?,What is the most famous sports-related movie in the UK?
-New-ch-17,Sport,Chinese (China),What extreme sport do people generally wish to try the most in your country?,What extreme sport do people generally wish to try the most in the UK?
-New-ch-18,Sport,Chinese (China),Which track and field event is the most popular to watch during competitions in your country?,Which track and field event is the most popular to watch during competitions in the UK?
-New-ch-19,Sport,Chinese (China),Which gymnastics event is the most popular to watch during competitions in your country?,Which gymnastics event is the most popular to watch during competitions in the UK?
-New-ch-23,Sport,Chinese (China),Who is the most famous table tennis player in your country?,Who is the most famous table tennis player in the UK?
-New-ch-26,Sport,Chinese (China),"In the Winter Olympics, which event is the most popular to watch in your country?","In the Winter Olympics, which event is the most popular to watch in the UK?"
-New-ch-27,Sport,Chinese (China),Who is the most famous boxer in your country?,Who is the most famous boxer in the UK?
-New-ch-30,Sport,Chinese (China),Who is the most famous track and field athlete in your country?,Who is the most famous track and field athlete in the UK?
-New-ch-31,Work life,Chinese (China),What job do parents most hope their children will pursue in your country?,What job do parents most hope their children will pursue in the UK?
-New-ch-32,Work life,Chinese (China),What office software do people typically use in the workplace in your country?,What office software do people typically use in the workplace in the UK?
-New-ch-38,Work life,Chinese (China),Which cities or regions are known for their import and export activities in your country?,Which cities or regions are known for their import and export activities in the UK?
-New-ch-39,Work life,Chinese (China),What platform is commonly used in the e-commerce industry in your country?,What platform is commonly used in the e-commerce industry in the UK?
-New-ch-44,Work life,Chinese (China),"How long is the typical probation period for new employees before signing a formal contract in your country? (e.g., 1 month).","How long is the typical probation period for new employees before signing a formal contract in the UK? (e.g., 1 month)."
-New-ch-45,Work life,Chinese (China),Which industries do young people typically choose to start businesses in your country?,Which industries do young people typically choose to start businesses in the UK?
-New-ch-49,Family,Chinese (China),What is the most common way for family members to communicate remotely in your country?,What is the most common way for family members to communicate remotely in the UK?
-New-ch-51,Family,Chinese (China),What form of accommodation is typically booked for family trips in your country?,What form of accommodation is typically booked for family trips in the UK?
-New-ch-54,Family,Chinese (China),Which fruit is usually prepared the most for family dinners in your country?,Which fruit is usually prepared the most for family dinners in the UK?
-New-ch-64,Education,Chinese (China),"How many hours of classes do university students typically have per week in your country? (Provide Arabic numerals (e.g., 1) only.)","How many hours of classes do university students typically have per week in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-ch-66,Education,Chinese (China),"What is the typical tuition fee per semester for public high schools in your country?  (Provide Arabic numerals (e.g., 1) only.)","What is the typical tuition fee per semester for public secondary schools in the UK?  (Provide Arabic numerals (e.g., 1) only.)"
-New-ch-70,Education,Chinese (China),What compulsory courses do university students have in common in your country?,What compulsory courses do university students have in common in the UK?
-New-ch-71,Education,Chinese (China),"What is the average class size in high schools in your country? (Provide Arabic numerals (e.g., 1) only.)","What is the average class size in secondary schools in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-ch-72,Education,Chinese (China),Which major is considered most conducive to employment in your country?,Which major is considered most conducive to employment in the UK?
-New-ch-73,Education,Chinese (China),What type of clubs are most popular among university students in your country?,What type of clubs are most popular among university students in the UK?
-New-ch-74,Education,Chinese (China),What types of accommodation do university students in your country typically live in?,What types of accommodation do university students in the UK typically live in?
-New-ch-75,Education,Chinese (China),"How long is each class period for secondary school students in your country (minutes)?  (Provide Arabic numerals (e.g., 1) only.)","How long is each class period for secondary school students in the UK (minutes)?  (Provide Arabic numerals (e.g., 1) only.)"
-New-ch-78,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired women typically like in your country?,What leisure activities do retired women typically like in the UK?
-New-ch-79,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired men typically like in your country?,What leisure activities do retired men typically like in the UK?
-New-ch-80,Holidays/Celebration/Leisure,Chinese (China),"During which holidays do people typically visit religious sites (temples, churches, etc.) in your country?","During which holidays do people typically visit religious sites (temples, churches, etc.) in the UK?"
-New-ch-81,Holidays/Celebration/Leisure,Chinese (China),What are the typical housewarming gifts in your country?,What are the typical housewarming gifts in the UK?
-New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"At what time do weddings typically start in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do weddings typically start in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-New-ch-83,Holidays/Celebration/Leisure,Chinese (China),Which city in your country hosts festivals the most?,Which city in the UK hosts festivals the most?
-New-ch-84,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending weddings in your country?,What color of clothing do people typically wear when attending weddings in the UK?
-New-ch-85,Holidays/Celebration/Leisure,Chinese (China),What color of clothing do people typically wear when attending funerals in your country?,What color of clothing do people typically wear when attending funerals in the UK?
-New-en-01,Food,English (UK),Which snack is eaten in the cinema in your country?,Which snack is eaten in the cinema in the UK?
-New-en-02,Food,English (UK),What is the most popular chip/crisp flavour in your country?,What is the most popular chip/crisp flavour in the UK?
-New-en-04,Food,English (UK),Who is a popular celebrity chef in your country?,Who is a popular celebrity chef in the UK?
-New-en-05,Food,English (UK),Which food is a cost-effective and quick meal option in your country?,Which food is a cost-effective and quick meal option in the UK?
-New-en-07,Food,English (UK),What are the most popular cooking shows in your country?,What are the most popular cooking shows in the UK?
-New-en-08,Food,English (UK),What is the most popular chocolate brand in your country?,What is the most popular chocolate brand in the UK?
-New-en-10,Food,English (UK),What is the most eaten cheese in your country?,What is the most eaten cheese in the UK?
-New-en-11,Food,English (UK),What is the most disliked vegetable in your country?,What is the most disliked vegetable in the UK?
-New-en-12,Food,English (UK),What food is most commonly found in food courts in your country?,What food is most commonly found in food courts in the UK?
-New-en-17,Sport,English (UK),What are the most common cheering tools used by sports fans in your country?,What are the most common cheering tools used by sports fans in the UK?
-New-en-18,Sport,English (UK),What do fans bring with them when attending a live game in your country?,What do fans bring with them when attending a live game in the UK?
-New-en-19,Sport,English (UK),What is the most well known sporting stadium in your country?,What is the most well known sporting stadium in the UK?
-New-en-23,Sport,English (UK),Who is the most famous Paralympian in your country?,Who is the most famous Paralympian in the UK?
-New-en-26,Sport,English (UK),What is the best recognized sporting chant in your country?,What is the best recognized sporting chant in the UK?
-New-en-38,Work life,English (UK),Which industries are known for more flexible working hours in your country?,Which industries are known for more flexible working hours in the UK?
-New-en-41,Work life,English (UK),Who is the most well known and successful entrepreneur in your country?,Who is the most well known and successful entrepreneur in the UK?
-New-en-47,Family,English (UK),What can typically be found in the back garden of houses in your country?,What can typically be found in the back garden of houses in the UK?
-New-en-49,Family,English (UK),What is the name of the most famous family in your country?,What is the name of the most famous family in the UK?
-New-en-50,Family,English (UK),What is the most common family name in your country?,What is the most common family name in the UK?
-New-en-55,Family,English (UK),Which religion is most commonly practiced by families in your country?,Which religion is most commonly practiced by families in the UK?
-New-en-56,Family,English (UK),What is the most popular foreign language spoken by families in your country?,What is the most popular foreign language spoken by families in the UK?
-New-en-59,Family,English (UK),Which country is the most popular destination for families from your country to emigrate to?,Which country is the most popular destination for families from the UK to emigrate to?
-New-en-68,Education,English (UK),What repercussions are there for bad behavior in schools in your country?,What repercussions are there for bad behavior in schools in the UK?
-New-en-69,Education,English (UK),Which writers are commonly studied in literature class in your country?,Which writers are commonly studied in literature class in the UK?
-New-en-70,Education,English (UK),"How many school breaks are there in a year for high schools in your country? (Provide Arabic numerals (e.g., 1) only.)","How many school breaks are there in a year for high schools in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-en-72,Education,English (UK),Which online resource do students usually use to study in your country?,Which online resource do students usually use to study in the UK?
-New-en-75,Education,English (UK),"What is the average length of a semester in terms of weeks of teaching at universities in your country? (Provide Arabic numerals (e.g., 1) only.)","What is the average length of a semester in terms of weeks of teaching at universities in the UK? (Provide Arabic numerals (e.g., 1) only.)"
-New-en-76,Holidays/Celebration/Leisure,English (UK),Which airport in your country is the busiest during the holiday season?,Which airport in the UK is the busiest during the holiday season?
-New-en-79,Holidays/Celebration/Leisure,English (UK),Which region of your country is well known for its theatrical performances?,Which region of the UK is well known for its theatrical performances?
-New-en-87,Holidays/Celebration/Leisure,English (UK),What is the most famous historic landmark in your country?,What is the most famous historic landmark in the UK?
-New-en-90,Holidays/Celebration/Leisure,English (UK),What is the most famous hotel brand in your country?,What is the most famous hotel brand in the UK?
-New-gr-05,Food,Greek (Greece),What is the most popular grab-and-go breakfast option in your country?,What is the most popular grab-and-go breakfast option in the UK?
-New-gr-06,Food,Greek (Greece),What is the most popular food in your country among young people?,What is the most popular food in the UK among young people?
-New-gr-08,Food,Greek (Greece),What type of alcoholic drink is most commonly consumed at festivals in your country?,What type of alcoholic drink is most commonly consumed at festivals in the UK?
-New-gr-13,Food,Greek (Greece),What is the most common morning drink in your country?,What is the most common morning drink in the UK?
-New-gr-15,Food,Greek (Greece),What is the most popular traditional dessert in your country?,What is the most popular traditional dessert in the UK?
-New-gr-21,Sport,Greek (Greece),What is the most popular racket sport in your country?,What is the most popular racket sport in the UK?
-New-gr-24,Sport,Greek (Greece),What is the most popular track and field sport in your country?,What is the most popular track and field sport in the UK?
-New-gr-29,Sport,Greek (Greece),Which international sporting event is the most popular in your country?,Which international sporting event is the most popular in the UK?
-New-gr-47,Work life,Greek (Greece),"How long (in minutes) are typical work breaks in your country, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)","How long (in minutes) are typical work breaks in the UK, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
-New-gr-58,Work life,Greek (Greece),Which job is considered underpaid in your country?,Which job is considered underpaid in the UK?
-New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),What is the most common food served during Easter in your country?,What is the most common food served during Easter in the UK?
-New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),What is the most popular music genre among the elderly population in your country?,What is the most popular music genre among the elderly population in the UK?
-New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at funerals in your country?,What drink is usually offered at funerals in the UK?
-New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at weddings in your country?,What drink is usually offered at weddings in the UK?
-New-ha-07,Food,Hausa (Northern Nigeria),What food originated from your country and can be found all over the world?,What food originated from the UK and can be found all over the world?
-New-ha-08,Food,Hausa (Northern Nigeria),What food is typically disliked by children but enjoyed by the elderly in your country?,What food is typically disliked by children but enjoyed by the elderly in the UK?
-New-ha-09,Food,Hausa (Northern Nigeria),What cooking utensil is most commonly used in your country?,What cooking utensil is most commonly used in the UK?
-New-ha-13,Food,Hausa (Northern Nigeria),Which is the most popular vegetable in your country?,Which is the most popular vegetable in the UK?
-New-ha-19,Sport,Hausa (Northern Nigeria),Which animal is used for sports in your country?,Which animal is used for sports in the UK?
-New-ha-66,Family,Hausa (Northern Nigeria),What is the most popular wedding venue in your country?,What is the most popular wedding venue in the UK?
-New-in-01,Food,Indonesian (Indonesia),Which coffee shop brand is the most popular in your country?,Which coffee shop brand is the most popular in the UK?
-New-in-03,Food,Indonesian (Indonesia),What type of food from your country is typically served in restaurants overseas?,What type of food from the UK is typically served in restaurants overseas?
-New-in-33,Work life,Indonesian (Indonesia),What region in your country is usually associated with mining?,What region in the UK is usually associated with mining?
-New-in-34,Work life,Indonesian (Indonesia),What region in your country is usually associated with oil?,What region in the UK is usually associated with oil?
-New-in-62,Education,Indonesian (Indonesia),What university in your country is popular because of its engineering major? (Provide the official name.),What university in the UK is popular because of its engineering major? (Provide the official name.)
-New-in-63,Education,Indonesian (Indonesia),What university in your country is popular because of its school of medicine? (Provide the official name.),What university in the UK is popular because of its school of medicine? (Provide the official name.)
-New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular payment method in your country?,What is the most popular payment method in the UK?
-New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most famous theme park in your country?,What is the most famous theme park in the UK?
-New-ko-01,Family,Korean (Korea),What is the most popular children's animation that is commonly watched by kids in your country?,What is the most popular children's animation that is commonly watched by kids in the UK?
-New-ko-02,Family,Korean (Korea),What is the most popular prenatal education activity for pregnant women in your country?,What is the most popular prenatal education activity for pregnant women in the UK?
-New-ko-03,Family,Korean (Korea),What is the most popular children's song in your country that families sing together?,What is the most popular children's song in the UK that families sing together?
-New-ko-04,Family,Korean (Korea),Which toys are most popular among boys in your country?,Which toys are most popular among boys in the UK?
-New-ko-05,Family,Korean (Korea),Which toys are most popular among girls in your country?,Which toys are most popular among girls in the UK?
-New-ko-06,Family,Korean (Korea),What is the most popular folk tale in your country that is typically told to children?,What is the most popular folk tale in the UK that is typically told to children?
-New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),What is the customary symbol of condolence used at funerals in your country?,What is the customary symbol of condolence used at funerals in the UK?
-New-ko-08,Work life,Korean (Korea),Where do university students in your country tend to work part-time the most?,Where do university students in the UK tend to work part-time the most?
-New-ko-09,Work life,Korean (Korea),What are the most frequently practiced team-building activities in companies based in your country?,What are the most frequently practiced team-building activities in companies based in the UK?
-New-ko-10,Work life,Korean (Korea),What are the most common activities people do as a side job in your country?,What are the most common activities people do as a side job in the UK?
-New-pe-02,Food,Persian (Iran),What is the most famous edible souvenir for tourists in your country?,What is the most famous edible souvenir for tourists in the UK?
-New-pe-06,Food,Persian (Iran),What is the most popular stew in your country?,What is the most popular stew in the UK?
-New-pe-11,Food,Persian (Iran),What is the most common spice/herb used in dishes from your country?,What is the most common spice/herb used in dishes from the UK?
-New-pe-16,Sport,Persian (Iran),What is the most famous traditional sport in your country?,What is the most famous traditional sport in the UK?
-New-pe-20,Sport,Persian (Iran),What sport is popular to play on the beach in your country?,What sport is popular to play on the beach in the UK?
-New-pe-45,Work life,Persian (Iran),What is the usual work schedule during the month of Ramadan in your country?,What is the usual work schedule during the month of Ramadan in the UK?
-New-pe-47,Family,Persian (Iran),"When is Student's Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","When is Student's Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)"
-New-pe-49,Family,Persian (Iran),Where do families gather to pray together in your country?,Where do families gather to pray together in the UK?
-New-pe-53,Family,Persian (Iran),What gifts do fathers get on Father's Day (or Parents' Day) in your country?,What gifts do fathers get on Father's Day (or Parents' Day) in the UK?
-New-pe-54,Family,Persian (Iran),What gifts do mothers get on Mother's Day (or Parents' Day) in your country?,What gifts do mothers get on Mother's Day (or Parents' Day) in the UK?
-New-pe-59,Family,Persian (Iran),"How many generations typically live together in a household in your country? (Provide Arabic numerals (e.g., 12) only.)","How many generations typically live together in a household in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-New-pe-65,Education,Persian (Iran),"How many subjects are taught in secondary schools in your country? (Provide Arabic numerals (e.g., 12) only.)","How many subjects are taught in secondary schools in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-New-pe-66,Education,Persian (Iran),What is the most popular after school curricular in primary schools in your country?,What is the most popular after school curricular in primary schools in the UK?
-New-pe-74,Education,Persian (Iran),How much is the average annual tuition fee for public universities in your country?,How much is the average annual tuition fee for public universities in the UK?
-New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),What is a popular activity to do in parks in your country?,What is a popular activity to do in parks in the UK?
-New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous film festival held in your country?,What is the name of the most famous film festival held in the UK?
-New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),What is the popular card game played during social gatherings in your country?,What is the popular card game played during social gatherings in the UK?
-New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),Where is the most popular tourist destination abroad for people from your country?,Where is the most popular tourist destination abroad for people from the UK?
-New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous tower in your country?,What is the name of the most famous tower in the UK?
-New-spme-01,Food,Spanish (Mexico),What edible insect is eaten most often in your country?,What edible insect is eaten most often in the UK?
-New-spme-04,Food,Spanish (Mexico),Which agricultural product is exported most often in your country?,Which agricultural product is exported most often in the UK?
-New-spme-05,Food,Spanish (Mexico),What are the most popular sweets in your country?,What are the most popular sweets in the UK?
-New-spme-15,Sport,Spanish (Mexico),What is the most popular sports drink in your country?,What is the most popular sports drink in the UK?
-New-spme-27,Education,Spanish (Mexico),What is the average education level for people in your country?,What is the average education level for people in the UK?
-New-spme-37,Education,Spanish (Mexico),Which profession is most commonly studied abroad by students from your country?,Which profession is most commonly studied abroad by students from the UK?
-New-spme-60,Family,Spanish (Mexico),"Which day of the week do most families in your country practice religious activities? (e.g. Monday, Tuesday)","Which day of the week do most families in the UK practice religious activities? (e.g. Monday, Tuesday)"
-New-spme-65,Family,Spanish (Mexico),What is the most popular way to celebrate Independence Day in your country?,What is the most popular way to celebrate Independence Day in the UK?
-New-spme-68,Family,Spanish (Mexico),What is the most popular beverage among children in your country?,What is the most popular beverage among children in the UK?
-New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),What is the most popular place in your country to celebrate Independence Day?,What is the most popular place in the UK to celebrate Independence Day?
-New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),What is the name of the song that is typically sung at birthday parties in your country?,What is the name of the song that is typically sung at birthday parties in the UK?
-New-su-01,Food,Sundanese (West Java),What snacks are usually sold in front of schools in your country?,What snacks are usually sold in front of schools in the UK?
-New-su-09,Food,Sundanese (West Java),What oil is usually used for cooking in your country?,What oil is usually used for cooking in the UK?
-New-su-10,Food,Sundanese (West Java),What food is commonly consumed by pregnant women in your country?,What food is commonly consumed by pregnant women in the UK?
-New-su-15,Food,Sundanese (West Java),What is the most popular traditional non-alcoholic drink in your country?,What is the most popular traditional non-alcoholic drink in the UK?
-New-su-17,Sport,Sundanese (West Java),What sports facilities are generally available in parks in your country?,What sports facilities are generally available in parks in the UK?
-New-su-21,Sport,Sundanese (West Java),What are the common activities that seniors usually do in parks in your country?,What are the common activities that seniors usually do in parks in the UK?
-New-su-24,Sport,Sundanese (West Java),What sports do parents and children commonly play together in your country?,What sports do parents and children commonly play together in the UK?
-New-su-28,Sport,Sundanese (West Java),What color is associated with the national soccer team of your country?,What colour is associated with the national football team of the UK?
-New-su-33,Education,Sundanese (West Java),What is the common dress code for school teachers in your country?,What is the common dress code for school teachers in the UK?
-New-su-34,Education,Sundanese (West Java),What is the most popular extracurricular activity related to music in schools in your country?,What is the most popular extracurricular activity related to music in schools in the UK?
-New-su-42,Education,Sundanese (West Java),What religion is mainly taught in schools in your country?,What religion is mainly taught in schools in the UK?
-New-su-45,Education,Sundanese (West Java),"What date is Education Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","What date is Education Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)"
-New-su-50,Work life,Sundanese (West Java),What is the main occupation of people in mountainous areas in your country?,What is the main occupation of people in mountainous areas in the UK?
-New-su-51,Work life,Sundanese (West Java),What is the main occupation of people in coastal areas in your country?,What is the main occupation of people in coastal areas in the UK?
-New-su-57,Work life,Sundanese (West Java),What is the most common livestock raised in your country?,What is the most common livestock raised in the UK?
-New-su-58,Work life,Sundanese (West Java),What animals are commonly used for agriculture in your country?,What animals are commonly used for agriculture in the UK?
-New-su-59,Work life,Sundanese (West Java),What do farmers in your country typically wear to protect themselves from the heat whilst farming?,What do farmers in the UK typically wear to protect themselves from the heat whilst farming?
-New-su-60,Work life,Sundanese (West Java),What do farmers in your country usually eat for lunch?,What do farmers in the UK usually eat for lunch?
-New-su-71,Family,Sundanese (West Java),What gifts do parents generally give to their children for their birthdays in your country?,What gifts do parents generally give to their children for their birthdays in the UK?
-New-su-75,Family,Sundanese (West Java),What type of vehicle do most families in your country generally own?,What type of vehicle do most families in the UK generally own?
-New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),What is usually given to the children during Eid in your country?,What is usually given to the children during Eid in the UK?
-New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do grooms usually wear at weddings in your country?,What clothes do grooms usually wear at weddings in the UK?
-New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do brides usually wear at weddings in your country?,What clothes do brides usually wear at weddings in the UK?
-New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),What food is usually served at weddings in your country?,What food is usually served at weddings in the UK?
-New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most famous government building in your country?,What is the most famous government building in the UK?
-New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most popular music genre among the younger population in your country?,What is the most popular music genre among the younger population in the UK?
-Ni-en-02,Education,English (UK),"What time do secondary students in your country typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do secondary students in the UK typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Ni-en-03,Education,English (UK),"At what age do people in your country typically go to university? (Provide Arabic numerals (e.g., 12) only.)","At what age do people in the UK typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-06,Education,English (UK),"From what age do people need to attend compulsory education in your country? (Provide Arabic numerals (e.g., 12) only.)","From what age do people need to attend compulsory education in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-09,Education,English (UK),How many days a week do children attend school in your country? (Provide Arabic numerals (0~7) only.),How many days a week do children attend school in the UK? (Provide Arabic numerals (0~7) only.)
-Ni-en-11,Education,English (UK),"In your country, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)","In the UK, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-12,Education,English (UK),What is the top university in your country? (Provide the official name.),What is the top university in the UK? (Provide the official name.)
-Ni-en-13,Education,English (UK),"At what age do most people in your country graduate from university? (Provide Arabic numerals (e.g., 12) only.)","At what age do most people in the UK graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-15,Education,English (UK),"At what age do children in your country generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)","At what age do children in the UK generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-17,Work life,English (UK),"How many hours a week does a full-time worker in your country typically work? (Provide Arabic numerals (e.g., 12) only.)","How many hours a week does a full-time worker in the UK typically work? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-19,Work life,English (UK),How many days a week does a full-time worker work in your country? (Provide Arabic numerals (0~7) only.),How many days a week does a full-time worker work in the UK? (Provide Arabic numerals (0~7) only.)
-Ni-en-20,Work life,English (UK),"At what age do most people start working in your country? (Provide Arabic numerals (e.g., 12) only.)","At what age do most people start working in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-21,Work life,English (UK),"From what age is an individual allowed to work in your country? (Provide Arabic numerals (e.g., 12) only.)","From what age is an individual allowed to work in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Ni-en-31,Holidays/Celebration/Leisure,English (UK),What do people in your country traditionally eat on Christmas Day?,What do people in the UK traditionally eat on Christmas Day?
-Ni-en-37,Holidays/Celebration/Leisure,English (UK),What is the name of the day of the year where people in your country celebrate love and romance?,What is the name of the day of the year where people in the UK celebrate love and romance?
-Ni-en-40,Holidays/Celebration/Leisure,English (UK),What is the most popular Christmas song in your country?,What is the most popular Christmas song in the UK?
-Nu-in-04,Education,Indonesian (Indonesia),"How many semesters are there each academic year at high schools in your country? (Provide in Arabic numerals (e.g., 7, 8) only.)","How many terms are there each academic year at secondary schools in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
-Nu-in-05,Education,Indonesian (Indonesia),In which month does the new school year typically begin in your country? (Provide Arabic numerals (1~12) only.),In which month does the new school year typically begin in the UK? (Provide Arabic numerals (1~12) only.)
-Nu-in-06,Education,Indonesian (Indonesia),"When is National Teacher's Day commemorated in your country? (Provide in MM/DD format (e.g., 12/31).)","When is National Teacher's Day commemorated in the UK? (Provide in MM/DD format (e.g., 12/31).)"
-Nu-in-11,Education,Indonesian (Indonesia),"At what time does elementary school start in your country? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time does primary school start in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
-Nu-in-20,Family,Indonesian (Indonesia),"When is Children's Day celebrated in your country? (Provide in MM/DD format (e.g., 12/31).)","When is Children's Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)"
-Nu-in-40,Work life,Indonesian (Indonesia),Which city is the main destination for job seekers in your country?,Which city is the main destination for job seekers in the UK?
-Sa-en-1,Food,English (UK),What is your country's most popular fast food chain?,What is the UK's most popular fast food chain?
-Sa-en-13,Food,English (UK),What is the food that is most divisive (either love or hate) in your country?,What is the food that is most divisive (either love or hate) in the UK?
-Sa-en-16,Sport,English (UK),What is the most popular soccer team among the people from your country?,What is the most popular football team among the people from the UK?
-Sa-en-22,Sport,English (UK),What is the most famous university in your country known for its sports team?,What is the most famous university in the UK known for its sports team?
-Sa-en-31,Family,English (UK),What is your country's most popular family pet?,What is the UK's most popular family pet?
-Sa-en-32,Family,English (UK),What is the most popular family TV show in your country?,What is the most popular family TV show in the UK?
-Sa-en-37,Family,English (UK),What is the most popular family boardgame in your country?,What is the most popular family boardgame in the UK?
-Sa-en-6,Food,English (UK),What is the most popular takeaway food in your country?,What is the most popular takeaway food in the UK?
-Sa-en-7,Food,English (UK),What are popular snacks in your country?,What are popular snacks in the UK?
-Sa-en-9,Food,English (UK),What do people from your country eat at the beach?,What do people from the UK eat at the beach?
-Ta-pe-10,Family,Persian (Iran),"At what age do men usually get married in your country? (Provide Arabic numerals (e.g., 20) only.)","At what age do men usually get married in the UK? (Provide Arabic numerals (e.g., 20) only.)"
-Ta-pe-11,Family,Persian (Iran),"At what age do women usually get married in your country? (Provide Arabic numerals (e.g., 20) only.)","At what age do women usually get married in the UK? (Provide Arabic numerals (e.g., 20) only.)"
-Ta-pe-13,Family,Persian (Iran),"In your parents' generation, what was the average number of members in their family in your country? (Provide Arabic numerals (e.g., 20) only.)","In your parents' generation, what was the average number of members in their family in the UK? (Provide Arabic numerals (e.g., 20) only.)"
-Ta-pe-17,Sport,Persian (Iran),"In the Olympic Games, which sport is the most popular in your country?","In the Olympic Games, which sport is the most popular in the UK?"
-Ta-pe-21,Sport,Persian (Iran),Where do children usually play soccer in your country?,Where do children usually play football in the UK?
-Ta-pe-22,Sport,Persian (Iran),Which daily exercise is popular among women in your country?,Which daily exercise is popular among women in the UK?
-Ta-pe-23,Sport,Persian (Iran),Which daily exercise is popular among men in your country?,Which daily exercise is popular among men in the UK?
-Ta-pe-25,Sport,Persian (Iran),"What is the most famous rivalry in a national sports league in your country? (e.g., ___ vs ___)","What is the most famous rivalry in a national sports league in the UK? (e.g., ___ vs ___)"
-Ta-pe-29,Sport,Persian (Iran),Which professional sport is the highest paying in your country?,Which professional sport is the highest paying in the UK?
-Ta-pe-30,Sport,Persian (Iran),What is/was the most popular sports-related TV program in your country?,What is/was the most popular sports-related TV program in the UK?
-Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),What day of the year is usually dedicated to fireworks in your country?,What day of the year is usually dedicated to fireworks in the UK?
-Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),What is the common symbol of New Year's Eve that is usually found in your country?,What is the common symbol of New Year's Eve that is usually found in the UK?
-Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),What food do people from your country usually eat on New Year's Eve?,What food do people from the UK usually eat on New Year's Eve?
-Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),What is usually eaten during the celebration of the longest night of the year in your country?,What is usually eaten during the celebration of the longest night of the year in the UK?
-Th-en-01,Sport,English (US),What is the most popular summer sport in your country?,What is the most popular summer sport in the UK?
-Th-en-03,Sport,English (US),What is the most popular professional sports league in your country?,What is the most popular professional sports league in the UK?
-Th-en-05,Sport,English (US),What is the most popular women's sports team in your country?,What is the most popular women's sports team in the UK?
-Th-en-09,Sport,English (US),What is the most popular tournament in your country?,What is the most popular tournament in the UK?
-Th-en-11,Sport,English (US),Who is the most popular sportperson in your country?,Who is the most popular sportperson in the UK?
-Th-en-12,Sport,English (US),In which sport has your country been most successful in international competitions?,In which sport has the UK been most successful in international competitions?
-Th-en-15,Sport,English (US),What is the most popular winter sport in your country?,What is the most popular winter sport in the UK?
-Th-en-19,Work life,English (US),What is a city or region in your country known for manufacturing industry?,What is a city or region in the UK known for manufacturing industry?
-Th-en-21,Work life,English (US),What is regarded as the most important perk typically offered to employees in your country?,What is regarded as the most important perk typically offered to employees in the UK?
-Th-en-22,Work life,English (US),What was the most catastrophic economic period for your country?,What was the most catastrophic economic period for the UK?
-Th-en-24,Work life,English (US),What region in your country is a major hub for tech workers and start ups?,What region in the UK is a major hub for tech workers and start ups?
-Th-en-27,Work life,English (US),What is the most important industry in your country?,What is the most important industry in the UK?
-Th-en-35,Family,English (US),"Which one of the daily meals is commonly shared with family members in your country? (e.g., breakfast, lunch, dinner)","Which one of the daily meals is commonly shared with family members in the UK? (e.g., breakfast, lunch, dinner)"
-Th-en-36,Family,English (US),What is a popular family activity with a child to do on weekends in your country?,What is a popular family activity with a child to do on weekends in the UK?
-Th-en-37,Family,English (US),"At what age do children typically become independent from their parents in your country? (Provide Arabic numerals (e.g., 12) only.)","At what age do children typically become independent from their parents in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Th-en-38,Family,English (US),What is the most important family holiday in your country?,What is the most important family holiday in the UK?
-Th-en-39,Family,English (US),What is a popular family game in your country?,What is a popular family game in the UK?
-Th-en-41,Family,English (US),"What is the average age for couples to have their first child in your country? (Provide Arabic numerals (e.g., 20) only.)","What is the average age for couples to have their first child in the UK? (Provide Arabic numerals (e.g., 20) only.)"
-Th-en-43,Family,English (US),"How many cars are owned by a typical family in your country? (Provide Arabic numerals (e.g., 12) only.)","How many cars are owned by a typical family in the UK? (Provide Arabic numerals (e.g., 12) only.)"
-Th-en-44,Family,English (US),What is your country's most popular food for family meals on weekends?,What is the UK's most popular food for family meals on weekends?
-Th-en-45,Family,English (US),What is the most popular weekday evening family activity in your country?,What is the most popular weekday evening family activity in the UK?
-Th-en-48,Education,English (US),What is the highest grade given to top-achieving high school students on assignments and exams in your country?,What is the highest grade given to top-achieving secondary school students on assignments and exams in the UK?
-Th-en-49,Education,English (US),What is considered the most important exam for high school students in your country?,What is considered the most important exam for secondary school students in the UK?
-Th-en-51,Education,English (US),Which subject is considered the most important for students in your country?,Which subject is considered the most important for students in the UK?
-Th-en-53,Education,English (US),What is the most popular extracurricular social event at schools in your country?,What is the most popular extracurricular social event at schools in the UK?
-Th-en-58,Education,English (US),What is the most advanced math subject learned before university in your country?,What is the most advanced math subject learned before university in the UK?
-Tmp-ar-01,Education,Arabic (Algeria),Where do university students in your country usually go to study for their final exams?,Where do university students in the UK usually go to study for their final exams?
-Tmp-ar-02,Education,Arabic (Algeria),What is a common public transport that people use to go to university in your country?,What is a common public transport that people use to go to university in the UK?
-Tmp-ar-04,Education,Arabic (Algeria),What do elementary students in your country usually do after school?,What do primary school students in the UK usually do after school?
+,ID,Topic,Source,Question,Translation
+0,Al-en-01,Food,English (US),What is a common snack for nursery kids in the UK?,What is a common snack for preschool kids in UK?
+1,Al-en-02,Food,English (US),What is a popular food to go with beer in the UK?,What is a popular food to go with beer in UK?
+2,Al-en-04,Food,English (US),What is the most popular fruit in the UK?,What is the most popular fruit in UK?
+3,Al-en-06,Food,English (US),What is a common school cafeteria food in the UK?,What is a common school cafeteria food in UK?
+4,Al-en-08,Food,English (US),What are the most commonly eaten snacks at shopping malls in the UK?,What are the most commonly eaten snacks at shopping malls in UK?
+5,Al-en-09,Food,English (US),What is a popular snack at an amusement park in the UK?,What is a popular snack at an amusement park in UK?
+6,Al-en-16,Education,English (US),"At what age do kids start nursery in the UK? (Provide Arabic numerals (e.g., 12) only.)","At what age do kids start preschool in UK? (Provide Arabic numerals (e.g., 12) only.)"
+7,Al-en-17,Education,English (US),What is a popular afterschool sport for primary schools in the UK?,What is a popular afterschool sport for elementary schools in UK?
+8,Al-en-18,Education,English (US),For which subject do primary school students get private education in the UK?,For which subject do elementary students get private education in UK?
+9,Al-en-19,Education,English (US),What is a popular second language for secondary school students in the UK?,What is a popular second language for high school students in UK?
+10,Al-en-21,Education,English (US),Which subject is the most important for gifted education in the UK?,Which subject is the most important for gifted education in UK?
+11,Al-en-32,Holidays/Celebration/Leisure,English (US),What is the main dish for Thanksgiving in the UK?,What is the main dish for Thanksgiving in UK?
+12,Al-en-33,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Halloween in the UK?,What do people do to celebrate Halloween in UK?
+13,Al-en-34,Holidays/Celebration/Leisure,English (US),What do people do to celebrate New Year's Day in the UK?,What do people do to celebrate New Year's Day in UK?
+14,Al-en-35,Holidays/Celebration/Leisure,English (US),What do people do to celebrate Christmas in the UK?,What do people do to celebrate Christmas in UK?
+15,Al-en-36,Holidays/Celebration/Leisure,English (US),What food is associated with Halloween in the UK?,What food is associated with Halloween in UK?
+16,Al-en-37,Holidays/Celebration/Leisure,English (US),What food is associated with Christmas in the UK?,What food is associated with Christmas in UK?
+17,Al-en-38,Holidays/Celebration/Leisure,English (US),What food is associated with Valentine's day in the UK?,What food is associated with Valentine's day in UK?
+18,Al-en-39,Holidays/Celebration/Leisure,English (US),What do people eat on their birthday in the UK?,What do people eat on their birthday in UK?
+19,Al-en-40,Holidays/Celebration/Leisure,English (US),What is a popular outdoor place for families to have fun with little kids in the UK?,What is a popular outdoor place for families to have fun with little kids in UK?
+20,Al-en-43,Holidays/Celebration/Leisure,English (US),What is a popular indoor activity for families in the UK?,What is a popular indoor activity for families in UK?
+21,An-ar-02,Education,Arabic (Algeria),Where do university students have lunch in the UK?,Where do university students have lunch in UK?
+22,An-ar-03,Education,Arabic (Algeria),Which month is the final exam term usually scheduled at secondary schools in the UK? (Provide Arabic numerals (1~12) only.),Which month is the final exam term usually scheduled at high schools in UK? (Provide Arabic numerals (1~12) only.)
+23,An-ar-08,Education,Arabic (Algeria),"How many hours a day do students in the UK usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)","How many hours a day do students in UK usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
+24,An-ar-09,Education,Arabic (Algeria),"How many languages do students study at secondary school in the UK? (Provide Arabic numerals (e.g., 5) only.)","How many languages do students study at high school in UK? (Provide Arabic numerals (e.g., 5) only.)"
+25,An-ar-34,Sport,Arabic (Algeria),What is the most popular sport played in a team at school in the UK?,What is the most popular sport played in a team at school in UK?
+26,An-ar-35,Sport,Arabic (Algeria),Who is the most popular sports commentator in the UK?,Who is the most popular sport commentator in UK?
+27,An-ar-36,Sport,Arabic (Algeria),What is the most popular sports team in the UK?,What is the most popular sport team in UK?
+28,An-ar-43,Sport,Arabic (Algeria),What are the common places or venues where individuals in the UK usually gather to watch sports broadcasts?,What are the common places or venues where individuals in UK usually gather to watch sports broadcasts?
+29,Ca-sp-05,Food,Spanish (Spain),"How many meals per day do people from the UK usually have? (Provide Arabic numerals (e.g., 5) only.)","How many meals per day do people from UK usually have? (Provide Arabic numerals (e.g., 5) only.)"
+30,Ca-sp-06,Food,Spanish (Spain),Which is the most important meal of the day to people from the UK?,Which is the most important meal of the day to people from UK?
+31,Ca-sp-08,Food,Spanish (Spain),What is the most common ingredient used in the UK's diet?,What is the most common ingredient used in UK's diet?
+32,Ca-sp-09,Food,Spanish (Spain),What do people from the UK usually eat for dessert?,What do people from UK usually eat for dessert?
+33,Ca-sp-11,Food,Spanish (Spain),Which day of the week do people usually organize a family meal in the UK?,Which day of the week do people usually organize a family meal in UK?
+34,Ca-sp-14,Food,Spanish (Spain),Which is the most popular hot drink in the UK?,Which is the most popular hot drink in UK?
+35,Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),What do young people from the UK usually drink at the night club?,What do young people from UK usually drink at the night club?
+36,Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),In which month do people usually take holidays in the UK? (Provide Arabic numerals (1~12) only.),At which month do people usually take holidays in UK? (Provide Arabic numerals (1~12) only.)
+37,Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),What tradition is there in the UK for New Year's Eve?,What tradition is there in UK for New Year's Eve?
+38,Ca-sp-38,Family,Spanish (Spain),Which is the typical type of house for a family in the UK?,Which is the typical type of house for a family in UK?
+39,Ca-sp-41,Family,Spanish (Spain),Where do the dependent elderly usually live in the UK?,Where do the dependent elderly usually live in UK?
+40,Ca-sp-42,Family,Spanish (Spain),"How long (in weeks) is the UK's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)","How long (in weeks) is UK's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
+41,Ca-sp-43,Family,Spanish (Spain),"How long (in weeks) is the UK's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)","How long (in weeks) is UK's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
+42,Ca-sp-45,Family,Spanish (Spain),What type of destination is commonly chosen for a family holiday in the UK?,What type of destination is commonly chosen for a family vacation in UK?
+43,Gu-ch-05,Sport,Chinese (China),What sports do seniors like the most in the UK?,What sports do seniors like the most in UK?
+44,Gu-ch-06,Sport,Chinese (China),What sports do men like to play the most in the UK?,What sports do men like to play the most in UK?
+45,Gu-ch-07,Sport,Chinese (China),Who is the most famous basketball player in the UK?,Who is the most famous basketball player in UK?
+46,Gu-ch-08,Sport,Chinese (China),What is the most popular sports among children in the UK?,What is the most popular sports among children in UK?
+47,Gu-ch-09,Sport,Chinese (China),What sports do women like to play the most in the UK?,What sports do women like to play the most in UK?
+48,Gu-ch-11,Sport,Chinese (China),In which sports event at the olympics has the UK won the most gold medals? ,What sports event has UK won the most gold medals at the Olympics?
+49,Gu-ch-15,Sport,Chinese (China),What sports do male students in university like to play the most in the UK?,What sports do male students in university like to play the most in UK?
+50,Gu-ch-16,Family,Chinese (China),"How many people are there in a family on average in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many people are there in a family on average in UK? (Provide Arabic numerals (e.g., 12) only.)"
+51,Gu-ch-18,Family,Chinese (China),"How many children do couples usually have in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many children do couples usually have in UK? (Provide Arabic numerals (e.g., 12) only.)"
+52,Gu-ch-31,Education,Chinese (China),"What is the duration of primary school (in years) in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of elementary school in years in UK? (Provide Arabic numerals (e.g., 12) only.)"
+53,Gu-ch-32,Education,Chinese (China),"What is the duration of compulsory education (in years) in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of compulsory education in years in UK? (Provide Arabic numerals (e.g., 12) only.)"
+54,Gu-ch-33,Education,Chinese (China),"From which age do students start learning their second language in the UK? (Provide Arabic numerals (e.g., 12) only.)","From which age do students start learning their second language in UK? (Provide Arabic numerals (e.g., 12) only.)"
+55,Gu-ch-38,Education,Chinese (China),"What is the duration of undergraduate education (in years) in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the duration of undergraduate education in UK? (Provide Arabic numerals (e.g., 12) only.)"
+56,Gu-ch-40,Education,Chinese (China),"What time do younger primary school students finish school in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do younger elementary school students finish school in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+57,Gu-ch-41,Education,Chinese (China),"How many musical instruments do primary school students in the UK typically play? (Provide Arabic numerals (e.g., 12) only.)","How many musical instruments do elementary school students in UK typically play? (Provide Arabic numerals (e.g., 12) only.)"
+58,Ji-ko-02,Work life,Korean (South Korea),What day of the week do people in the UK prefer to have company dinners?,What day of the week do people in UK prefer to have company dinners?
+59,Ji-ko-03,Work life,Korean (South Korea),Which region/city has the highest number of financial companies in the UK?,Which region/city has the highest number of financial companies in UK?
+60,Ji-ko-07,Work life,Korean (South Korea),What is the most famous private company in the UK?,What is the most famous private company in UK?
+61,Ji-ko-08,Work life,Korean (South Korea),"What is the maximum number of hours one can work per week in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the maximum number of hours one can work per week in UK? (Provide Arabic numerals (e.g., 12) only.)"
+62,Ji-ko-09,Work life,Korean (South Korea),What do people typically eat during company get-together in the UK?,What do people typically eat during company get-together in UK?
+63,Ji-ko-14,Work life,Korean (South Korea),What is the representative export item of the UK?,What is the representative export item of UK?
+64,Ji-ko-15,Work life,Korean (South Korea),"How long (in hours) is the typical lunch break in the UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) is the typical lunch break in UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+65,Ji-ko-16,Family,Korean (South Korea),Where do mothers stay for a certain period after childbirth for recovery in the UK?,Where do mothers stay for a certain period after childbirth for recovery in UK?
+66,Ji-ko-19,Family,Korean (South Korea),What is the UK's most commonly given flower on Parents' Day?,What is UK's most commonly given flower on Parents' Day?
+67,Ji-ko-22,Family,Korean (South Korea),What do people especially spend their first salary on in the UK's society?,What do people especially spend their first salary on in UK's society?
+68,Ji-ko-24,Family,Korean (South Korea),What is the most preferred recreational facility among children in the UK?,What is the most preferred recreational facility among children in UK?
+69,Ji-ko-25,Family,Korean (South Korea),What are the family-related holidays in the UK?,What are the family-related holidays in UK?
+70,Ji-ko-26,Family,Korean (South Korea),What are the key milestones associated with children's independence from their parents in the UK's society?,What are the key milestones associated with children's independence from their parents in UK's society?
+71,Ji-ko-27,Family,Korean (South Korea),What is the common gift you give when visiting elderly parents in the UK?,What is the common gift you give when visiting elderly parents in UK?
+72,Ji-ko-28,Family,Korean (South Korea),When is the first day that people celebrate after a child is born in the UK?,When is the first day that people celebrate after a child is born in UK?
+73,Ji-ko-29,Family,Korean (South Korea),Which age's birthday is celebrated the most grandly in the UK's society?,Which age's birthday is celebrated the most grandly in UK's society?
+74,Ji-ko-31,Education,Korean (South Korea),Where do secondary school students in the UK usually study for exams?,Where do middle and high school students in UK usually study for exams?
+75,Ji-ko-33,Education,Korean (South Korea),Where do secondary school students in the UK usually go after dinner?,Where do high school students in UK usually go after dinner?
+76,Ji-ko-34,Education,Korean (South Korea),How do primary school students in the UK get to school?,How do elementary school students in UK go to school?
+77,Ji-ko-35,Education,Korean (South Korea),What is the most common form of private education in the UK?,What is the most common form of private education in UK?
+78,Ji-ko-36,Education,Korean (South Korea),Which subject’s academy/private educational institute do secondary school students most frequently attend in the UK?,Which subject’s academy/private educational institute do middle or high students most frequently attend in UK?
+79,Ji-ko-37,Education,Korean (South Korea),What type of clothing do secondary school students wear to school in the UK?,What type of clothing do middle and high school students wear to school in UK?
+80,Ji-ko-38,Education,Korean (South Korea),Which degree is considered the most difficult to gain admission to in the UK?,Which major is considered the most difficult to gain admission to in UK?
+81,Ji-ko-39,Education,Korean (South Korea),What is the most commonly learned musical instrument by primary school students in the UK?,What is the most commonly learned musical instrument by elementary school students in UK?
+82,Ji-ko-40,Education,Korean (South Korea),What do secondary school students typically do during break time in schools in the UK?,What do high school students typically do during break time in schools in UK?
+83,Ji-ko-41,Education,Korean (South Korea),What kind of shoes do students wear in schools in the UK?,What kind of shoes do students wear in schools in UK?
+84,Ji-ko-42,Education,Korean (South Korea),What are the required subjects in the UK's university entrance exam?,What are the required subjects in UK's university entrance exam?
+85,Ji-ko-44,Education,Korean (South Korea),Which region (within a city) in the UK has the highest academic fervour?,Which region (within a city) in UK has the highest academic fervor?
+86,Ji-ko-45,Education,Korean (South Korea),What do people look forward to the most at university festivals in the UK?,What do people look forward to the most at university festivals in UK?
+87,Jo-sp-01,Sport,Spanish (Spain),What is the second most popular sport in the UK?,What is the second most popular sport in UK?
+88,Jo-sp-02,Sport,Spanish (Spain),What is the most popular sport played without a ball in the UK?,What is the most popular sport played without a ball in UK?
+89,Jo-sp-09,Sport,Spanish (Spain),What sports are most associated with the upper class in the UK?,What sports are most associated with the upper class in UK?
+90,Jo-sp-13,Sport,Spanish (Spain),What is the most popular water sport in the UK?,What is the most popular water sport in UK?
+91,Jo-sp-14,Sport,Spanish (Spain),What is the most popular mental sport in the UK?,What is the most popular mental sport in UK?
+92,Jo-sp-18,Work life,Spanish (Spain),"How many holiday days per year does a standard worker get in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many holiday days per year does a standard worker gets in UK? (Provide Arabic numerals (e.g., 12) only.)"
+93,Jo-sp-19,Work life,Spanish (Spain),What region in the UK has been traditionally associated with agriculture?,What region in UK has been traditionally associated with agriculture?
+94,Jo-sp-21,Work life,Spanish (Spain),"What time, if any, do people usually leave work for lunch in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time, if any, do people usually leave work for lunch in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+95,Jo-sp-31,Education,Spanish (Spain),"What time do secondary school students tend to leave school in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do high school students tend to leave school in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+96,Jo-sp-32,Education,Spanish (Spain),What sport do primary school students tend to practice at school in the UK?,What sport do elementary school students tend to practice at school in UK?
+97,Jo-sp-36,Education,Spanish (Spain),"How long (in weeks) are summer holidays at primary schools in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)","How long (in weeks) are summer vacations at elementary schools in UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+98,Jo-sp-37,Education,Spanish (Spain),"How long (in weeks) are summer holidays at universities in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)","How long (in weeks) are summer vacations at universities in UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+99,Jo-sp-39,Education,Spanish (Spain),"At what age does primary education begin in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)","At what age does elementary education begin in UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+100,Jo-sp-43,Education,Spanish (Spain),"How many languages are studied in primary education besides the UK's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)","How many languages are studied in elementary education besides UK's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+101,Jod-ch-01,Food,Chinese (China),What eating utensils do people commonly use in the UK?,What eating utensils do people commonly used in UK?
+102,Jod-ch-04,Food,Chinese (China),What soft drink do people in the UK like to have?,What soft drink do people in UK like to have?
+103,Jod-ch-06,Food,Chinese (China),What is the most popular traditional alcohol in the UK?,What is the most popular traditional alcohol in UK?
+104,Jod-ch-07,Food,Chinese (China),"How long (in hours) on average does it take for people in the UK to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) on average does it take for people in UK to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+105,Jod-ch-09,Food,Chinese (China),"What time do people usually have dinner in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do people usually have dinner in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+106,Jod-ch-12,Food,Chinese (China),What kind of soup do people from the UK like to have?,What kind of soup do people from UK like to have?
+107,Jod-ch-13,Food,Chinese (China),What street food do people from the UK like to eat?,What street food do people from UK like to eat?
+108,Jod-ch-15,Food,Chinese (China),What kind of seafood do people from the UK like to eat?,What kind of seafood do people from UK like to eat?
+109,Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),What is the biggest festival in the UK?,What is the biggest festival in UK?
+110,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),What is the most commonly used public transport by people when travelling between cites in the UK?,What is the most commonly used public transport by people when travelling between cites in UK?
+111,Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),What are the specific decorations or symbols associated with the biggest festival in the UK?,What are the specific decorations or symbols associated with the biggest festival in UK?
+112,Jod-ch-37,Sport,Chinese (China),What sports do women like to watch the most in the UK?,What sports do women like to watch the most in UK?
+113,Jod-ch-38,Sport,Chinese (China),What sports do men like to watch the most in the UK?,What sports do men like to watch the most in UK?
+114,Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that females in their 20s in the UK engage in?,What is the common leisure activity that females in their 20s in UK engage in?
+115,Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),What is the common leisure activity that males in their 20s in the UK engage in?,What is the common leisure activity that males in their 20s in UK engage in?
+116,Jod-ch-46,Work life,Chinese (China),"How long (in hours) do people usually take a break after lunch on a weekday in the UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","How long (in hours) do people usually take a break after lunch on a weekday in UK? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+117,Jod-ch-48,Work life,Chinese (China),What do people eat for lunch during the working days in the UK?,What do people eat for lunch during the working days in UK?
+118,Jod-ch-50,Work life,Chinese (China),"What is the average commute time (in minutes) for people in the UK? (Provide Arabic numerals (e.g., 1) only.)","What is the average commute time (in minutes) for people in UK? (Provide Arabic numerals (e.g., 1) only.)"
+119,Jod-ch-51,Work life,Chinese (China),What is the most common transportation that people take to get to work in the UK?,What is the most common transportation that people take to get to work in UK?
+120,Jod-ch-54,Work life,Chinese (China),"How long (in days) is marriage leave in the UK? (Provide Arabic numerals (e.g., 12) only.)","How long (in days) is the marriage leave in UK? (Provide Arabic numerals (e.g., 12) only.)"
+121,Jod-ch-56,Work life,Chinese (China),"What is the typical retirement age for women in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the typical retirement age for women in UK? (Provide Arabic numerals (e.g., 12) only.)"
+122,Jod-ch-57,Work life,Chinese (China),"What is the typical retirement age for men in the UK? (Provide Arabic numerals (e.g., 12) only.)","What is the typical retirement age for men in UK? (Provide Arabic numerals (e.g., 12) only.)"
+123,Jod-ch-58,Work life,Chinese (China),Which profession is the most respected in the UK?,Which profession is the most respected in UK?
+124,Jod-ch-60,Work life,Chinese (China),What is the duration (in hours) of a typical workday in the UK? (Provide Arabic numerals (0~24) only.),What is the duration (in hours) of a typical workday in UK? (Provide Arabic numerals (0~24) only.)
+125,Jod-ch-61,Work life,Chinese (China),Which occupation is most preferred among females in the UK?,Which occupation is most preferred among females in UK?
+126,Jod-ch-62,Work life,Chinese (China),Which occupation is most preferred among males in the UK?,Which occupation is most preferred among males in UK?
+127,Ki-pe-17,Education,Persian (Iran),"On average, how far do students typically pursue their education in the UK? (e.g., primary, secondary school)","On average, how far do students typically pursue their education in UK? (e.g., elementary, high school)"
+128,Ki-pe-24,Education,Persian (Iran),What language is taught in schools in the UK besides English?,What language is taught in schools in UK besides English?
+129,Ki-pe-30,Education,Persian (Iran),What days of the week are schools closed in the UK?,What days of the week are schools closed in UK?
+130,Ki-pe-32,Food,Persian (Iran),What food do the hosts usually prepare for the guests in the UK?,What food do the hosts usually prepare for the guests in UK?
+131,Ki-pe-34,Food,Persian (Iran),What is the usual drink consumed during breakfast in the UK?,What is the usual drink in the breakfast in UK?
+132,Ki-pe-36,Food,Persian (Iran),"Except the food original from the UK, which country's food is more popular in the UK?","Except the food original from UK, which country's food is more popular in UK?"
+133,Ki-pe-39,Food,Persian (Iran),What food is usually prepared for a family picnic in the UK?,What food is usually prepared for a family picnic in UK?
+134,Ki-pe-40,Food,Persian (Iran),Which food from the UK is considered disgusting by the rest of the world?,Which food from UK is considered disgusting by the rest of the world?
+135,Ki-pe-43,Food,Persian (Iran),What is the name of the popular bread in the UK?,What is the name of the popular bread in UK?
+136,Ki-pe-51,Work life,Persian (Iran),"What time of day are government offices closed in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time of day are government offices closed in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+137,Ki-pe-53,Work life,Persian (Iran),"What is the normal start time of government offices in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What is the normal start time of government offices in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+138,Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),What national holiday has the longest duration in the UK?,What national holiday has the longest duration in UK?
+139,Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),What are the common activities people from the UK do to celebrate Independence day?,What are the common activities people from UK do to celebrate Independence day?
+140,Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is installed in front of the house when a family member dies in the UK?,What is installed in front of the house when a family member dies in UK?
+141,Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),When is a pregnancy celebration or ceremony usually held in the UK?,When is a pregnancy celebration or ceremony usually held in UK?
+142,Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),What event is usually held before a wedding in the UK?,What event is usually held before a wedding in UK?
+143,Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is usually given to children during (Lunar) New Year in the UK?,What is usually shared to the children during (Lunar) New Year in UK?
+144,Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),What activities are usually done days before Ramadan in the UK?,What activities are usually done days before Ramadan in UK?
+145,Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular tourist attraction for foreign visitors in the UK?,What is the most popular tourist attraction for foreign visitors in UK?
+146,Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),"What is the most popular religious sites (temple, church, etc.) for tourism in the UK?","What is the most popular religious sites (temple, church, etc.) for tourism in UK?"
+147,Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),What clothes do women usually wear on graduation ceremony in the UK?,What clothes do women usually wear on graduation commencement ceremony in UK?
+148,Kik-in-16,Food,Indonesian (Indonesia),What drink is commonly consumed in the UK when the weather is cold?,What drink is commonly consumed in UK when the weather is cold?
+149,Kik-in-17,Food,Indonesian (Indonesia),What fruit is more commonly sold and found during Ramadan in the UK?,What fruit is more commonly sold and found during Ramadan in UK?
+150,Kik-in-24,Food,Indonesian (Indonesia),What carbohydrate is usually served with chicken in a fast-food restaurant in the UK?,What carbohydrate is usually served with chicken in a fast-food restaurant in UK?
+151,Kik-in-31,Sport,Indonesian (Indonesia),What is the most famous martial art sports in the UK?,What is the most famous martial art sports in UK?
+152,Kik-in-34,Sport,Indonesian (Indonesia),What sports are often broadcasted on national television in the UK?,What sports are often broadcasted on national television in UK?
+153,Kik-in-35,Sport,Indonesian (Indonesia),What sports were popular among people from the UK during the COVID-19 pandemic?,What sports were popular among people from UK during the COVID-19 pandemic?
+154,Kik-in-36,Sport,Indonesian (Indonesia),Who is the most popular football coach in the UK?,Who is the most popular soccer coach in UK?
+155,Kik-in-37,Sport,Indonesian (Indonesia),What football teams in the UK are famous for their intense rivalry? (e.g. ___ vs ___),What soccer teams in UK are famous for their intense rivalry? (e.g. ___ vs ___)
+156,Kik-in-38,Sport,Indonesian (Indonesia),What are the names of football supporters in the UK who are famous for their intense rivalry? (e.g. ___ vs ___),What are the names of soccer supporters in UK who are famous for their intense rivalry? (e.g. ___ vs ___)
+157,Kik-in-40,Sport,Indonesian (Indonesia),Who is the most famous male badminton player in the UK?,Who is the most famous male badminton player in UK?
+158,Kik-in-41,Sport,Indonesian (Indonesia),Who is the most famous female badminton player in the UK?,Who is the most famous female badminton player in UK?
+159,Kik-in-44,Sport,Indonesian (Indonesia),What sport gets the most support from the government in the UK?,What sport gets the most support from the government in UK?
+160,Kik-in-45,Sport,Indonesian (Indonesia),What sports field facilities are usually available at schools in the UK?,What sports field facilities are usually available at schools in UK?
+161,Na-ko-02,Food,Korean (South Korea),What cafe beverage do people from the UK most commonly enjoy?,What cafe beverage do people from UK most commonly enjoy?
+162,Na-ko-04,Food,Korean (South Korea),What is the preferred hangover cure food for people from the UK?,What is the preferred hangover cure food for people from UK?
+163,Na-ko-05,Food,Korean (South Korea),What is the typical delivery food in the UK?,What is the typical delivery food in UK?
+164,Na-ko-07,Food,Korean (South Korea),What type of meat is consumed most by people from the UK?,What type of meat is consumed most by people from UK?
+165,Na-ko-08,Food,Korean (South Korea),What fruit do people from the UK often eat in the autumn season?,What fruit do people from UK often eat in the autumn season?
+166,Na-ko-09,Food,Korean (South Korea),What side dish is the most commonly served on a dining table in the UK?,What side dish is the most commonly served on a dining table in UK?
+167,Na-ko-11,Food,Korean (South Korea),What do people from the UK eat while watching a football game?,What do people from UK eat while watching a soccer game?
+168,Na-ko-15,Food,Korean (South Korea),What is the representative nourishing food in the UK?,What is the representative nourishing food in UK?
+169,Na-ko-16,Sport,Korean (South Korea),Who is the most famous football player in the UK?,Who is the most famous soccer player in UK?
+170,Na-ko-17,Sport,Korean (South Korea),What sports do male students enjoy during lunch time at school in the UK?,What sports do male students enjoy during lunch time at school in UK?
+171,Na-ko-18,Sport,Korean (South Korea),What is the most common sport girls participate in during physical education classes in the UK?,What is the most common sport girls participate in during physical education classes in UK?
+172,Na-ko-19,Sport,Korean (South Korea),Who is the most popular volleyball player in the UK?,Who is the most popular volleyball player in UK?
+173,Na-ko-20,Sport,Korean (South Korea),What sports event do people from the UK passionately support the most in international competitions?,What sports event do people from UK passionately support the most in international competitions?
+174,Na-ko-22,Sport,Korean (South Korea),Which country is considered the biggest rival in football matches for the UK?,Which country is considered the biggest rival in soccer matches for UK?
+175,Na-ko-23,Sport,Korean (South Korea),What type of sports academies do children attend the most in the UK?,What type of sports academies do children attend the most in UK?
+176,Na-ko-24,Sport,Korean (South Korea),What is the most commonly eaten food in sports stadiums while watching games in the UK?,What is the most commonly eaten food in sports stadiums while watching games in UK?
+177,Na-ko-25,Sport,Korean (South Korea),What are the typical sports played at the UK's school sports day?,What are the typical sports played in UK's school sports day?
+178,Na-ko-26,Sport,Korean (South Korea),What are the popular sports among the middle-aged population in the UK?,What are the popular sports among the middle-aged population in UK?
+179,Na-ko-28,Sport,Korean (South Korea),Who is the most popular winter sports player in the UK?,Who is the most popular winter sports player in UK?
+180,Na-ko-29,Sport,Korean (South Korea),Who is the most famous swimmer in the UK?,Who is the most famous swimmer in UK?
+181,Na-ko-30,Sport,Korean (South Korea),What is the most popular e-sports game in the UK?,What is the most popular e-sports game in UK?
+182,Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),What symbolic food do people from the UK eat on (Lunar) New Year?,What symbolic food do people from UK eat on (Lunar) New Year?
+183,Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular domestic vacation spot for people from the UK?,What is the most popular domestic vacation spot for people from UK?
+184,Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),What is the most common wedding gift between bride and groom in the UK?,What is the most common wedding gift between bride and groom in UK?
+185,Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),What is typically given as a congratulatory gesture when attending a friend's wedding in the UK?,What is typically given as a congratulatory gesture when attending a friend's wedding in UK?
+186,Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),"How long (in days) does a funeral typically last in the UK? (Provide Arabic numerals (e.g., 12) only.)","How long (in days) does a funeral typically last in UK? (Provide Arabic numerals (e.g., 12) only.)"
+187,Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),What should you prepare as a condolence offering when attending a funeral in the UK?,What should you prepare as a condolence offering when attending a funeral in UK?
+188,Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),What type of food is commonly provided at funeral parlors in the UK?,What type of food is commonly provided at funeral parlors in UK?
+189,Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),What do people do in the UK in the morning of the (Lunar) New Year?,What do people do in UK in the morning of the (Lunar) New Year?
+190,Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),When is the day with the UK's most severe nationwide traffic congestion?,When is the day with UK's most severe nationwide traffic congestion?
+191,Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),What is the most popular honeymoon destination in the UK?,What is the most popular honeymoon destination in UK?
+192,Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),What is the most important national holiday in the UK?,What is the most important national holiday in UK?
+193,Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from the UK eat during Ramadan?,What do people from UK eat in Ramadan?
+194,Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from the UK eat during Eid ul Fitr?,What do people from UK eat in Eid ul Fitr?
+195,Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),What do people from the UK eat during Eid ul Adha?,What do people from UK eat in Eid ul Adha?
+196,Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),Where do people from the UK go to celebrate New Year's Day?,Where do people from UK go to celebrate New Year's Day?
+197,Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),Where do a family gather for Eid festivities in the UK?,Where do a family gather for Eid festivities in UK?
+198,Ne-ar-16,Work life,Arabic (Algeria),"When is the weekend in the UK (e.g. Monday, Tuesday)?","When is the weekend in UK (e.g. Monday, Tuesday)?"
+199,Ne-ar-17,Work life,Arabic (Algeria),"At what time do most people start work in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do most people start work in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+200,Ne-ar-18,Work life,Arabic (Algeria),"At what time do most people finish work in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do most people finish work in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+201,Ne-ar-20,Work life,Arabic (Algeria),What is considered to be a secure job in the UK?,What is considered to be a secure job in UK?
+202,Ne-ar-24,Work life,Arabic (Algeria),Which city is the primary commercial hub in the UK?,Which city is the primary commercial hub in UK?
+203,Ne-ar-25,Work life,Arabic (Algeria),What is the industry that pays the best in the UK?,What is the industry that pays the best in UK?
+204,Ne-ar-26,Work life,Arabic (Algeria),What is the most famous public corporation in the UK?,What is the most famous public corporation in UK?
+205,Ne-ar-31,Food,Arabic (Algeria),What is the most famous dish in the UK?,What is the most famous dish in UK?
+206,Ne-ar-32,Food,Arabic (Algeria),What do people usually have for breakfast in the UK?,What do people usually have for breakfast in UK?
+207,Ne-ar-33,Food,Arabic (Algeria),"When do people usually have lunch in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","When do people usually have lunch in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+208,Ne-ar-34,Food,Arabic (Algeria),What is typically indispensable in meals in the UK?,What is typically indispensable in meals in UK?
+209,Ne-ar-36,Food,Arabic (Algeria),What is a typical festive meal in the UK?,What is a typical festive meal in UK?
+210,Ne-ar-37,Food,Arabic (Algeria),Which fruit do people usually offer tourists/visitors from abroad in the UK?,Which fruit do people usually offer tourists/visitors from abroad in UK?
+211,Ne-ar-38,Food,Arabic (Algeria),Which food do people usually offer as charity in the UK?,Which food do people usually offer as charity in UK?
+212,Ne-ar-39,Food,Arabic (Algeria),What is the cheapest fast food in the UK?,What is the cheapest fast food in UK?
+213,Ne-ar-43,Food,Arabic (Algeria),What do people usually have with tea in the UK?,What do people usually have with tea in UK?
+214,Ne-ar-44,Food,Arabic (Algeria),What do people have with coffee in the UK?,What do people have with coffee in UK?
+215,New-am-02,Food,Amharic (Ethiopia),What is the most popular traditional food in the UK?,What is the most popular traditional food in UK?
+216,New-am-04,Food,Amharic (Ethiopia),What is the most popular dipping sauce in the UK?,What is the most popular dipping sauce in UK?
+217,New-am-08,Food,Amharic (Ethiopia),What food is most often consumed during Christian fasting in the UK?,What food is most often consumed during Christian fasting in UK?
+218,New-am-15,Food,Amharic (Ethiopia),What food is usually prepared when mothers give birth in the UK?,What food is usually prepared when mothers give birth in UK?
+219,New-am-27,Sport,Amharic (Ethiopia),Who is the most popular female sportperson in the UK?,Who is the most popular female sportperson in UK?
+220,New-am-34,Education,Amharic (Ethiopia),Where do most primary school students prepare for their exams in the UK?,Where do most elementary school students prepare for their exams in UK?
+221,New-am-41,Education,Amharic (Ethiopia),"In the UK, at which grade level do students take their first national-level examination?","In UK, at which grade level do students take their first national-level examination?"
+222,New-am-53,Work life,Amharic (Ethiopia),Which region in the UK is widely known for its coffee/tea industry?,Which region in UK is widely known for its coffee/tea industry?
+223,New-am-54,Work life,Amharic (Ethiopia),Which region in the UK is widely known for its livestock industry?,Which region in UK is widely known for its livestock industry?
+224,New-am-59,Work life,Amharic (Ethiopia),What is the main occupation of people living in deserts in the UK?,What is the main occupation of people living in deserts in UK?
+225,New-am-60,Work life,Amharic (Ethiopia),Which animal is typically used for transportation in the UK?,Which animal is typically used for transportation in UK?
+226,New-am-72,Family,Amharic (Ethiopia),What is the most popular comic book for children to read in the UK?,What is the most popular comic book for children to read in UK?
+227,New-am-73,Family,Amharic (Ethiopia),What is the most popular YouTube channel for children in the UK?,What is the most popular YouTube channel for children in UK?
+228,New-am-74,Family,Amharic (Ethiopia),What is the most popular talk show in the UK?,What is the most popular talk show in UK?
+229,New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most famous religious holiday in the UK?,What is the most famous religious holiday in UK?
+230,New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),"What is the busiest month for weddings in the UK? (Provide Arabic numerals (e.g., 1) only.)","What is the busiest month for weddings in UK? (Provide Arabic numerals (e.g., 1) only.)"
+231,New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),What is the most popular traditional musical instrument in the UK?,What is the most popular traditional musical instrument in UK?
+232,New-as-01,Food,Assamese (Assam),What is the main agricultural product produced in the UK?,What is the main agricultural product produced in UK?
+233,New-as-02,Food,Assamese (Assam),What is the most popular wheat-based food item in the UK?,What is the most popular wheat-based food item in UK?
+234,New-as-05,Food,Assamese (Assam),What is the most typical drink offered to guests when they visit households in the UK?,What is the most typical drink offered to guests when they visit households in UK?
+235,New-as-07,Food,Assamese (Assam),What is the most popular dish cooked with fish in the UK?,What is the most popular dish cooked with fish in UK?
+236,New-as-14,Food,Assamese (Assam),What food do people from the UK like to eat during rainy weather?,What food do people from UK like to eat during rainy weather?
+237,New-as-15,Food,Assamese (Assam),What drink is commonly consumed in the UK when the weather is hot?,What drink is commonly consumed in UK when the weather is hot?
+238,New-as-20,Sport,Assamese (Assam),What is the most popular indoor sport in the UK?,What is the most popular indoor sport in UK?
+239,New-as-29,Sport,Assamese (Assam),What sport do men in the UK like to watch?,What sport do men in UK like to watch?
+240,New-as-30,Sport,Assamese (Assam),What sport do women in the UK like to watch?,What sport do women in UK like to watch?
+241,New-as-58,Work life,Assamese (Assam),What is the most popular beverage that people from the UK like to drink in their workplace?,What is the most popular beverage that people from UK like to drink in their workplace?
+242,New-as-64,Family,Assamese (Assam),On which holiday do all family members tend to reunite in the UK?,On which holiday do all family members tend to reunite in UK?
+243,New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),What traditional games do families play during traditional holidays in the UK?,What traditional games do families play during traditional holidays in UK?
+244,New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),What type of clothing do people from the UK wear during traditional festivals?,What type of clothing do people from UK wear during traditional festivals?
+245,New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),What traditional festival accessories do people from the UK wear?,What traditional festival accessories do people from UK wear?
+246,New-az-05,Food,Azerbaijani (Azerbaijan),What is the most famous region for alcohol production in the UK?,What is the most famous region for alcohol production in UK?
+247,New-az-11,Food,Azerbaijani (Azerbaijan),What fruit do people from the UK often eat in the summer season?,What fruit do people from UK often eat in the summer season?
+248,New-az-12,Food,Azerbaijani (Azerbaijan),Which region in the UK is known for its seafood?,Which region in UK is known for its seafood?
+249,New-az-21,Sport,Azerbaijani (Azerbaijan),Which region in the UK is the most popular skiing destination?,Which region in UK is the most popular skiing destination?
+250,New-az-26,Sport,Azerbaijani (Azerbaijan),Who is the most popular martial arts player in the UK?,Who is the most popular martial arts player in UK?
+251,New-az-27,Sport,Azerbaijani (Azerbaijan),Which sport has been one of the fastest-growing in the UK over the last decade?,Which sport has been one of the fastest-growing in UK over the last decade?
+252,New-az-39,Education,Azerbaijani (Azerbaijan),Which country is the most popular destination for students from the UK studying abroad?,Which country is the most popular destination for students from UK studying abroad?
+253,New-az-49,Work life,Azerbaijani (Azerbaijan),"How many people work in a typical family in the UK? (Provide Arabic numerals (e.g., 1) only.)","How many people work in a typical family in UK? (Provide Arabic numerals (e.g., 1) only.)"
+254,New-az-60,Family,Azerbaijani (Azerbaijan),"In the UK, who takes care of kids when both parents are working?","In UK, who takes care of kids when both parents are working?"
+255,New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for men from the UK?,What is the preferred alcoholic beverage for men from UK?
+256,New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),What is the preferred alcoholic beverage for women from the UK?,What is the preferred alcoholic beverage for women from UK?
+257,New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),"How many people on average typically attend a wedding in the UK? (Provide Arabic numerals (e.g., 1) only.)","How many people on average typically attend a wedding in UK? (Provide Arabic numerals (e.g., 1) only.)"
+258,New-ch-01,Food,Chinese (China),What kind of meat do people usually eat when they have a barbecue in the UK?,What kind of meat do people usually eat when they have barbecue in UK?
+259,New-ch-02,Food,Chinese (China),"When do people usually have breakfast in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","When do people usually have breakfast in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+260,New-ch-04,Food,Chinese (China),What kinds of food do people usually eat for late-night snacks in the UK?,What kinds of food do people usually eat for late-night snacks in UK?
+261,New-ch-05,Food,Chinese (China),What is the most famous spicy dish in the UK?,What is the most famous spicy dish in UK?
+262,New-ch-07,Food,Chinese (China),What food items do people typically pair with hard liquor in the UK?,What food items do people typically pair with hard liquor in UK?
+263,New-ch-08,Food,Chinese (China),What essential seasoning is indispensable in cooking in the UK?,What seasoning is indispensable in cooking in UK?
+264,New-ch-09,Food,Chinese (China),What food do people typically consume when the weather is cold in the UK?,What food do people typically consume when the weather is cold in UK?
+265,New-ch-13,Food,Chinese (China),What is the most famous alcohol brand in the UK?,What is the most famous alcohol brand in UK?
+266,New-ch-14,Food,Chinese (China),What foods do people usually eat when they are sick in the UK?,What foods do people usually eat when they are sick in UK?
+267,New-ch-15,Food,Chinese (China),What prepared/ready-to-eat food do people typically buy at supermarkets in the UK?,What prepared/ready-to-eat food do people typically buy at supermarkets in UK?
+268,New-ch-16,Sport,Chinese (China),What is the most famous sports-related movie in the UK?,What is the most famous sports-related movie in UK?
+269,New-ch-17,Sport,Chinese (China),What extreme sport do people generally wish to try the most in the UK?,What extreme sport do people generally wish to try the most in UK?
+270,New-ch-18,Sport,Chinese (China),Which track and field event is the most popular to watch during competitions in the UK?,Which track and field event is the most popular to watch during competitions in UK?
+271,New-ch-19,Sport,Chinese (China),Which gymnastics event is the most popular to watch during competitions in the UK?,Which gymnastics event is the most popular to watch during competitions in UK?
+272,New-ch-23,Sport,Chinese (China),Who is the most famous table tennis player in the UK?,Who is the most famous table tennis player in UK?
+273,New-ch-26,Sport,Chinese (China),"In the Winter Olympics, which event is the most popular to watch in the UK?","In the Winter Olympics, which event is the most popular to watch in UK?"
+274,New-ch-27,Sport,Chinese (China),Who is the most famous boxer in the UK?,Who is the most famous boxer in UK?
+275,New-ch-30,Sport,Chinese (China),Who is the most famous track and field athlete in the UK?,Who is the most famous track and field athlete in UK?
+276,New-ch-31,Work life,Chinese (China),What job do parents most hope their children will pursue in the UK?,What job do parents most hope their children will pursue in UK?
+277,New-ch-32,Work life,Chinese (China),What office software do people typically use in the workplace in the UK?,What office software do people typically use in the workplace in UK?
+278,New-ch-38,Work life,Chinese (China),Which cities or regions are known for their import and export activities in the UK?,Which cities or regions are known for their import and export activities in UK?
+279,New-ch-39,Work life,Chinese (China),What platform is commonly used in the e-commerce industry in the UK?,What platform is commonly used in the e-commerce industry in UK?
+280,New-ch-44,Work life,Chinese (China),"How long is the typical probation period for new employees before signing a formal contract in the UK? (e.g., 1 month).","How long is the typical probation period for new employees before signing a formal contract in UK? (e.g., 1 month)."
+281,New-ch-45,Work life,Chinese (China),In which industries do young people typically choose to start businesses in the UK?,Which industries do young people typically choose to start businesses in UK?
+282,New-ch-49,Family,Chinese (China),What is the most common way for family members to communicate remotely in the UK?,What is the most common way for family members to communicate remotely in UK?
+283,New-ch-51,Family,Chinese (China),What form of accommodation is typically booked for family trips in the UK?,What form of accommodation is typically booked for family trips in UK?
+284,New-ch-54,Family,Chinese (China),Which fruit is usually prepared most often for family dinners in the UK?,Which fruit is usually prepared the most for family dinners in UK?
+285,New-ch-64,Education,Chinese (China),"How many hours of classes do university students typically have per week in the UK? (Provide Arabic numerals (e.g., 1) only.)","How many hours of classes do university students typically have per week in UK? (Provide Arabic numerals (e.g., 1) only.)"
+286,New-ch-66,Education,Chinese (China),"What is the typical tuition fee per semester for public secondary schools in the UK? (Provide Arabic numerals (e.g., 1) only.)","What is the typical tuition fee per semester for public high schools in UK?  (Provide Arabic numerals (e.g., 1) only.)"
+287,New-ch-70,Education,Chinese (China),What compulsory courses do university students have in common in the UK?,What compulsory courses do university students have in common in UK?
+288,New-ch-71,Education,Chinese (China),"What is the average class size in secondary schools in the UK? (Provide Arabic numerals (e.g., 1) only.)","What is the average class size in high schools in UK? (Provide Arabic numerals (e.g., 1) only.)"
+289,New-ch-72,Education,Chinese (China),Which major is considered most conducive to employment in the UK?,Which major is considered most conducive to employment in UK?
+290,New-ch-73,Education,Chinese (China),What type of clubs are most popular among university students in the UK?,What type of clubs are most popular among university students in UK?
+291,New-ch-74,Education,Chinese (China),What types of accommodation do university students in the UK typically live in?,What types of accommodation do university students in UK typically live in?
+292,New-ch-75,Education,Chinese (China),"How long is each class period for secondary school students in the UK (minutes)? (Provide Arabic numerals (e.g., 1) only.)","How long is each class period for secondary school students in UK (minutes)?  (Provide Arabic numerals (e.g., 1) only.)"
+293,New-ch-78,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired women typically like in the UK?,What leisure activities do retired women typically like in UK?
+294,New-ch-79,Holidays/Celebration/Leisure,Chinese (China),What leisure activities do retired men typically like in the UK?,What leisure activities do retired men typically like in UK?
+295,New-ch-80,Holidays/Celebration/Leisure,Chinese (China),"During which holidays do people typically visit religious sites (temples, churches, etc.) in the UK?","During which holidays do people typically visit religious sites (temples, churches, etc.) in UK?"
+296,New-ch-81,Holidays/Celebration/Leisure,Chinese (China),What are the typical housewarming gifts in the UK?,What are the typical housewarming gifts in UK?
+297,New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"At what time do weddings typically start in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time do weddings typically start in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+298,New-ch-83,Holidays/Celebration/Leisure,Chinese (China),Which city in the UK hosts festivals the most?,Which city in UK hosts festivals the most?
+299,New-ch-84,Holidays/Celebration/Leisure,Chinese (China),What colour of clothing do people typically wear when attending weddings in the UK?,What color of clothing do people typically wear when attending weddings in UK?
+300,New-ch-85,Holidays/Celebration/Leisure,Chinese (China),What colour of clothing do people typically wear when attending funerals in the UK?,What color of clothing do people typically wear when attending funerals in UK?
+301,New-en-01,Food,English (UK),Which snack is eaten in the cinema in the UK?,Which snack is eaten in the cinema in UK?
+302,New-en-02,Food,English (UK),What is the most popular chip/crisp flavour in the UK?,What is the most popular chip/crisp flavour in UK?
+303,New-en-04,Food,English (UK),Who is a popular celebrity chef in the UK?,Who is a popular celebrity chef in UK?
+304,New-en-05,Food,English (UK),Which food is a cost-effective and quick meal option in the UK?,Which food is a cost-effective and quick meal option in UK?
+305,New-en-07,Food,English (UK),What are the most popular cooking shows in the UK?,What are the most popular cooking shows in UK?
+306,New-en-08,Food,English (UK),What is the most popular chocolate brand in the UK?,What is the most popular chocolate brand in UK?
+307,New-en-10,Food,English (UK),What is the most eaten cheese in the UK?,What is the most eaten cheese in UK?
+308,New-en-11,Food,English (UK),What is the most disliked vegetable in the UK?,What is the most disliked vegetable in UK?
+309,New-en-12,Food,English (UK),What food is most commonly found in food courts in the UK?,What food is most commonly found in food courts in UK?
+310,New-en-17,Sport,English (UK),What are the most common cheering tools used by sports fans in the UK?,What are the most common cheering tools used by sports fans in UK?
+311,New-en-18,Sport,English (UK),What do fans bring with them when attending a live game in the UK?,What do fans bring with them when attending a live game in UK?
+312,New-en-19,Sport,English (UK),What is the most well known sporting stadium in the UK?,What is the most well known sporting stadium in UK?
+313,New-en-23,Sport,English (UK),Who is the most famous Paralympian in the UK?,Who is the most famous Paralympian in UK?
+314,New-en-26,Sport,English (UK),What is the most recognized sporting chant in the UK?,What is the best recognized sporting chant in UK?
+315,New-en-38,Work life,English (UK),Which industries are known for more flexible working hours in the UK?,Which industries are known for more flexible working hours in UK?
+316,New-en-41,Work life,English (UK),Who is the most well known and successful entrepreneur in the UK?,Who is the most well known and successful entrepreneur in UK?
+317,New-en-47,Family,English (UK),What can typically be found in the back garden of houses in the UK?,What can typically be found in the back garden of houses in UK?
+318,New-en-49,Family,English (UK),What is the name of the most famous family in the UK?,What is the name of the most famous family in UK?
+319,New-en-50,Family,English (UK),What is the most common family name in the UK?,What is the most common family name in UK?
+320,New-en-55,Family,English (UK),Which religion is most commonly practiced by families in the UK?,Which religion is most commonly practiced by families in UK?
+321,New-en-56,Family,English (UK),What is the most popular foreign language spoken by families in the UK?,What is the most popular foreign language spoken by families in UK?
+322,New-en-59,Family,English (UK),Which country is the most popular destination for families from the UK to emigrate to?,Which country is the most popular destination for families from UK to emigrate to?
+323,New-en-68,Education,English (UK),What repercussions are there for bad behavior in schools in the UK?,What repercussions are there for bad behavior in schools in UK?
+324,New-en-69,Education,English (UK),Which writers are commonly studied in literature class in the UK?,Which writers are commonly studied in literature class in UK?
+325,New-en-70,Education,English (UK),"How many school breaks are there in a year for high schools in the UK? (Provide Arabic numerals (e.g., 1) only.)","How many school breaks are there in a year for high schools in UK? (Provide Arabic numerals (e.g., 1) only.)"
+326,New-en-72,Education,English (UK),Which online resource do students usually use to study in the UK?,Which online resource do students usually use to study in UK?
+327,New-en-75,Education,English (UK),"What is the average length of a semester in terms of weeks of teaching at universities in the UK? (Provide Arabic numerals (e.g., 1) only.)","What is the average length of a semester in terms of weeks of teaching at universities in UK? (Provide Arabic numerals (e.g., 1) only.)"
+328,New-en-76,Holidays/Celebration/Leisure,English (UK),Which airport in the UK is the busiest during the holiday season?,Which airport in UK is the busiest during the holiday season?
+329,New-en-79,Holidays/Celebration/Leisure,English (UK),Which region of the UK is well known for its theatrical performances?,Which region of UK is well known for its theatrical performances?
+330,New-en-87,Holidays/Celebration/Leisure,English (UK),What is the most famous historic landmark in the UK?,What is the most famous historic landmark in UK?
+331,New-en-90,Holidays/Celebration/Leisure,English (UK),What is the most famous hotel brand in the UK?,What is the most famous hotel brand in UK?
+332,New-gr-05,Food,Greek (Greece),What is the most popular grab-and-go breakfast option in the UK?,What is the most popular grab-and-go breakfast option in UK?
+333,New-gr-06,Food,Greek (Greece),What is the most popular food in the UK among young people?,What is the most popular food in UK among young people?
+334,New-gr-08,Food,Greek (Greece),What type of alcoholic drink is most commonly consumed at festivals in the UK?,What type of alcoholic drink is most commonly consumed at festivals in UK?
+335,New-gr-13,Food,Greek (Greece),What is the most common morning drink in the UK?,What is the most common morning drink in UK?
+336,New-gr-15,Food,Greek (Greece),What is the most popular traditional dessert in the UK?,What is the most popular traditional dessert in UK?
+337,New-gr-21,Sport,Greek (Greece),What is the most popular racket sport in the UK?,What is the most popular racket sport in UK?
+338,New-gr-24,Sport,Greek (Greece),What is the most popular track and field sport in the UK?,What is the most popular track and field sport in UK?
+339,New-gr-29,Sport,Greek (Greece),Which international sporting event is the most popular in the UK?,Which international sporting event is the most popular in UK?
+340,New-gr-47,Work life,Greek (Greece),"How long (in minutes) are typical work breaks in the UK, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)","How long (in minutes) are typical work breaks in UK, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
+341,New-gr-58,Work life,Greek (Greece),Which job is considered underpaid in the UK?,Which job is considered underpaid in UK?
+342,New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),What is the most common food served during Easter in the UK?,What is the most common food served during Easter in UK?
+343,New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),What is the most popular music genre among the elderly population in the UK?,What is the most popular music genre among the elderly population in UK?
+344,New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at funerals in the UK?,What drink is usually offered at funerals in UK?
+345,New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),What drink is usually offered at weddings in the UK?,What drink is usually offered at weddings in UK?
+346,New-ha-07,Food,Hausa (Northern Nigeria),What food originated from the UK and can be found all over the world?,What food originated from UK and can be found all over the world?
+347,New-ha-08,Food,Hausa (Northern Nigeria),What food is typically disliked by children but enjoyed by the elderly in the UK?,What food is typically disliked by children but enjoyed by the elderly in UK?
+348,New-ha-09,Food,Hausa (Northern Nigeria),What cooking utensil is most commonly used in the UK?,What cooking utensil is most commonly used in UK?
+349,New-ha-13,Food,Hausa (Northern Nigeria),Which is the most popular vegetable in the UK?,Which is the most popular vegetable in UK?
+350,New-ha-19,Sport,Hausa (Northern Nigeria),Which animal is used for sports in the UK?,Which animal is used for sports in UK?
+351,New-ha-66,Family,Hausa (Northern Nigeria),What is the most popular wedding venue in the UK?,What is the most popular wedding venue in UK?
+352,New-in-01,Food,Indonesian (Indonesia),Which coffee shop brand is the most popular in the UK?,Which coffee shop brand is the most popular in UK?
+353,New-in-03,Food,Indonesian (Indonesia),What type of food from the UK is typically served in restaurants overseas?,What type of food from UK is typically served in restaurants overseas?
+354,New-in-33,Work life,Indonesian (Indonesia),What region in the UK is usually associated with mining?,What region in UK is usually associated with mining?
+355,New-in-34,Work life,Indonesian (Indonesia),What region in the UK is usually associated with oil?,What region in UK is usually associated with oil?
+356,New-in-62,Education,Indonesian (Indonesia),What university in the UK is popular because of its engineering major? (Provide the official name.),What university in UK is popular because of its engineering major? (Provide the official name.)
+357,New-in-63,Education,Indonesian (Indonesia),What university in the UK is popular because of its school of medicine? (Provide the official name.),What university in UK is popular because of its school of medicine? (Provide the official name.)
+358,New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most popular payment method in the UK?,What is the most popular payment method in UK?
+359,New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),What is the most famous theme park in the UK?,What is the most famous theme park in UK?
+360,New-ko-01,Family,Korean (Korea),What is the most popular children's animation that is commonly watched by kids in the UK?,What is the most popular children's animation that is commonly watched by kids in UK?
+361,New-ko-02,Family,Korean (Korea),What is the most popular prenatal education activity for pregnant women in the UK?,What is the most popular prenatal education activity for pregnant women in UK?
+362,New-ko-03,Family,Korean (Korea),What is the most popular children's song in the UK that families sing together?,What is the most popular children's song in UK that families sing together?
+363,New-ko-04,Family,Korean (Korea),Which toys are most popular among boys in the UK?,Which toys are most popular among boys in UK?
+364,New-ko-05,Family,Korean (Korea),Which toys are most popular among girls in the UK?,Which toys are most popular among girls in UK?
+365,New-ko-06,Family,Korean (Korea),What is the most popular folk tale in the UK that is typically told to children?,What is the most popular folk tale in UK that is typically told to children?
+366,New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),What is the customary symbol of condolence used at funerals in the UK?,What is the customary symbol of condolence used at funerals in UK?
+367,New-ko-08,Work life,Korean (Korea),Where do university students in the UK tend to work part-time the most?,Where do university students in UK tend to work part-time the most?
+368,New-ko-09,Work life,Korean (Korea),What are the most frequently practiced team-building activities in companies based in the UK?,What are the most frequently practiced team-building activities in companies based in UK?
+369,New-ko-10,Work life,Korean (Korea),What are the most common activities people do as a side job in the UK?,What are the most common activities people do as a side job in UK?
+370,New-pe-02,Food,Persian (Iran),What is the most famous edible souvenir for tourists in the UK?,What is the most famous edible souvenir for tourists in UK?
+371,New-pe-06,Food,Persian (Iran),What is the most popular stew in the UK?,What is the most popular stew in UK?
+372,New-pe-11,Food,Persian (Iran),What is the most common spice/herb used in dishes from the UK?,What is the most common spice/herb used in dishes from UK?
+373,New-pe-16,Sport,Persian (Iran),What is the most famous traditional sport in the UK?,What is the most famous traditional sport in UK?
+374,New-pe-20,Sport,Persian (Iran),What sport is popular to play on the beach in the UK?,What sport is popular to play on the beach in UK?
+375,New-pe-45,Work life,Persian (Iran),What is the usual work schedule during the month of Ramadan in the UK?,What is the usual work schedule during the month of Ramadan in UK?
+376,New-pe-47,Family,Persian (Iran),"When is Student's Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)","When is Student's Day celebrated in UK? (Provide in MM/DD format (e.g., 12/31).)"
+377,New-pe-49,Family,Persian (Iran),Where do families gather to pray together in the UK?,Where do families gather to pray together in UK?
+378,New-pe-53,Family,Persian (Iran),What gifts do fathers get on Father's Day (or Parents' Day) in the UK?,What gifts do fathers get on Father's Day (or Parents' Day) in UK?
+379,New-pe-54,Family,Persian (Iran),What gifts do mothers get on Mother's Day (or Parents' Day) in the UK?,What gifts do mothers get on Mother's Day (or Parents' Day) in UK?
+380,New-pe-59,Family,Persian (Iran),"How many generations typically live together in a household in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many generations typically live together in a household in UK? (Provide Arabic numerals (e.g., 12) only.)"
+381,New-pe-65,Education,Persian (Iran),"How many subjects are taught in secondary schools in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many subjects are taught in secondary schools in UK? (Provide Arabic numerals (e.g., 12) only.)"
+382,New-pe-66,Education,Persian (Iran),What is the most popular after school extracurricular activity in primary schools in the UK?,What is the most popular after school curricular in primary schools in UK?
+383,New-pe-74,Education,Persian (Iran),How much is the average annual tuition fee for public universities in the UK?,How much is the average annual tuition fee for public universities in UK?
+384,New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),What is a popular activity to do in parks in the UK?,What is a popular activity to do in parks in UK?
+385,New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous film festival held in the UK?,What is the name of the most famous film festival held in UK?
+386,New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),What is the popular card game played during social gatherings in the UK?,What is the popular card game played during social gatherings in UK?
+387,New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),Where is the most popular tourist destination abroad for people from the UK?,Where is the most popular tourist destination abroad for people from UK?
+388,New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),What is the name of the most famous tower in the UK?,What is the name of the most famous tower in UK?
+389,New-spme-01,Food,Spanish (Mexico),What edible insect is eaten most often in the UK?,What edible insect is eaten most often in UK?
+390,New-spme-04,Food,Spanish (Mexico),Which agricultural product is exported most often in the UK?,Which agricultural product is exported most often in UK?
+391,New-spme-05,Food,Spanish (Mexico),What are the most popular sweets in the UK?,What are the most popular sweets in UK?
+392,New-spme-15,Sport,Spanish (Mexico),What is the most popular sports drink in the UK?,What is the most popular sports drink in UK?
+393,New-spme-27,Education,Spanish (Mexico),What is the average education level for people in the UK?,What is the average education level for people in UK?
+394,New-spme-37,Education,Spanish (Mexico),Which profession is most commonly studied abroad by students from the UK?,Which profession is most commonly studied abroad by students from UK?
+395,New-spme-60,Family,Spanish (Mexico),"Which day of the week do most families in the UK practice religious activities? (e.g. Monday, Tuesday)","Which day of the week do most families in UK practice religious activities? (e.g. Monday, Tuesday)"
+396,New-spme-65,Family,Spanish (Mexico),What is the most popular way to celebrate Independence Day in the UK?,What is the most popular way to celebrate Independence Day in UK?
+397,New-spme-68,Family,Spanish (Mexico),What is the most popular beverage among children in the UK?,What is the most popular beverage among children in UK?
+398,New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),What is the most popular place in the UK to celebrate Independence Day?,What is the most popular place in UK to celebrate Independence Day?
+399,New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),What is the name of the song that is typically sung at birthday parties in the UK?,What is the name of the song that is typically sung at birthday parties in UK?
+400,New-su-01,Food,Sundanese (West Java),What snacks are usually sold in front of schools in the UK?,What snacks are usually sold in front of schools in UK?
+401,New-su-09,Food,Sundanese (West Java),What oil is usually used for cooking in the UK?,What oil is usually used for cooking in UK?
+402,New-su-10,Food,Sundanese (West Java),What food is commonly consumed by pregnant women in the UK?,What food is commonly consumed by pregnant women in UK?
+403,New-su-15,Food,Sundanese (West Java),What is the most popular traditional non-alcoholic drink in the UK?,What is the most popular traditional non-alcoholic drink in UK?
+404,New-su-17,Sport,Sundanese (West Java),What sports facilities are generally available in parks in the UK?,What sports facilities are generally available in parks in UK?
+405,New-su-21,Sport,Sundanese (West Java),What are the common activities that seniors usually do in parks in the UK?,What are the common activities that seniors usually do in parks in UK?
+406,New-su-24,Sport,Sundanese (West Java),What sports do parents and children commonly play together in the UK?,What sports do parents and children commonly play together in UK?
+407,New-su-28,Sport,Sundanese (West Java),What colour is associated with the national football team of the UK?,What color is associated with the national soccer team of UK?
+408,New-su-33,Education,Sundanese (West Java),What is the common dress code for school teachers in the UK?,What is the common dress code for school teachers in UK?
+409,New-su-34,Education,Sundanese (West Java),What is the most popular extracurricular activity related to music in schools in the UK?,What is the most popular extracurricular activity related to music in schools in UK?
+410,New-su-42,Education,Sundanese (West Java),What religion is mainly taught in schools in the UK?,What religion is mainly taught in schools in UK?
+411,New-su-45,Education,Sundanese (West Java),"What date is Education Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)","What date is Education Day celebrated in UK? (Provide in MM/DD format (e.g., 12/31).)"
+412,New-su-50,Work life,Sundanese (West Java),What is the main occupation of people in mountainous areas in the UK?,What is the main occupation of people in mountainous areas in UK?
+413,New-su-51,Work life,Sundanese (West Java),What is the main occupation of people in coastal areas in the UK?,What is the main occupation of people in coastal areas in UK?
+414,New-su-57,Work life,Sundanese (West Java),What is the most common livestock raised in the UK?,What is the most common livestock raised in UK?
+415,New-su-58,Work life,Sundanese (West Java),What animals are commonly used for agriculture in the UK?,What animals are commonly used for agriculture in UK?
+416,New-su-59,Work life,Sundanese (West Java),What do farmers in the UK typically wear to protect themselves from the heat whilst farming?,What do farmers in UK typically wear to protect themselves from the heat whilst farming?
+417,New-su-60,Work life,Sundanese (West Java),What do farmers in the UK usually eat for lunch?,What do farmers in UK usually eat for lunch?
+418,New-su-71,Family,Sundanese (West Java),What gifts do parents generally give to their children for their birthdays in the UK?,What gifts do parents generally give to their children for their birthdays in UK?
+419,New-su-75,Family,Sundanese (West Java),What type of vehicle do most families in the UK generally own?,What type of vehicle do most families in UK generally own?
+420,New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),What is usually given to the children during Eid in the UK?,What is usually given to the children during Eid in UK?
+421,New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do grooms usually wear at weddings in the UK?,What clothes do grooms usually wear at weddings in UK?
+422,New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),What clothes do brides usually wear at weddings in the UK?,What clothes do brides usually wear at weddings in UK?
+423,New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),What food is usually served at weddings in the UK?,What food is usually served at weddings in UK?
+424,New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most famous government building in the UK?,What is the most famous government building in UK?
+425,New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),What is the most popular music genre among the younger population in the UK?,What is the most popular music genre among the younger population in UK?
+426,Ni-en-02,Education,English (UK),"What time do secondary students in the UK typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)","What time do secondary students in UK typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+427,Ni-en-03,Education,English (UK),"At what age do people in the UK typically go to university? (Provide Arabic numerals (e.g., 12) only.)","At what age do people in UK typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
+428,Ni-en-06,Education,English (UK),"From what age do people need to attend compulsory education in the UK? (Provide Arabic numerals (e.g., 12) only.)","From what age do people need to attend compulsory education in UK? (Provide Arabic numerals (e.g., 12) only.)"
+429,Ni-en-09,Education,English (UK),How many days a week do children attend school in the UK? (Provide Arabic numerals (0~7) only.),How many days a week do children attend school in UK? (Provide Arabic numerals (0~7) only.)
+430,Ni-en-11,Education,English (UK),"In the UK, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)","In UK, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
+431,Ni-en-12,Education,English (UK),What is the top university in the UK? (Provide the official name.),What is the top university in UK? (Provide the official name.)
+432,Ni-en-13,Education,English (UK),"At what age do most people in the UK graduate from university? (Provide Arabic numerals (e.g., 12) only.)","At what age do most people in UK graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
+433,Ni-en-15,Education,English (UK),"At what age do children in the UK generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)","At what age do children in UK generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
+434,Ni-en-17,Work life,English (UK),"How many hours a week does a full-time worker in the UK typically work? (Provide Arabic numerals (e.g., 12) only.)","How many hours a week does a full-time worker in UK typically work? (Provide Arabic numerals (e.g., 12) only.)"
+435,Ni-en-19,Work life,English (UK),How many days a week does a full-time worker work in the UK? (Provide Arabic numerals (0~7) only.),How many days a week does a full-time worker work in UK? (Provide Arabic numerals (0~7) only.)
+436,Ni-en-20,Work life,English (UK),"At what age do most people start working in the UK? (Provide Arabic numerals (e.g., 12) only.)","At what age do most people start working in UK? (Provide Arabic numerals (e.g., 12) only.)"
+437,Ni-en-21,Work life,English (UK),"From what age is an individual allowed to work in the UK? (Provide Arabic numerals (e.g., 12) only.)","From what age is an individual allowed to work in UK? (Provide Arabic numerals (e.g., 12) only.)"
+438,Ni-en-31,Holidays/Celebration/Leisure,English (UK),What do people in the UK traditionally eat on Christmas Day?,What do people in UK traditionally eat on Christmas Day?
+439,Ni-en-37,Holidays/Celebration/Leisure,English (UK),What is the name of the day of the year where people in the UK celebrate love and romance?,What is the name of the day of the year where people in UK celebrate love and romance?
+440,Ni-en-40,Holidays/Celebration/Leisure,English (UK),What is the most popular Christmas song in the UK?,What is the most popular Christmas song in UK?
+441,Nu-in-04,Education,Indonesian (Indonesia),"How many terms are there each academic year at secondary schools in the UK? (Provide in Arabic numerals (e.g., 7, 8) only.)","How many semesters are there each academic year at high schools in UK? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+442,Nu-in-05,Education,Indonesian (Indonesia),In which month does the new school year typically begin in the UK? (Provide Arabic numerals (1~12) only.),In which month does the new school year typically begin in UK? (Provide Arabic numerals (1~12) only.)
+443,Nu-in-06,Education,Indonesian (Indonesia),"When is National Teacher's Day commemorated in the UK? (Provide in MM/DD format (e.g., 12/31).)","When is National Teacher's Day commemorated in UK? (Provide in MM/DD format (e.g., 12/31).)"
+444,Nu-in-11,Education,Indonesian (Indonesia),"At what time does primary school start in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)","At what time does elementary school start in UK? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+445,Nu-in-20,Family,Indonesian (Indonesia),"When is Children's Day celebrated in the UK? (Provide in MM/DD format (e.g., 12/31).)","When is Children's Day celebrated in UK? (Provide in MM/DD format (e.g., 12/31).)"
+446,Nu-in-40,Work life,Indonesian (Indonesia),Which city is the main destination for job seekers in the UK?,Which city is the main destination for job seekers in UK?
+447,Sa-en-1,Food,English (UK),What is the UK's most popular fast food chain?,What is UK's most popular fast food chain?
+448,Sa-en-13,Food,English (UK),What is the food that is most divisive (either love or hate) in the UK?,What is the food that is most divisive (either love or hate) in UK?
+449,Sa-en-16,Sport,English (UK),What is the most popular football team among the people from the UK?,What is the most popular soccer team among the people from UK?
+450,Sa-en-22,Sport,English (UK),What is the most famous university in the UK known for its sports team?,What is the most famous university in UK known for its sports team?
+451,Sa-en-31,Family,English (UK),What is the UK's most popular family pet?,What is UK's most popular family pet?
+452,Sa-en-32,Family,English (UK),What is the most popular family TV show in the UK?,What is the most popular family TV show in UK?
+453,Sa-en-37,Family,English (UK),What is the most popular family boardgame in the UK?,What is the most popular family boardgame in UK?
+454,Sa-en-6,Food,English (UK),What is the most popular takeaway food in the UK?,What is the most popular takeaway food in UK?
+455,Sa-en-7,Food,English (UK),What are popular snacks in the UK?,What are popular snacks in UK?
+456,Sa-en-9,Food,English (UK),What do people from the UK eat at the beach?,What do people from UK eat at the beach?
+457,Ta-pe-10,Family,Persian (Iran),"At what age do men usually get married in the UK? (Provide Arabic numerals (e.g., 20) only.)","At what age do men usually get married in UK? (Provide Arabic numerals (e.g., 20) only.)"
+458,Ta-pe-11,Family,Persian (Iran),"At what age do women usually get married in the UK? (Provide Arabic numerals (e.g., 20) only.)","At what age do women usually get married in UK? (Provide Arabic numerals (e.g., 20) only.)"
+459,Ta-pe-13,Family,Persian (Iran),"In your parents' generation, what was the average number of members in their family in the UK? (Provide Arabic numerals (e.g., 20) only.)","In your parents' generation, what was the average number of members in their family in UK? (Provide Arabic numerals (e.g., 20) only.)"
+460,Ta-pe-17,Sport,Persian (Iran),"In the Olympic Games, which sport is the most popular in the UK?","In the Olympic Games, which sport is the most popular in UK?"
+461,Ta-pe-21,Sport,Persian (Iran),Where do children usually play football in the UK?,Where do children usually play soccer in UK?
+462,Ta-pe-22,Sport,Persian (Iran),Which daily exercise is popular among women in the UK?,Which daily exercise is popular among women in UK?
+463,Ta-pe-23,Sport,Persian (Iran),Which daily exercise is popular among men in the UK?,Which daily exercise is popular among men in UK?
+464,Ta-pe-25,Sport,Persian (Iran),"What is the most famous rivalry in a national sports league in the UK? (e.g., ___ vs ___)","What is the most famous rivalry in a national sports league in UK? (e.g., ___ vs ___)"
+465,Ta-pe-29,Sport,Persian (Iran),Which professional sport is the highest paying in the UK?,Which professional sport is the highest paying in UK?
+466,Ta-pe-30,Sport,Persian (Iran),What is/was the most popular sports-related TV programme in the UK?,What is/was the most popular sports-related TV program in UK?
+467,Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),What day of the year is usually dedicated to fireworks in the UK?,What day of the year is usually dedicated to fireworks in UK?
+468,Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),What is the common symbol of New Year's Eve that is usually found in the UK?,What is the common symbol of New Year's Eve that is usually found in UK?
+469,Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),What food do people from the UK usually eat on New Year's Eve?,What food do people from UK usually eat on New Year's Eve?
+470,Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),What is usually eaten during the celebration of the longest night of the year in the UK?,What is usually eaten during the celebration of the longest night of the year in UK?
+471,Th-en-01,Sport,English (US),What is the most popular summer sport in the UK?,What is the most popular summer sport in UK?
+472,Th-en-03,Sport,English (US),What is the most popular professional sports league in the UK?,What is the most popular professional sports league in UK?
+473,Th-en-05,Sport,English (US),What is the most popular women's sports team in the UK?,What is the most popular women's sports team in UK?
+474,Th-en-09,Sport,English (US),What is the most popular tournament in the UK?,What is the most popular tournament in UK?
+475,Th-en-11,Sport,English (US),Who is the most popular sportperson in the UK?,Who is the most popular sportperson in UK?
+476,Th-en-12,Sport,English (US),In which sport has the UK been most successful in international competitions?,In which sport has UK been most successful in international competitions?
+477,Th-en-15,Sport,English (US),What is the most popular winter sport in the UK?,What is the most popular winter sport in UK?
+478,Th-en-19,Work life,English (US),What is a city or region in the UK known for manufacturing industry?,What is a city or region in UK known for manufacturing industry?
+479,Th-en-21,Work life,English (US),What is regarded as the most important perk typically offered to employees in the UK?,What is regarded as the most important perk typically offered to employees in UK?
+480,Th-en-22,Work life,English (US),What was the most catastrophic economic period for the UK?,What was the most catastrophic economic period for UK?
+481,Th-en-24,Work life,English (US),What region in the UK is a major hub for tech workers and start ups?,What region in UK is a major hub for tech workers and start ups?
+482,Th-en-27,Work life,English (US),What is the most important industry in the UK?,What is the most important industry in UK?
+483,Th-en-35,Family,English (US),"Which one of the daily meals is commonly shared with family members in the UK? (e.g., breakfast, lunch, dinner)","Which one of the daily meals is commonly shared with family members in UK? (e.g., breakfast, lunch, dinner)"
+484,Th-en-36,Family,English (US),What is a popular family activity to do at the weekend with children in the UK?,What is a popular family activity with a child to do on weekends in UK?
+485,Th-en-37,Family,English (US),"At what age do children typically become independent from their parents in the UK? (Provide Arabic numerals (e.g., 12) only.)","At what age do children typically become independent from their parents in UK? (Provide Arabic numerals (e.g., 12) only.)"
+486,Th-en-38,Family,English (US),What is the most important family holiday in the UK?,What is the most important family holiday in UK?
+487,Th-en-39,Family,English (US),What is a popular family game in the UK?,What is a popular family game in UK?
+488,Th-en-41,Family,English (US),"What is the average age for couples to have their first child in the UK? (Provide Arabic numerals (e.g., 20) only.)","What is the average age for couples to have their first child in UK? (Provide Arabic numerals (e.g., 20) only.)"
+489,Th-en-43,Family,English (US),"How many cars are owned by a typical family in the UK? (Provide Arabic numerals (e.g., 12) only.)","How many cars are owned by a typical family in UK? (Provide Arabic numerals (e.g., 12) only.)"
+490,Th-en-44,Family,English (US),What is the UK's most popular food for family meals on weekends?,What is UK's most popular food for family meals on weekends?
+491,Th-en-45,Family,English (US),What is the most popular weekday evening family activity in the UK?,What is the most popular weekday evening family activity in UK?
+492,Th-en-48,Education,English (US),What is the highest grade given to top-achieving secondary school students on assignments and exams in the UK?,What is the highest grade given to top-achieving high school students on assignments and exams in UK?
+493,Th-en-49,Education,English (US),What is considered the most important exam for secondary school students in the UK?,What is considered the most important exam for high school students in UK?
+494,Th-en-51,Education,English (US),Which subject is considered the most important for students in the UK?,Which subject is considered the most important for students in UK?
+495,Th-en-53,Education,English (US),What is the most popular extracurricular social event at schools in the UK?,What is the most popular extracurricular social event at schools in UK?
+496,Th-en-58,Education,English (US),What is the most advanced maths subject learned before university in the UK?,What is the most advanced math subject learned before university in UK?
+497,Tmp-ar-01,Education,Arabic (Algeria),Where do university students in the UK usually go to study for their final exams?,Where do university students in UK usually go to study for their final exams?
+498,Tmp-ar-02,Education,Arabic (Algeria),What is a common public transport that people use to go to university in the UK?,What is a common public transport that people use to go to university in UK?
+499,Tmp-ar-04,Education,Arabic (Algeria),What do primary school students in the UK usually do after school?,What do elementary students in UK usually do after school?
