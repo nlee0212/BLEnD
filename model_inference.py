@@ -23,7 +23,7 @@ parser.add_argument('--id_col',type=str,default="ID",
                     help='Provide the column name from the given csv file name with question IDs.')
 parser.add_argument('--output_dir',type=str,default='./model_inference_results',
                     help='Provide the directory for the output files to be saved.')
-parser.add.argument('--output_file',type=str,default=None,
+parser.add_argument('--output_file',type=str,default=None,
                     help='Provide the name of the output file.')
 parser.add_argument('--model_cache_dir',type=str,default='.cache',
                     help='Provide the directory saving model caches.')
