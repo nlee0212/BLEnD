@@ -69,9 +69,9 @@ For proper lemmatization of all languages for LLM evaluation, the following pack
 cd evaluation
 pip install konlpy
 pip install hausastemmer
-git clone https://github.com/aznlp-disc/stemmer.git,
-cp stemmer/word.txt ./evaluation
-cp stemmer/suffix.txt ./evaluation
+git clone https://github.com/aznlp-disc/stemmer.git
+cp stemmer/words.txt .
+cp stemmer/suffix.txt .
 pip install nlp-id
 pip install hazm
 pip install qalsadi

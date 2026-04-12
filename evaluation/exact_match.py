@@ -8,7 +8,7 @@ from konlpy.tag import Okt
 # pip install hausastemmer
 import hausastemmer
 
-# git clone https://github.com/aznlp-disc/stemmer.git, cp word.txt & suffix.txt.
+# git clone https://github.com/aznlp-disc/stemmer.git, cp words.txt & suffix.txt.
 from stemmer.stemmer import Stemmer as AZStemmer
 from string import punctuation
 
