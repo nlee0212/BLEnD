@@ -5,7 +5,8 @@ This is the official repository of **BLEnD: A Benchmark for LLMs on Everyday Kno
 Our dataset can also be found at 🤗 [HuggingFace Datasets](https://huggingface.co/datasets/nayeon212/BLEnD).
 
 *24/12/05: Updated translation errors*   
-*25/05/02: Updated multiple choice questions file (at `evaluation/mc_data/v1.1/`)*
+*25/05/02: Updated multiple choice questions file (at `evaluation/mc_data/v1.1/`)*   
+*26/09/14: Added new data collected for [SemEval-2026 Task 7](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7), covering 17 additional language-culture pairs (at `data_SemEval/`)*
 
 ## About
 ![BLEnD Construction & LLM Evaluation Framework](main_figure.png)
@@ -58,6 +59,21 @@ We also include the prompts that we used for LLM evaluation in both local langua
 The current set of multiple choice questions and their answers can be found at `evaluation/mc_data/mc_questions_file.csv`. 
 
 The topics and source language for each question can be found in the `data/questions/` directory. Each file is named `{country/region}_questions.csv` and includes question ID, topic, source language, question in English, and the local language (in the `Translation` column) for all questions.
+
+### SemEval-2026 Task 7 Data
+As part of [SemEval-2026 Task 7](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7), we collected the same type of data for 17 additional language-culture pairs, expanding BLEnD's original 13 languages and 16 cultures. The languages and cultures included are as follows (the original BLEnD cultures are in bold; the newly added ones for the shared task are not):
+
+| Area    | Language (Region)        |
+|---------|--------------------------|
+| Africa  | **Arabic (Algeria), Amharic (Ethiopia), Hausa (Northern Nigeria)**, Arabic (Egypt), Arabic (Morocco)|
+| Asia    | **Assamese (Assam, India), Azerbaijani (Azerbaijan), Mandarin (China), Indonesian (Indonesia), Javanese (West Java, Indonesia), Persian (Iran), Korean (North Korea), Korean (South Korea)**, Arabic (Saudi Arabia), Japanese (Japan), Tagalog (Philippines), Tamil (Sri Lanka), Tamil (Singapore), Mandarin (Taiwan), Mandarin (Singapore), Malay (Singapore) |
+| Australia | English (Australia) |
+| Europe  | **Greek (Greece), Spanish (Spain), English (UK)**, French (France), Bulgarian (Bulgaria), Swedish (Sweden), Irish (Ireland), Basque (Basque Country) |
+| North America | **English (US)** |
+| Latin America | Spanish (Ecuador), **Spanish (Mexico)** |
+
+This data follows the same format described above and can be found in the `data_SemEval/` directory, with annotations in `data_SemEval/annotations/` and question topics/source languages in `data_SemEval/questions/`. The corresponding multiple choice questions and their answers can be found at `evaluation/mc_data/SemEval/mc_questions_semeval.csv`.
+
 ## Evaluation Codes
 ### Requirements
 We recommend using Python version $\ge$ 3.10.

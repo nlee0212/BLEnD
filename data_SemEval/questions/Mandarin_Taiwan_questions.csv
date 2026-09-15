@@ -1,0 +1,501 @@
+,ID,Topic,Source,Question,Translation
+0,Al-en-01,Food,English (US),在臺灣，幼稚園小朋友最常吃的點心是什麼？,What is a common snack for nursery kids in Taiwan?
+1,Al-en-02,Food,English (US),在臺灣，最受歡迎的下酒菜是什麼？,What is a popular food to go with beer in Taiwan?
+2,Al-en-04,Food,English (US),在臺灣，大家最喜歡的水果是什麼？,What is the most popular fruit in Taiwan?
+3,Al-en-06,Food,English (US),在臺灣，學校最常見的自助餐菜色是什麼？,What is a common school cafeteria food in Taiwan?
+4,Al-en-08,Food,English (US),在臺灣，大家最常在商場買來吃的餅乾是什麼？,What are the most commonly eaten snacks at shopping malls in Taiwan?
+5,Al-en-09,Food,English (US),臺灣的遊樂園裡受到大家喜歡的食物是什麼？,What is a popular snack at an amusement park in Taiwan?
+6,Al-en-16,Education,English (US),臺灣的小朋友幾歲開始讀幼稚園？（只提供阿拉伯數字（例如：12）。）,"At what age do kids start nursery in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+7,Al-en-17,Education,English (US),臺灣的小學生最喜歡在放學的時候做什麼運動？,What is a popular afterschool sport for primary schools in Taiwan?
+8,Al-en-18,Education,English (US),臺灣的小學生會找哪些科目的家教或是補習班？,For which subject do primary school students get private education in Taiwan?
+9,Al-en-19,Education,English (US),臺灣的中學生會學的第二語言是什麼？,What is a popular second language for secondary school students in Taiwan?
+10,Al-en-21,Education,English (US),在臺灣，哪個科目是最被重視的資優教育？,Which subject is the most important for gifted education in Taiwan?
+11,Al-en-32,Holidays/Celebration/Leisure,English (US),臺灣人在感恩節時主要是吃什麼？,What is the main dish for Thanksgiving in Taiwan?
+12,Al-en-33,Holidays/Celebration/Leisure,English (US),臺灣人會怎麼過萬聖節？,What do people do to celebrate Halloween in Taiwan?
+13,Al-en-34,Holidays/Celebration/Leisure,English (US),臺灣人會怎麼過新年？,What do people do to celebrate New Year's Day in Taiwan?
+14,Al-en-35,Holidays/Celebration/Leisure,English (US),臺灣人會怎麼過聖誕節？,What do people do to celebrate Christmas in Taiwan?
+15,Al-en-36,Holidays/Celebration/Leisure,English (US),在臺灣，有什麼食物與萬聖節有關？,What food is associated with Halloween in Taiwan?
+16,Al-en-37,Holidays/Celebration/Leisure,English (US),在臺灣，有什麼食物與聖誕節有關？,What food is associated with Christmas in Taiwan?
+17,Al-en-38,Holidays/Celebration/Leisure,English (US),在臺灣，有什麼食物與情人節有關？,What food is associated with Valentine's day in Taiwan?
+18,Al-en-39,Holidays/Celebration/Leisure,English (US),在臺灣，過生日的時候會吃什麼？,What do people eat on their birthday in Taiwan?
+19,Al-en-40,Holidays/Celebration/Leisure,English (US),在臺灣，家裡的人喜歡帶小小孩去戶外哪裡玩？,What is a popular outdoor place for families to have fun with little kids in Taiwan?
+20,Al-en-43,Holidays/Celebration/Leisure,English (US),臺灣家庭喜歡的室內活動是什麼？,What is a popular indoor activity for families in Taiwan?
+21,An-ar-02,Education,Arabic (Algeria),臺灣的大學生午餐都去哪裡吃？,Where do university students have lunch in Taiwan?
+22,An-ar-03,Education,Arabic (Algeria),臺灣的中學生都是哪個月考期末考？（只提供阿拉伯數字（例如：12）。）,Which month is the final exam term usually scheduled at secondary schools in Taiwan? (Provide Arabic numerals (1~12) only.)
+23,An-ar-08,Education,Arabic (Algeria),臺灣的中學生一天都花幾個小時上學？（只提供阿拉伯數字的整數（例如：24），不要有任何小數單位）,"How many hours a day do students in Taiwan usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
+24,An-ar-09,Education,Arabic (Algeria),臺灣的中學生會學多少語言？（只提供阿拉伯數字（例如：5）。）,"How many languages do students study at secondary school in Taiwan? (Provide Arabic numerals (e.g., 5) only.)"
+25,An-ar-34,Sport,Arabic (Algeria),臺灣的學校裡，最受歡迎的團隊運動是什麼？,What is the most popular sport played in a team at school in Taiwan?
+26,An-ar-35,Sport,Arabic (Algeria),臺灣最受歡迎的運動賽評是誰？,Who is the most popular sports commentator in Taiwan?
+27,An-ar-36,Sport,Arabic (Algeria),臺灣最受歡迎的運動隊伍是什麼？,What is the most popular sports team in Taiwan?
+28,An-ar-43,Sport,Arabic (Algeria),臺灣有哪些常見的廣場或是地點可以讓個人聚在一起看運動轉播？,What are the common places or venues where individuals in Taiwan usually gather to watch sports broadcasts?
+29,Ca-sp-05,Food,Spanish (Spain),臺灣人一天通常都吃幾餐？（只提供阿拉伯數字（例如：5）。）,"How many meals per day do people from Taiwan usually have? (Provide Arabic numerals (e.g., 5) only.)"
+30,Ca-sp-06,Food,Spanish (Spain),在臺灣，對人們來說最重要的一餐是哪個？,Which is the most important meal of the day to people from Taiwan?
+31,Ca-sp-08,Food,Spanish (Spain),在臺灣，最常見的食物原料是什麼？,What is the most common ingredient used in Taiwan's diet?
+32,Ca-sp-09,Food,Spanish (Spain),臺灣人通常都吃什麼當甜點？,What do people from Taiwan usually eat for dessert?
+33,Ca-sp-11,Food,Spanish (Spain),臺灣人通常會在一週的哪一天吃家族聚餐？,Which day of the week do people usually organize a family meal in Taiwan?
+34,Ca-sp-14,Food,Spanish (Spain),臺灣最受歡迎的熱飲是什麼？,Which is the most popular hot drink in Taiwan?
+35,Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),臺灣的年輕人在夜店通常都喝什麼？,What do young people from Taiwan usually drink at the night club?
+36,Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),臺灣人通常都會挑哪個月來放假？（只提供阿拉伯數字（1~12）。）,In which month do people usually take holidays in Taiwan? (Provide Arabic numerals (1~12) only.)
+37,Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),臺灣除夕的傳統是什麼？,What tradition is there in Taiwan for New Year's Eve?
+38,Ca-sp-38,Family,Spanish (Spain),在臺灣，典型的家庭住宅是哪種房子？,Which is the typical type of house for a family in Taiwan?
+39,Ca-sp-41,Family,Spanish (Spain),臺灣的殘病老人通常都住在哪裡？,Where do the dependent elderly usually live in Taiwan?
+40,Ca-sp-42,Family,Spanish (Spain),在臺灣，媽媽的產假有幾週？（只提供阿拉伯數字（例如：20）。）,"How long (in weeks) is Taiwan's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
+41,Ca-sp-43,Family,Spanish (Spain),在臺灣，爸爸的產假有幾週？（只提供阿拉伯數字（例如：20）。）,"How long (in weeks) is Taiwan's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
+42,Ca-sp-45,Family,Spanish (Spain),在臺灣，家庭假期旅遊通常會挑哪種景點？,What type of destination is commonly chosen for a family holiday in Taiwan?
+43,Gu-ch-05,Sport,Chinese (China),臺灣的年長者最喜歡做的運動是什麼？,What sports do seniors like the most in Taiwan?
+44,Gu-ch-06,Sport,Chinese (China),臺灣的成年男性最喜歡做的運動是什麼？,What sports do men like to play the most in Taiwan?
+45,Gu-ch-07,Sport,Chinese (China),臺灣最有名的籃球員是誰？,Who is the most famous basketball player in Taiwan?
+46,Gu-ch-08,Sport,Chinese (China),臺灣的小孩最喜歡做的運動是什麼？,What is the most popular sports among children in Taiwan?
+47,Gu-ch-09,Sport,Chinese (China),臺灣的成年女性最喜歡做的運動是什麼？,What sports do women like to play the most in Taiwan?
+48,Gu-ch-11,Sport,Chinese (China),臺灣在哪個奧運賽事當中拿到最多的金牌？,In which sports event at the olympics has Taiwan won the most gold medals?
+49,Gu-ch-15,Sport,Chinese (China),臺灣的男大學生最喜歡做的運動是什麼？,What sports do male students in university like to play the most in Taiwan?
+50,Gu-ch-16,Family,Chinese (China),臺灣的家庭平均有多少人？（只提供阿拉伯數字（例如：12）。）,"How many people are there in a family on average in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+51,Gu-ch-18,Family,Chinese (China),臺灣的父母通常有幾個小孩？（只提供阿拉伯數字（例如：12）。）,"How many children do couples usually have in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+52,Gu-ch-31,Education,Chinese (China),在臺灣，小學要讀幾年？（只提供阿拉伯數字（例如：12）。）,"What is the duration of primary school (in years) in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+53,Gu-ch-32,Education,Chinese (China),臺灣的義務教育是幾年？（只提供阿拉伯數字（例如：12）。）,"What is the duration of compulsory education (in years) in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+54,Gu-ch-33,Education,Chinese (China),臺灣的學生從幾歲開始學習第二語言？（只提供阿拉伯數字（例如：12）。）,"From which age do students start learning their second language in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+55,Gu-ch-38,Education,Chinese (China),在臺灣，大學要讀幾年？（只提供阿拉伯數字（例如：12）。）,"What is the duration of undergraduate education (in years) in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+56,Gu-ch-40,Education,Chinese (China),"臺灣的低年中小學生上課上到幾點？（提供小時/分鐘格式（例如：18:00, 09:00）。）","What time do younger primary school students finish school in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+57,Gu-ch-41,Education,Chinese (China),臺灣的小學生通常會彈奏多少樂器？（只提供阿拉伯數字（例如：12）。）,"How many musical instruments do primary school students in Taiwan typically play? (Provide Arabic numerals (e.g., 12) only.)"
+58,Ji-ko-02,Work life,Korean (South Korea),臺灣人通常喜歡在一週的哪一天吃公司聚餐？,What day of the week do people in Taiwan prefer to have company dinners?
+59,Ji-ko-03,Work life,Korean (South Korea),臺灣的哪個城市或地區有最多的金融公司？,Which region/city has the highest number of financial companies in Taiwan?
+60,Ji-ko-07,Work life,Korean (South Korea),臺灣最知名的私人企業是什麼？,What is the most famous private company in Taiwan?
+61,Ji-ko-08,Work life,Korean (South Korea),在臺灣，人們最多一週可以工作幾個小時？（只提供阿拉伯數字（例如：12）。）,"What is the maximum number of hours one can work per week in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+62,Ji-ko-09,Work life,Korean (South Korea),在臺灣，人們通常會在公司聚會的時候吃什麼？,What do people typically eat during company get-together in Taiwan?
+63,Ji-ko-14,Work life,Korean (South Korea),臺灣最具代表性的出口項目是什麼？,What is the representative export item of Taiwan?
+64,Ji-ko-15,Work life,Korean (South Korea),"在臺灣的午休通常有幾個小時？（只提供阿拉伯數字，可以到小數點第一位（例如：2, 3.5）。）","How long (in hours) is the typical lunch break in Taiwan? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+65,Ji-ko-16,Family,Korean (South Korea),臺灣的媽媽在生完小孩後通常會去哪裡坐月子？,Where do mothers stay for a certain period after childbirth for recovery in Taiwan?
+66,Ji-ko-19,Family,Korean (South Korea),在臺灣的父母親節，最常送給長輩什麼花？,What is Taiwan's most commonly given flower on Parents' Day?
+67,Ji-ko-22,Family,Korean (South Korea),臺灣社會中，人們通常會把第一份薪水花在哪裡？,What do people especially spend their first salary on in Taiwan's society?
+68,Ji-ko-24,Family,Korean (South Korea),臺灣小孩最喜歡的遊樂設施是什麼？,What is the most preferred recreational facility among children in Taiwan?
+69,Ji-ko-25,Family,Korean (South Korea),臺灣有哪些跟家庭有關的節日？,What are the family-related holidays in Taiwan?
+70,Ji-ko-26,Family,Korean (South Korea),在臺灣社會中，有哪些里程碑表示小孩已經獨立而不再依靠父母？,What are the key milestones associated with children's independence from their parents in Taiwan's society?
+71,Ji-ko-27,Family,Korean (South Korea),臺灣人去看年長的父母時時常會帶什麼禮物？,What is the common gift you give when visiting elderly parents in Taiwan?
+72,Ji-ko-28,Family,Korean (South Korea),在臺灣，小孩出生後慶祝的第一天是什麼時候？,When is the first day that people celebrate after a child is born in Taiwan?
+73,Ji-ko-29,Family,Korean (South Korea),在臺灣社會中，最隆重慶祝的生日是幾歲？,Which age's birthday is celebrated the most grandly in Taiwan's society?
+74,Ji-ko-31,Education,Korean (South Korea),臺灣的中學生通常會去哪裡準備考試？,Where do secondary school students in Taiwan usually study for exams?
+75,Ji-ko-33,Education,Korean (South Korea),臺灣的中學生吃完晚餐後通常會去哪裡？,Where do secondary school students in Taiwan usually go after dinner?
+76,Ji-ko-34,Education,Korean (South Korea),臺灣的小學生都怎麼去上學？,How do primary school students in Taiwan get to school?
+77,Ji-ko-35,Education,Korean (South Korea),臺灣最常見的私人教育形式是什麼？,What is the most common form of private education in Taiwan?
+78,Ji-ko-36,Education,Korean (South Korea),臺灣的中學生最常去上哪個科目的補習班或是私人教育機構？,Which subject’s academy/private educational institute do secondary school students most frequently attend in Taiwan?
+79,Ji-ko-37,Education,Korean (South Korea),臺灣的中學生都穿什麼樣的衣服去上課？,What type of clothing do secondary school students wear to school in Taiwan?
+80,Ji-ko-38,Education,Korean (South Korea),在臺灣，哪一個學位被認為最難考取？,Which degree is considered the most difficult to gain admission to in Taiwan?
+81,Ji-ko-39,Education,Korean (South Korea),臺灣小學生最常學的樂器是什麼？,What is the most commonly learned musical instrument by primary school students in Taiwan?
+82,Ji-ko-40,Education,Korean (South Korea),臺灣中學生在課堂下課的時候通常都在做什麼？,What do secondary school students typically do during break time in schools in Taiwan?
+83,Ji-ko-41,Education,Korean (South Korea),臺灣的學生在學校都穿什麼樣的鞋子？,What kind of shoes do students wear in schools in Taiwan?
+84,Ji-ko-42,Education,Korean (South Korea),臺灣的大學入學考試會考哪些科目？,What are the required subjects in Taiwan's university entrance exam?
+85,Ji-ko-44,Education,Korean (South Korea),臺灣的哪個地區（城市內）對於學術有最大的熱誠？,Which region (within a city) in Taiwan has the highest academic fervour?
+86,Ji-ko-45,Education,Korean (South Korea),在臺灣，什麼東西在大學校慶時最被受到期待？,What do people look forward to the most at university festivals in Taiwan?
+87,Jo-sp-01,Sport,Spanish (Spain),臺灣第二受到歡迎的運動是什麼？,What is the second most popular sport in Taiwan?
+88,Jo-sp-02,Sport,Spanish (Spain),臺灣最受歡迎的非球類運動是什麼？,What is the most popular sport played without a ball in Taiwan?
+89,Jo-sp-09,Sport,Spanish (Spain),在臺灣，什麼運動最常讓人想到上層階級？,What sports are most associated with the upper class in Taiwan?
+90,Jo-sp-13,Sport,Spanish (Spain),在臺灣最受歡迎的水中運動是什麼？,What is the most popular water sport in Taiwan?
+91,Jo-sp-14,Sport,Spanish (Spain),在臺灣最受歡迎的智力運動是什麼？,What is the most popular mental sport in Taiwan?
+92,Jo-sp-18,Work life,Spanish (Spain),臺灣的普通勞工通常一年可以放幾天假？（只提供阿拉伯數字（例如：12）。）,"How many holiday days per year does a standard worker get in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+93,Jo-sp-19,Work life,Spanish (Spain),臺灣的哪個地方在傳統上常被聯想到農業？,What region in Taiwan has been traditionally associated with agriculture?
+94,Jo-sp-21,Work life,Spanish (Spain),"如果有的話，臺灣人通常會在午休幾點去吃午餐？（提供小時：分鐘格式（例如：18:00, 09:00）。）","What time, if any, do people usually leave work for lunch in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+95,Jo-sp-31,Education,Spanish (Spain),"臺灣的中學生通常都是幾點放學？（提供小時：分鐘格式（例如：18:00, 09:00）。）","What time do secondary school students tend to leave school in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+96,Jo-sp-32,Education,Spanish (Spain),臺灣的小學生通常會在學校練習什麼運動？,What sport do primary school students tend to practice at school in Taiwan?
+97,Jo-sp-36,Education,Spanish (Spain),"臺灣的小學的暑假有幾週？（只提供阿拉伯數字（例如：7, 8）。）","How long (in weeks) are summer holidays at primary schools in Taiwan? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+98,Jo-sp-37,Education,Spanish (Spain),"臺灣的大學生的暑假有幾週？（只提供阿拉伯數字（例如：7, 8）。）","How long (in weeks) are summer holidays at universities in Taiwan? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+99,Jo-sp-39,Education,Spanish (Spain),"臺灣的小孩幾歲開始讀小學？（只提供阿拉伯數字（例如：7, 8）。）","At what age does primary education begin in Taiwan? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+100,Jo-sp-43,Education,Spanish (Spain),"除了官方語言外，臺灣的小學生還會在學校多少語言？（只提供阿拉伯數字（例如：7, 8）。）","How many languages are studied in primary education besides Taiwan's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+101,Jod-ch-01,Food,Chinese (China),臺灣人都用什麼餐具吃飯？,What eating utensils do people commonly use in Taiwan?
+102,Jod-ch-04,Food,Chinese (China),臺灣人都喜歡喝什麼飲料？,What soft drink do people in Taiwan like to have?
+103,Jod-ch-06,Food,Chinese (China),臺灣最受歡迎的傳統酒精飲料是什麼？,What is the most popular traditional alcohol in Taiwan?
+104,Jod-ch-07,Food,Chinese (China),"臺灣人平均都花幾個小時在餐廳吃晚餐？（只提供阿拉伯數字，可以到小數點第一位（例如：2, 3.5）。）","How long (in hours) on average does it take for people in Taiwan to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+105,Jod-ch-09,Food,Chinese (China),"在臺灣平常都幾點吃晚餐？（提供小時：分鐘格式（例如：18:00, 09:00）。）","What time do people usually have dinner in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+106,Jod-ch-12,Food,Chinese (China),臺灣人都喜歡喝什麼湯？,What kind of soup do people from Taiwan like to have?
+107,Jod-ch-13,Food,Chinese (China),臺灣人都喜歡吃什麼街邊小吃？,What street food do people from Taiwan like to eat?
+108,Jod-ch-15,Food,Chinese (China),臺灣人都喜歡吃什麼海鮮？,What kind of seafood do people from Taiwan like to eat?
+109,Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),臺灣最盛大的節慶是什麼？,What is the biggest festival in Taiwan?
+110,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),在臺灣，人們通常會選擇哪種大眾運輸工具在城市之間通勤？,What is the most commonly used public transport by people when travelling between cites in Taiwan?
+111,Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),跟臺灣最盛大節慶有關的特殊象徵或是裝飾是什麼？,What are the specific decorations or symbols associated with the biggest festival in Taiwan?
+112,Jod-ch-37,Sport,Chinese (China),臺灣的成年女性最喜歡觀看什麼運動？,What sports do women like to watch the most in Taiwan?
+113,Jod-ch-38,Sport,Chinese (China),臺灣的成年男性最喜歡觀看什麼運動？,What sports do men like to watch the most in Taiwan?
+114,Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),在臺灣，20幾歲的女性共同的休閒活動是什麼？,What is the common leisure activity that females in their 20s in Taiwan engage in?
+115,Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),在臺灣，20幾歲的男性共同的休閒活動是什麼？,What is the common leisure activity that males in their 20s in Taiwan engage in?
+116,Jod-ch-46,Work life,Chinese (China),"在臺灣，一週間人們吃完午餐後的午休時間通常有幾個小時？（只提供阿拉伯數字，可以到小數點第一位（例如：2, 3.5）。）","How long (in hours) do people usually take a break after lunch on a weekday in Taiwan? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+117,Jod-ch-48,Work life,Chinese (China),在臺灣，人們在工作日時會吃什麼午餐？,What do people eat for lunch during the working days in Taiwan?
+118,Jod-ch-50,Work life,Chinese (China),臺灣人平均的通勤時間是多久？（只提供阿拉伯數字（例如：1）。）,"What is the average commute time (in minutes) for people in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+119,Jod-ch-51,Work life,Chinese (China),臺灣最常見去上班的通勤交通工具是什麼？,What is the most common transportation that people take to get to work in Taiwan?
+120,Jod-ch-54,Work life,Chinese (China),臺灣的婚假有幾天？（只提供阿拉伯數字（例如：12）。）,"How long (in days) is marriage leave in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+121,Jod-ch-56,Work life,Chinese (China),臺灣女性通常會在幾歲退休？（只提供阿拉伯數字（例如：12）。）,"What is the typical retirement age for women in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+122,Jod-ch-57,Work life,Chinese (China),臺灣男性通常會在幾歲退休？（只提供阿拉伯數字（例如：12）。）,"What is the typical retirement age for men in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+123,Jod-ch-58,Work life,Chinese (China),臺灣最受尊敬的職業是什麼？,Which profession is the most respected in Taiwan?
+124,Jod-ch-60,Work life,Chinese (China),臺灣的工作日中，一天要工作幾個小時？（只提供阿拉伯數字（0~24）。）,What is the duration (in hours) of a typical workday in Taiwan? (Provide Arabic numerals (0~24) only.)
+125,Jod-ch-61,Work life,Chinese (China),臺灣成年女性最喜歡的職業是什麼？,Which occupation is most preferred among females in Taiwan?
+126,Jod-ch-62,Work life,Chinese (China),臺灣成年男性最喜歡的職業是什麼？,Which occupation is most preferred among males in Taiwan?
+127,Ki-pe-17,Education,Persian (Iran),平均來說，臺灣學生通常會讀到哪個教育階段？（例如：小學、中學）,"On average, how far do students typically pursue their education in Taiwan? (e.g., primary, secondary school)"
+128,Ki-pe-24,Education,Persian (Iran),除了英文以外，臺灣學校還會教哪個語言？,What language is taught in schools in Taiwan besides English?
+129,Ki-pe-30,Education,Persian (Iran),臺灣的學校一週會休哪幾天？,What days of the week are schools closed in Taiwan?
+130,Ki-pe-32,Food,Persian (Iran),在臺灣，屋主通常會給客人準備什麼食物？,What food do the hosts usually prepare for the guests in Taiwan?
+131,Ki-pe-34,Food,Persian (Iran),臺灣人吃早餐時通常會配什麼飲品？,What is the usual drink consumed during breakfast in Taiwan?
+132,Ki-pe-36,Food,Persian (Iran),在臺灣，除了當地的食物外，哪個國家的食物較受歡迎？,"Except the food original from Taiwan, which country's food is more popular in Taiwan?"
+133,Ki-pe-39,Food,Persian (Iran),臺灣的家庭野餐通常會準備什麼吃的？,What food is usually prepared for a family picnic in Taiwan?
+134,Ki-pe-40,Food,Persian (Iran),臺灣的哪個食物是世界各國都覺得噁心的？,Which food from Taiwan is considered disgusting by the rest of the world?
+135,Ki-pe-43,Food,Persian (Iran),臺灣受歡迎的麵包的名字是什麼？,What is the name of the popular bread in Taiwan?
+136,Ki-pe-51,Work life,Persian (Iran),"臺灣的政府機構都幾點下班？（提供小時：分鐘格式（例如：18:00, 09:00）。）","What time of day are government offices closed in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+137,Ki-pe-53,Work life,Persian (Iran),"臺灣的政府機構通常都幾點開門？（提供小時：分鐘格式（例如：18:00, 09:00）。）","What is the normal start time of government offices in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+138,Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣的哪個國定假日的假期最長？,What national holiday has the longest duration in Taiwan?
+139,Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣通常都辦什麼常見的活動來慶祝國慶日？,What are the common activities people from Taiwan do to celebrate Independence day?
+140,Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),在臺灣，家庭成員死亡後會在門前建什麼？,What is installed in front of the house when a family member dies in Taiwan?
+141,Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣人通常是什麼時候來慶祝懷孕？,When is a pregnancy celebration or ceremony usually held in Taiwan?
+142,Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),在臺灣，結婚典禮以前通常會舉辦什麼活動？,What event is usually held before a wedding in Taiwan?
+143,Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣的農曆新年時，小孩通常會拿到什麼禮物？,What is usually given to children during (Lunar) New Year in Taiwan?
+144,Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),在臺灣，齋戒月以前通常會舉辦什麼活動？,What activities are usually done days before Ramadan in Taiwan?
+145,Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣最受外國旅客歡迎的旅遊景點是什麼？,What is the most popular tourist attraction for foreign visitors in Taiwan?
+146,Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣最受旅客歡迎的宗教場所（廟宇、教堂等等）是什麼？,"What is the most popular religious sites (temple, church, etc.) for tourism in Taiwan?"
+147,Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣成年女性通常都穿什麼去參加畢業典禮？,What clothes do women usually wear on graduation ceremony in Taiwan?
+148,Kik-in-16,Food,Indonesian (Indonesia),臺灣人通常會在天氣寒冷的時候喝什麼？,What drink is commonly consumed in Taiwan when the weather is cold?
+149,Kik-in-17,Food,Indonesian (Indonesia),在臺灣，齋戒月的時候最常見以及銷售的水果是什麼？,What fruit is more commonly sold and found during Ramadan in Taiwan?
+150,Kik-in-24,Food,Indonesian (Indonesia),在臺灣的速食餐廳中，雞腿通常會和哪種碳酸飲料做搭配？,What carbohydrate is usually served with chicken in a fast-food restaurant in Taiwan?
+151,Kik-in-31,Sport,Indonesian (Indonesia),臺灣最知名的武術體育是什麼？,What is the most famous martial art sports in Taiwan?
+152,Kik-in-34,Sport,Indonesian (Indonesia),臺灣的國家電視台常播哪一項運動？,What sports are often broadcasted on national television in Taiwan?
+153,Kik-in-35,Sport,Indonesian (Indonesia),臺灣在新冠疫情期間最受歡迎的運動是什麼？,What sports were popular among people from Taiwan during the COVID-19 pandemic?
+154,Kik-in-36,Sport,Indonesian (Indonesia),臺灣最受歡迎的足球教練是誰？,Who is the most popular football coach in Taiwan?
+155,Kik-in-37,Sport,Indonesian (Indonesia),在臺灣，哪兩個足球隊是有名的死對頭（例如：___ vs ___）？,What football teams in Taiwan are famous for their intense rivalry? (e.g. ___ vs ___)
+156,Kik-in-38,Sport,Indonesian (Indonesia),在臺灣，因為其死對頭關係而聞名的足球支持者的名字是誰跟誰？（例如：___ vs ___）,What are the names of football supporters in Taiwan who are famous for their intense rivalry? (e.g. ___ vs ___)
+157,Kik-in-40,Sport,Indonesian (Indonesia),臺灣最知名的男性羽毛球員是誰？,Who is the most famous male badminton player in Taiwan?
+158,Kik-in-41,Sport,Indonesian (Indonesia),臺灣最知名的女性羽毛球員是誰？,Who is the most famous female badminton player in Taiwan?
+159,Kik-in-44,Sport,Indonesian (Indonesia),臺灣的哪個體育項目有最多的政府資助？,What sport gets the most support from the government in Taiwan?
+160,Kik-in-45,Sport,Indonesian (Indonesia),臺灣的學校通常有什麼可以用的運動場設施？,What sports field facilities are usually available at schools in Taiwan?
+161,Na-ko-02,Food,Korean (South Korea),臺灣人最為人所好的咖啡飲品是什麼？,What cafe beverage do people from Taiwan most commonly enjoy?
+162,Na-ko-04,Food,Korean (South Korea),在臺灣，較受喜愛的解宿醉食物是什麼？,What is the preferred hangover cure food for people from Taiwan?
+163,Na-ko-05,Food,Korean (South Korea),臺灣最常見的外送食物是什麼？,What is the typical delivery food in Taiwan?
+164,Na-ko-07,Food,Korean (South Korea),臺灣人都吃什麼肉？,What type of meat is consumed most by people from Taiwan?
+165,Na-ko-08,Food,Korean (South Korea),在臺灣，秋天的時候都吃什麼水果？,What fruit do people from Taiwan often eat in the autumn season?
+166,Na-ko-09,Food,Korean (South Korea),在臺灣，餐桌上最常出現的小菜是什麼？,What side dish is the most commonly served on a dining table in Taiwan?
+167,Na-ko-11,Food,Korean (South Korea),臺灣人都吃什麼配足球賽？,What do people from Taiwan eat while watching a football game?
+168,Na-ko-15,Food,Korean (South Korea),臺灣代表性的滋補食物是什麼？,What is the representative nourishing food in Taiwan?
+169,Na-ko-16,Sport,Korean (South Korea),臺灣最知名的足球員是誰？,Who is the most famous football player in Taiwan?
+170,Na-ko-17,Sport,Korean (South Korea),臺灣的男性學生在學校的午餐時間都會看什麼體育比賽？,What sports do male students enjoy during lunch time at school in Taiwan?
+171,Na-ko-18,Sport,Korean (South Korea),在臺灣，女學生在體育課的時候最常參與的運動是什麼？,What is the most common sport girls participate in during physical education classes in Taiwan?
+172,Na-ko-19,Sport,Korean (South Korea),臺灣最受歡迎的女排球員是誰？,Who is the most popular volleyball player in Taiwan?
+173,Na-ko-20,Sport,Korean (South Korea),臺灣人最熱衷支持的國際體育賽事是什麼？,What sports event do people from Taiwan passionately support the most in international competitions?
+174,Na-ko-22,Sport,Korean (South Korea),臺灣足球隊最大的死對頭是哪個國家？,Which country is considered the biggest rival in football matches for Taiwan?
+175,Na-ko-23,Sport,Korean (South Korea),臺灣的小孩最常去的是哪種體育學院？,What type of sports academies do children attend the most in Taiwan?
+176,Na-ko-24,Sport,Korean (South Korea),在臺灣的體育場中最常見拿來配比賽吃的食物是什麼？,What is the most commonly eaten food in sports stadiums while watching games in Taiwan?
+177,Na-ko-25,Sport,Korean (South Korea),臺灣學校的運動會中，最常見的體育活動是什麼？,What are the typical sports played at Taiwan's school sports day?
+178,Na-ko-26,Sport,Korean (South Korea),臺灣的中年人最喜歡的運動是什麼？,What are the popular sports among the middle-aged population in Taiwan?
+179,Na-ko-28,Sport,Korean (South Korea),臺灣最受歡迎的冬季運動運動員是誰？,Who is the most popular winter sports player in Taiwan?
+180,Na-ko-29,Sport,Korean (South Korea),臺灣最知名的游泳健將是誰？,Who is the most famous swimmer in Taiwan?
+181,Na-ko-30,Sport,Korean (South Korea),臺灣最知名的電競比賽是什麼？,What is the most popular e-sports game in Taiwan?
+182,Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),臺灣在農曆新年吃的最有指標性的食物是什麼？,What symbolic food do people from Taiwan eat on (Lunar) New Year?
+183,Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),臺灣最受歡迎的國內度假景點是什麼？,What is the most popular domestic vacation spot for people from Taiwan?
+184,Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),在臺灣，新娘與新郎之間在婚禮上的最常見的定情禮物是什麼？,What is the most common wedding gift between bride and groom in Taiwan?
+185,Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),在臺灣，參加朋友婚禮的時候通常會給什麼恭喜的手勢？,What is typically given as a congratulatory gesture when attending a friend's wedding in Taiwan?
+186,Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),臺灣的葬禮通常會舉辦幾天？（只提供阿拉伯數字（例如：12）。）,"How long (in days) does a funeral typically last in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+187,Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),在臺灣，參加葬禮時要準備的慰問禮是什麼？,What should you prepare as a condolence offering when attending a funeral in Taiwan?
+188,Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),在臺灣，葬禮時的會客廳時常會準備哪種食物？,What type of food is commonly provided at funeral parlors in Taiwan?
+189,Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),在農曆新年的早上，臺灣人會做什麼？,What do people do in Taiwan in the morning of the (Lunar) New Year?
+190,Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),在臺灣，哪一天會碰到最擁擠的全國性塞車？,When is the day with Taiwan's most severe nationwide traffic congestion?
+191,Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),臺灣最受歡迎的蜜月景點是什麼？,What is the most popular honeymoon destination in Taiwan?
+192,Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣最重要的國慶假日是什麼？,What is the most important national holiday in Taiwan?
+193,Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣人在齋戒月的時候會吃什麼？,What do people from Taiwan eat during Ramadan?
+194,Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣人在開齋節的時候會吃什麼？,What do people from Taiwan eat during Eid ul Fitr?
+195,Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣人在古爾邦節的時候會吃什麼？,What do people from Taiwan eat during Eid ul Adha?
+196,Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣人會去哪裡慶祝新年？,Where do people from Taiwan go to celebrate New Year's Day?
+197,Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),臺灣人的家庭會去哪裡參加開齋宴會？,Where do a family gather for Eid festivities in Taiwan?
+198,Ne-ar-16,Work life,Arabic (Algeria),臺灣的週末是什麼時候？（例如：星期一、星期二）,"When is the weekend in Taiwan (e.g. Monday, Tuesday)?"
+199,Ne-ar-17,Work life,Arabic (Algeria),"大多數的臺灣人都是幾點開始工作？（提供小時：分鐘格式（例如：18:00, 09:00）。）","At what time do most people start work in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+200,Ne-ar-18,Work life,Arabic (Algeria),"大多數的臺灣人都是幾點下班？（提供小時：分鐘格式（例如：18:00, 09:00）。）","At what time do most people finish work in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+201,Ne-ar-20,Work life,Arabic (Algeria),在臺灣，認為是穩定的工作是什麼？,What is considered to be a secure job in Taiwan?
+202,Ne-ar-24,Work life,Arabic (Algeria),臺灣的哪個城市是主要的商業重鎮？,Which city is the primary commercial hub in Taiwan?
+203,Ne-ar-25,Work life,Arabic (Algeria),在臺灣，哪個產業給的薪水最多？,What is the industry that pays the best in Taiwan?
+204,Ne-ar-26,Work life,Arabic (Algeria),臺灣最受歡迎的上市公司是什麼？,What is the most famous public corporation in Taiwan?
+205,Ne-ar-31,Food,Arabic (Algeria),臺灣最知名的料理是什麼？,What is the most famous dish in Taiwan?
+206,Ne-ar-32,Food,Arabic (Algeria),臺灣人通常都吃什麼早餐？,What do people usually have for breakfast in Taiwan?
+207,Ne-ar-33,Food,Arabic (Algeria),"臺灣人通常都幾點吃午餐？（提供小時：分鐘格式（例如：18:00, 09:00）。）","When do people usually have lunch in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+208,Ne-ar-34,Food,Arabic (Algeria),臺灣餐點中最不可或缺的東西是什麼？,What is typically indispensable in meals in Taiwan?
+209,Ne-ar-36,Food,Arabic (Algeria),臺灣最經典的節慶餐點是什麼？,What is a typical festive meal in Taiwan?
+210,Ne-ar-37,Food,Arabic (Algeria),臺灣人通常會推什麼水果給外國旅客？,Which fruit do people usually offer tourists/visitors from abroad in Taiwan?
+211,Ne-ar-38,Food,Arabic (Algeria),在臺灣，人們通常會捐贈什麼食物？,Which food do people usually offer as charity in Taiwan?
+212,Ne-ar-39,Food,Arabic (Algeria),在臺灣最便宜的速食是什麼？,What is the cheapest fast food in Taiwan?
+213,Ne-ar-43,Food,Arabic (Algeria),臺灣人喝茶的時候通常會加什麼？,What do people usually have with tea in Taiwan?
+214,Ne-ar-44,Food,Arabic (Algeria),臺灣人喝咖啡的時候會加什麼？,What do people have with coffee in Taiwan?
+215,New-am-02,Food,Amharic (Ethiopia),臺灣最受歡迎的傳統食物是什麼？,What is the most popular traditional food in Taiwan?
+216,New-am-04,Food,Amharic (Ethiopia),在臺灣最受歡迎的沾醬是什麼？,What is the most popular dipping sauce in Taiwan?
+217,New-am-08,Food,Amharic (Ethiopia),臺灣的基督齋戒期間最常吃什麼？,What food is most often consumed during Christian fasting in Taiwan?
+218,New-am-15,Food,Amharic (Ethiopia),在臺灣，通常會在媽媽生小孩的時候準備什麼吃的？,What food is usually prepared when mothers give birth in Taiwan?
+219,New-am-27,Sport,Amharic (Ethiopia),臺灣最受歡迎的女性運動員是誰？,Who is the most popular female sportperson in Taiwan?
+220,New-am-34,Education,Amharic (Ethiopia),大多數的臺灣小學生準備考試的時候會去哪裡？,Where do most primary school students prepare for their exams in Taiwan?
+221,New-am-41,Education,Amharic (Ethiopia),在臺灣，學生第一次參加國家級考試時會是哪個學齡段？,"In Taiwan, at which grade level do students take their first national-level examination?"
+222,New-am-53,Work life,Amharic (Ethiopia),臺灣哪個地區的茶或是咖啡產業廣為人知？,Which region in Taiwan is widely known for its coffee/tea industry?
+223,New-am-54,Work life,Amharic (Ethiopia),臺灣哪個地區的畜牧業廣為人知？,Which region in Taiwan is widely known for its livestock industry?
+224,New-am-59,Work life,Amharic (Ethiopia),住在臺灣沙漠的人們主要從事什麼職業？,What is the main occupation of people living in deserts in Taiwan?
+225,New-am-60,Work life,Amharic (Ethiopia),在臺灣主要會把哪個動物當作交通工具？,Which animal is typically used for transportation in Taiwan?
+226,New-am-72,Family,Amharic (Ethiopia),在臺灣，給小孩看的漫畫書中哪一本最受歡迎？,What is the most popular comic book for children to read in Taiwan?
+227,New-am-73,Family,Amharic (Ethiopia),哪個YouTube頻道最受臺灣小孩歡迎？,What is the most popular YouTube channel for children in Taiwan?
+228,New-am-74,Family,Amharic (Ethiopia),臺灣最受歡迎的脫口秀是什麼？,What is the most popular talk show in Taiwan?
+229,New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),臺灣最知名的宗教假期是什麼？,What is the most famous religious holiday in Taiwan?
+230,New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),在臺灣，哪個月份舉辦最多婚禮？（只提供阿拉伯數字（例如：1）。）,"What is the busiest month for weddings in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+231,New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),臺灣最受歡迎的傳統樂器是什麼？,What is the most popular traditional musical instrument in Taiwan?
+232,New-as-01,Food,Assamese (Assam),臺灣主要生產的農作物是什麼？,What is the main agricultural product produced in Taiwan?
+233,New-as-02,Food,Assamese (Assam),臺灣最受歡迎的小麥製品是什麼？,What is the most popular wheat-based food item in Taiwan?
+234,New-as-05,Food,Assamese (Assam),在臺灣，住戶通常會準備什麼飲料給訪客？,What is the most typical drink offered to guests when they visit households in Taiwan?
+235,New-as-07,Food,Assamese (Assam),在臺灣，用魚做的最受歡迎的料理是什麼？,What is the most popular dish cooked with fish in Taiwan?
+236,New-as-14,Food,Assamese (Assam),臺灣人喜歡在雨天的時候吃什麼食物？,What food do people from Taiwan like to eat during rainy weather?
+237,New-as-15,Food,Assamese (Assam),臺灣人通常喜歡在天氣熱的時候喝什麼飲料？,What drink is commonly consumed in Taiwan when the weather is hot?
+238,New-as-20,Sport,Assamese (Assam),臺灣最受歡迎的室內運動是什麼？,What is the most popular indoor sport in Taiwan?
+239,New-as-29,Sport,Assamese (Assam),臺灣的成年男性喜歡看什麼運動？,What sport do men in Taiwan like to watch?
+240,New-as-30,Sport,Assamese (Assam),臺灣的成年女性喜歡看什麼運動？,What sport do women in Taiwan like to watch?
+241,New-as-58,Work life,Assamese (Assam),在臺灣的職場中，最受歡迎的飲料是什麼？,What is the most popular beverage that people from Taiwan like to drink in their workplace?
+242,New-as-64,Family,Assamese (Assam),家庭通常會在哪個節日團圓？,On which holiday do all family members tend to reunite in Taiwan?
+243,New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),臺灣的家庭會在傳統節日期間玩什麼傳統遊戲？,What traditional games do families play during traditional holidays in Taiwan?
+244,New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),臺灣人會在傳統慶典中穿什麼樣的衣服？,What type of clothing do people from Taiwan wear during traditional festivals?
+245,New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),臺灣人會佩戴什麼傳統節慶飾品？,What traditional festival accessories do people from Taiwan wear?
+246,New-az-05,Food,Azerbaijani (Azerbaijan),臺灣最知名的制酒廠在哪個地區？,What is the most famous region for alcohol production in Taiwan?
+247,New-az-11,Food,Azerbaijani (Azerbaijan),臺灣人通常會在夏天的時候吃什麼水果？,What fruit do people from Taiwan often eat in the summer season?
+248,New-az-12,Food,Azerbaijani (Azerbaijan),臺灣哪個地區以海鮮聞名？,Which region in Taiwan is known for its seafood?
+249,New-az-21,Sport,Azerbaijani (Azerbaijan),臺灣最受歡迎的滑雪景點在哪個地區？,Which region in Taiwan is the most popular skiing destination?
+250,New-az-26,Sport,Azerbaijani (Azerbaijan),臺灣最知名的武術家是誰？,Who is the most popular martial arts player in Taiwan?
+251,New-az-27,Sport,Azerbaijani (Azerbaijan),過去十年間，哪項是在臺灣快速發展的運動之一？,Which sport has been one of the fastest-growing in Taiwan over the last decade?
+252,New-az-39,Education,Azerbaijani (Azerbaijan),臺灣學生最喜歡的留學國家是哪個？,Which country is the most popular destination for students from Taiwan studying abroad?
+253,New-az-49,Work life,Azerbaijani (Azerbaijan),在臺灣的一般家庭中，有多少人會工作？（只提供阿拉伯數字（例如：1）。）,"How many people work in a typical family in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+254,New-az-60,Family,Azerbaijani (Azerbaijan),在臺灣，如果父母都在工作的話誰會來帶小孩？,"In Taiwan, who takes care of kids when both parents are working?"
+255,New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),較受臺灣成年男性喜歡的酒精飲料是什麼？,What is the preferred alcoholic beverage for men from Taiwan?
+256,New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),較受臺灣成年女性喜歡的酒精飲料是什麼？,What is the preferred alcoholic beverage for women from Taiwan?
+257,New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),在臺灣的婚禮中，一般來說平均會有多少人參加？（只提供阿拉伯數字（例如：1）。）,"How many people on average typically attend a wedding in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+258,New-ch-01,Food,Chinese (China),在臺灣，烤肉的時候通常是烤什麼肉？,What kind of meat do people usually eat when they have a barbecue in Taiwan?
+259,New-ch-02,Food,Chinese (China),"臺灣人通常都是幾點吃早餐（請提供小時:分鐘格式（例如：18:00, 09:00）。）","When do people usually have breakfast in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+260,New-ch-04,Food,Chinese (China),臺灣人吃宵夜通常都是吃什麼？,What kinds of food do people usually eat for late-night snacks in Taiwan?
+261,New-ch-05,Food,Chinese (China),臺灣最知名的辣味料理是什麼？,What is the most famous spicy dish in Taiwan?
+262,New-ch-07,Food,Chinese (China),臺灣人喝烈酒的時候通常會配什麼？,What food items do people typically pair with hard liquor in Taiwan?
+263,New-ch-08,Food,Chinese (China),對於臺灣料理來說，哪種調味是不可或缺的？,What essential seasoning is indispensable in cooking in Taiwan?
+264,New-ch-09,Food,Chinese (China),臺灣人在天氣冷的時候通常會吃什麼？,What food do people typically consume when the weather is cold in Taiwan?
+265,New-ch-13,Food,Chinese (China),臺灣最知名的酒品牌是什麼？,What is the most famous alcohol brand in Taiwan?
+266,New-ch-14,Food,Chinese (China),臺灣人在生病的時候通常會吃什麼？,What foods do people usually eat when they are sick in Taiwan?
+267,New-ch-15,Food,Chinese (China),臺灣人通常會去超市買什麼預製或是即食食品？,What prepared/ready-to-eat food do people typically buy at supermarkets in Taiwan?
+268,New-ch-16,Sport,Chinese (China),臺灣最知名的運動電影是什麼？,What is the most famous sports-related movie in Taiwan?
+269,New-ch-17,Sport,Chinese (China),臺灣人通常最想要去嘗試什麼極限運動？,What extreme sport do people generally wish to try the most in Taiwan?
+270,New-ch-18,Sport,Chinese (China),臺灣最受觀眾歡迎的田徑比賽項目是什麼？,Which track and field event is the most popular to watch during competitions in Taiwan?
+271,New-ch-19,Sport,Chinese (China),臺灣最受觀眾歡迎的體操比賽項目是什麼？,Which gymnastics event is the most popular to watch during competitions in Taiwan?
+272,New-ch-23,Sport,Chinese (China),臺灣最知名的桌球員是誰,Who is the most famous table tennis player in Taiwan?
+273,New-ch-26,Sport,Chinese (China),在冬季奧運期間，臺灣人最喜歡看哪個運動賽事？,"In the Winter Olympics, which event is the most popular to watch in Taiwan?"
+274,New-ch-27,Sport,Chinese (China),臺灣最知名的拳擊手是誰？,Who is the most famous boxer in Taiwan?
+275,New-ch-30,Sport,Chinese (China),臺灣最知名的田徑運動員是誰？,Who is the most famous track and field athlete in Taiwan?
+276,New-ch-31,Work life,Chinese (China),大多數臺灣家長希望小孩從事什麼樣的工作？,What job do parents most hope their children will pursue in Taiwan?
+277,New-ch-32,Work life,Chinese (China),在臺灣的職場中，最常使用的辦公軟體是什麼？,What office software do people typically use in the workplace in Taiwan?
+278,New-ch-38,Work life,Chinese (China),臺灣的哪個城市或是地區因為進出口而聞名？,Which cities or regions are known for their import and export activities in Taiwan?
+279,New-ch-39,Work life,Chinese (China),臺灣最常見的電商平台是什麼？,What platform is commonly used in the e-commerce industry in Taiwan?
+280,New-ch-44,Work life,Chinese (China),在臺灣，新進的員工試用期通常是多久？（例如：一個月）,"How long is the typical probation period for new employees before signing a formal contract in Taiwan? (e.g., 1 month)."
+281,New-ch-45,Work life,Chinese (China),在臺灣，人們通常會選擇在哪個產業中創業？,In which industries do young people typically choose to start businesses in Taiwan?
+282,New-ch-49,Family,Chinese (China),臺灣的家庭成員最常用哪種方式遠距溝通？,What is the most common way for family members to communicate remotely in Taiwan?
+283,New-ch-51,Family,Chinese (China),臺灣的家庭旅遊通常會訂什麼樣的住宿？,What form of accommodation is typically booked for family trips in Taiwan?
+284,New-ch-54,Family,Chinese (China),在臺灣的家庭晚餐上通常會準備什麼水果？,Which fruit is usually prepared most often for family dinners in Taiwan?
+285,New-ch-64,Education,Chinese (China),臺灣的大學生每個禮拜通常有幾小時的課？（只提供阿拉伯數字（例如：1）。）,"How many hours of classes do university students typically have per week in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+286,New-ch-66,Education,Chinese (China),在臺灣，公立中學每學期學費通常是多少？（只提供阿拉伯數字（例如：1）。）,"What is the typical tuition fee per semester for public secondary schools in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+287,New-ch-70,Education,Chinese (China),臺灣的大學生有什麼共同的必修課程？,What compulsory courses do university students have in common in Taiwan?
+288,New-ch-71,Education,Chinese (China),臺灣的中學班級平均有多少人？（只提供阿拉伯數字（例如：1）。）,"What is the average class size in secondary schools in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+289,New-ch-72,Education,Chinese (China),在臺灣，哪一個科系最好找工作？,Which major is considered most conducive to employment in Taiwan?
+290,New-ch-73,Education,Chinese (China),在臺灣，哪種類型的社團最受大學生歡迎？,What type of clubs are most popular among university students in Taiwan?
+291,New-ch-74,Education,Chinese (China),臺灣的大學生大多都住哪種住宿？,What types of accommodation do university students in Taiwan typically live in?
+292,New-ch-75,Education,Chinese (China),臺灣中學的每堂課有幾分鐘？（只提供阿拉伯數字（例如：1）。）,"How long is each class period for secondary school students in Taiwan (minutes)? (Provide Arabic numerals (e.g., 1) only.)"
+293,New-ch-78,Holidays/Celebration/Leisure,Chinese (China),臺灣的退休女性通常喜歡做什麼休閒活動？,What leisure activities do retired women typically like in Taiwan?
+294,New-ch-79,Holidays/Celebration/Leisure,Chinese (China),臺灣的退休男性通常喜歡做什麼休閒活動？,What leisure activities do retired men typically like in Taiwan?
+295,New-ch-80,Holidays/Celebration/Leisure,Chinese (China),在臺灣，人們通常會在哪種節日去宗教場所？（廟宇、教堂等等）,"During which holidays do people typically visit religious sites (temples, churches, etc.) in Taiwan?"
+296,New-ch-81,Holidays/Celebration/Leisure,Chinese (China),臺灣最常見的喬遷禮物是什麼？,What are the typical housewarming gifts in Taiwan?
+297,New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"臺灣的婚禮通常是什麼時候開始？（提供HH:MM格式（例如：18:00, 09:00）。）","At what time do weddings typically start in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+298,New-ch-83,Holidays/Celebration/Leisure,Chinese (China),臺灣的哪個城市最常舉辦節慶？,Which city in Taiwan hosts festivals the most?
+299,New-ch-84,Holidays/Celebration/Leisure,Chinese (China),臺灣人參加婚禮的時候最常穿什麼顏色的衣服？,What colour of clothing do people typically wear when attending weddings in Taiwan?
+300,New-ch-85,Holidays/Celebration/Leisure,Chinese (China),臺灣人參加葬禮的時候最常穿什麼顏色的衣服？,What colour of clothing do people typically wear when attending funerals in Taiwan?
+301,New-en-01,Food,English (UK),在臺灣，看電影的時候會吃什麼點心？,Which snack is eaten in the cinema in Taiwan?
+302,New-en-02,Food,English (UK),在臺灣，最受歡迎的洋芋片口味是什麼？,What is the most popular chip/crisp flavour in Taiwan?
+303,New-en-04,Food,English (UK),臺灣最有名的明星廚師是誰？,Who is a popular celebrity chef in Taiwan?
+304,New-en-05,Food,English (UK),在臺灣，CP值最高的快餐選項是什麼？,Which food is a cost-effective and quick meal option in Taiwan?
+305,New-en-07,Food,English (UK),臺灣最受歡迎的料理節目是什麼？,What are the most popular cooking shows in Taiwan?
+306,New-en-08,Food,English (UK),臺灣最受歡迎的巧克力品牌是什麼？,What is the most popular chocolate brand in Taiwan?
+307,New-en-10,Food,English (UK),臺灣人最常吃的起司是什麼？,What is the most eaten cheese in Taiwan?
+308,New-en-11,Food,English (UK),臺灣人最討厭的蔬菜是什麼？,What is the most disliked vegetable in Taiwan?
+309,New-en-12,Food,English (UK),臺灣美食廣場上最常見的食物是什麼？,What food is most commonly found in food courts in Taiwan?
+310,New-en-17,Sport,English (UK),臺灣的體育粉絲最常使用的應援道具是什麼？,What are the most common cheering tools used by sports fans in Taiwan?
+311,New-en-18,Sport,English (UK),臺灣的粉絲們去看現場比賽的時候會帶什麼？,What do fans bring with them when attending a live game in Taiwan?
+312,New-en-19,Sport,English (UK),臺灣最知名的體育館是什麼？,What is the most well known sporting stadium in Taiwan?
+313,New-en-23,Sport,English (UK),臺灣最有名的殘奧選手是誰？,Who is the most famous Paralympian in Taiwan?
+314,New-en-26,Sport,English (UK),臺灣最知名的應援口號是什麼？,What is the most recognized sporting chant in Taiwan?
+315,New-en-38,Work life,English (UK),臺灣的哪個產業有比較多的彈性工作時間？,Which industries are known for more flexible working hours in Taiwan?
+316,New-en-41,Work life,English (UK),臺灣最知名且成功的企業家是誰？,Who is the most well known and successful entrepreneur in Taiwan?
+317,New-en-47,Family,English (UK),臺灣的後院花園最常發現什麼？,What can typically be found in the back garden of houses in Taiwan?
+318,New-en-49,Family,English (UK),臺灣最知名的家庭的名字是什麼？,What is the name of the most famous family in Taiwan?
+319,New-en-50,Family,English (UK),臺灣最常見的姓氏是什麼？,What is the most common family name in Taiwan?
+320,New-en-55,Family,English (UK),在臺灣，最多家庭信奉的宗教是哪個？,Which religion is most commonly practiced by families in Taiwan?
+321,New-en-56,Family,English (UK),臺灣的家庭中最受歡迎的外國語言是什麼？,What is the most popular foreign language spoken by families in Taiwan?
+322,New-en-59,Family,English (UK),臺灣的家庭最想移民到哪個國家？,Which country is the most popular destination for families from Taiwan to emigrate to?
+323,New-en-68,Education,English (UK),在臺灣，如果在學校闖禍會有什麼後果？,What repercussions are there for bad behavior in schools in Taiwan?
+324,New-en-69,Education,English (UK),臺灣的文學課最常讀到哪個作家？,Which writers are commonly studied in literature class in Taiwan?
+325,New-en-70,Education,English (UK),臺灣的高中有幾個中堂下課時間？（只提供阿拉伯數字（例如：1）。）,"How many school breaks are there in a year for high schools in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+326,New-en-72,Education,English (UK),臺灣的學生最常使用什麼網路資源來學習？,Which online resource do students usually use to study in Taiwan?
+327,New-en-75,Education,English (UK),臺灣的大學每學期平均的授課週數有幾週？（只提供阿拉伯數字（例如：1）。）,"What is the average length of a semester in terms of weeks of teaching at universities in Taiwan? (Provide Arabic numerals (e.g., 1) only.)"
+328,New-en-76,Holidays/Celebration/Leisure,English (UK),假期季節期間，臺灣的哪個機場最繁忙？,Which airport in Taiwan is the busiest during the holiday season?
+329,New-en-79,Holidays/Celebration/Leisure,English (UK),臺灣的哪個地區以戲劇表演聞名？,Which region of Taiwan is well known for its theatrical performances?
+330,New-en-87,Holidays/Celebration/Leisure,English (UK),臺灣最知名的歷史性地標是什麼？,What is the most famous historic landmark in Taiwan?
+331,New-en-90,Holidays/Celebration/Leisure,English (UK),臺灣最知名的旅館品牌是什麼？,What is the most famous hotel brand in Taiwan?
+332,New-gr-05,Food,Greek (Greece),在臺灣，最受歡迎的快餐早餐是什麼？,What is the most popular grab-and-go breakfast option in Taiwan?
+333,New-gr-06,Food,Greek (Greece),哪個食物最受臺灣的年輕人歡迎？,What is the most popular food in Taiwan among young people?
+334,New-gr-08,Food,Greek (Greece),節慶的時候，臺灣人最常喝哪種酒精飲料？,What type of alcoholic drink is most commonly consumed at festivals in Taiwan?
+335,New-gr-13,Food,Greek (Greece),臺灣最常見的晨間飲品是什麼？,What is the most common morning drink in Taiwan?
+336,New-gr-15,Food,Greek (Greece),臺灣最受歡迎的傳統甜點是什麼？,What is the most popular traditional dessert in Taiwan?
+337,New-gr-21,Sport,Greek (Greece),臺灣最受歡迎的球拍類運動是什麼？,What is the most popular racket sport in Taiwan?
+338,New-gr-24,Sport,Greek (Greece),臺灣最受歡迎的田徑運動是什麼？,What is the most popular track and field sport in Taiwan?
+339,New-gr-29,Sport,Greek (Greece),哪項國際運動賽事在臺灣最受歡迎？,Which international sporting event is the most popular in Taiwan?
+340,New-gr-47,Work life,Greek (Greece),除了午餐以及晚餐休息時間外，在臺灣的工作的休息時間通常有幾分鐘？（只提供阿拉伯數字（例如：1）。）,"How long (in minutes) are typical work breaks in Taiwan, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
+341,New-gr-58,Work life,Greek (Greece),在臺灣，哪個工作被認為薪水偏低？,Which job is considered underpaid in Taiwan?
+342,New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),在臺灣，復活節期間最常出現的食物是什麼？,What is the most common food served during Easter in Taiwan?
+343,New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),臺灣的年長者最喜歡的音樂類型是什麼？,What is the most popular music genre among the elderly population in Taiwan?
+344,New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),在臺灣，葬禮時通常會提供什麼飲品？,What drink is usually offered at funerals in Taiwan?
+345,New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),在臺灣，婚禮時通常會提供什麼飲品？,What drink is usually offered at weddings in Taiwan?
+346,New-ha-07,Food,Hausa (Northern Nigeria),哪種食物是源自於臺灣且遍佈於世界各地？,What food originated from Taiwan and can be found all over the world?
+347,New-ha-08,Food,Hausa (Northern Nigeria),在臺灣，哪個食物是小孩都不喜歡但是年長者喜歡的？,What food is typically disliked by children but enjoyed by the elderly in Taiwan?
+348,New-ha-09,Food,Hausa (Northern Nigeria),在臺灣，最常用的廚具是什麼？,What cooking utensil is most commonly used in Taiwan?
+349,New-ha-13,Food,Hausa (Northern Nigeria),臺灣最受歡迎的蔬菜是什麼？,Which is the most popular vegetable in Taiwan?
+350,New-ha-19,Sport,Hausa (Northern Nigeria),在臺灣，哪個動物會在運動中被使用？,Which animal is used for sports in Taiwan?
+351,New-ha-66,Family,Hausa (Northern Nigeria),臺灣最知名的結婚廣場是什麼？,What is the most popular wedding venue in Taiwan?
+352,New-in-01,Food,Indonesian (Indonesia),哪個咖啡品牌在臺灣最受歡迎？,Which coffee shop brand is the most popular in Taiwan?
+353,New-in-03,Food,Indonesian (Indonesia),海外餐廳通常會有臺灣的哪種食物？,What type of food from Taiwan is typically served in restaurants overseas?
+354,New-in-33,Work life,Indonesian (Indonesia),臺灣的哪個地區常與礦業相關？,What region in Taiwan is usually associated with mining?
+355,New-in-34,Work life,Indonesian (Indonesia),臺灣的哪個地區常與石油業相關？,What region in Taiwan is usually associated with oil?
+356,New-in-62,Education,Indonesian (Indonesia),臺灣的哪所大學因為工程相關科系而受歡迎（提供官方名稱）,What university in Taiwan is popular because of its engineering major? (Provide the official name.)
+357,New-in-63,Education,Indonesian (Indonesia),臺灣的哪所大學因為醫學院而受歡迎（提供官方名稱）,What university in Taiwan is popular because of its school of medicine? (Provide the official name.)
+358,New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣最流行的支付方式是什麼？,What is the most popular payment method in Taiwan?
+359,New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),臺灣最知名的主題樂園是什麼？,What is the most famous theme park in Taiwan?
+360,New-ko-01,Family,Korean (Korea),在臺灣，小孩子們最常看且最流行的兒童動畫是什麼？,What is the most popular children's animation that is commonly watched by kids in Taiwan?
+361,New-ko-02,Family,Korean (Korea),臺灣最流行的的婦女胎教活動是什麼？,What is the most popular prenatal education activity for pregnant women in Taiwan?
+362,New-ko-03,Family,Korean (Korea),在臺灣家庭中一起唱且最受歡迎的兒歌是什麼？,What is the most popular children's song in Taiwan that families sing together?
+363,New-ko-04,Family,Korean (Korea),在臺灣，哪些玩具最受男孩喜愛？,Which toys are most popular among boys in Taiwan?
+364,New-ko-05,Family,Korean (Korea),在臺灣，哪些玩具最受女孩喜愛？,Which toys are most popular among girls in Taiwan?
+365,New-ko-06,Family,Korean (Korea),在臺灣，最常跟小孩說的且最受歡迎的民間故事是什麼？,What is the most popular folk tale in Taiwan that is typically told to children?
+366,New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),臺灣葬禮上的傳統哀悼物是什麼？,What is the customary symbol of condolence used at funerals in Taiwan?
+367,New-ko-08,Work life,Korean (Korea),臺灣的大學生大多去哪裡兼職？,Where do university students in Taiwan tend to work part-time the most?
+368,New-ko-09,Work life,Korean (Korea),最常在臺灣的公司中玩的團建活動是什麼？,What are the most frequently practiced team-building activities in companies based in Taiwan?
+369,New-ko-10,Work life,Korean (Korea),在臺灣，最多人選擇的副業是什麼？,What are the most common activities people do as a side job in Taiwan?
+370,New-pe-02,Food,Persian (Iran),在遊客眼中，臺灣最知名的名產是什麼？,What is the most famous edible souvenir for tourists in Taiwan?
+371,New-pe-06,Food,Persian (Iran),臺灣最受歡迎的燉湯是什麼？,What is the most popular stew in Taiwan?
+372,New-pe-11,Food,Persian (Iran),臺灣料理中最常見的香料是什麼？,What is the most common spice/herb used in dishes from Taiwan?
+373,New-pe-16,Sport,Persian (Iran),臺灣最知名的傳統運動是什麼？,What is the most famous traditional sport in Taiwan?
+374,New-pe-20,Sport,Persian (Iran),在臺灣，哪項運動在沙灘上最受歡迎？,What sport is popular to play on the beach in Taiwan?
+375,New-pe-45,Work life,Persian (Iran),臺灣齋戒月期間通常的工作行程是什麼？,What is the usual work schedule during the month of Ramadan in Taiwan?
+376,New-pe-47,Family,Persian (Iran),臺灣什麼時候會慶祝學生節？（提供月份/日期格式（例如：12/31）。）,"When is Student's Day celebrated in Taiwan? (Provide in MM/DD format (e.g., 12/31).)"
+377,New-pe-49,Family,Persian (Iran),臺灣的家庭會聚在哪裡禱告？,Where do families gather to pray together in Taiwan?
+378,New-pe-53,Family,Persian (Iran),在臺灣，爸爸在父親節或是（父母親節）的時候通常會收到什麼禮物？,What gifts do fathers get on Father's Day (or Parents' Day) in Taiwan?
+379,New-pe-54,Family,Persian (Iran),在臺灣，媽媽在母親節或是（父母親節）的時候通常會收到什麼禮物？,What gifts do mothers get on Mother's Day (or Parents' Day) in Taiwan?
+380,New-pe-59,Family,Persian (Iran),臺灣的家庭通常是幾代同堂？（只要提供阿拉伯數字（例如：12）。）,"How many generations typically live together in a household in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+381,New-pe-65,Education,Persian (Iran),臺灣的中學會教授多少科目？（只要提供阿拉伯數字（例如：12）。）,"How many subjects are taught in secondary schools in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+382,New-pe-66,Education,Persian (Iran),臺灣小學最受歡迎的課後校外教學活動是什麼？,What is the most popular after school extracurricular activity in primary schools in Taiwan?
+383,New-pe-74,Education,Persian (Iran),臺灣公立大學每年平均的學費是多少？,How much is the average annual tuition fee for public universities in Taiwan?
+384,New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),在臺灣公園裡最受歡迎的活動是什麼？,What is a popular activity to do in parks in Taiwan?
+385,New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),臺灣舉辦的最有名的電影節的名字是什麼？,What is the name of the most famous film festival held in Taiwan?
+386,New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),在臺灣的社交場合中最受歡迎的卡牌遊戲是什麼？,What is the popular card game played during social gatherings in Taiwan?
+387,New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),臺灣人最喜歡去的國外旅遊景點是什麼？,Where is the most popular tourist destination abroad for people from Taiwan?
+388,New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),臺灣最知名的塔的名字是什麼？,What is the name of the most famous tower in Taiwan?
+389,New-spme-01,Food,Spanish (Mexico),臺灣人最常吃的食用昆蟲是什麼？,What edible insect is eaten most often in Taiwan?
+390,New-spme-04,Food,Spanish (Mexico),臺灣最常出口的農產品是什麼？,Which agricultural product is exported most often in Taiwan?
+391,New-spme-05,Food,Spanish (Mexico),臺灣最知名的甜食是什麼？,What are the most popular sweets in Taiwan?
+392,New-spme-15,Sport,Spanish (Mexico),臺灣最知名的運動飲料是什麼？,What is the most popular sports drink in Taiwan?
+393,New-spme-27,Education,Spanish (Mexico),臺灣人的平均教育水平如何？,What is the average education level for people in Taiwan?
+394,New-spme-37,Education,Spanish (Mexico),臺灣人最常去海外讀哪個專業？,Which profession is most commonly studied abroad by students from Taiwan?
+395,New-spme-60,Family,Spanish (Mexico),臺灣大多數的家庭會選擇一週的哪一天進行宗教活動？（例如：星期一、星期二）,"Which day of the week do most families in Taiwan practice religious activities? (e.g. Monday, Tuesday)"
+396,New-spme-65,Family,Spanish (Mexico),臺灣最受歡迎的慶祝國慶日的方式是什麼？,What is the most popular way to celebrate Independence Day in Taiwan?
+397,New-spme-68,Family,Spanish (Mexico),臺灣小孩最喜歡的飲料是什麼？,What is the most popular beverage among children in Taiwan?
+398,New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),臺灣最受歡迎的慶祝國慶日的地點是哪裡？,What is the most popular place in Taiwan to celebrate Independence Day?
+399,New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),在臺灣，生日時最常唱的歌的名字是什麼？,What is the name of the song that is typically sung at birthday parties in Taiwan?
+400,New-su-01,Food,Sundanese (West Java),臺灣的學校前面經常會賣什麼點心？,What snacks are usually sold in front of schools in Taiwan?
+401,New-su-09,Food,Sundanese (West Java),在臺灣，最常拿來做料理的油是什麼？,What oil is usually used for cooking in Taiwan?
+402,New-su-10,Food,Sundanese (West Java),臺灣的孕婦最常吃什麼食物？,What food is commonly consumed by pregnant women in Taiwan?
+403,New-su-15,Food,Sundanese (West Java),臺灣最受歡迎的傳統非酒精飲料是什麼？,What is the most popular traditional non-alcoholic drink in Taiwan?
+404,New-su-17,Sport,Sundanese (West Java),在臺灣，公園的哪個運動設施通常都可以使用？,What sports facilities are generally available in parks in Taiwan?
+405,New-su-21,Sport,Sundanese (West Java),臺灣的年長者通常會在公園進行哪些常見的活動？,What are the common activities that seniors usually do in parks in Taiwan?
+406,New-su-24,Sport,Sundanese (West Java),臺灣的父母通常會和小孩玩什麼運動？,What sports do parents and children commonly play together in Taiwan?
+407,New-su-28,Sport,Sundanese (West Java),哪個顏色常與臺灣的國家足球隊有關？,What colour is associated with the national football team of Taiwan?
+408,New-su-33,Education,Sundanese (West Java),臺灣老師常見的著裝規定是什麼？,What is the common dress code for school teachers in Taiwan?
+409,New-su-34,Education,Sundanese (West Java),在臺灣學校中最受歡迎的音樂相關的戶外教學是什麼？,What is the most popular extracurricular activity related to music in schools in Taiwan?
+410,New-su-42,Education,Sundanese (West Java),臺灣的學校主要會教什麼宗教？,What religion is mainly taught in schools in Taiwan?
+411,New-su-45,Education,Sundanese (West Java),臺灣會在哪個日期慶祝教育節？（提供月份/日期格式（例如：12/31）。）,"What date is Education Day celebrated in Taiwan? (Provide in MM/DD format (e.g., 12/31).)"
+412,New-su-50,Work life,Sundanese (West Java),居住在山區的臺灣人的主要職業是什麼？,What is the main occupation of people in mountainous areas in Taiwan?
+413,New-su-51,Work life,Sundanese (West Java),居住在海邊的臺灣人的主要職業是什麼？,What is the main occupation of people in coastal areas in Taiwan?
+414,New-su-57,Work life,Sundanese (West Java),臺灣最常見的家畜是什麼？,What is the most common livestock raised in Taiwan?
+415,New-su-58,Work life,Sundanese (West Java),臺灣最常於農業上使用的動物是什麼？,What animals are commonly used for agriculture in Taiwan?
+416,New-su-59,Work life,Sundanese (West Java),臺灣的農夫通常會穿什麼來在種田的時候預防炎熱？,What do farmers in Taiwan typically wear to protect themselves from the heat whilst farming?
+417,New-su-60,Work life,Sundanese (West Java),臺灣的農夫通常吃什麼午餐？,What do farmers in Taiwan usually eat for lunch?
+418,New-su-71,Family,Sundanese (West Java),臺灣的父母通常會給小孩什麼生日禮物？,What gifts do parents generally give to their children for their birthdays in Taiwan?
+419,New-su-75,Family,Sundanese (West Java),臺灣的家庭通常會有哪種車輛？,What type of vehicle do most families in Taiwan generally own?
+420,New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),在臺灣，通常會在開齋節的時候給小孩什麼？,What is usually given to the children during Eid in Taiwan?
+421,New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),新郎通常會在臺灣的婚禮上穿什麼？,What clothes do grooms usually wear at weddings in Taiwan?
+422,New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),新娘通常會在臺灣的婚禮上穿什麼？,What clothes do brides usually wear at weddings in Taiwan?
+423,New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),臺灣的婚禮上通常會提供什麼食物？,What food is usually served at weddings in Taiwan?
+424,New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),臺灣最知名的政府建築物是什麼？,What is the most famous government building in Taiwan?
+425,New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),在臺灣年輕人中最受歡迎的音樂種類是什麼？,What is the most popular music genre among the younger population in Taiwan?
+426,Ni-en-02,Education,English (UK),"臺灣的中學生每天通常都是幾點放學？（例如：18:00, 09:00）","What time do secondary students in Taiwan typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+427,Ni-en-03,Education,English (UK),在臺灣通常都是幾歲去上大學？（只提供阿拉伯數字（例如：12））,"At what age do people in Taiwan typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
+428,Ni-en-06,Education,English (UK),臺灣人從幾歲開始要服義務教育？（只提供阿拉伯數字（例如：12））,"From what age do people need to attend compulsory education in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+429,Ni-en-09,Education,English (UK),臺灣的小孩一週要去幾天學校？（只提供阿拉伯數字（0~7））,How many days a week do children attend school in Taiwan? (Provide Arabic numerals (0~7) only.)
+430,Ni-en-11,Education,English (UK),在臺灣，碩士通常要讀幾年？,"In Taiwan, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
+431,Ni-en-12,Education,English (UK),臺灣最頂尖的大學是哪一所？（提供官方名稱）,What is the top university in Taiwan? (Provide the official name.)
+432,Ni-en-13,Education,English (UK),臺灣大學生大多數都幾歲畢業？（只提供阿拉伯數字（例如：12）。）,"At what age do most people in Taiwan graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
+433,Ni-en-15,Education,English (UK),臺灣的小孩都幾歲開始讀中學？（只提供阿拉伯數字（例如：12）。）,"At what age do children in Taiwan generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
+434,Ni-en-17,Work life,English (UK),臺灣的全職工作者一週通常會工作幾小時？（只提供阿拉伯數字（例如：12）。）,"How many hours a week does a full-time worker in Taiwan typically work? (Provide Arabic numerals (e.g., 12) only.)"
+435,Ni-en-19,Work life,English (UK),臺灣的全職工作者一週通常會工作幾天？（只提供阿拉伯數字（例如：12）。）,How many days a week does a full-time worker work in Taiwan? (Provide Arabic numerals (0~7) only.)
+436,Ni-en-20,Work life,English (UK),臺灣大多數人幾歲開始工作？（只提供阿拉伯數字（例如：12）。）,"At what age do most people start working in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+437,Ni-en-21,Work life,English (UK),在臺灣一個人幾歲可以開始工作？（只提供阿拉伯數字（例如：12）。）,"From what age is an individual allowed to work in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+438,Ni-en-31,Holidays/Celebration/Leisure,English (UK),臺灣人傳統上會在聖誕節那天吃什麼？,What do people in Taiwan traditionally eat on Christmas Day?
+439,Ni-en-37,Holidays/Celebration/Leisure,English (UK),臺灣人一年之中慶祝浪漫與愛情的日子叫做什麼？,What is the name of the day of the year where people in Taiwan celebrate love and romance?
+440,Ni-en-40,Holidays/Celebration/Leisure,English (UK),臺灣最受歡迎的聖誕歌曲是哪首？,What is the most popular Christmas song in Taiwan?
+441,Nu-in-04,Education,Indonesian (Indonesia),"臺灣的中學每學年有幾個學期？（只提供阿拉伯數字（例如：7, 8））","How many terms are there each academic year at secondary schools in Taiwan? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+442,Nu-in-05,Education,Indonesian (Indonesia),在臺灣，新的學年度通常在幾月開始？（只提供阿拉伯數字（例如：12）。）,In which month does the new school year typically begin in Taiwan? (Provide Arabic numerals (1~12) only.)
+443,Nu-in-06,Education,Indonesian (Indonesia),臺灣會在哪一天紀念教師節？（提供月份/日期格式（例如：12/31）。）,"When is National Teacher's Day commemorated in Taiwan? (Provide in MM/DD format (e.g., 12/31).)"
+444,Nu-in-11,Education,Indonesian (Indonesia),"臺灣小學幾點開始上課？（提供小時/分鐘格式（例如：18:00, 09:00））","At what time does primary school start in Taiwan? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+445,Nu-in-20,Family,Indonesian (Indonesia),臺灣什麼時候慶祝兒童節？（提供月份/日期格式（例如：12/31））,"When is Children's Day celebrated in Taiwan? (Provide in MM/DD format (e.g., 12/31).)"
+446,Nu-in-40,Work life,Indonesian (Indonesia),臺灣的哪個城市是求職者的主要目標？,Which city is the main destination for job seekers in Taiwan?
+447,Sa-en-1,Food,English (UK),臺灣最受歡迎的速食連鎖店是什麼？,What is Taiwan's most popular fast food chain?
+448,Sa-en-13,Food,English (UK),臺灣評價最兩極化的食物是什麼？,What is the food that is most divisive (either love or hate) in Taiwan?
+449,Sa-en-16,Sport,English (UK),在臺灣人中最受歡迎的足球隊是哪個？,What is the most popular football team among the people from Taiwan?
+450,Sa-en-22,Sport,English (UK),臺灣以體育聞名的最知名的大學是哪一所？,What is the most famous university in Taiwan known for its sports team?
+451,Sa-en-31,Family,English (UK),臺灣最受歡迎的家庭寵物是什麼？,What is Taiwan's most popular family pet?
+452,Sa-en-32,Family,English (UK),臺灣最受歡迎的家庭電視節目是什麼？,What is the most popular family TV show in Taiwan?
+453,Sa-en-37,Family,English (UK),臺灣最受歡迎的家庭桌遊是什麼？,What is the most popular family boardgame in Taiwan?
+454,Sa-en-6,Food,English (UK),臺灣最受歡迎的外帶食物是什麼？,What is the most popular takeaway food in Taiwan?
+455,Sa-en-7,Food,English (UK),臺灣最受歡迎的零食是什麼？,What are popular snacks in Taiwan?
+456,Sa-en-9,Food,English (UK),臺灣人會在海灘上吃什麼？,What do people from Taiwan eat at the beach?
+457,Ta-pe-10,Family,Persian (Iran),臺灣的成年男性通常會在幾歲結婚（只提供阿拉伯數字（例如：20）。）,"At what age do men usually get married in Taiwan? (Provide Arabic numerals (e.g., 20) only.)"
+458,Ta-pe-11,Family,Persian (Iran),臺灣的成年女性通常會在幾歲結婚（只提供阿拉伯數字（例如：20）。）,"At what age do women usually get married in Taiwan? (Provide Arabic numerals (e.g., 20) only.)"
+459,Ta-pe-13,Family,Persian (Iran),在爸媽的那個年代，臺灣一家平均有幾口？（只提供阿拉伯數字（例如：20）。）,"In your parents' generation, what was the average number of members in their family in Taiwan? (Provide Arabic numerals (e.g., 20) only.)"
+460,Ta-pe-17,Sport,Persian (Iran),奧運期間臺灣最受歡迎的體育項目是什麼？,"In the Olympic Games, which sport is the most popular in Taiwan?"
+461,Ta-pe-21,Sport,Persian (Iran),臺灣的小孩通常會在哪裡踢足球？,Where do children usually play football in Taiwan?
+462,Ta-pe-22,Sport,Persian (Iran),最受臺灣成年女性歡迎的日常運動是哪個？,Which daily exercise is popular among women in Taiwan?
+463,Ta-pe-23,Sport,Persian (Iran),最受臺灣成年男性歡迎的日常運動是哪個？,Which daily exercise is popular among men in Taiwan?
+464,Ta-pe-25,Sport,Persian (Iran),臺灣最知名的國家體育聯盟的世仇是什麼？（例如：___ vs ___）,"What is the most famous rivalry in a national sports league in Taiwan? (e.g., ___ vs ___)"
+465,Ta-pe-29,Sport,Persian (Iran),臺灣的哪項職業運動薪水最多？,Which professional sport is the highest paying in Taiwan?
+466,Ta-pe-30,Sport,Persian (Iran),臺灣最受歡迎的體育相關電視節目是什麼？,What is/was the most popular sports-related TV programme in Taiwan?
+467,Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),在臺灣，一年之中通常哪一天會放煙火？,What day of the year is usually dedicated to fireworks in Taiwan?
+468,Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),臺灣的除夕夜中通常會找到什麼常見的符號？,What is the common symbol of New Year's Eve that is usually found in Taiwan?
+469,Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),臺灣人通常會在除夕夜吃什麼食物？,What food do people from Taiwan usually eat on New Year's Eve?
+470,Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),臺灣人通常會在最長的那夜吃什麼東西來慶祝？,What is usually eaten during the celebration of the longest night of the year in Taiwan?
+471,Th-en-01,Sport,English (US),在臺灣最受歡迎的夏季運動是什麼？,What is the most popular summer sport in Taiwan?
+472,Th-en-03,Sport,English (US),在臺灣最受歡迎的職業運動隊伍是哪個？,What is the most popular professional sports league in Taiwan?
+473,Th-en-05,Sport,English (US),臺灣最受歡迎的女子運動隊伍是什麼？,What is the most popular women's sports team in Taiwan?
+474,Th-en-09,Sport,English (US),臺灣最受歡迎的錦標賽是什麼？,What is the most popular tournament in Taiwan?
+475,Th-en-11,Sport,English (US),臺灣最受歡迎的運動員是誰？,Who is the most popular sportperson in Taiwan?
+476,Th-en-12,Sport,English (US),臺灣的哪項運動在國際賽事上取得最大的成功？,In which sport has Taiwan been most successful in international competitions?
+477,Th-en-15,Sport,English (US),在臺灣最受歡迎的冬季運動是什麼？,What is the most popular winter sport in Taiwan?
+478,Th-en-19,Work life,English (US),臺灣的哪個地區以製造業聞名？,What is a city or region in Taiwan known for manufacturing industry?
+479,Th-en-21,Work life,English (US),在臺灣，給員工的福利當中哪一個被認為是最重要的？,What is regarded as the most important perk typically offered to employees in Taiwan?
+480,Th-en-22,Work life,English (US),在臺灣哪個時期的經濟最動盪不安？,What was the most catastrophic economic period for Taiwan?
+481,Th-en-24,Work life,English (US),臺灣的哪個地區是科技業者以及新創的主要聚集地？,What region in Taiwan is a major hub for tech workers and start ups?
+482,Th-en-27,Work life,English (US),臺灣最重要的產業是什麼？,What is the most important industry in Taiwan?
+483,Th-en-35,Family,English (US),在臺灣，三餐中的哪一餐常常會和家庭成員一起吃？（例如：早餐、中餐、晚餐）,"Which one of the daily meals is commonly shared with family members in Taiwan? (e.g., breakfast, lunch, dinner)"
+484,Th-en-36,Family,English (US),在臺灣，最受歡迎且會和小孩一起同樂的週末時的活動是什麼？,What is a popular family activity to do at the weekend with children in Taiwan?
+485,Th-en-37,Family,English (US),臺灣的小孩通常從幾歲時開始獨立不依靠父母？（只提供阿拉伯數字（例如：12））,"At what age do children typically become independent from their parents in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+486,Th-en-38,Family,English (US),臺灣最重要的家庭假日是什麼？,What is the most important family holiday in Taiwan?
+487,Th-en-39,Family,English (US),臺灣受歡迎的家庭遊戲是什麼？,What is a popular family game in Taiwan?
+488,Th-en-41,Family,English (US),臺灣的夫婦通常平均會在幾歲的時候生第一胎？（只提供阿拉伯數字（例如：20））,"What is the average age for couples to have their first child in Taiwan? (Provide Arabic numerals (e.g., 20) only.)"
+489,Th-en-43,Family,English (US),臺灣的典型家庭通常會有幾台車子（只提供阿拉伯數字（例如：12））,"How many cars are owned by a typical family in Taiwan? (Provide Arabic numerals (e.g., 12) only.)"
+490,Th-en-44,Family,English (US),臺灣最受歡迎的會在週末時吃的家庭餐的食物是什麼？,What is Taiwan's most popular food for family meals on weekends?
+491,Th-en-45,Family,English (US),臺灣最受歡迎的週間晚間家庭活動是什麼？,What is the most popular weekday evening family activity in Taiwan?
+492,Th-en-48,Education,English (US),臺灣的優秀中學生在作業以及考試中拿到的最高分數是多少？,What is the highest grade given to top-achieving secondary school students on assignments and exams in Taiwan?
+493,Th-en-49,Education,English (US),哪個考試對於臺灣的中學生來說最重要？,What is considered the most important exam for secondary school students in Taiwan?
+494,Th-en-51,Education,English (US),哪個科目被認為是對學生最重要的？,Which subject is considered the most important for students in Taiwan?
+495,Th-en-53,Education,English (US),臺灣學校最受歡迎的課外社交活動是什麼？,What is the most popular extracurricular social event at schools in Taiwan?
+496,Th-en-58,Education,English (US),在臺灣，最常大學之前會學的進階數學科目是什麼？,What is the most advanced maths subject learned before university in Taiwan?
+497,Tmp-ar-01,Education,Arabic (Algeria),臺灣的大學生通常去哪裡讀期末考？,Where do university students in Taiwan usually go to study for their final exams?
+498,Tmp-ar-02,Education,Arabic (Algeria),臺灣大學生最常搭哪個大眾運輸工具去上課？,What is a common public transport that people use to go to university in Taiwan?
+499,Tmp-ar-04,Education,Arabic (Algeria),臺灣的小學生通常會在下課後去做什麼？,What do primary school students in Taiwan usually do after school?

@@ -1,0 +1,501 @@
+,ID,Topic,Source,Question,Translation
+0,Al-en-01,Food,English (US),ما هي الوجبة الخفيفة الشائعة لأطفال الروضة في المغرب؟,What is a common snack for nursery kids in Morocco?
+1,Al-en-02,Food,English (US),ما هو الطعام الشعبي الذي يقدم مع البيرة في المغرب؟,What is a popular food to go with beer in Morocco?
+2,Al-en-04,Food,English (US),ما هي الفاكهة الأكثر شعبية في المغرب؟,What is the most popular fruit in Morocco?
+3,Al-en-06,Food,English (US),ما هو الطعام الشائع في مقصف المدرسة في المغرب؟,What is a common school cafeteria food in Morocco?
+4,Al-en-08,Food,English (US),ما هي الوجبات الخفيفة الأكثر شيوعًا التي يتم تناولها في مراكز التسوق في المغرب؟,What are the most commonly eaten snacks at shopping malls in Morocco?
+5,Al-en-09,Food,English (US),ما هي الوجبة الخفيفة الشائعة في مدينة الملاهي في المغرب؟,What is a popular snack at an amusement park in Morocco?
+6,Al-en-16,Education,English (US),في أي عمر يبدأ الأطفال الروضة في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do kids start nursery in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+7,Al-en-17,Education,English (US),ما هي الرياضة الشائعة بعد المدرسة للمدارس الابتدائية في المغرب؟,What is a popular afterschool sport for primary schools in Morocco?
+8,Al-en-18,Education,English (US),في أي مادة يحصل طلاب المدارس الابتدائية على تعليم خاص في المغرب؟,For which subject do primary school students get private education in Morocco?
+9,Al-en-19,Education,English (US),ما هي اللغة الثانية الشائعة لطلاب المدارس الثانوية في المغرب؟,What is a popular second language for secondary school students in Morocco?
+10,Al-en-21,Education,English (US),ما هي المادة الأكثر أهمية للتعليم الموهوبين في المغرب؟,Which subject is the most important for gifted education in Morocco?
+11,Al-en-32,Holidays/Celebration/Leisure,English (US),ما هو الطبق الرئيسي لعيد الشكر في المغرب؟,What is the main dish for Thanksgiving in Morocco?
+12,Al-en-33,Holidays/Celebration/Leisure,English (US),ماذا يفعل الناس للاحتفال بعيد الهالوين في المغرب؟,What do people do to celebrate Halloween in Morocco?
+13,Al-en-34,Holidays/Celebration/Leisure,English (US),ماذا يفعل الناس للاحتفال برأس السنة الجديدة في المغرب؟,What do people do to celebrate New Year's Day in Morocco?
+14,Al-en-35,Holidays/Celebration/Leisure,English (US),ماذا يفعل الناس للاحتفال بعيد الميلاد في المغرب؟,What do people do to celebrate Christmas in Morocco?
+15,Al-en-36,Holidays/Celebration/Leisure,English (US),ما هو الطعام المرتبط بعيد الهالوين في المغرب؟,What food is associated with Halloween in Morocco?
+16,Al-en-37,Holidays/Celebration/Leisure,English (US),ما هو الطعام المرتبط بعيد الميلاد في المغرب؟,What food is associated with Christmas in Morocco?
+17,Al-en-38,Holidays/Celebration/Leisure,English (US),ما هو الطعام المرتبط بعيد الحب في المغرب؟,What food is associated with Valentine's day in Morocco?
+18,Al-en-39,Holidays/Celebration/Leisure,English (US),ماذا يأكل الناس في أعياد ميلادهم في المغرب؟,What do people eat on their birthday in Morocco?
+19,Al-en-40,Holidays/Celebration/Leisure,English (US),ما هو مكان شائع في الهواء الطلق للعائلات للاستمتاع مع الأطفال الصغار في المغرب؟,What is a popular outdoor place for families to have fun with little kids in Morocco?
+20,Al-en-43,Holidays/Celebration/Leisure,English (US),ما هو النشاط الداخلي الشائع للعائلات في المغرب؟,What is a popular indoor activity for families in Morocco?
+21,An-ar-02,Education,Arabic (Algeria),أين يتناول طلاب الجامعات الغداء في المغرب؟,Where do university students have lunch in Morocco?
+22,An-ar-03,Education,Arabic (Algeria),في أي شهر يتم عادةً جدولة فترة الامتحانات النهائية في المدارس الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (1 ~ 12)).,Which month is the final exam term usually scheduled at secondary schools in Morocco? (Provide Arabic numerals (1~12) only.)
+23,An-ar-08,Education,Arabic (Algeria),كم عدد الساعات التي يقضيها الطلاب في المغرب عادةً في المدرسة الثانوية في اليوم؟ (قدم أرقامًا عربية صحيحة (0 ~ 24) ، بدون أي نقاط عشرية).,"How many hours a day do students in Morocco usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
+24,An-ar-09,Education,Arabic (Algeria),كم عدد اللغات التي يدرسها الطلاب في المدرسة الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 5)).,"How many languages do students study at secondary school in Morocco? (Provide Arabic numerals (e.g., 5) only.)"
+25,An-ar-34,Sport,Arabic (Algeria),ما هي الرياضة الأكثر شعبية التي تمارس في فريق في المدرسة في المغرب؟,What is the most popular sport played in a team at school in Morocco?
+26,An-ar-35,Sport,Arabic (Algeria),من هو المعلق الرياضي الأكثر شعبية في المغرب؟,Who is the most popular sports commentator in Morocco?
+27,An-ar-36,Sport,Arabic (Algeria),ما هو الفريق الرياضي الأكثر شعبية في المغرب؟,What is the most popular sports team in Morocco?
+28,An-ar-43,Sport,Arabic (Algeria),ما هي الأماكن أو المواقع الشائعة التي يتجمع فيها الأفراد في المغرب لمشاهدة البث الرياضي؟,What are the common places or venues where individuals in Morocco usually gather to watch sports broadcasts?
+29,Ca-sp-05,Food,Spanish (Spain),كم عدد الوجبات التي يتناولها الناس من المغرب عادةً في اليوم؟ (قدم أرقامًا عربية فقط (مثل 5)).,"How many meals per day do people from Morocco usually have? (Provide Arabic numerals (e.g., 5) only.)"
+30,Ca-sp-06,Food,Spanish (Spain),ما هي أهم وجبة في اليوم بالنسبة للناس من المغرب؟,Which is the most important meal of the day to people from Morocco?
+31,Ca-sp-08,Food,Spanish (Spain),ما هو المكون الأكثر شيوعًا المستخدم في النظام الغذائي المغربي؟,What is the most common ingredient used in Morocco's diet?
+32,Ca-sp-09,Food,Spanish (Spain),ماذا يأكل الناس من المغرب عادةً للتحلية؟,What do people from Morocco usually eat for dessert?
+33,Ca-sp-11,Food,Spanish (Spain),في أي يوم من أيام الأسبوع ينظم الناس عادةً وجبة عائلية في المغرب؟,Which day of the week do people usually organize a family meal in Morocco?
+34,Ca-sp-14,Food,Spanish (Spain),ما هو المشروب الساخن الأكثر شعبية في المغرب؟,Which is the most popular hot drink in Morocco?
+35,Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),ماذا يشرب الشباب من المغرب عادةً في الملهى الليلي؟,What do young people from Morocco usually drink at the night club?
+36,Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),في أي شهر عادةً ما يأخذ الناس إجازات في المغرب؟ (قدم أرقامًا عربية فقط (1 ~ 12)).,In which month do people usually take holidays in Morocco? (Provide Arabic numerals (1~12) only.)
+37,Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),ما هو التقليد الموجود في المغرب ليلة رأس السنة؟,What tradition is there in Morocco for New Year's Eve?
+38,Ca-sp-38,Family,Spanish (Spain),ما هو النوع النموذجي للمنزل لعائلة في المغرب؟,Which is the typical type of house for a family in Morocco?
+39,Ca-sp-41,Family,Spanish (Spain),أين يعيش كبار السن المعالون عادةً في المغرب؟,Where do the dependent elderly usually live in Morocco?
+40,Ca-sp-42,Family,Spanish (Spain),كم مدة إجازة الأمومة في المغرب للأمهات (بالأسابيع)؟ (قدم أرقامًا عربية فقط (مثل 20)).,"How long (in weeks) is Morocco's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
+41,Ca-sp-43,Family,Spanish (Spain),كم مدة إجازة الأبوة في المغرب للآباء (بالأسابيع)؟ (قدم أرقامًا عربية فقط (مثل 20)).,"How long (in weeks) is Morocco's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
+42,Ca-sp-45,Family,Spanish (Spain),ما هو نوع الوجهة التي يتم اختيارها عادةً لقضاء عطلة عائلية في المغرب؟,What type of destination is commonly chosen for a family holiday in Morocco?
+43,Gu-ch-05,Sport,Chinese (China),ما هي الرياضات التي يحبها كبار السن في المغرب؟,What sports do seniors like the most in Morocco?
+44,Gu-ch-06,Sport,Chinese (China),ما هي الرياضات التي يحب الرجال لعبها في المغرب؟,What sports do men like to play the most in Morocco?
+45,Gu-ch-07,Sport,Chinese (China),من هو لاعب كرة السلة الأكثر شهرة في المغرب؟,Who is the most famous basketball player in Morocco?
+46,Gu-ch-08,Sport,Chinese (China),ما هي الرياضة الأكثر شعبية بين الأطفال في المغرب؟,What is the most popular sports among children in Morocco?
+47,Gu-ch-09,Sport,Chinese (China),ما هي الرياضات التي تحب النساء لعبها في المغرب؟,What sports do women like to play the most in Morocco?
+48,Gu-ch-11,Sport,Chinese (China),في أي حدث رياضي في الألعاب الأولمبية فاز المغرب بأكبر عدد من الميداليات الذهبية؟,In which sports event at the olympics has Morocco won the most gold medals?
+49,Gu-ch-15,Sport,Chinese (China),ما هي الرياضات التي يحب الطلاب الذكور في الجامعة لعبها في المغرب؟,What sports do male students in university like to play the most in Morocco?
+50,Gu-ch-16,Family,Chinese (China),كم عدد الأشخاص في العائلة في المتوسط ​​في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many people are there in a family on average in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+51,Gu-ch-18,Family,Chinese (China),كم عدد الأطفال الذين عادة ما يكون لدى الأزواج في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many children do couples usually have in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+52,Gu-ch-31,Education,Chinese (China),ما هي مدة المدرسة الابتدائية (بالسنوات) في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the duration of primary school (in years) in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+53,Gu-ch-32,Education,Chinese (China),ما هي مدة التعليم الإلزامي (بالسنوات) في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the duration of compulsory education (in years) in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+54,Gu-ch-33,Education,Chinese (China),من أي عمر يبدأ الطلاب في تعلم لغتهم الثانية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"From which age do students start learning their second language in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+55,Gu-ch-38,Education,Chinese (China),ما هي مدة التعليم الجامعي (بالسنوات) في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the duration of undergraduate education (in years) in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+56,Gu-ch-40,Education,Chinese (China),في أي وقت ينهي طلاب المدارس الابتدائية الأصغر سنًا المدرسة في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What time do younger primary school students finish school in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+57,Gu-ch-41,Education,Chinese (China),كم عدد الآلات الموسيقية التي يعزفها طلاب المدارس الابتدائية في المغرب عادةً؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many musical instruments do primary school students in Morocco typically play? (Provide Arabic numerals (e.g., 12) only.)"
+58,Ji-ko-02,Work life,Korean (South Korea),في أي يوم من أيام الأسبوع يفضل الناس في المغرب تناول العشاء مع الزملاء؟,What day of the week do people in Morocco prefer to have company dinners?
+59,Ji-ko-03,Work life,Korean (South Korea),أي منطقة / مدينة لديها أكبر عدد من الشركات المالية في المغرب؟,Which region/city has the highest number of financial companies in Morocco?
+60,Ji-ko-07,Work life,Korean (South Korea),ما هي الشركة الخاصة الأكثر شهرة في المغرب؟,What is the most famous private company in Morocco?
+61,Ji-ko-08,Work life,Korean (South Korea),ما هو الحد الأقصى لعدد الساعات التي يمكن للشخص العمل بها في الأسبوع في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the maximum number of hours one can work per week in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+62,Ji-ko-09,Work life,Korean (South Korea),ماذا يأكل الناس عادةً خلال التجمعات مع الزملاء في المغرب؟,What do people typically eat during company get-together in Morocco?
+63,Ji-ko-14,Work life,Korean (South Korea),ما هي سلعة التصدير التمثيلية للمغرب؟,What is the representative export item of Morocco?
+64,Ji-ko-15,Work life,Korean (South Korea),كم مدة استراحة الغداء النموذجية في المغرب (بالساعات)؟ (قدم أرقامًا عربية تصل إلى نقطة عشرية واحدة (مثل 2 ، 3.5) فقط).,"How long (in hours) is the typical lunch break in Morocco? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+65,Ji-ko-16,Family,Korean (South Korea),أين تقيم الأمهات لفترة معينة بعد الولادة للتعافي في المغرب؟,Where do mothers stay for a certain period after childbirth for recovery in Morocco?
+66,Ji-ko-19,Family,Korean (South Korea),ما هي الزهرة الأكثر شيوعًا التي تقدم في المغرب في يوم الوالدين؟,What is Morocco's most commonly given flower on Parents' Day?
+67,Ji-ko-22,Family,Korean (South Korea),ما الذي ينفقه الناس بشكل خاص على راتبهم الأول في المجتمع المغربي؟,What do people especially spend their first salary on in Morocco's society?
+68,Ji-ko-24,Family,Korean (South Korea),ما هي المنشأة الترفيهية المفضلة لدى الأطفال في المغرب؟,What is the most preferred recreational facility among children in Morocco?
+69,Ji-ko-25,Family,Korean (South Korea),ما هي الأعياد المتعلقة بالعائلة في المغرب؟,What are the family-related holidays in Morocco?
+70,Ji-ko-26,Family,Korean (South Korea),ما هي المعالم الرئيسية المرتبطة باستقلالية الأطفال عن والديهم في المجتمع المغربي؟,What are the key milestones associated with children's independence from their parents in Morocco's society?
+71,Ji-ko-27,Family,Korean (South Korea),ما هي الهدية الشائعة التي تقدمها عند زيارة الوالدين المسنين في المغرب؟,What is the common gift you give when visiting elderly parents in Morocco?
+72,Ji-ko-28,Family,Korean (South Korea),متى يكون اليوم الأول الذي يحتفل به الناس بعد ولادة طفل في المغرب؟,When is the first day that people celebrate after a child is born in Morocco?
+73,Ji-ko-29,Family,Korean (South Korea),أي عيد ميلاد يتم الاحتفال به بأبهى وجه في المجتمع المغربي؟,Which age's birthday is celebrated the most grandly in Morocco's society?
+74,Ji-ko-31,Education,Korean (South Korea),أين يدرس طلاب المدارس الثانوية في المغرب عادةً للامتحانات؟,Where do secondary school students in Morocco usually study for exams?
+75,Ji-ko-33,Education,Korean (South Korea),إلى أين يذهب طلاب المدارس الثانوية في المغرب عادةً بعد العشاء؟,Where do secondary school students in Morocco usually go after dinner?
+76,Ji-ko-34,Education,Korean (South Korea),كيف يصل طلاب المدارس الابتدائية في المغرب إلى المدرسة؟,How do primary school students in Morocco get to school?
+77,Ji-ko-35,Education,Korean (South Korea),ما هو الشكل الأكثر شيوعًا للتعليم الخاص في المغرب؟,What is the most common form of private education in Morocco?
+78,Ji-ko-36,Education,Korean (South Korea),أي أكاديمية / معهد تعليمي خاص يحضره طلاب المدارس الثانوية في المغرب بشكل متكرر؟,Which subject’s academy/private educational institute do secondary school students most frequently attend in Morocco?
+79,Ji-ko-37,Education,Korean (South Korea),ما نوع الملابس التي يرتديها طلاب المدارس الثانوية إلى المدرسة في المغرب؟,What type of clothing do secondary school students wear to school in Morocco?
+80,Ji-ko-38,Education,Korean (South Korea),أي درجة تعتبر الأكثر صعوبة في الحصول على القبول بها في المغرب؟,Which degree is considered the most difficult to gain admission to in Morocco?
+81,Ji-ko-39,Education,Korean (South Korea),ما هي الآلة الموسيقية الأكثر شيوعًا التي يتعلمها طلاب المدارس الابتدائية في المغرب؟,What is the most commonly learned musical instrument by primary school students in Morocco?
+82,Ji-ko-40,Education,Korean (South Korea),ماذا يفعل طلاب المدارس الثانوية عادةً خلال وقت الاستراحة في المدارس في المغرب؟,What do secondary school students typically do during break time in schools in Morocco?
+83,Ji-ko-41,Education,Korean (South Korea),ما نوع الأحذية التي يرتديها الطلاب في المدارس في المغرب؟,What kind of shoes do students wear in schools in Morocco?
+84,Ji-ko-42,Education,Korean (South Korea),ما هي المواد المطلوبة في امتحان القبول بالجامعة في المغرب؟,What are the required subjects in Morocco's university entrance exam?
+85,Ji-ko-44,Education,Korean (South Korea),أي منطقة (داخل مدينة) في المغرب لديها أعلى حماس أكاديمي؟,Which region (within a city) in Morocco has the highest academic fervour?
+86,Ji-ko-45,Education,Korean (South Korea),ما الذي يتطلع إليه الناس أكثر في مهرجانات الجامعة في المغرب؟,What do people look forward to the most at university festivals in Morocco?
+87,Jo-sp-01,Sport,Spanish (Spain),ما هي الرياضة الأكثر شعبية الثانية في المغرب؟,What is the second most popular sport in Morocco?
+88,Jo-sp-02,Sport,Spanish (Spain),ما هي الرياضة الأكثر شعبية التي تمارس بدون كرة في المغرب؟,What is the most popular sport played without a ball in Morocco?
+89,Jo-sp-09,Sport,Spanish (Spain),ما هي الرياضات المرتبطة بشكل أكبر بالطبقة العليا في المغرب؟,What sports are most associated with the upper class in Morocco?
+90,Jo-sp-13,Sport,Spanish (Spain),ما هي الرياضة المائية الأكثر شعبية في المغرب؟,What is the most popular water sport in Morocco?
+91,Jo-sp-14,Sport,Spanish (Spain),ما هي الرياضة الذهنية الأكثر شعبية في المغرب؟,What is the most popular mental sport in Morocco?
+92,Jo-sp-18,Work life,Spanish (Spain),كم عدد أيام العطلات في السنة التي يحصل عليها العامل القياسي في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many holiday days per year does a standard worker get in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+93,Jo-sp-19,Work life,Spanish (Spain),ما هي المنطقة في المغرب التي ارتبطت تقليديًا بالزراعة؟,What region in Morocco has been traditionally associated with agriculture?
+94,Jo-sp-21,Work life,Spanish (Spain),في أي وقت ، إن وجد ، يغادر الناس العمل لتناول الغداء في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What time, if any, do people usually leave work for lunch in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+95,Jo-sp-31,Education,Spanish (Spain),في أي وقت يميل طلاب المدارس الثانوية إلى مغادرة المدرسة في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What time do secondary school students tend to leave school in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+96,Jo-sp-32,Education,Spanish (Spain),ما هي الرياضة التي يميل طلاب المدارس الابتدائية إلى ممارستها في المدرسة في المغرب؟,What sport do primary school students tend to practice at school in Morocco?
+97,Jo-sp-36,Education,Spanish (Spain),كم مدة العطلات الصيفية في المدارس الابتدائية في المغرب (بالأسابيع)؟ (قدم أرقامًا عربية فقط (مثل 7 ، 8)).,"How long (in weeks) are summer holidays at primary schools in Morocco? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+98,Jo-sp-37,Education,Spanish (Spain),كم مدة العطلات الصيفية في الجامعات في المغرب (بالأسابيع)؟ (قدم أرقامًا عربية فقط (مثل 7 ، 8)).,"How long (in weeks) are summer holidays at universities in Morocco? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+99,Jo-sp-39,Education,Spanish (Spain),في أي عمر يبدأ التعليم الابتدائي في المغرب؟ (قدم أرقامًا عربية فقط (مثل 7 ، 8)).,"At what age does primary education begin in Morocco? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+100,Jo-sp-43,Education,Spanish (Spain),كم عدد اللغات التي يتم دراستها في التعليم الابتدائي بالإضافة إلى اللغة الرسمية للمغرب؟ (قدم أرقامًا عربية فقط (مثل 7 ، 8)).,"How many languages are studied in primary education besides Morocco's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+101,Jod-ch-01,Food,Chinese (China),ما هي أدوات المائدة التي يستخدمها الناس عادةً في المغرب؟,What eating utensils do people commonly use in Morocco?
+102,Jod-ch-04,Food,Chinese (China),ما هو المشروب الغازي الذي يحب الناس في المغرب تناوله؟,What soft drink do people in Morocco like to have?
+103,Jod-ch-06,Food,Chinese (China),ما هو الكحول التقليدي الأكثر شعبية في المغرب؟,What is the most popular traditional alcohol in Morocco?
+104,Jod-ch-07,Food,Chinese (China),كم من الوقت يستغرق الناس في المغرب عادةً لتناول العشاء في مطعم (بالساعات)؟ (قدم أرقامًا عربية تصل إلى نقطة عشرية واحدة (مثل 2 ، 3.5) فقط).,"How long (in hours) on average does it take for people in Morocco to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+105,Jod-ch-09,Food,Chinese (China),في أي وقت يتناول الناس عادةً العشاء في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What time do people usually have dinner in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+106,Jod-ch-12,Food,Chinese (China),ما نوع الحساء الذي يحب الناس من المغرب تناوله؟,What kind of soup do people from Morocco like to have?
+107,Jod-ch-13,Food,Chinese (China),ما هو طعام الشارع الذي يحب الناس من المغرب تناوله؟,What street food do people from Morocco like to eat?
+108,Jod-ch-15,Food,Chinese (China),ما نوع المأكولات البحرية التي يحب الناس من المغرب تناولها؟,What kind of seafood do people from Morocco like to eat?
+109,Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),ما هو أكبر مهرجان في المغرب؟,What is the biggest festival in Morocco?
+110,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),ما هو وسيلة النقل العام الأكثر استخدامًا من قبل الناس عند السفر بين المدن في المغرب؟,What is the most commonly used public transport by people when travelling between cites in Morocco?
+111,Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),ما هي الزخارف أو الرموز المحددة المرتبطة بأكبر مهرجان في المغرب؟,What are the specific decorations or symbols associated with the biggest festival in Morocco?
+112,Jod-ch-37,Sport,Chinese (China),ما هي الرياضات التي تحب النساء مشاهدتها في المغرب؟,What sports do women like to watch the most in Morocco?
+113,Jod-ch-38,Sport,Chinese (China),ما هي الرياضات التي يحب الرجال مشاهدتها في المغرب؟,What sports do men like to watch the most in Morocco?
+114,Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),ما هو النشاط الترفيهي الشائع الذي تشارك فيه الإناث في العشرينات من العمر في المغرب؟,What is the common leisure activity that females in their 20s in Morocco engage in?
+115,Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),ما هو النشاط الترفيهي الشائع الذي يشارك فيه الذكور في العشرينات من العمر في المغرب؟,What is the common leisure activity that males in their 20s in Morocco engage in?
+116,Jod-ch-46,Work life,Chinese (China),كم من الوقت يستغرق الناس عادةً استراحة بعد الغداء في يوم من أيام الأسبوع في المغرب؟ (قدم أرقامًا عربية تصل إلى نقطة عشرية واحدة (مثل 2 ، 3.5) فقط).,"How long (in hours) do people usually take a break after lunch on a weekday in Morocco? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+117,Jod-ch-48,Work life,Chinese (China),ماذا يأكل الناس لتناول الغداء خلال أيام العمل في المغرب؟,What do people eat for lunch during the working days in Morocco?
+118,Jod-ch-50,Work life,Chinese (China),ما هو متوسط ​​وقت التنقل (بالدقائق) للناس في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"What is the average commute time (in minutes) for people in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+119,Jod-ch-51,Work life,Chinese (China),ما هي وسيلة النقل الأكثر شيوعًا التي يستخدمها الناس للوصول إلى العمل في المغرب؟,What is the most common transportation that people take to get to work in Morocco?
+120,Jod-ch-54,Work life,Chinese (China),كم مدة إجازة الزواج في المغرب (بالأيام)؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How long (in days) is marriage leave in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+121,Jod-ch-56,Work life,Chinese (China),ما هو متوسط ​​سن التقاعد للنساء في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the typical retirement age for women in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+122,Jod-ch-57,Work life,Chinese (China),ما هو متوسط ​​سن التقاعد للرجال في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"What is the typical retirement age for men in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+123,Jod-ch-58,Work life,Chinese (China),ما هي المهنة الأكثر احترامًا في المغرب؟,Which profession is the most respected in Morocco?
+124,Jod-ch-60,Work life,Chinese (China),ما هي مدة يوم العمل النموذجي في المغرب (بالساعات)؟ (قدم أرقامًا عربية فقط (0 ~ 24)).,What is the duration (in hours) of a typical workday in Morocco? (Provide Arabic numerals (0~24) only.)
+125,Jod-ch-61,Work life,Chinese (China),ما هي المهنة الأكثر تفضيلاً بين الإناث في المغرب؟,Which occupation is most preferred among females in Morocco?
+126,Jod-ch-62,Work life,Chinese (China),ما هي المهنة الأكثر تفضيلاً بين الذكور في المغرب؟,Which occupation is most preferred among males in Morocco?
+127,Ki-pe-17,Education,Persian (Iran),في المتوسط، إلى أي مدى يواصل الطلاب تعليمهم في المغرب؟ (مثل المرحلة الابتدائية أو الإعدادية).,"On average, how far do students typically pursue their education in Morocco? (e.g., primary, secondary school)"
+128,Ki-pe-24,Education,Persian (Iran),ما هي اللغة التي يتم تدريسها في المدارس في المغرب بالإضافة إلى اللغة الإنجليزية؟,What language is taught in schools in Morocco besides English?
+129,Ki-pe-30,Education,Persian (Iran),في أي أيام الأسبوع تكون المدارس مغلقة في المغرب؟,What days of the week are schools closed in Morocco?
+130,Ki-pe-32,Food,Persian (Iran),ما هو الطعام الذي يعده المضيفون عادةً للضيوف في المغرب؟,What food do the hosts usually prepare for the guests in Morocco?
+131,Ki-pe-34,Food,Persian (Iran),ما هو المشروب المعتاد الذي يتم تناوله أثناء الإفطار في المغرب؟,What is the usual drink consumed during breakfast in Morocco?
+132,Ki-pe-36,Food,Persian (Iran),باستثناء الطعام الأصلي من المغرب، ما هو طعام أي بلد أكثر شعبية في المغرب؟,"Except the food original from Morocco, which country's food is more popular in Morocco?"
+133,Ki-pe-39,Food,Persian (Iran),ما هو الطعام الذي يتم إعداده عادةً للنزهة العائلية في المغرب؟,What food is usually prepared for a family picnic in Morocco?
+134,Ki-pe-40,Food,Persian (Iran),أي طعام من المغرب يعتبر مقززًا من قبل بقية العالم؟,Which food from Morocco is considered disgusting by the rest of the world?
+135,Ki-pe-43,Food,Persian (Iran),ما هو اسم الخبز المشهور في المغرب؟,What is the name of the popular bread in Morocco?
+136,Ki-pe-51,Work life,Persian (Iran),في أي وقت من اليوم تغلق المكاتب الحكومية في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What time of day are government offices closed in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+137,Ki-pe-53,Work life,Persian (Iran),ما هو وقت البدء الطبيعي للمكاتب الحكومية في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"What is the normal start time of government offices in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+138,Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي العطلة الوطنية التي لها أطول مدة في المغرب؟,What national holiday has the longest duration in Morocco?
+139,Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الأنشطة الشائعة التي يقوم بها الناس من المغرب للاحتفال بيوم الاستقلال؟,What are the common activities people from Morocco do to celebrate Independence day?
+140,Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما الذي يتم تركيبه أمام المنزل عندما يموت أحد أفراد الأسرة في المغرب؟,What is installed in front of the house when a family member dies in Morocco?
+141,Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),متى يتم عادةً الاحتفال بالحمل أو إقامة حفل في المغرب؟,When is a pregnancy celebration or ceremony usually held in Morocco?
+142,Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هو الحدث الذي يتم عقده عادةً قبل الزفاف في المغرب؟,What event is usually held before a wedding in Morocco?
+143,Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما الذي يتم تقديمه عادةً للأطفال خلال رأس السنة الهجرية في المغرب؟,What is usually given to children during (Lunar) New Year in Morocco?
+144,Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الأنشطة التي يتم القيام بها عادةً قبل أيام من شهر رمضان في المغرب؟,What activities are usually done days before Ramadan in Morocco?
+145,Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الوجهة السياحية الأكثر شعبية للزوار الأجانب في المغرب؟,What is the most popular tourist attraction for foreign visitors in Morocco?
+146,Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي المواقع الدينية الأكثر شعبية (المعبد والكنيسة وما إلى ذلك) للسياحة في المغرب؟,"What is the most popular religious sites (temple, church, etc.) for tourism in Morocco?"
+147,Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الملابس التي ترتديها النساء عادةً في حفل التخرج في المغرب؟,What clothes do women usually wear on graduation ceremony in Morocco?
+148,Kik-in-16,Food,Indonesian (Indonesia),ما هو المشروب الذي يتم تناوله عادةً في المغرب عندما يكون الطقس باردًا؟,What drink is commonly consumed in Morocco when the weather is cold?
+149,Kik-in-17,Food,Indonesian (Indonesia),ما هي الفاكهة التي يتم بيعها والعثور عليها بشكل أكثر شيوعًا خلال شهر رمضان في المغرب؟,What fruit is more commonly sold and found during Ramadan in Morocco?
+150,Kik-in-24,Food,Indonesian (Indonesia),ما هو الكربوهيدرات الذي يتم تقديمه عادةً مع الدجاج في مطعم للوجبات السريعة في المغرب؟,What carbohydrate is usually served with chicken in a fast-food restaurant in Morocco?
+151,Kik-in-31,Sport,Indonesian (Indonesia),ما هي الرياضات القتالية الأكثر شهرة في المغرب؟,What is the most famous martial art sports in Morocco?
+152,Kik-in-34,Sport,Indonesian (Indonesia),ما هي الرياضات التي يتم بثها غالبًا على التلفزيون الوطني في المغرب؟,What sports are often broadcasted on national television in Morocco?
+153,Kik-in-35,Sport,Indonesian (Indonesia),ما هي الرياضات التي كانت شائعة بين الناس من المغرب خلال جائحة كوفيد-19؟,What sports were popular among people from Morocco during the COVID-19 pandemic?
+154,Kik-in-36,Sport,Indonesian (Indonesia),من هو مدرب كرة القدم الأكثر شعبية في المغرب؟,Who is the most popular football coach in Morocco?
+155,Kik-in-37,Sport,Indonesian (Indonesia),ما هي فرق كرة القدم في المغرب المشهورة بمنافسة شرسة؟ (مثل ___ ضد ___).,What football teams in Morocco are famous for their intense rivalry? (e.g. ___ vs ___)
+156,Kik-in-38,Sport,Indonesian (Indonesia),ما هي أسماء مشجعي كرة القدم في المغرب المشهورين بمنافسة شرسة؟ (مثل ___ ضد ___).,What are the names of football supporters in Morocco who are famous for their intense rivalry? (e.g. ___ vs ___)
+157,Kik-in-40,Sport,Indonesian (Indonesia),من هو لاعب الريشة الطائر الأكثر شهرة في المغرب؟,Who is the most famous male badminton player in Morocco?
+158,Kik-in-41,Sport,Indonesian (Indonesia),من هي لاعبة الريشة الطائرة الأكثر شهرة في المغرب؟,Who is the most famous female badminton player in Morocco?
+159,Kik-in-44,Sport,Indonesian (Indonesia),ما هي الرياضة التي تحظى بأكبر دعم من الحكومة في المغرب؟,What sport gets the most support from the government in Morocco?
+160,Kik-in-45,Sport,Indonesian (Indonesia),ما هي مرافق الملاعب الرياضية المتوفرة عادةً في المدارس في المغرب؟,What sports field facilities are usually available at schools in Morocco?
+161,Na-ko-02,Food,Korean (South Korea),ما هو مشروب المقهى الذي يستمتع به الناس من المغرب في الغالب؟,What cafe beverage do people from Morocco most commonly enjoy?
+162,Na-ko-04,Food,Korean (South Korea),ما هو الطعام المفضل لعلاج صداع الكحول للناس من المغرب؟,What is the preferred hangover cure food for people from Morocco?
+163,Na-ko-05,Food,Korean (South Korea),ما هو الطعام النموذجي الذي يتم توصيله في المغرب؟,What is the typical delivery food in Morocco?
+164,Na-ko-07,Food,Korean (South Korea),ما هو نوع اللحوم الذي يستهلكه الناس من المغرب في الغالب؟,What type of meat is consumed most by people from Morocco?
+165,Na-ko-08,Food,Korean (South Korea),ما هي الفاكهة التي يأكلها الناس من المغرب غالبًا في فصل الخريف؟,What fruit do people from Morocco often eat in the autumn season?
+166,Na-ko-09,Food,Korean (South Korea),ما هو الطبق الجانبي الذي يتم تقديمه بشكل شائع على مائدة الطعام في المغرب؟,What side dish is the most commonly served on a dining table in Morocco?
+167,Na-ko-11,Food,Korean (South Korea),ماذا يأكل الناس من المغرب أثناء مشاهدة مباراة كرة قدم؟,What do people from Morocco eat while watching a football game?
+168,Na-ko-15,Food,Korean (South Korea),ما هو الطعام المغذي التمثيلي في المغرب؟,What is the representative nourishing food in Morocco?
+169,Na-ko-16,Sport,Korean (South Korea),من هو لاعب كرة القدم الأكثر شهرة في المغرب؟,Who is the most famous football player in Morocco?
+170,Na-ko-17,Sport,Korean (South Korea),ما هي الرياضات التي يستمتع بها الطلاب الذكور خلال وقت الغداء في المدرسة في المغرب؟,What sports do male students enjoy during lunch time at school in Morocco?
+171,Na-ko-18,Sport,Korean (South Korea),ما هي الرياضة الأكثر شيوعًا التي تشارك فيها الفتيات خلال دروس التربية البدنية في المغرب؟,What is the most common sport girls participate in during physical education classes in Morocco?
+172,Na-ko-19,Sport,Korean (South Korea),من هو لاعب الكرة الطائرة الأكثر شعبية في المغرب؟,Who is the most popular volleyball player in Morocco?
+173,Na-ko-20,Sport,Korean (South Korea),ما هو الحدث الرياضي الذي يدعمه الناس من المغرب بشغف في المسابقات الدولية؟,What sports event do people from Morocco passionately support the most in international competitions?
+174,Na-ko-22,Sport,Korean (South Korea),أي دولة تعتبر المنافس الأكبر في مباريات كرة القدم للمغرب؟,Which country is considered the biggest rival in football matches for Morocco?
+175,Na-ko-23,Sport,Korean (South Korea),ما نوع الأكاديميات الرياضية التي يحضرها الأطفال في الغالب في المغرب؟,What type of sports academies do children attend the most in Morocco?
+176,Na-ko-24,Sport,Korean (South Korea),ما هو الطعام الأكثر شيوعًا الذي يتم تناوله في الملاعب الرياضية أثناء مشاهدة المباريات في المغرب؟,What is the most commonly eaten food in sports stadiums while watching games in Morocco?
+177,Na-ko-25,Sport,Korean (South Korea),ما هي الرياضات النموذجية التي تمارس في يوم الرياضة المدرسية في المغرب؟,What are the typical sports played at Morocco's school sports day?
+178,Na-ko-26,Sport,Korean (South Korea),ما هي الرياضات الشائعة بين السكان في منتصف العمر في المغرب؟,What are the popular sports among the middle-aged population in Morocco?
+179,Na-ko-28,Sport,Korean (South Korea),من هو لاعب الرياضات الشتوية الأكثر شعبية في المغرب؟,Who is the most popular winter sports player in Morocco?
+180,Na-ko-29,Sport,Korean (South Korea),من هو السباح الأكثر شهرة في المغرب؟,Who is the most famous swimmer in Morocco?
+181,Na-ko-30,Sport,Korean (South Korea),ما هي لعبة الرياضات الإلكترونية الأكثر شعبية في المغرب؟,What is the most popular e-sports game in Morocco?
+182,Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),ما هو الطعام الرمزي الذي يأكله الناس من المغرب في (رأس السنة الهجرية)؟,What symbolic food do people from Morocco eat on (Lunar) New Year?
+183,Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),ما هي وجهة العطلات المحلية الأكثر شعبية للناس من المغرب؟,What is the most popular domestic vacation spot for people from Morocco?
+184,Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),ما هي الهدية الأكثر شيوعًا بين العروسين في المغرب؟,What is the most common wedding gift between bride and groom in Morocco?
+185,Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),ما الذي يتم تقديمه عادةً كبادرة تهنئة عند حضور حفل زفاف صديق في المغرب؟,What is typically given as a congratulatory gesture when attending a friend's wedding in Morocco?
+186,Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),كم يستغرق العزاء عادةً في المغرب (بالأيام)؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How long (in days) does a funeral typically last in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+187,Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),ما الذي يجب أن تعده كهدية تعزية عند حضور جنازة في المغرب؟,What should you prepare as a condolence offering when attending a funeral in Morocco?
+188,Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),ما نوع الطعام الذي يتم تقديمه عادةً في صالات الجنازات في المغرب؟,What type of food is commonly provided at funeral parlors in Morocco?
+189,Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),ماذا يفعل الناس في المغرب في صباح (رأس السنة الهجرية)؟,What do people do in Morocco in the morning of the (Lunar) New Year?
+190,Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),متى يكون اليوم الذي يشهد فيه المغرب أكبر ازدحام مروري على مستوى البلاد؟,When is the day with Morocco's most severe nationwide traffic congestion?
+191,Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),ما هي وجهة شهر العسل الأكثر شعبية في المغرب؟,What is the most popular honeymoon destination in Morocco?
+192,Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),ما هي أهم عطلة وطنية في المغرب؟,What is the most important national holiday in Morocco?
+193,Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),ماذا يأكل الناس من المغرب خلال شهر رمضان؟,What do people from Morocco eat during Ramadan?
+194,Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),ماذا يأكل الناس من المغرب خلال عيد الفطر؟,What do people from Morocco eat during Eid ul Fitr?
+195,Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),ماذا يأكل الناس من المغرب خلال عيد الأضحى؟,What do people from Morocco eat during Eid ul Adha?
+196,Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),إلى أين يذهب الناس من المغرب للاحتفال برأس السنة الجديدة؟,Where do people from Morocco go to celebrate New Year's Day?
+197,Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),أين تجتمع العائلة للاحتفال بعيد في المغرب؟,Where do a family gather for Eid festivities in Morocco?
+198,Ne-ar-16,Work life,Arabic (Algeria),متى تكون عطلة نهاية الأسبوع في المغرب (مثل الاثنين والثلاثاء)؟,"When is the weekend in Morocco (e.g. Monday, Tuesday)?"
+199,Ne-ar-17,Work life,Arabic (Algeria),في أي وقت يبدأ معظم الناس العمل في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"At what time do most people start work in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+200,Ne-ar-18,Work life,Arabic (Algeria),في أي وقت ينهي معظم الناس العمل في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"At what time do most people finish work in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+201,Ne-ar-20,Work life,Arabic (Algeria),ما الذي يعتبر وظيفة آمنة في المغرب؟,What is considered to be a secure job in Morocco?
+202,Ne-ar-24,Work life,Arabic (Algeria),ما هي المدينة التي تعتبر المركز التجاري الرئيسي في المغرب؟,Which city is the primary commercial hub in Morocco?
+203,Ne-ar-25,Work life,Arabic (Algeria),ما هو القطاع الذي يدفع أفضل في المغرب؟,What is the industry that pays the best in Morocco?
+204,Ne-ar-26,Work life,Arabic (Algeria),ما هي الشركة العامة الأكثر شهرة في المغرب؟,What is the most famous public corporation in Morocco?
+205,Ne-ar-31,Food,Arabic (Algeria),ما هو الطبق الأكثر شهرة في المغرب؟,What is the most famous dish in Morocco?
+206,Ne-ar-32,Food,Arabic (Algeria),ماذا يتناول الناس عادةً على الإفطار في المغرب؟,What do people usually have for breakfast in Morocco?
+207,Ne-ar-33,Food,Arabic (Algeria),متى يتناول الناس عادةً الغداء في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00 ، 09:00)).,"When do people usually have lunch in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+208,Ne-ar-34,Food,Arabic (Algeria),ما هو الشيء الذي لا غنى عنه عادةً في الوجبات في المغرب؟,What is typically indispensable in meals in Morocco?
+209,Ne-ar-36,Food,Arabic (Algeria),ما هي الوجبة الاحتفالية النموذجية في المغرب؟,What is a typical festive meal in Morocco?
+210,Ne-ar-37,Food,Arabic (Algeria),ما هي الفاكهة التي يقدمها الناس عادةً للسياح / الزوار من الخارج في المغرب؟,Which fruit do people usually offer tourists/visitors from abroad in Morocco?
+211,Ne-ar-38,Food,Arabic (Algeria),ما هو الطعام الذي يقدمه الناس عادةً كصدقة في المغرب؟,Which food do people usually offer as charity in Morocco?
+212,Ne-ar-39,Food,Arabic (Algeria),ما هو أرخص طعام سريع في المغرب؟,What is the cheapest fast food in Morocco?
+213,Ne-ar-43,Food,Arabic (Algeria),ماذا يتناول الناس عادةً مع الشاي في المغرب؟,What do people usually have with tea in Morocco?
+214,Ne-ar-44,Food,Arabic (Algeria),ماذا يتناول الناس مع القهوة في المغرب؟,What do people have with coffee in Morocco?
+215,New-am-02,Food,Amharic (Ethiopia),ما هو الطبق التقليدي الأكثر شعبية في المغرب؟,What is the most popular traditional food in Morocco?
+216,New-am-04,Food,Amharic (Ethiopia),ما هي صلصة التغميس الأكثر شعبية في المغرب؟,What is the most popular dipping sauce in Morocco?
+217,New-am-08,Food,Amharic (Ethiopia),ما هو الطعام الذي يتم تناوله غالبًا خلال صوم المسيحيين في المغرب؟,What food is most often consumed during Christian fasting in Morocco?
+218,New-am-15,Food,Amharic (Ethiopia),ما هو الطعام الذي يتم تحضيره عادةً عندما تلد الأمهات في المغرب؟,What food is usually prepared when mothers give birth in Morocco?
+219,New-am-27,Sport,Amharic (Ethiopia),من هي الرياضية المغربية الأكثر شعبية؟,Who is the most popular female sportperson in Morocco?
+220,New-am-34,Education,Amharic (Ethiopia),أين يستعد معظم طلاب المدارس الابتدائية لامتحاناتهم في المغرب؟,Where do most primary school students prepare for their exams in Morocco?
+221,New-am-41,Education,Amharic (Ethiopia),في المغرب، في أي مستوى دراسي يخضع الطلاب لأول امتحان وطني؟,"In Morocco, at which grade level do students take their first national-level examination?"
+222,New-am-53,Work life,Amharic (Ethiopia),أي منطقة في المغرب مشهورة على نطاق واسع بصناعة القهوة/الشاي؟,Which region in Morocco is widely known for its coffee/tea industry?
+223,New-am-54,Work life,Amharic (Ethiopia),أي منطقة في المغرب مشهورة على نطاق واسع بصناعة الماشية؟,Which region in Morocco is widely known for its livestock industry?
+224,New-am-59,Work life,Amharic (Ethiopia),ما هو المهنة الرئيسية لسكان الصحراء في المغرب؟,What is the main occupation of people living in deserts in Morocco?
+225,New-am-60,Work life,Amharic (Ethiopia),ما هو الحيوان الذي يستخدم عادةً للنقل في المغرب؟,Which animal is typically used for transportation in Morocco?
+226,New-am-72,Family,Amharic (Ethiopia),ما هي سلسلة الكتب المصورة الأكثر شعبية للأطفال للقراءة في المغرب؟,What is the most popular comic book for children to read in Morocco?
+227,New-am-73,Family,Amharic (Ethiopia),ما هي قناة اليوتيوب الأكثر شعبية للأطفال في المغرب؟,What is the most popular YouTube channel for children in Morocco?
+228,New-am-74,Family,Amharic (Ethiopia),ما هو البرنامج الحواري الأكثر شعبية في المغرب؟,What is the most popular talk show in Morocco?
+229,New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هو العيد الديني الأكثر شهرة في المغرب؟,What is the most famous religious holiday in Morocco?
+230,New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هو الشهر الأكثر ازدحامًا لحفلات الزفاف في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"What is the busiest month for weddings in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+231,New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هو الآلة الموسيقية التقليدية الأكثر شعبية في المغرب؟,What is the most popular traditional musical instrument in Morocco?
+232,New-as-01,Food,Assamese (Assam),ما هو المنتج الزراعي الرئيسي الذي ينتج في المغرب؟,What is the main agricultural product produced in Morocco?
+233,New-as-02,Food,Assamese (Assam),ما هو عنصر الطعام الأكثر شعبية القائم على القمح في المغرب؟,What is the most popular wheat-based food item in Morocco?
+234,New-as-05,Food,Assamese (Assam),ما هو المشروب الأكثر شيوعًا الذي يتم تقديمه للضيوف عند زيارتهم للمنازل في المغرب؟,What is the most typical drink offered to guests when they visit households in Morocco?
+235,New-as-07,Food,Assamese (Assam),ما هو الطبق الأكثر شعبية المطبوخ بالسمك في المغرب؟,What is the most popular dish cooked with fish in Morocco?
+236,New-as-14,Food,Assamese (Assam),ما هو الطعام الذي يحب الناس من المغرب تناوله أثناء الطقس الممطر؟,What food do people from Morocco like to eat during rainy weather?
+237,New-as-15,Food,Assamese (Assam),ما هو المشروب الذي يتم تناوله عادةً في المغرب عندما يكون الطقس حارًا؟,What drink is commonly consumed in Morocco when the weather is hot?
+238,New-as-20,Sport,Assamese (Assam),ما هي الرياضة الداخلية الأكثر شعبية في المغرب؟,What is the most popular indoor sport in Morocco?
+239,New-as-29,Sport,Assamese (Assam),ما هي الرياضة التي يحب الرجال في المغرب مشاهدتها؟,What sport do men in Morocco like to watch?
+240,New-as-30,Sport,Assamese (Assam),ما هي الرياضة التي تحب النساء في المغرب مشاهدتها؟,What sport do women in Morocco like to watch?
+241,New-as-58,Work life,Assamese (Assam),ما هو المشروب الأكثر شعبية الذي يحب الناس من المغرب شربه في مكان العمل؟,What is the most popular beverage that people from Morocco like to drink in their workplace?
+242,New-as-64,Family,Assamese (Assam),في أي عطلة يميل جميع أفراد الأسرة إلى الاجتماع في المغرب؟,On which holiday do all family members tend to reunite in Morocco?
+243,New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),ما هي الألعاب التقليدية التي تلعبها العائلات خلال الأعياد التقليدية في المغرب؟,What traditional games do families play during traditional holidays in Morocco?
+244,New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),ما نوع الملابس التي يرتديها الناس من المغرب خلال المهرجانات التقليدية؟,What type of clothing do people from Morocco wear during traditional festivals?
+245,New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),ما هي إكسسوارات المهرجانات التقليدية التي يرتديها الناس من المغرب؟,What traditional festival accessories do people from Morocco wear?
+246,New-az-05,Food,Azerbaijani (Azerbaijan),ما هي المنطقة الأكثر شهرة لإنتاج الكحول في المغرب؟,What is the most famous region for alcohol production in Morocco?
+247,New-az-11,Food,Azerbaijani (Azerbaijan),ما هي الفاكهة التي غالبًا ما يتناولها الناس من المغرب في موسم الصيف؟,What fruit do people from Morocco often eat in the summer season?
+248,New-az-12,Food,Azerbaijani (Azerbaijan),أي منطقة في المغرب معروفة بالمأكولات البحرية؟,Which region in Morocco is known for its seafood?
+249,New-az-21,Sport,Azerbaijani (Azerbaijan),أي منطقة في المغرب هي الوجهة الأكثر شعبية للتزلج؟,Which region in Morocco is the most popular skiing destination?
+250,New-az-26,Sport,Azerbaijani (Azerbaijan),من هو لاعب الفنون القتالية الأكثر شعبية في المغرب؟,Who is the most popular martial arts player in Morocco?
+251,New-az-27,Sport,Azerbaijani (Azerbaijan),ما هي الرياضة التي كانت من بين الأسرع نموًا في المغرب خلال العقد الماضي؟,Which sport has been one of the fastest-growing in Morocco over the last decade?
+252,New-az-39,Education,Azerbaijani (Azerbaijan),إلى أي بلد هي الوجهة الأكثر شعبية للطلاب من المغرب الذين يدرسون في الخارج؟,Which country is the most popular destination for students from Morocco studying abroad?
+253,New-az-49,Work life,Azerbaijani (Azerbaijan),كم عدد الأشخاص الذين يعملون في أسرة مغربية نموذجية؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How many people work in a typical family in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+254,New-az-60,Family,Azerbaijani (Azerbaijan),في المغرب، من يعتني بالأطفال عندما يعمل كلا الوالدين؟,"In Morocco, who takes care of kids when both parents are working?"
+255,New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),ما هو المشروب الكحولي المفضل للرجال من المغرب؟,What is the preferred alcoholic beverage for men from Morocco?
+256,New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),ما هو المشروب الكحولي المفضل للنساء من المغرب؟,What is the preferred alcoholic beverage for women from Morocco?
+257,New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),كم عدد الأشخاص الذين يحضرون حفل زفاف في المغرب في المتوسط؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How many people on average typically attend a wedding in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+258,New-ch-01,Food,Chinese (China),ما نوع اللحوم التي يتناولها الناس عادةً عندما يقيمون حفل شواء في المغرب؟,What kind of meat do people usually eat when they have a barbecue in Morocco?
+259,New-ch-02,Food,Chinese (China),متى يتناول الناس عادةً وجبة الإفطار في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00، 09:00)).,"When do people usually have breakfast in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+260,New-ch-04,Food,Chinese (China),ما أنواع الأطعمة التي يتناولها الناس عادةً كوجبات خفيفة في وقت متأخر من الليل في المغرب؟,What kinds of food do people usually eat for late-night snacks in Morocco?
+261,New-ch-05,Food,Chinese (China),ما هو الطبق الحار الأكثر شهرة في المغرب؟,What is the most famous spicy dish in Morocco?
+262,New-ch-07,Food,Chinese (China),ما هي المواد الغذائية التي يميل الناس إلى تناولها مع المشروبات الكحولية القوية في المغرب؟,What food items do people typically pair with hard liquor in Morocco?
+263,New-ch-08,Food,Chinese (China),ما هو التوابل الأساسي الذي لا غنى عنه في الطهي في المغرب؟,What essential seasoning is indispensable in cooking in Morocco?
+264,New-ch-09,Food,Chinese (China),ما هو الطعام الذي يتناوله الناس عادةً عندما يكون الطقس باردًا في المغرب؟,What food do people typically consume when the weather is cold in Morocco?
+265,New-ch-13,Food,Chinese (China),ما هي العلامة التجارية للكحول الأكثر شهرة في المغرب؟,What is the most famous alcohol brand in Morocco?
+266,New-ch-14,Food,Chinese (China),ما هي الأطعمة التي يتناولها الناس عادةً عندما يكونون مرضى في المغرب؟,What foods do people usually eat when they are sick in Morocco?
+267,New-ch-15,Food,Chinese (China),ما هو الطعام المحضر/الجاهز الذي يشتريه الناس عادةً في محلات السوبر ماركت في المغرب؟,What prepared/ready-to-eat food do people typically buy at supermarkets in Morocco?
+268,New-ch-16,Sport,Chinese (China),ما هو الفيلم الرياضي الأكثر شهرة في المغرب؟,What is the most famous sports-related movie in Morocco?
+269,New-ch-17,Sport,Chinese (China),ما هي الرياضة المتطرفة التي يرغب الناس في تجربتها أكثر في المغرب؟,What extreme sport do people generally wish to try the most in Morocco?
+270,New-ch-18,Sport,Chinese (China),ما هو حدث المضمار والميدان الأكثر شعبية للمشاهدة خلال المسابقات في المغرب؟,Which track and field event is the most popular to watch during competitions in Morocco?
+271,New-ch-19,Sport,Chinese (China),ما هو حدث الجمباز الأكثر شعبية للمشاهدة خلال المسابقات في المغرب؟,Which gymnastics event is the most popular to watch during competitions in Morocco?
+272,New-ch-23,Sport,Chinese (China),من هو لاعب تنس الطاولة الأكثر شهرة في المغرب؟,Who is the most famous table tennis player in Morocco?
+273,New-ch-26,Sport,Chinese (China),في الألعاب الأولمبية الشتوية، ما هو الحدث الأكثر شعبية للمشاهدة في المغرب؟,"In the Winter Olympics, which event is the most popular to watch in Morocco?"
+274,New-ch-27,Sport,Chinese (China),من هو الملاكم الأكثر شهرة في المغرب؟,Who is the most famous boxer in Morocco?
+275,New-ch-30,Sport,Chinese (China),من هو رياضي المضمار والميدان الأكثر شهرة في المغرب؟,Who is the most famous track and field athlete in Morocco?
+276,New-ch-31,Work life,Chinese (China),ما هي الوظيفة التي يأمل الآباء أن يسعى أطفالهم إليها في المغرب؟,What job do parents most hope their children will pursue in Morocco?
+277,New-ch-32,Work life,Chinese (China),ما هو برنامج المكتب الذي يستخدمه الناس عادةً في مكان العمل في المغرب؟,What office software do people typically use in the workplace in Morocco?
+278,New-ch-38,Work life,Chinese (China),ما هي المدن أو المناطق المعروفة بأنشطة الاستيراد والتصدير في المغرب؟,Which cities or regions are known for their import and export activities in Morocco?
+279,New-ch-39,Work life,Chinese (China),ما هي المنصة المستخدمة بشكل شائع في صناعة التجارة الإلكترونية في المغرب؟,What platform is commonly used in the e-commerce industry in Morocco?
+280,New-ch-44,Work life,Chinese (China),كم هي مدة فترة الاختبار النموذجية للموظفين الجدد قبل توقيع عقد رسمي في المغرب؟ (مثل شهر واحد).,"How long is the typical probation period for new employees before signing a formal contract in Morocco? (e.g., 1 month)."
+281,New-ch-45,Work life,Chinese (China),في أي الصناعات يختار الشباب عادةً بدء أعمال تجارية في المغرب؟,In which industries do young people typically choose to start businesses in Morocco?
+282,New-ch-49,Family,Chinese (China),ما هي الطريقة الأكثر شيوعًا لأفراد الأسرة للتواصل عن بُعد في المغرب؟,What is the most common way for family members to communicate remotely in Morocco?
+283,New-ch-51,Family,Chinese (China),ما نوع الإقامة الذي يتم حجزه عادةً للرحلات العائلية في المغرب؟,What form of accommodation is typically booked for family trips in Morocco?
+284,New-ch-54,Family,Chinese (China),ما هي الفاكهة التي يتم تحضيرها عادةً في عشاء العائلة في المغرب؟,Which fruit is usually prepared most often for family dinners in Morocco?
+285,New-ch-64,Education,Chinese (China),كم عدد ساعات الدراسة التي يحضرها طلاب الجامعات عادةً في الأسبوع في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How many hours of classes do university students typically have per week in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+286,New-ch-66,Education,Chinese (China),ما هي الرسوم الدراسية النموذجية للفصل الدراسي الواحد للمدارس الثانوية الحكومية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"What is the typical tuition fee per semester for public secondary schools in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+287,New-ch-70,Education,Chinese (China),ما هي الدورات الإجبارية التي يتشاركها طلاب الجامعات في المغرب؟,What compulsory courses do university students have in common in Morocco?
+288,New-ch-71,Education,Chinese (China),ما هو متوسط حجم الفصل الدراسي في المدارس الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"What is the average class size in secondary schools in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+289,New-ch-72,Education,Chinese (China),ما هو التخصص الذي يعتبر الأكثر ملاءمة للتوظيف في المغرب؟,Which major is considered most conducive to employment in Morocco?
+290,New-ch-73,Education,Chinese (China),ما أنواع النوادي الأكثر شعبية بين طلاب الجامعات في المغرب؟,What type of clubs are most popular among university students in Morocco?
+291,New-ch-74,Education,Chinese (China),ما أنواع الإقامة التي يعيش فيها طلاب الجامعات في المغرب عادةً؟,What types of accommodation do university students in Morocco typically live in?
+292,New-ch-75,Education,Chinese (China),كم تستغرق كل فترة دراسية لطلاب المدارس الثانوية في المغرب (بالدقائق)؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How long is each class period for secondary school students in Morocco (minutes)? (Provide Arabic numerals (e.g., 1) only.)"
+293,New-ch-78,Holidays/Celebration/Leisure,Chinese (China),ما هي الأنشطة الترفيهية التي تحبها النساء المتقاعدات عادةً في المغرب؟,What leisure activities do retired women typically like in Morocco?
+294,New-ch-79,Holidays/Celebration/Leisure,Chinese (China),ما هي الأنشطة الترفيهية التي يحبها الرجال المتقاعدون عادةً في المغرب؟,What leisure activities do retired men typically like in Morocco?
+295,New-ch-80,Holidays/Celebration/Leisure,Chinese (China),خلال أي الأعياد يميل الناس عادةً إلى زيارة المواقع الدينية (المعابد والكنائس وما إلى ذلك) في المغرب؟,"During which holidays do people typically visit religious sites (temples, churches, etc.) in Morocco?"
+296,New-ch-81,Holidays/Celebration/Leisure,Chinese (China),ما هي هدايا تدفئة المنازل النموذجية في المغرب؟,What are the typical housewarming gifts in Morocco?
+297,New-ch-82,Holidays/Celebration/Leisure,Chinese (China),في أي وقت تبدأ حفلات الزفاف عادةً في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00، 09:00)).,"At what time do weddings typically start in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+298,New-ch-83,Holidays/Celebration/Leisure,Chinese (China),أي مدينة في المغرب تستضيف المهرجانات أكثر من غيرها؟,Which city in Morocco hosts festivals the most?
+299,New-ch-84,Holidays/Celebration/Leisure,Chinese (China),ما هو لون الملابس الذي يرتديه الناس عادةً عند حضور حفلات الزفاف في المغرب؟,What colour of clothing do people typically wear when attending weddings in Morocco?
+300,New-ch-85,Holidays/Celebration/Leisure,Chinese (China),ما هو لون الملابس الذي يرتديه الناس عادةً عند حضور الجنازات في المغرب؟,What colour of clothing do people typically wear when attending funerals in Morocco?
+301,New-en-01,Food,English (UK),ما هي الوجبة الخفيفة التي يتم تناولها في السينما في المغرب؟,Which snack is eaten in the cinema in Morocco?
+302,New-en-02,Food,English (UK),ما هي نكهة رقائق البطاطس/الشيبس الأكثر شعبية في المغرب؟,What is the most popular chip/crisp flavour in Morocco?
+303,New-en-04,Food,English (UK),من هو طاهٍ مشهور في المغرب؟,Who is a popular celebrity chef in Morocco?
+304,New-en-05,Food,English (UK),ما هو الطعام الذي يعتبر اقتصاديًا وخيارًا سريعًا للوجبات في المغرب؟,Which food is a cost-effective and quick meal option in Morocco?
+305,New-en-07,Food,English (UK),ما هي برامج الطبخ الأكثر شعبية في المغرب؟,What are the most popular cooking shows in Morocco?
+306,New-en-08,Food,English (UK),ما هي العلامة التجارية للشوكولاتة الأكثر شعبية في المغرب؟,What is the most popular chocolate brand in Morocco?
+307,New-en-10,Food,English (UK),ما هي الجبنة الأكثر استهلاكًا في المغرب؟,What is the most eaten cheese in Morocco?
+308,New-en-11,Food,English (UK),ما هو الخضار الأقل تفضيلاً في المغرب؟,What is the most disliked vegetable in Morocco?
+309,New-en-12,Food,English (UK),ما هو الطعام الذي يوجد غالبًا في ساحات الطعام في المغرب؟,What food is most commonly found in food courts in Morocco?
+310,New-en-17,Sport,English (UK),ما هي أدوات التشجيع الأكثر شيوعًا التي يستخدمها مشجعو الرياضة في المغرب؟,What are the most common cheering tools used by sports fans in Morocco?
+311,New-en-18,Sport,English (UK),ما الذي يحضره المشجعون معهم عند حضور مباراة مباشرة في المغرب؟,What do fans bring with them when attending a live game in Morocco?
+312,New-en-19,Sport,English (UK),ما هو الملعب الرياضي الأكثر شهرة في المغرب؟,What is the most well known sporting stadium in Morocco?
+313,New-en-23,Sport,English (UK),من هو رياضي البارالمبي الأكثر شهرة في المغرب؟,Who is the most famous Paralympian in Morocco?
+314,New-en-26,Sport,English (UK),ما هو الهتاف الرياضي الأكثر شهرة في المغرب؟,What is the most recognized sporting chant in Morocco?
+315,New-en-38,Work life,English (UK),ما هي الصناعات المعروفة بساعات عمل أكثر مرونة في المغرب؟,Which industries are known for more flexible working hours in Morocco?
+316,New-en-41,Work life,English (UK),من هو رجل الأعمال الأكثر شهرة ونجاحًا في المغرب؟,Who is the most well known and successful entrepreneur in Morocco?
+317,New-en-47,Family,English (UK),ما الذي يمكن العثور عليه عادةً في الفناء الخلفي للمنازل في المغرب؟,What can typically be found in the back garden of houses in Morocco?
+318,New-en-49,Family,English (UK),ما هو اسم العائلة الأكثر شهرة في المغرب؟,What is the name of the most famous family in Morocco?
+319,New-en-50,Family,English (UK),ما هو اسم العائلة الأكثر شيوعًا في المغرب؟,What is the most common family name in Morocco?
+320,New-en-55,Family,English (UK),ما هي الديانة التي يمارسها معظم العائلات في المغرب؟,Which religion is most commonly practiced by families in Morocco?
+321,New-en-56,Family,English (UK),ما هي اللغة الأجنبية الأكثر شيوعًا التي يتحدثها أفراد العائلات في المغرب؟,What is the most popular foreign language spoken by families in Morocco?
+322,New-en-59,Family,English (UK),إلى أي بلد هي الوجهة الأكثر شعبية للعائلات المغربية للهجرة إليه؟,Which country is the most popular destination for families from Morocco to emigrate to?
+323,New-en-68,Education,English (UK),ما هي العواقب المترتبة على السلوك السيئ في المدارس في المغرب؟,What repercussions are there for bad behavior in schools in Morocco?
+324,New-en-69,Education,English (UK),من هم الكتاب الذين تتم دراستهم عادةً في دروس الأدب في المغرب؟,Which writers are commonly studied in literature class in Morocco?
+325,New-en-70,Education,English (UK),كم عدد فترات العطلات المدرسية في السنة للمدارس الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How many school breaks are there in a year for high schools in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+326,New-en-72,Education,English (UK),ما هو المصدر عبر الإنترنت الذي يستخدمه الطلاب عادةً للدراسة في المغرب؟,Which online resource do students usually use to study in Morocco?
+327,New-en-75,Education,English (UK),ما هو متوسط طول الفصل الدراسي من حيث أسابيع التدريس في الجامعات المغربية؟ (قدم أرقامًا عربية فقط (مثل 1)).,"What is the average length of a semester in terms of weeks of teaching at universities in Morocco? (Provide Arabic numerals (e.g., 1) only.)"
+328,New-en-76,Holidays/Celebration/Leisure,English (UK),ما هو المطار الأكثر ازدحامًا في المغرب خلال موسم الأعياد؟,Which airport in Morocco is the busiest during the holiday season?
+329,New-en-79,Holidays/Celebration/Leisure,English (UK),أي منطقة في المغرب مشهورة بعروضها المسرحية؟,Which region of Morocco is well known for its theatrical performances?
+330,New-en-87,Holidays/Celebration/Leisure,English (UK),ما هو المعلم التاريخي الأكثر شهرة في المغرب؟,What is the most famous historic landmark in Morocco?
+331,New-en-90,Holidays/Celebration/Leisure,English (UK),ما هي العلامة التجارية الفندقية الأكثر شهرة في المغرب؟,What is the most famous hotel brand in Morocco?
+332,New-gr-05,Food,Greek (Greece),ما هي وجبة الإفطار السريعة الأكثر شعبية في المغرب؟,What is the most popular grab-and-go breakfast option in Morocco?
+333,New-gr-06,Food,Greek (Greece),ما هو الطعام الأكثر شعبية في المغرب بين الشباب؟,What is the most popular food in Morocco among young people?
+334,New-gr-08,Food,Greek (Greece),ما نوع المشروب الكحولي الذي يتم تناوله بشكل شائع في المهرجانات في المغرب؟,What type of alcoholic drink is most commonly consumed at festivals in Morocco?
+335,New-gr-13,Food,Greek (Greece),ما هو المشروب الصباحي الأكثر شيوعًا في المغرب؟,What is the most common morning drink in Morocco?
+336,New-gr-15,Food,Greek (Greece),ما هو الحلوى التقليدية الأكثر شعبية في المغرب؟,What is the most popular traditional dessert in Morocco?
+337,New-gr-21,Sport,Greek (Greece),ما هي الرياضة التي تستخدم المضرب الأكثر شعبية في المغرب؟,What is the most popular racket sport in Morocco?
+338,New-gr-24,Sport,Greek (Greece),ما هي رياضة المضمار والميدان الأكثر شعبية في المغرب؟,What is the most popular track and field sport in Morocco?
+339,New-gr-29,Sport,Greek (Greece),ما هو الحدث الرياضي الدولي الأكثر شعبية في المغرب؟,Which international sporting event is the most popular in Morocco?
+340,New-gr-47,Work life,Greek (Greece),كم تستغرق فترات الراحة النموذجية في العمل بالدقائق في المغرب، باستثناء فترات الغداء والعشاء؟ (قدم أرقامًا عربية فقط (مثل 1)).,"How long (in minutes) are typical work breaks in Morocco, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
+341,New-gr-58,Work life,Greek (Greece),ما هي الوظيفة التي تعتبر غير مدفوعة الأجر بشكل كافٍ في المغرب؟,Which job is considered underpaid in Morocco?
+342,New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),ما هو الطعام الأكثر شيوعًا الذي يتم تقديمه خلال عيد الفصح في المغرب؟,What is the most common food served during Easter in Morocco?
+343,New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),ما هي نوعية الموسيقى الأكثر شعبية بين كبار السن في المغرب؟,What is the most popular music genre among the elderly population in Morocco?
+344,New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),ما هو المشروب الذي يتم تقديمه عادةً في الجنازات في المغرب؟,What drink is usually offered at funerals in Morocco?
+345,New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),ما هو المشروب الذي يتم تقديمه عادةً في حفلات الزفاف في المغرب؟,What drink is usually offered at weddings in Morocco?
+346,New-ha-07,Food,Hausa (Northern Nigeria),ما هو الطعام الذي نشأ من المغرب ويمكن العثور عليه في جميع أنحاء العالم؟,What food originated from Morocco and can be found all over the world?
+347,New-ha-08,Food,Hausa (Northern Nigeria),ما هو الطعام الذي يكرهه الأطفال عادةً ولكنه يستمتع به كبار السن في المغرب؟,What food is typically disliked by children but enjoyed by the elderly in Morocco?
+348,New-ha-09,Food,Hausa (Northern Nigeria),ما هي أداة الطهي الأكثر استخدامًا في المغرب؟,What cooking utensil is most commonly used in Morocco?
+349,New-ha-13,Food,Hausa (Northern Nigeria),ما هو الخضار الأكثر شعبية في المغرب؟,Which is the most popular vegetable in Morocco?
+350,New-ha-19,Sport,Hausa (Northern Nigeria),ما هو الحيوان المستخدم في الرياضة في المغرب؟,Which animal is used for sports in Morocco?
+351,New-ha-66,Family,Hausa (Northern Nigeria),ما هو مكان حفل الزفاف الأكثر شعبية في المغرب؟,What is the most popular wedding venue in Morocco?
+352,New-in-01,Food,Indonesian (Indonesia),ما هي العلامة التجارية لمقهى القهوة الأكثر شعبية في المغرب؟,Which coffee shop brand is the most popular in Morocco?
+353,New-in-03,Food,Indonesian (Indonesia),ما نوع الطعام المغربي الذي يتم تقديمه عادةً في المطاعم في الخارج؟,What type of food from Morocco is typically served in restaurants overseas?
+354,New-in-33,Work life,Indonesian (Indonesia),أي منطقة في المغرب ترتبط عادةً بالتعدين؟,What region in Morocco is usually associated with mining?
+355,New-in-34,Work life,Indonesian (Indonesia),أي منطقة في المغرب ترتبط عادةً بالنفط؟,What region in Morocco is usually associated with oil?
+356,New-in-62,Education,Indonesian (Indonesia),ما هي الجامعة في المغرب المشهورة بمسارها في الهندسة؟ (قدم الاسم الرسمي).,What university in Morocco is popular because of its engineering major? (Provide the official name.)
+357,New-in-63,Education,Indonesian (Indonesia),ما هي الجامعة في المغرب المشهورة بكلية الطب؟ (قدم الاسم الرسمي).,What university in Morocco is popular because of its school of medicine? (Provide the official name.)
+358,New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي طريقة الدفع الأكثر شعبية في المغرب؟,What is the most popular payment method in Morocco?
+359,New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي حديقة الترفيه الأكثر شهرة في المغرب؟,What is the most famous theme park in Morocco?
+360,New-ko-01,Family,Korean (Korea),ما هو الرسوم المتحركة للأطفال الأكثر شعبية التي يشاهدها الأطفال عادةً في المغرب؟,What is the most popular children's animation that is commonly watched by kids in Morocco?
+361,New-ko-02,Family,Korean (Korea),ما هو النشاط الأكثر شعبية للتثقيف قبل الولادة للنساء الحوامل في المغرب؟,What is the most popular prenatal education activity for pregnant women in Morocco?
+362,New-ko-03,Family,Korean (Korea),ما هي أغنية الأطفال الأكثر شعبية في المغرب التي تغنيها العائلات معًا؟,What is the most popular children's song in Morocco that families sing together?
+363,New-ko-04,Family,Korean (Korea),ما هي الألعاب الأكثر شعبية بين الأولاد في المغرب؟,Which toys are most popular among boys in Morocco?
+364,New-ko-05,Family,Korean (Korea),ما هي الألعاب الأكثر شعبية بين البنات في المغرب؟,Which toys are most popular among girls in Morocco?
+365,New-ko-06,Family,Korean (Korea),ما هي الحكاية الشعبية الأكثر شعبية في المغرب التي تُروى عادةً للأطفال؟,What is the most popular folk tale in Morocco that is typically told to children?
+366,New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),ما هو الرمز التقليدي للمواساة المستخدم في الجنازات في المغرب؟,What is the customary symbol of condolence used at funerals in Morocco?
+367,New-ko-08,Work life,Korean (Korea),أين يميل طلاب الجامعات في المغرب إلى العمل بدوام جزئي أكثر من غيره؟,Where do university students in Morocco tend to work part-time the most?
+368,New-ko-09,Work life,Korean (Korea),ما هي الأنشطة الأكثر شيوعًا لبناء الفريق في الشركات القائمة في المغرب؟,What are the most frequently practiced team-building activities in companies based in Morocco?
+369,New-ko-10,Work life,Korean (Korea),ما هي الأنشطة الأكثر شيوعًا التي يقوم بها الناس كعمل إضافي في المغرب؟,What are the most common activities people do as a side job in Morocco?
+370,New-pe-02,Food,Persian (Iran),ما هي التذكارات الصالحة للأكل الأكثر شهرة للسياح في المغرب؟,What is the most famous edible souvenir for tourists in Morocco?
+371,New-pe-06,Food,Persian (Iran),ما هو اليخنة الأكثر شعبية في المغرب؟,What is the most popular stew in Morocco?
+372,New-pe-11,Food,Persian (Iran),ما هي التوابل/الأعشاب الأكثر شيوعًا المستخدمة في أطباق المغرب؟,What is the most common spice/herb used in dishes from Morocco?
+373,New-pe-16,Sport,Persian (Iran),ما هي الرياضة التقليدية الأكثر شهرة في المغرب؟,What is the most famous traditional sport in Morocco?
+374,New-pe-20,Sport,Persian (Iran),ما هي الرياضة التي يفضل لعبها على الشاطئ في المغرب؟,What sport is popular to play on the beach in Morocco?
+375,New-pe-45,Work life,Persian (Iran),ما هو جدول العمل المعتاد خلال شهر رمضان في المغرب؟,What is the usual work schedule during the month of Ramadan in Morocco?
+376,New-pe-47,Family,Persian (Iran),متى يتم الاحتفال بيوم الطالب في المغرب؟ (قدم بتنسيق MM/DD (مثل 12/31)).,"When is Student's Day celebrated in Morocco? (Provide in MM/DD format (e.g., 12/31).)"
+377,New-pe-49,Family,Persian (Iran),أين تجتمع العائلات للصلاة معًا في المغرب؟,Where do families gather to pray together in Morocco?
+378,New-pe-53,Family,Persian (Iran),ما هي الهدايا التي يحصل عليها الآباء في عيد الأب (أو عيد الوالدين) في المغرب؟,What gifts do fathers get on Father's Day (or Parents' Day) in Morocco?
+379,New-pe-54,Family,Persian (Iran),ما هي الهدايا التي تحصل عليها الأمهات في عيد الأم (أو عيد الوالدين) في المغرب؟,What gifts do mothers get on Mother's Day (or Parents' Day) in Morocco?
+380,New-pe-59,Family,Persian (Iran),كم عدد الأجيال التي تعيش عادةً معًا في منزل في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many generations typically live together in a household in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+381,New-pe-65,Education,Persian (Iran),كم عدد المواد التي يتم تدريسها في المدارس الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many subjects are taught in secondary schools in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+382,New-pe-66,Education,Persian (Iran),ما هو النشاط اللامنهجي الأكثر شعبية بعد المدرسة في المدارس الابتدائية في المغرب؟,What is the most popular after school extracurricular activity in primary schools in Morocco?
+383,New-pe-74,Education,Persian (Iran),كم تبلغ الرسوم الدراسية السنوية المتوسطة للجامعات الحكومية في المغرب؟,How much is the average annual tuition fee for public universities in Morocco?
+384,New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),ما هو النشاط الشائع الذي يتم القيام به في الحدائق في المغرب؟,What is a popular activity to do in parks in Morocco?
+385,New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),ما هو اسم المهرجان السينمائي الأكثر شهرة الذي يقام في المغرب؟,What is the name of the most famous film festival held in Morocco?
+386,New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),ما هي لعبة الورق الشائعة التي يتم لعبها خلال التجمعات الاجتماعية في المغرب؟,What is the popular card game played during social gatherings in Morocco?
+387,New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),أين هي الوجهة السياحية الأكثر شعبية في الخارج للأشخاص من المغرب؟,Where is the most popular tourist destination abroad for people from Morocco?
+388,New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),ما هو اسم البرج الأكثر شهرة في المغرب؟,What is the name of the most famous tower in Morocco?
+389,New-spme-01,Food,Spanish (Mexico),ما هو الحشرة الصالحة للأكل التي يتم تناولها في أغلب الأحيان في المغرب؟,What edible insect is eaten most often in Morocco?
+390,New-spme-04,Food,Spanish (Mexico),ما هو المنتج الزراعي الذي يتم تصديره في أغلب الأحيان من المغرب؟,Which agricultural product is exported most often in Morocco?
+391,New-spme-05,Food,Spanish (Mexico),ما هي الحلويات الأكثر شعبية في المغرب؟,What are the most popular sweets in Morocco?
+392,New-spme-15,Sport,Spanish (Mexico),ما هو المشروب الرياضي الأكثر شعبية في المغرب؟,What is the most popular sports drink in Morocco?
+393,New-spme-27,Education,Spanish (Mexico),ما هو متوسط المستوى التعليمي للأشخاص في المغرب؟,What is the average education level for people in Morocco?
+394,New-spme-37,Education,Spanish (Mexico),ما هي المهنة التي يدرسها الطلاب المغاربة في الخارج في أغلب الأحيان؟,Which profession is most commonly studied abroad by students from Morocco?
+395,New-spme-60,Family,Spanish (Mexico),في أي يوم من أيام الأسبوع يمارس معظم الأسر في المغرب الأنشطة الدينية؟ (مثل الاثنين، الثلاثاء),"Which day of the week do most families in Morocco practice religious activities? (e.g. Monday, Tuesday)"
+396,New-spme-65,Family,Spanish (Mexico),ما هي الطريقة الأكثر شعبية للاحتفال بيوم الاستقلال في المغرب؟,What is the most popular way to celebrate Independence Day in Morocco?
+397,New-spme-68,Family,Spanish (Mexico),ما هو المشروب الأكثر شعبية بين الأطفال في المغرب؟,What is the most popular beverage among children in Morocco?
+398,New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),ما هو المكان الأكثر شعبية في المغرب للاحتفال بيوم الاستقلال؟,What is the most popular place in Morocco to celebrate Independence Day?
+399,New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),ما هو اسم الأغنية التي يتم غناؤها عادةً في حفلات أعياد الميلاد في المغرب؟,What is the name of the song that is typically sung at birthday parties in Morocco?
+400,New-su-01,Food,Sundanese (West Java),ما هي الوجبات الخفيفة التي يتم بيعها عادةً أمام المدارس في المغرب؟,What snacks are usually sold in front of schools in Morocco?
+401,New-su-09,Food,Sundanese (West Java),ما هو الزيت الذي يستخدم عادةً للطهي في المغرب؟,What oil is usually used for cooking in Morocco?
+402,New-su-10,Food,Sundanese (West Java),ما هو الطعام الذي تستهلكه النساء الحوامل عادةً في المغرب؟,What food is commonly consumed by pregnant women in Morocco?
+403,New-su-15,Food,Sundanese (West Java),ما هو المشروب التقليدي غير الكحولي الأكثر شعبية في المغرب؟,What is the most popular traditional non-alcoholic drink in Morocco?
+404,New-su-17,Sport,Sundanese (West Java),ما هي المرافق الرياضية المتوفرة بشكل عام في الحدائق في المغرب؟,What sports facilities are generally available in parks in Morocco?
+405,New-su-21,Sport,Sundanese (West Java),ما هي الأنشطة الشائعة التي يقوم بها كبار السن عادةً في الحدائق في المغرب؟,What are the common activities that seniors usually do in parks in Morocco?
+406,New-su-24,Sport,Sundanese (West Java),ما هي الرياضات التي يلعبها الآباء والأطفال عادةً معًا في المغرب؟,What sports do parents and children commonly play together in Morocco?
+407,New-su-28,Sport,Sundanese (West Java),ما هو اللون المرتبط بالفريق الوطني لكرة القدم في المغرب؟,What colour is associated with the national football team of Morocco?
+408,New-su-33,Education,Sundanese (West Java),ما هو الزي الرسمي الشائع لمعلمي المدارس في المغرب؟,What is the common dress code for school teachers in Morocco?
+409,New-su-34,Education,Sundanese (West Java),ما هو النشاط اللامنهجي الأكثر شعبية المتعلقة بالموسيقى في المدارس في المغرب؟,What is the most popular extracurricular activity related to music in schools in Morocco?
+410,New-su-42,Education,Sundanese (West Java),ما هي الديانة التي يتم تدريسها بشكل رئيسي في المدارس في المغرب؟,What religion is mainly taught in schools in Morocco?
+411,New-su-45,Education,Sundanese (West Java),ما هو تاريخ الاحتفال بيوم التعليم في المغرب؟ (قدم بتنسيق MM/DD (مثل 12/31)).,"What date is Education Day celebrated in Morocco? (Provide in MM/DD format (e.g., 12/31).)"
+412,New-su-50,Work life,Sundanese (West Java),ما هو المهنة الرئيسية لسكان المناطق الجبلية في المغرب؟,What is the main occupation of people in mountainous areas in Morocco?
+413,New-su-51,Work life,Sundanese (West Java),ما هي المهنة الرئيسية لسكان المناطق الساحلية في المغرب؟,What is the main occupation of people in coastal areas in Morocco?
+414,New-su-57,Work life,Sundanese (West Java),ما هو الماشية الأكثر شيوعًا التي يتم تربيتها في المغرب؟,What is the most common livestock raised in Morocco?
+415,New-su-58,Work life,Sundanese (West Java),ما هي الحيوانات التي تستخدم عادةً في الزراعة في المغرب؟,What animals are commonly used for agriculture in Morocco?
+416,New-su-59,Work life,Sundanese (West Java),ماذا يرتدي المزارعون في المغرب عادةً لحماية أنفسهم من الحرارة أثناء الزراعة؟,What do farmers in Morocco typically wear to protect themselves from the heat whilst farming?
+417,New-su-60,Work life,Sundanese (West Java),ماذا يأكل المزارعون في المغرب عادةً على الغداء؟,What do farmers in Morocco usually eat for lunch?
+418,New-su-71,Family,Sundanese (West Java),ما هي الهدايا التي يقدمها الآباء عادةً لأطفالهم في أعياد ميلادهم في المغرب؟,What gifts do parents generally give to their children for their birthdays in Morocco?
+419,New-su-75,Family,Sundanese (West Java),ما نوع السيارة التي يمتلكها معظم الأسر في المغرب بشكل عام؟,What type of vehicle do most families in Morocco generally own?
+420,New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),ما الذي يتم تقديمه عادةً للأطفال خلال عيد الفطر في المغرب؟,What is usually given to the children during Eid in Morocco?
+421,New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي الملابس التي يرتديها العرسان عادةً في حفلات الزفاف في المغرب؟,What clothes do grooms usually wear at weddings in Morocco?
+422,New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي الملابس التي ترتديها العرائس عادةً في حفلات الزفاف في المغرب؟,What clothes do brides usually wear at weddings in Morocco?
+423,New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),ما هو الطعام الذي يتم تقديمه عادةً في حفلات الزفاف في المغرب؟,What food is usually served at weddings in Morocco?
+424,New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),ما هو المبنى الحكومي الأكثر شهرة في المغرب؟,What is the most famous government building in Morocco?
+425,New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي نوعية الموسيقى الأكثر شعبية بين الشباب في المغرب؟,What is the most popular music genre among the younger population in Morocco?
+426,Ni-en-02,Education,English (UK),في أي وقت ينهي طلاب المدارس الثانوية في المغرب عادةً المدرسة كل يوم؟ (قدم بتنسيق HH:MM (مثل 18:00، 09:00)).,"What time do secondary students in Morocco typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+427,Ni-en-03,Education,English (UK),في أي عمر يذهب الناس في المغرب عادةً إلى الجامعة؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do people in Morocco typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
+428,Ni-en-06,Education,English (UK),من أي عمر يجب على الناس الالتحاق بالتعليم الإلزامي في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"From what age do people need to attend compulsory education in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+429,Ni-en-09,Education,English (UK),كم عدد أيام الأسبوع التي يحضر فيها الأطفال المدرسة في المغرب؟ (قدم أرقامًا عربية فقط (0~7)).,How many days a week do children attend school in Morocco? (Provide Arabic numerals (0~7) only.)
+430,Ni-en-11,Education,English (UK),في المغرب، كم سنة يستغرق إكمال درجة الماجستير عادةً؟ (قدم أرقامًا عربية فقط (مثل 12)).,"In Morocco, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
+431,Ni-en-12,Education,English (UK),ما هي أفضل جامعة في المغرب؟ (قدم الاسم الرسمي).,What is the top university in Morocco? (Provide the official name.)
+432,Ni-en-13,Education,English (UK),في أي عمر يتخرج معظم الناس من الجامعة في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do most people in Morocco graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
+433,Ni-en-15,Education,English (UK),في أي عمر يبدأ الأطفال في المغرب عادةً المدرسة الثانوية؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do children in Morocco generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
+434,Ni-en-17,Work life,English (UK),كم ساعة في الأسبوع يعمل العامل بدوام كامل في المغرب عادةً؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many hours a week does a full-time worker in Morocco typically work? (Provide Arabic numerals (e.g., 12) only.)"
+435,Ni-en-19,Work life,English (UK),كم عدد أيام الأسبوع التي يعمل فيها العامل بدوام كامل في المغرب؟ (قدم أرقامًا عربية فقط (0~7)).,How many days a week does a full-time worker work in Morocco? (Provide Arabic numerals (0~7) only.)
+436,Ni-en-20,Work life,English (UK),في أي عمر يبدأ معظم الناس العمل في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do most people start working in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+437,Ni-en-21,Work life,English (UK),من أي عمر يُسمح للفرد بالعمل في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"From what age is an individual allowed to work in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+438,Ni-en-31,Holidays/Celebration/Leisure,English (UK),ماذا يأكل الناس في المغرب تقليديًا في عيد الميلاد؟,What do people in Morocco traditionally eat on Christmas Day?
+439,Ni-en-37,Holidays/Celebration/Leisure,English (UK),ما هو اسم اليوم في السنة الذي يحتفل فيه الناس في المغرب بالحب والرومانسية؟,What is the name of the day of the year where people in Morocco celebrate love and romance?
+440,Ni-en-40,Holidays/Celebration/Leisure,English (UK),ما هي أغنية عيد الميلاد الأكثر شعبية في المغرب؟,What is the most popular Christmas song in Morocco?
+441,Nu-in-04,Education,Indonesian (Indonesia),كم عدد الفصول الدراسية في كل عام دراسي في المدارس الثانوية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 7، 8)).,"How many terms are there each academic year at secondary schools in Morocco? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+442,Nu-in-05,Education,Indonesian (Indonesia),في أي شهر يبدأ العام الدراسي الجديد عادةً في المغرب؟ (قدم أرقامًا عربية فقط (1~12)).,In which month does the new school year typically begin in Morocco? (Provide Arabic numerals (1~12) only.)
+443,Nu-in-06,Education,Indonesian (Indonesia),متى يتم إحياء اليوم الوطني للمعلم في المغرب؟ (قدم بتنسيق MM/DD (مثل 12/31)).,"When is National Teacher's Day commemorated in Morocco? (Provide in MM/DD format (e.g., 12/31).)"
+444,Nu-in-11,Education,Indonesian (Indonesia),في أي وقت تبدأ المدرسة الابتدائية في المغرب؟ (قدم بتنسيق HH:MM (مثل 18:00، 09:00)).,"At what time does primary school start in Morocco? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+445,Nu-in-20,Family,Indonesian (Indonesia),متى يتم الاحتفال بيوم الأطفال في المغرب؟ (قدم بتنسيق MM/DD (مثل 12/31)).,"When is Children's Day celebrated in Morocco? (Provide in MM/DD format (e.g., 12/31).)"
+446,Nu-in-40,Work life,Indonesian (Indonesia),أي مدينة هي الوجهة الرئيسية للباحثين عن عمل في المغرب؟,Which city is the main destination for job seekers in Morocco?
+447,Sa-en-1,Food,English (UK),ما هي سلسلة الوجبات السريعة الأكثر شعبية في المغرب؟,What is Morocco's most popular fast food chain?
+448,Sa-en-13,Food,English (UK),ما هو الطعام الذي يثير الجدل الأكبر (إما الحب أو الكراهية) في المغرب؟,What is the food that is most divisive (either love or hate) in Morocco?
+449,Sa-en-16,Sport,English (UK),ما هو الفريق الأكثر شعبية لكرة القدم بين الناس من المغرب؟,What is the most popular football team among the people from Morocco?
+450,Sa-en-22,Sport,English (UK),ما هي الجامعة الأكثر شهرة في المغرب المعروفة بفريقها الرياضي؟,What is the most famous university in Morocco known for its sports team?
+451,Sa-en-31,Family,English (UK),ما هو الحيوان الأليف الأكثر شعبية في الأسر في المغرب؟,What is Morocco's most popular family pet?
+452,Sa-en-32,Family,English (UK),ما هو برنامج التلفزيون العائلي الأكثر شعبية في المغرب؟,What is the most popular family TV show in Morocco?
+453,Sa-en-37,Family,English (UK),ما هي لعبة اللوح العائلية الأكثر شعبية في المغرب؟,What is the most popular family boardgame in Morocco?
+454,Sa-en-6,Food,English (UK),ما هي الوجبة السريعة الأكثر شعبية في المغرب؟,What is the most popular takeaway food in Morocco?
+455,Sa-en-7,Food,English (UK),ما هي الوجبات الخفيفة الشائعة في المغرب؟,What are popular snacks in Morocco?
+456,Sa-en-9,Food,English (UK),ماذا يأكل الناس من المغرب على الشاطئ؟,What do people from Morocco eat at the beach?
+457,Ta-pe-10,Family,Persian (Iran),في أي عمر يتزوج الرجال عادةً في المغرب؟ (قدم أرقامًا عربية فقط (مثل 20)).,"At what age do men usually get married in Morocco? (Provide Arabic numerals (e.g., 20) only.)"
+458,Ta-pe-11,Family,Persian (Iran),في أي عمر تتزوج النساء عادةً في المغرب؟ (قدم أرقامًا عربية فقط (مثل 20)).,"At what age do women usually get married in Morocco? (Provide Arabic numerals (e.g., 20) only.)"
+459,Ta-pe-13,Family,Persian (Iran),في جيل والديك، ما كان متوسط عدد أفراد الأسرة في المغرب؟ (قدم أرقامًا عربية فقط (مثل 20)).,"In your parents' generation, what was the average number of members in their family in Morocco? (Provide Arabic numerals (e.g., 20) only.)"
+460,Ta-pe-17,Sport,Persian (Iran),في الألعاب الأولمبية، ما هي الرياضة الأكثر شعبية في المغرب؟,"In the Olympic Games, which sport is the most popular in Morocco?"
+461,Ta-pe-21,Sport,Persian (Iran),أين يلعب الأطفال كرة القدم عادةً في المغرب؟,Where do children usually play football in Morocco?
+462,Ta-pe-22,Sport,Persian (Iran),ما هو التمرين اليومي الشائع بين النساء في المغرب؟,Which daily exercise is popular among women in Morocco?
+463,Ta-pe-23,Sport,Persian (Iran),ما هو التمرين اليومي الشائع بين الرجال في المغرب؟,Which daily exercise is popular among men in Morocco?
+464,Ta-pe-25,Sport,Persian (Iran),ما هو التنافس الأكثر شهرة في دوري رياضي وطني في المغرب؟ (مثل ___ ضد ___).,"What is the most famous rivalry in a national sports league in Morocco? (e.g., ___ vs ___)"
+465,Ta-pe-29,Sport,Persian (Iran),ما هي الرياضة الاحترافية الأعلى أجرًا في المغرب؟,Which professional sport is the highest paying in Morocco?
+466,Ta-pe-30,Sport,Persian (Iran),ما هو/كان البرنامج التلفزيوني الأكثر شعبية المتعلقة بالرياضة في المغرب؟,What is/was the most popular sports-related TV programme in Morocco?
+467,Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),ما هو يوم السنة الذي يتم تخصيصه عادةً للألعاب النارية في المغرب؟,What day of the year is usually dedicated to fireworks in Morocco?
+468,Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),ما هو الرمز الشائع لرأس السنة الميلادية الذي يوجد عادةً في المغرب؟,What is the common symbol of New Year's Eve that is usually found in Morocco?
+469,Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),ما هو الطعام الذي يتناوله الناس من المغرب عادةً في ليلة رأس السنة؟,What food do people from Morocco usually eat on New Year's Eve?
+470,Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),ما الذي يتم تناوله عادةً خلال الاحتفال بأطول ليلة في السنة في المغرب؟,What is usually eaten during the celebration of the longest night of the year in Morocco?
+471,Th-en-01,Sport,English (US),ما هي الرياضة الصيفية الأكثر شعبية في المغرب؟,What is the most popular summer sport in Morocco?
+472,Th-en-03,Sport,English (US),ما هو الدوري الرياضي الاحترافي الأكثر شعبية في المغرب؟,What is the most popular professional sports league in Morocco?
+473,Th-en-05,Sport,English (US),ما هو فريق السيدات الرياضي الأكثر شعبية في المغرب؟,What is the most popular women's sports team in Morocco?
+474,Th-en-09,Sport,English (US),ما هو البطولة الأكثر شعبية في المغرب؟,What is the most popular tournament in Morocco?
+475,Th-en-11,Sport,English (US),من هو الرياضي الأكثر شعبية في المغرب؟,Who is the most popular sportperson in Morocco?
+476,Th-en-12,Sport,English (US),في أي رياضة حقق المغرب أكبر نجاح في المسابقات الدولية؟,In which sport has Morocco been most successful in international competitions?
+477,Th-en-15,Sport,English (US),ما هي الرياضة الشتوية الأكثر شعبية في المغرب؟,What is the most popular winter sport in Morocco?
+478,Th-en-19,Work life,English (US),ما هي مدينة أو منطقة في المغرب معروفة بصناعة التصنيع؟,What is a city or region in Morocco known for manufacturing industry?
+479,Th-en-21,Work life,English (US),ما هو الميزة الأكثر أهمية التي يتم تقديمها عادةً للموظفين في المغرب؟,What is regarded as the most important perk typically offered to employees in Morocco?
+480,Th-en-22,Work life,English (US),ما هي الفترة الاقتصادية الأكثر كارثية للمغرب؟,What was the most catastrophic economic period for Morocco?
+481,Th-en-24,Work life,English (US),ما هي المنطقة في المغرب التي تعتبر مركزًا رئيسيًا للعاملين في مجال التكنولوجيا والشركات الناشئة؟,What region in Morocco is a major hub for tech workers and start ups?
+482,Th-en-27,Work life,English (US),ما هي الصناعة الأكثر أهمية في المغرب؟,What is the most important industry in Morocco?
+483,Th-en-35,Family,English (US),أي من الوجبات اليومية يتم مشاركتها عادةً مع أفراد الأسرة في المغرب؟ (مثل الإفطار، الغداء، العشاء),"Which one of the daily meals is commonly shared with family members in Morocco? (e.g., breakfast, lunch, dinner)"
+484,Th-en-36,Family,English (US),ما هو النشاط العائلي الشائع الذي يتم القيام به في عطلة نهاية الأسبوع مع الأطفال في المغرب؟,What is a popular family activity to do at the weekend with children in Morocco?
+485,Th-en-37,Family,English (US),في أي عمر يصبح الأطفال عادةً مستقلين عن والديهم في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"At what age do children typically become independent from their parents in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+486,Th-en-38,Family,English (US),ما هي أهم عطلة عائلية في المغرب؟,What is the most important family holiday in Morocco?
+487,Th-en-39,Family,English (US),ما هي لعبة عائلية شائعة في المغرب؟,What is a popular family game in Morocco?
+488,Th-en-41,Family,English (US),ما هو متوسط عمر الأزواج لإنجاب طفلهم الأول في المغرب؟ (قدم أرقامًا عربية فقط (مثل 20)).,"What is the average age for couples to have their first child in Morocco? (Provide Arabic numerals (e.g., 20) only.)"
+489,Th-en-43,Family,English (US),كم عدد السيارات التي تمتلكها الأسرة النموذجية في المغرب؟ (قدم أرقامًا عربية فقط (مثل 12)).,"How many cars are owned by a typical family in Morocco? (Provide Arabic numerals (e.g., 12) only.)"
+490,Th-en-44,Family,English (US),ما هو الطعام الأكثر شعبية للعائلات في المغرب في عطلات نهاية الأسبوع؟,What is Morocco's most popular food for family meals on weekends?
+491,Th-en-45,Family,English (US),ما هو النشاط العائلي المسائي الأكثر شعبية في أيام الأسبوع في المغرب؟,What is the most popular weekday evening family activity in Morocco?
+492,Th-en-48,Education,English (US),ما هي أعلى درجة تُمنح للطلاب المتفوقين في المدارس الثانوية في المهام والامتحانات في المغرب؟,What is the highest grade given to top-achieving secondary school students on assignments and exams in Morocco?
+493,Th-en-49,Education,English (US),ما هو الامتحان الأكثر أهمية لطلاب المدارس الثانوية في المغرب؟,What is considered the most important exam for secondary school students in Morocco?
+494,Th-en-51,Education,English (US),ما هي المادة التي تعتبر الأكثر أهمية للطلاب في المغرب؟,Which subject is considered the most important for students in Morocco?
+495,Th-en-53,Education,English (US),ما هو الحدث الاجتماعي اللامنهجي الأكثر شعبية في المدارس في المغرب؟,What is the most popular extracurricular social event at schools in Morocco?
+496,Th-en-58,Education,English (US),ما هي مادة الرياضيات الأكثر تقدمًا التي يتم تعلمها قبل الجامعة في المغرب؟,What is the most advanced maths subject learned before university in Morocco?
+497,Tmp-ar-01,Education,Arabic (Algeria),إلى أين يذهب طلاب الجامعات في المغرب عادةً للدراسة لامتحاناتهم النهائية؟,Where do university students in Morocco usually go to study for their final exams?
+498,Tmp-ar-02,Education,Arabic (Algeria),ما هو وسيلة النقل العام الشائعة التي يستخدمها الناس للذهاب إلى الجامعة في المغرب؟,What is a common public transport that people use to go to university in Morocco?
+499,Tmp-ar-04,Education,Arabic (Algeria),ماذا يفعل طلاب المدارس الابتدائية في المغرب عادةً بعد المدرسة؟,What do primary school students in Morocco usually do after school?

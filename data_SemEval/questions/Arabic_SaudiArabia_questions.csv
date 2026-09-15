@@ -1,0 +1,501 @@
+,ID,Topic,Source,Question,Translation
+0,Al-en-01,Food,English (US),ماذا يأكل الأطفال كوجبة خفيفة قبل المدرسة في المملكة العربية السعودية؟,What is a common snack for nursery kids in Saudi Arabia?
+1,Al-en-02,Food,English (US),ما هو الطعام الشعبي الذي يتناول مع البيرة في المملكة العربية السعودية؟,What is a popular food to go with beer in Saudi Arabia?
+2,Al-en-04,Food,English (US),ما هي الفاكهة الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular fruit in Saudi Arabia?
+3,Al-en-06,Food,English (US),ما هو طعام كافتيريا المدرسة الشائع في المملكة العربية السعودية؟,What is a common school cafeteria food in Saudi Arabia?
+4,Al-en-08,Food,English (US),ما هي الوجبات الخفيفة التي يتناولها الناس في مراكز التسوق في المملكة العربية السعودية؟,What are the most commonly eaten snacks at shopping malls in Saudi Arabia?
+5,Al-en-09,Food,English (US),ما هي الوجبة الخفيفة الشعبية في مدينة الملاهي في المملكة العربية السعودية؟,What is a popular snack at an amusement park in Saudi Arabia?
+6,Al-en-16,Education,English (US),في أي سن يبدأ الأطفال الذهاب للروضة في المملكة العربية السعودية؟ (استعمل الأرقام العربية فقط (مثلاً، 12.),"At what age do kids start nursery in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+7,Al-en-17,Education,English (US),ما هو النشاط الرياضي المفضل بعد المدرسة لتلاميذ الابتدائي في المملكة العربية السعودية؟,What is a popular afterschool sport for primary schools in Saudi Arabia?
+8,Al-en-18,Education,English (US),ما هي المادة التي يتلقى فيها أكثر تلاميذ الابتدائي دروسا خصوصية في المملكة العربية السعودية؟,For which subject do primary school students get private education in Saudi Arabia?
+9,Al-en-19,Education,English (US),ما هي اللغة الثانية الشائعة لطلاب الثانوية في المملكة العربية السعودية؟,What is a popular second language for secondary school students in Saudi Arabia?
+10,Al-en-21,Education,English (US),أي مادة هي الأهم لتعليم الموهوبين في المملكة العربية السعودية؟,Which subject is the most important for gifted education in Saudi Arabia?
+11,Al-en-32,Holidays/Celebration/Leisure,English (US),ما هو الطبق الرئيسي لعيد الشكر في المملكة العربية السعودية؟,What is the main dish for Thanksgiving in Saudi Arabia?
+12,Al-en-33,Holidays/Celebration/Leisure,English (US),ماذا يفعل الناس للاحتفال بعيد الهالوين في المملكة العربية السعودية؟,What do people do to celebrate Halloween in Saudi Arabia?
+13,Al-en-34,Holidays/Celebration/Leisure,English (US),كيف يحتفل الناس برأس السنة الجديدة في المملكة العربية السعودية؟,What do people do to celebrate New Year's Day in Saudi Arabia?
+14,Al-en-35,Holidays/Celebration/Leisure,English (US),ماذا يفعل الناس للاحتفال بعيد الميلاد في المملكة العربية السعودية؟,What do people do to celebrate Christmas in Saudi Arabia?
+15,Al-en-36,Holidays/Celebration/Leisure,English (US),أي نوع من الطعام يرتبط بعيد الهالوين في المملكة العربية السعودية؟,What food is associated with Halloween in Saudi Arabia?
+16,Al-en-37,Holidays/Celebration/Leisure,English (US),ما هي الأطعمة المرتبطة بعيد الميلاد في المملكة العربية السعودية؟,What food is associated with Christmas in Saudi Arabia?
+17,Al-en-38,Holidays/Celebration/Leisure,English (US),ما هو الطعام المرتبط بعيد الحب في المملكة العربية السعودية؟,What food is associated with Valentine's day in Saudi Arabia?
+18,Al-en-39,Holidays/Celebration/Leisure,English (US),ماذا يأكل الناس في أعياد ميلادهم في المملكة العربية السعودية؟,What do people eat on their birthday in Saudi Arabia?
+19,Al-en-40,Holidays/Celebration/Leisure,English (US),ما هو مكان أشهر مكان لخروج العائلات مع الأطفال الصغار في المملكة العربية السعودية؟,What is a popular outdoor place for families to have fun with little kids in Saudi Arabia?
+20,Al-en-43,Holidays/Celebration/Leisure,English (US),ما هي الأنشطة العائلية المنزلية في المملكة العربية السعودية؟,What is a popular indoor activity for families in Saudi Arabia?
+21,An-ar-02,Education,Arabic (Algeria),أين يتناول طلبة الجامعة غداءهم في المملكة العربية السعودية؟,Where do university students have lunch in Saudi Arabia?
+22,An-ar-03,Education,Arabic (Algeria),في أي شهر يتم عادة جدولة الامتحانات النهائية في المدارس الثانوية في المملكة العربية السعودية؟ (أجب برقم من 1 إلى 12),Which month is the final exam term usually scheduled at secondary schools in Saudi Arabia? (Provide Arabic numerals (1~12) only.)
+23,An-ar-08,Education,Arabic (Algeria),ماهو عدد الساعات التي يقضيها طلاب الثانوية  في المدرسة في المملكة العربية السعودية؟ (استعمل الأرقام العربية الصحيحة (0~24)، بدون أي نقاط عشرية.),"How many hours a day do students in Saudi Arabia usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
+24,An-ar-09,Education,Arabic (Algeria),ما هو عدد اللغات التي يدرسها طلاب المدارس الثانوية في المملكة العربية السعودية؟ (أجب برقم، مثلا 5.),"How many languages do students study at secondary school in Saudi Arabia? (Provide Arabic numerals (e.g., 5) only.)"
+25,An-ar-34,Sport,Arabic (Algeria),ما هي أشهر رياضة جماعية في المدارس السعودية؟,What is the most popular sport played in a team at school in Saudi Arabia?
+26,An-ar-35,Sport,Arabic (Algeria),من هو أشهر معلق رياضي في المملكة العربية السعودية؟,Who is the most popular sports commentator in Saudi Arabia?
+27,An-ar-36,Sport,Arabic (Algeria),ما هو أشهر فريق رياضي في المملكة العربية السعودية؟,What is the most popular sports team in Saudi Arabia?
+28,An-ar-43,Sport,Arabic (Algeria),ما هي الأماكن أو الفضاءات الشائعة التي يتجمع فيها الأفراد في المملكة العربية السعودية لمشاهدة بث رياضي؟,What are the common places or venues where individuals in Saudi Arabia usually gather to watch sports broadcasts?
+29,Ca-sp-05,Food,Spanish (Spain),ما هو عدد الوجبات التي يتناولها الناس يوميا في المملكة العربية السعودية عادة؟(استعمل الأرقام العربية مثل 5),"How many meals per day do people from Saudi Arabia usually have? (Provide Arabic numerals (e.g., 5) only.)"
+30,Ca-sp-06,Food,Spanish (Spain),ما هي أهم وجبة يومية بالنسبة للشعب السعودي؟,Which is the most important meal of the day to people from Saudi Arabia?
+31,Ca-sp-08,Food,Spanish (Spain),ما هو أكثر مكون شائع الاستخدام في النظام الغذائي السعودي؟,What is the most common ingredient used in Saudi Arabia's diet?
+32,Ca-sp-09,Food,Spanish (Spain),ماذا يأكل الناس في المملكة العربية السعودية عادة للتحلية بعد الطعام؟,What do people from Saudi Arabia usually eat for dessert?
+33,Ca-sp-11,Food,Spanish (Spain),أي يوم من أيام الأسبوع ينظم الناس عادة وجبة عائلية في المملكة العربية السعودية؟,Which day of the week do people usually organize a family meal in Saudi Arabia?
+34,Ca-sp-14,Food,Spanish (Spain),ما هو المشروب الساخن الأكثر شعبية في المملكة العربية السعودية؟,Which is the most popular hot drink in Saudi Arabia?
+35,Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),ماذا يشرب الشباب في المملكة العربية السعودية عادة في النادي الليلي؟,What do young people from Saudi Arabia usually drink at the night club?
+36,Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),في أي شهر يأخذ الناس عادة عطلاتهم في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 1~12).,In which month do people usually take holidays in Saudi Arabia? (Provide Arabic numerals (1~12) only.)
+37,Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),ما هي تقاليد ليلة رأس السنة في المملكة العربية السعودية؟,What tradition is there in Saudi Arabia for New Year's Eve?
+38,Ca-sp-38,Family,Spanish (Spain),ما هو النوع النموذجي لمنازل العائلات في المملكة العربية السعودية؟,Which is the typical type of house for a family in Saudi Arabia?
+39,Ca-sp-41,Family,Spanish (Spain),أين يعيش كبار السن العاجزين عادة في المملكة العربية السعودية؟,Where do the dependent elderly usually live in Saudi Arabia?
+40,Ca-sp-42,Family,Spanish (Spain),ماهي مدة إجازة الأمومة في المملكة العربية السعودية بالأسابيع؟ (استعمل الأرقام العربية مثل 7، 8.).,"How long (in weeks) is Saudi Arabia's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
+41,Ca-sp-43,Family,Spanish (Spain),ما هي مدة إجازة الأبوة في المملكة العربية السعودية(بالأسابيع)؟ (استعمل الأرقام العربية مثل 7، 8.),"How long (in weeks) is Saudi Arabia's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
+42,Ca-sp-45,Family,Spanish (Spain),ماهي الوجهة الشائعة لقضاء عطلة عائلية في المملكة العربية السعودية؟,What type of destination is commonly chosen for a family holiday in Saudi Arabia?
+43,Gu-ch-05,Sport,Chinese (China),ما هي الرياضات المفضلة لكبار السن في المملكة العربية السعودية؟,What sports do seniors like the most in Saudi Arabia?
+44,Gu-ch-06,Sport,Chinese (China),ما هي الرياضات المفضلة للرجال في المملكة العربية السعودية؟,What sports do men like to play the most in Saudi Arabia?
+45,Gu-ch-07,Sport,Chinese (China),من هو أشهر لاعب كرة سلة في المملكة العربية السعودية؟,Who is the most famous basketball player in Saudi Arabia?
+46,Gu-ch-08,Sport,Chinese (China),ما هو أشهر رياضة للأطفال في المملكة العربية السعودية؟,What is the most popular sports among children in Saudi Arabia?
+47,Gu-ch-09,Sport,Chinese (China),ما هي الرياضات المفضلة للنساء في المملكة العربية السعودية؟,What sports do women like to play the most in Saudi Arabia?
+48,Gu-ch-11,Sport,Chinese (China),هاهي الرياضة  التي فازت المملكة العربية السعودية فيها بأكبر عدد من الميداليات الذهبية في الأولمبياد؟,In which sports event at the olympics has Saudi Arabia won the most gold medals?
+49,Gu-ch-15,Sport,Chinese (China),ما هي الرياضات التي يفضل ممارستها طلاب الجامعة الذكور في المملكة العربية السعودية؟,What sports do male students in university like to play the most in Saudi Arabia?
+50,Gu-ch-16,Family,Chinese (China),هاهو متوسط عدد أفراد الأسرة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"How many people are there in a family on average in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+51,Gu-ch-18,Family,Chinese (China),هاهو متوسط عدد الأطفال في الأسرة الواحدة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"How many children do couples usually have in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+52,Gu-ch-31,Education,Chinese (China),"ما هي مدة الدراسة الابتدائية بالسنوات في المملكة العربية السعودية؟ (أجب برقم, مثلا 12.)","What is the duration of primary school (in years) in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+53,Gu-ch-32,Education,Chinese (China),"ما هي مدة التعليم الإلزامي بالسنوات في المملكة العربية السعودية؟(أجب برقم, مثلا 12)","What is the duration of compulsory education (in years) in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+54,Gu-ch-33,Education,Chinese (China),في أي سن يبدأ الطلاب تعلم لغة ثانية في المملكة العربية السعودية؟(أجب برقم، مثلا 12.),"From which age do students start learning their second language in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+55,Gu-ch-38,Education,Chinese (China),"ما هي مدة التعليم الجامعي في المملكة العربية السعودية؟ (أجب برقم, مثلا 12)","What is the duration of undergraduate education (in years) in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+56,Gu-ch-40,Education,Chinese (China),متى ينتهي دوام تلاميذ المدارس الابتدائية في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثلاً، 18:00، 09:00).,"What time do younger primary school students finish school in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+57,Gu-ch-41,Education,Chinese (China),ماهو عدد الآلات الموسيقية التي يعزف عليها تلاميذ المدارس الابتدائية في المملكة العربية السعودية عادة؟ (أجب برقم، مثلا 12.),"How many musical instruments do primary school students in Saudi Arabia typically play? (Provide Arabic numerals (e.g., 12) only.)"
+58,Ji-ko-02,Work life,Korean (South Korea),أي يوم من أيام الأسبوع يُفَضَل لتنظيم عشاءات الشركات في المملكة العربية السعودية؟,What day of the week do people in Saudi Arabia prefer to have company dinners?
+59,Ji-ko-03,Work life,Korean (South Korea),ماهي المنطقة/المدينة التي تحوي أكبر عدد من الشركات المالية في المملكة العربية السعودية؟,Which region/city has the highest number of financial companies in Saudi Arabia?
+60,Ji-ko-07,Work life,Korean (South Korea),ما هي أشهر شركة خاصة في المملكة العربية السعودية؟,What is the most famous private company in Saudi Arabia?
+61,Ji-ko-08,Work life,Korean (South Korea),ما هو العدد الأقصى لساعات العمل الأسبوعي في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 12).,"What is the maximum number of hours one can work per week in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+62,Ji-ko-09,Work life,Korean (South Korea),ماذا يأكل الناس في تجمعات الشركات في المملكة العربية السعودية عادة؟,What do people typically eat during company get-together in Saudi Arabia?
+63,Ji-ko-14,Work life,Korean (South Korea),ما هوأهم منتج تصدره المملكة العربية السعودية؟,What is the representative export item of Saudi Arabia?
+64,Ji-ko-15,Work life,Korean (South Korea),كم تدوم فترة الاستراحة للغداء في المملكة العربية السعودية (بالساعات) ؟ (قدم الأرقام العربية بمنزلة عشرية واحدة (مثلاً، 2، 3.5) فقط.),"How long (in hours) is the typical lunch break in Saudi Arabia? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+65,Ji-ko-16,Family,Korean (South Korea),أين تقيم الأمهات لفترة التعافي بعد الولادة في المملكة العربية السعودية؟,Where do mothers stay for a certain period after childbirth for recovery in Saudi Arabia?
+66,Ji-ko-19,Family,Korean (South Korea),ما هي الزهرة الأكثر إهداءً في المملكة العربية السعودية في يوم الوالدين؟,What is Saudi Arabia's most commonly given flower on Parents' Day?
+67,Ji-ko-22,Family,Korean (South Korea),على ما ينفق الناس أول راتب لهم في المجتمع السعودي؟,What do people especially spend their first salary on in Saudi Arabia's society?
+68,Ji-ko-24,Family,Korean (South Korea),ما هي المرافق الترفيهية المفضلة لدى الأطفال في المملكة العربية السعودية؟,What is the most preferred recreational facility among children in Saudi Arabia?
+69,Ji-ko-25,Family,Korean (South Korea),ما هي العطل العائلية في المملكة العربية السعودية؟,What are the family-related holidays in Saudi Arabia?
+70,Ji-ko-26,Family,Korean (South Korea),ما هي المراحل الرئيسية المرتبطة باستقلال الأطفال عن والديهم في المجتمع السعودي؟,What are the key milestones associated with children's independence from their parents in Saudi Arabia's society?
+71,Ji-ko-27,Family,Korean (South Korea),ما هي الهدية التي تقدمها عند زيارة الوالدين المسنين في المملكة العربية السعودية؟,What is the common gift you give when visiting elderly parents in Saudi Arabia?
+72,Ji-ko-28,Family,Korean (South Korea),ما هو أول يوم يحتفل فيه الناس بولادة طفل في المملكة العربية السعودية؟,When is the first day that people celebrate after a child is born in Saudi Arabia?
+73,Ji-ko-29,Family,Korean (South Korea),أي عيد ميلاد يحتفل به بأكبر قدر من الفخامة في المجتمع السعودي؟,Which age's birthday is celebrated the most grandly in Saudi Arabia's society?
+74,Ji-ko-31,Education,Korean (South Korea),أين يحضّر طلاب المتوسط والثانوي لامتحاناتهم  في المملكة العربية السعودية؟,Where do secondary school students in Saudi Arabia usually study for exams?
+75,Ji-ko-33,Education,Korean (South Korea),أين يذهب طلاب الثانوية في المملكة العربية السعودية عادة بعد العشاء؟,Where do secondary school students in Saudi Arabia usually go after dinner?
+76,Ji-ko-34,Education,Korean (South Korea),كيف يتنقل تلاميذ المدارس الابتدائية إلى المدرسة في المملكة العربية السعودية؟,How do primary school students in Saudi Arabia get to school?
+77,Ji-ko-35,Education,Korean (South Korea),ما هي أكثر أشكال التعليم الخاص شيوعًا في المملكة العربية السعودية؟,What is the most common form of private education in Saudi Arabia?
+78,Ji-ko-36,Education,Korean (South Korea),أي أكاديمية أو معهد تعليمي خاص بمادة معينة يرتادها طلاب المتوسط أو الثانوي في المملكة العربية السعودية بكثرة؟,Which subject’s academy/private educational institute do secondary school students most frequently attend in Saudi Arabia?
+79,Ji-ko-37,Education,Korean (South Korea),ماهو نوع الملابس التي يرتديها طلاب المتوسط والثانوي للذهاب إلى المدرسة في المملكة العربية السعودية؟,What type of clothing do secondary school students wear to school in Saudi Arabia?
+80,Ji-ko-38,Education,Korean (South Korea),ما هو التخصص الجامعي  الذي يُعتبر الأصعب  بسبب معدل القبول في المملكة العربية السعودية؟,Which degree is considered the most difficult to gain admission to in Saudi Arabia?
+81,Ji-ko-39,Education,Korean (South Korea),ما هي الآلة الموسيقية التي يقبل أكثر تلاميذ المدارس على تعلمها في المملكة العربية السعودية؟,What is the most commonly learned musical instrument by primary school students in Saudi Arabia?
+82,Ji-ko-40,Education,Korean (South Korea),ماذا يفعل طلاب الثانوية عادة أثناء فترة الاستراحة في المدارس في المملكة العربية السعودية؟,What do secondary school students typically do during break time in schools in Saudi Arabia?
+83,Ji-ko-41,Education,Korean (South Korea),ماهو نوع الأحذية التي يرتديها طلاب المدارس في المملكة العربية السعودية؟,What kind of shoes do students wear in schools in Saudi Arabia?
+84,Ji-ko-42,Education,Korean (South Korea),ما هي مواد امتحان دخول الجامعة في المملكة العربية السعودية؟,What are the required subjects in Saudi Arabia's university entrance exam?
+85,Ji-ko-44,Education,Korean (South Korea),ماهي المنطقة (داخل مدينة) في المملكة العربية السعودية التي تتمتع بأعلى حماس أكاديمي؟,Which region (within a city) in Saudi Arabia has the highest academic fervour?
+86,Ji-ko-45,Education,Korean (South Korea),ما الذي يتطلع إليه الناس أكثر شيء في مهرجانات الجامعات في المملكة العربية السعودية؟,What do people look forward to the most at university festivals in Saudi Arabia?
+87,Jo-sp-01,Sport,Spanish (Spain),ما هي ثاني رياضة الأكثر شعبية في المملكة العربية السعودية؟,What is the second most popular sport in Saudi Arabia?
+88,Jo-sp-02,Sport,Spanish (Spain),ما هي أشهر رياضة تُلعب بدون كرة في المملكة العربية السعودية؟,What is the most popular sport played without a ball in Saudi Arabia?
+89,Jo-sp-09,Sport,Spanish (Spain),ما هي الرياضات الأكثر ارتباطًا بالطبقة الغنية في المملكة العربية السعودية؟,What sports are most associated with the upper class in Saudi Arabia?
+90,Jo-sp-13,Sport,Spanish (Spain),ما هي الرياضة المائية الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular water sport in Saudi Arabia?
+91,Jo-sp-14,Sport,Spanish (Spain),ما هي أشهر رياضة ذهنية في المملكة العربية السعودية؟,What is the most popular mental sport in Saudi Arabia?
+92,Jo-sp-18,Work life,Spanish (Spain),ماهو عدد أيام العطل التي يحصل عليها العامل العادي كل سنة في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 12),"How many holiday days per year does a standard worker get in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+93,Jo-sp-19,Work life,Spanish (Spain),ها هي أهم منطقة زراعية في المملكة العربية السعودية؟,What region in Saudi Arabia has been traditionally associated with agriculture?
+94,Jo-sp-21,Work life,Spanish (Spain),متى يغادر الناس العمل لتناول الغداء عادة في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثلاً، 18:00، 09:00).,"What time, if any, do people usually leave work for lunch in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+95,Jo-sp-31,Education,Spanish (Spain),متى يغادر طلاب الثانوية المدرسة في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقائق مثل، 18:00، 09:00).,"What time do secondary school students tend to leave school in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+96,Jo-sp-32,Education,Spanish (Spain),ماهي الرياضة التي يمارسها تلاميذ المدارس الابتدائية في المدارس في المملكة العربية السعودية؟,What sport do primary school students tend to practice at school in Saudi Arabia?
+97,Jo-sp-36,Education,Spanish (Spain),ماهي مدة عطلة الصيف (بالأسابيع) في المدارس الابتدائية في المملكة العربية السعودية؟  (استعمل الأرقام العربية مثل 7، 8),"How long (in weeks) are summer holidays at primary schools in Saudi Arabia? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+98,Jo-sp-37,Education,Spanish (Spain),ما هي مدة عطلة الصيف في الجامعات السعودية بالأسابيع؟ (استعمل الأرقام العربية مثل 7، 8.),"How long (in weeks) are summer holidays at universities in Saudi Arabia? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+99,Jo-sp-39,Education,Spanish (Spain),في أي سن يبدأ الأطفال التعليم الابتدائي في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"At what age does primary education begin in Saudi Arabia? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+100,Jo-sp-43,Education,Spanish (Spain),بالإضافة إلى اللغة الرسمية للملكة العربية السعودية، ما هو عدد اللغات التي يدرسها تلاميذ التعليم الابتدائي؟(استعمل الأرقام العربية مثل 7، 8.),"How many languages are studied in primary education besides Saudi Arabia's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+101,Jod-ch-01,Food,Chinese (China),ما هي أدوات الأكل التي يستخدمها الناس عادة في المملكة العربية السعودية؟,What eating utensils do people commonly use in Saudi Arabia?
+102,Jod-ch-04,Food,Chinese (China),ما هو المشروب الغازي  الذي يفضله الناس في المملكة العربية السعودية؟,What soft drink do people in Saudi Arabia like to have?
+103,Jod-ch-06,Food,Chinese (China),ما هو أشهر نوع تقليدي من الكحول في المملكة العربية السعودية؟,What is the most popular traditional alcohol in Saudi Arabia?
+104,Jod-ch-07,Food,Chinese (China),ما هي المدة (بالساعات) التي يقضيها الناس عادةً لتناول العشاء في مطعم  في المملكة العربية السعودية؟ (قدم الأرقام العربية حتى منزلة عشرية واحدة (مثلاً، 2، 3.5) فقط.),"How long (in hours) on average does it take for people in Saudi Arabia to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+105,Jod-ch-09,Food,Chinese (China),متى يتناول الناس العشاء عادة في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثلاً، 18:00، 09:00).,"What time do people usually have dinner in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+106,Jod-ch-12,Food,Chinese (China),ماهو الحساء الذي يحبه الناس في المملكة العربية السعودية؟,What kind of soup do people from Saudi Arabia like to have?
+107,Jod-ch-13,Food,Chinese (China),ماهي الأكلات الشعبية التي يحب السعوديون تناولها؟,What street food do people from Saudi Arabia like to eat?
+108,Jod-ch-15,Food,Chinese (China),ماهي المأكولات البحرية التي يحبها السعوديون؟,What kind of seafood do people from Saudi Arabia like to eat?
+109,Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),ما هو أكبر احتفال في المملكة العربية السعودية؟,What is the biggest festival in Saudi Arabia?
+110,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),ما هي وسيلة النقل العمومي الأكثر استخداما عند السفر بين المدن في المملكة العربية السعودية؟,What is the most commonly used public transport by people when travelling between cites in Saudi Arabia?
+111,Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),ما هي الزينة أو الرموز الخاصة المرتبطة بعيد الاستقلال في المملكة العربية السعودية؟,What are the specific decorations or symbols associated with the biggest festival in Saudi Arabia?
+112,Jod-ch-37,Sport,Chinese (China),ما هي الرياضة التي تفضل النساء مشاهدتها في المملكة العربية السعودية؟,What sports do women like to watch the most in Saudi Arabia?
+113,Jod-ch-38,Sport,Chinese (China),ما هي الرياضة التي يفضل الرجال مشاهدتها في المملكة العربية السعودية؟,What sports do men like to watch the most in Saudi Arabia?
+114,Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),ما هي النشاطات الترفيهية التي تمارسها النساء في العشرينات عادة في المملكة العربية السعودية؟,What is the common leisure activity that females in their 20s in Saudi Arabia engage in?
+115,Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),ما هي النشاطات الترفيهية التي يمارسها الرجال في العشرينات عادة في المملكة العربية السعودية؟,What is the common leisure activity that males in their 20s in Saudi Arabia engage in?
+116,Jod-ch-46,Work life,Chinese (China),ما هي مدة استراحة بعد الغداء (بالساعات) في يوم عمل في المملكة العربية السعودية؟ (قدم الأرقام العربية بمنزلة عشرية واحدة (مثلاً، 2، 3.5) فقط.),"How long (in hours) do people usually take a break after lunch on a weekday in Saudi Arabia? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+117,Jod-ch-48,Work life,Chinese (China),ماذا يتغذى الناس خلال أيام العمل عادة في المملكة العربية السعودية؟,What do people eat for lunch during the working days in Saudi Arabia?
+118,Jod-ch-50,Work life,Chinese (China),ما هو متوسط  مدة التنقل للعمل في المملكة العربية السعودية؟,"What is the average commute time (in minutes) for people in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+119,Jod-ch-51,Work life,Chinese (China),ما هي وسيلة النقل للذهاب إلى العمل الأكثر استعمالا في المملكة العربية السعودية؟,What is the most common transportation that people take to get to work in Saudi Arabia?
+120,Jod-ch-54,Work life,Chinese (China),ما هي مدة إجازة الزواج  (بالأيام) في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 12).,"How long (in days) is marriage leave in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+121,Jod-ch-56,Work life,Chinese (China),ما هو سن التقاعد  للنساء في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 12).,"What is the typical retirement age for women in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+122,Jod-ch-57,Work life,Chinese (China),ما هو سن التقاعد للرجال في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 12).,"What is the typical retirement age for men in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+123,Jod-ch-58,Work life,Chinese (China),ماهي المهنة الأكثر احترامًا في المملكة العربية السعودية؟,Which profession is the most respected in Saudi Arabia?
+124,Jod-ch-60,Work life,Chinese (China),ما هي مدة يوم العمل النموذجي (بالساعات) في المملكة العربية السعودية ؟ (استعمل الأرقام العربية مثل 0~24).,What is the duration (in hours) of a typical workday in Saudi Arabia? (Provide Arabic numerals (0~24) only.)
+125,Jod-ch-61,Work life,Chinese (China),ماهي المهنة التي تفضلها النساء عادة في المملكة العربية السعودية؟,Which occupation is most preferred among females in Saudi Arabia?
+126,Jod-ch-62,Work life,Chinese (China),ماهي المهنة التي يفضلها الرجال عادة في المملكة العربية السعودية؟,Which occupation is most preferred among males in Saudi Arabia?
+127,Ki-pe-17,Education,Persian (Iran),ما هو متوسط مستوى التعليم في المملكة العربية السعودية؟ (مثلاً، الابتدائية، الثانوية),"On average, how far do students typically pursue their education in Saudi Arabia? (e.g., primary, secondary school)"
+128,Ki-pe-24,Education,Persian (Iran),ماهي اللغة الأجنبية التي تُدرَّس في المدارس السعودية بالإضافة إلى اللغة الإنجليزية؟,What language is taught in schools in Saudi Arabia besides English?
+129,Ki-pe-30,Education,Persian (Iran),في أي يوم من أيام الأسبوع تكون فيه المدارس مغلقة في المملكة العربية السعودية؟,What days of the week are schools closed in Saudi Arabia?
+130,Ki-pe-32,Food,Persian (Iran),ما هي الأطعمة التي يعدّها الناس للضيوف في المملكة العربية السعودية؟,What food do the hosts usually prepare for the guests in Saudi Arabia?
+131,Ki-pe-34,Food,Persian (Iran),ما هو المشروب المعتاد في وجبة فطور الصباح في المملكة العربية السعودية؟,What is the usual drink consumed during breakfast in Saudi Arabia?
+132,Ki-pe-36,Food,Persian (Iran),أي دولة (عدا المملكة العربية السعودية) يُعتبر أكلها الأكثر شعبية في المملكة العربية السعودية؟,"Except the food original from Saudi Arabia, which country's food is more popular in Saudi Arabia?"
+133,Ki-pe-39,Food,Persian (Iran),ما هي الأطعمة التي يحضرها الناس عادة لنزهة عائلية في المملكة العربية السعودية؟,What food is usually prepared for a family picnic in Saudi Arabia?
+134,Ki-pe-40,Food,Persian (Iran),ماهو الطعام السعودي الذي قد يُعتبر مقززًا بالنسبة لبقية العالم؟,Which food from Saudi Arabia is considered disgusting by the rest of the world?
+135,Ki-pe-43,Food,Persian (Iran),ما هو اسم الخبز الشعبي في المملكة العربية السعودية؟,What is the name of the popular bread in Saudi Arabia?
+136,Ki-pe-51,Work life,Persian (Iran),في أي وقت تغلق المكاتب الحكومية في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).,"What time of day are government offices closed in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+137,Ki-pe-53,Work life,Persian (Iran),ما هو موعد بداية العمل الرسمي في المؤسسات الحكومية في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة والدقائق مثلاً، 18:00، 09:00).,"What is the normal start time of government offices in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+138,Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هو العيد الوطني الأطول مدة في المملكة العربية السعودية؟,What national holiday has the longest duration in Saudi Arabia?
+139,Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي أنشطة الاحتفال بعيد الاستقلال لدى السعوديين؟,What are the common activities people from Saudi Arabia do to celebrate Independence day?
+140,Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما الذي يتم تركيبه أمام المنزل عندما يتوفى أحد أفراد العائلة في المملكة العربية السعودية؟,What is installed in front of the house when a family member dies in Saudi Arabia?
+141,Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),متى يتم الاحتفال بالحمل أو إقامة مراسم لذلك في المملكة العربية السعودية؟,When is a pregnancy celebration or ceremony usually held in Saudi Arabia?
+142,Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),ماذا يقام عادة قبل الزفاف في المملكة العربية السعودية؟,What event is usually held before a wedding in Saudi Arabia?
+143,Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما الذي يتم توزيعه عادة على الأطفال خلال السنة الجديدة القمرية في المملكة العربية السعودية؟,What is usually given to children during (Lunar) New Year in Saudi Arabia?
+144,Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الأنشطة التي تُمارس عادة في الأيام التي تسبق رمضان في المملكة العربية السعودية؟,What activities are usually done days before Ramadan in Saudi Arabia?
+145,Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هو أشهر معلم سياحي للزوار الأجانب في المملكة العربية السعودية؟,What is the most popular tourist attraction for foreign visitors in Saudi Arabia?
+146,Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي أشهر المواقع الدينية (معبد، كنيسة، إلخ) للسياحة في المملكة العربية السعودية؟,"What is the most popular religious sites (temple, church, etc.) for tourism in Saudi Arabia?"
+147,Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي الملابس التي ترتديها النساء عادة في حفل التخرج من الجامعة في المملكة العربية السعودية؟,What clothes do women usually wear on graduation ceremony in Saudi Arabia?
+148,Kik-in-16,Food,Indonesian (Indonesia),ما هو المشروب المستهلك بكثرة عندما يكون الطقس باردا في المملكة العربية السعودية؟,What drink is commonly consumed in Saudi Arabia when the weather is cold?
+149,Kik-in-17,Food,Indonesian (Indonesia),ماهو نوع الفواكه الذي يُباع ويُوجد بكثرة خلال شهر رمضان في المملكة العربية السعودية؟,What fruit is more commonly sold and found during Ramadan in Saudi Arabia?
+150,Kik-in-24,Food,Indonesian (Indonesia),ماهي الكربوهيدرات  التي تقدم عادة مع الدجاج في مطاعم الوجبات السريعة في المملكة العربية السعودية؟,What carbohydrate is usually served with chicken in a fast-food restaurant in Saudi Arabia?
+151,Kik-in-31,Sport,Indonesian (Indonesia),ما هي أشهر رياضة فنون قتالية في المملكة العربية السعودية؟,What is the most famous martial art sports in Saudi Arabia?
+152,Kik-in-34,Sport,Indonesian (Indonesia),ما هي الرياضات التي غالبا ما تُبث على التلفزيون الوطني في المملكة العربية السعودية؟,What sports are often broadcasted on national television in Saudi Arabia?
+153,Kik-in-35,Sport,Indonesian (Indonesia),ما هي الرياضات التي شاعت بين الناس خلال جائحة كوفيد19 في المملكة العربية السعودية؟,What sports were popular among people from Saudi Arabia during the COVID-19 pandemic?
+154,Kik-in-36,Sport,Indonesian (Indonesia),من هو أشهر مدرب كرة قدم في المملكة العربية السعودية؟,Who is the most popular football coach in Saudi Arabia?
+155,Kik-in-37,Sport,Indonesian (Indonesia),ما هي الفرق الكروية في المملكة العربية السعودية المعروفة بتنافسها الشديد؟ (مثلاً ___ ضد ___),What football teams in Saudi Arabia are famous for their intense rivalry? (e.g. ___ vs ___)
+156,Kik-in-38,Sport,Indonesian (Indonesia),ما هي أسماء مشجعي كرة القدم في المملكة العربية السعودية الذين يشتهرون بتنافسهم الشديد؟ (مثلاً ___ ضد ___),What are the names of football supporters in Saudi Arabia who are famous for their intense rivalry? (e.g. ___ vs ___)
+157,Kik-in-40,Sport,Indonesian (Indonesia),من هو أشهر لاعب بادمنتون رجالي في المملكة العربية السعودية؟,Who is the most famous male badminton player in Saudi Arabia?
+158,Kik-in-41,Sport,Indonesian (Indonesia),من هي أشهر لاعبة بادمنتون في المملكة العربية السعودية؟,Who is the most famous female badminton player in Saudi Arabia?
+159,Kik-in-44,Sport,Indonesian (Indonesia),ماهي الرياضة التي تحظى بأكبر دعم من الحكومة في المملكة العربية السعودية؟,What sport gets the most support from the government in Saudi Arabia?
+160,Kik-in-45,Sport,Indonesian (Indonesia),ما هي المرافق الرياضية المتوفرة في المدارس السعودية عادة؟,What sports field facilities are usually available at schools in Saudi Arabia?
+161,Na-ko-02,Food,Korean (South Korea),ماهو المشروب الذي يستمتع به السعوديون عادة في المقاهي؟,What cafe beverage do people from Saudi Arabia most commonly enjoy?
+162,Na-ko-04,Food,Korean (South Korea),ما هو الطعام المفضل لعلاج صداع الخمر لدى الشعب السعودي؟,What is the preferred hangover cure food for people from Saudi Arabia?
+163,Na-ko-05,Food,Korean (South Korea),ما هو الطعام الذي يطلبه الكثيرون في المملكة العربية السعودية؟(delivery),What is the typical delivery food in Saudi Arabia?
+164,Na-ko-07,Food,Korean (South Korea),ماهو نوع اللحوم الأكثر استهلاكا  في المملكة العربية السعودية؟,What type of meat is consumed most by people from Saudi Arabia?
+165,Na-ko-08,Food,Korean (South Korea),ماهي الفواكه التي يتناولها السعوديون غالبًا في موسم الخريف؟,What fruit do people from Saudi Arabia often eat in the autumn season?
+166,Na-ko-09,Food,Korean (South Korea),ما هو الطبق الجانبي الأكثر شيوعاً في المملكة العربية السعودية؟,What side dish is the most commonly served on a dining table in Saudi Arabia?
+167,Na-ko-11,Food,Korean (South Korea),ماذا يأكل الناس أثناء مشاهدة مباراة كرة قدم في المملكة العربية السعودية؟,What do people from Saudi Arabia eat while watching a football game?
+168,Na-ko-15,Food,Korean (South Korea),ما هو الطعام المغذي الممثل للمملكة العربية السعودية؟,What is the representative nourishing food in Saudi Arabia?
+169,Na-ko-16,Sport,Korean (South Korea),من هو أشهر لاعب كرة قدم في المملكة العربية السعودية؟,Who is the most famous football player in Saudi Arabia?
+170,Na-ko-17,Sport,Korean (South Korea),ما هي الرياضة التي يستمتع بها الطلاب الذكور أثناء وقت الغداء في المدرسة في المملكة العربية السعودية؟,What sports do male students enjoy during lunch time at school in Saudi Arabia?
+171,Na-ko-18,Sport,Korean (South Korea),ما هي الرياضة التي تشارك فيها الفتيات خلال حصص التربية البدنية في المملكة العربية السعودية؟,What is the most common sport girls participate in during physical education classes in Saudi Arabia?
+172,Na-ko-19,Sport,Korean (South Korea),من هو أشهر لاعب كرة طائرة في المملكة العربية السعودية؟,Who is the most popular volleyball player in Saudi Arabia?
+173,Na-ko-20,Sport,Korean (South Korea),ماهو الحدث الرياضي الذي يتابعه السعوديون بشغف في المنافسات الدولية؟,What sports event do people from Saudi Arabia passionately support the most in international competitions?
+174,Na-ko-22,Sport,Korean (South Korea),ماهو البلد الذي يُعتبر المنافس الأكبر للسعودية في مباريات كرة القدم ؟,Which country is considered the biggest rival in football matches for Saudi Arabia?
+175,Na-ko-23,Sport,Korean (South Korea),ماهي الأكاديميات الرياضية التي يتردد إليها أكثر الأطفال في المملكة العربية السعودية؟,What type of sports academies do children attend the most in Saudi Arabia?
+176,Na-ko-24,Sport,Korean (South Korea),ما هو الطعام الذي يتناوله الناس في الملاعب الرياضية أثناء مشاهدة المباريات في المملكة العربية السعودية؟,What is the most commonly eaten food in sports stadiums while watching games in Saudi Arabia?
+177,Na-ko-25,Sport,Korean (South Korea),ما هي الرياضات التي تُلعب أثناء حصص الرياضة المدرسية في المملكة العربية السعودية؟,What are the typical sports played at Saudi Arabia's school sports day?
+178,Na-ko-26,Sport,Korean (South Korea),ما هي الرياضات الشعبية لمن هم في منتصف العمر في المملكة العربية السعودية؟,What are the popular sports among the middle-aged population in Saudi Arabia?
+179,Na-ko-28,Sport,Korean (South Korea),من هو أشهر لاعب رياضات شتوية في المملكة العربية السعودية؟,Who is the most popular winter sports player in Saudi Arabia?
+180,Na-ko-29,Sport,Korean (South Korea),من هو أشهر سباح في المملكة العربية السعودية؟,Who is the most famous swimmer in Saudi Arabia?
+181,Na-ko-30,Sport,Korean (South Korea),ما هي أشهر لعبة رياضة  إلكترونية في المملكة العربية السعودية؟,What is the most popular e-sports game in Saudi Arabia?
+182,Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),ما هي الأطعمة التي يتناولها السعوديون في السنة القمرية الجديدة؟,What symbolic food do people from Saudi Arabia eat on (Lunar) New Year?
+183,Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),ما هو أشهر مكان لقضاء العطلة داخل الوطن بالنسبة للسعوديين؟,What is the most popular domestic vacation spot for people from Saudi Arabia?
+184,Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),ما هي أكثر هدية زواج شيوعا بين العروس والعريس في المملكة العربية السعودية؟,What is the most common wedding gift between bride and groom in Saudi Arabia?
+185,Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),ما الذي يُهدى عادة لتهنئة صديق عند حضور زفافه في المملكة العربية السعودية؟,What is typically given as a congratulatory gesture when attending a friend's wedding in Saudi Arabia?
+186,Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),ماهو عدد أيام مراسم الجنازة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 12).,"How long (in days) does a funeral typically last in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+187,Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),ماهي الهدية التي يجب تقديمها عند حضور جنازة في المملكة العربية السعودية؟,What should you prepare as a condolence offering when attending a funeral in Saudi Arabia?
+188,Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),ماهو الطعام الذي يقدم عادة في مراسم الجنازات في المملكة العربية السعودية؟,What type of food is commonly provided at funeral parlors in Saudi Arabia?
+189,Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),ما الذي يفعله الناس في صباح السنة القمرية الجديدة في المملكة العربية السعودية؟,What do people do in Saudi Arabia in the morning of the (Lunar) New Year?
+190,Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),ما هو اليوم الذي تشهد فيه المملكة العربية السعودية أشد ازدحام مروري على الصعيد الوطني؟,When is the day with Saudi Arabia's most severe nationwide traffic congestion?
+191,Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),ما هي أشهر وجهة شهر عسل في المملكة العربية السعودية؟,What is the most popular honeymoon destination in Saudi Arabia?
+192,Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),ما هو أهم عيد وطني في المملكة العربية السعودية؟,What is the most important national holiday in Saudi Arabia?
+193,Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),ما الذي يأكله الشعب السعودي خلال شهر رمضان؟,What do people from Saudi Arabia eat during Ramadan?
+194,Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),ما الذي يأكله الشعب السعودي في عيد الفطر؟,What do people from Saudi Arabia eat during Eid ul Fitr?
+195,Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),ماذا يأكل الشعب السعودي في عيد الأضحى؟,What do people from Saudi Arabia eat during Eid ul Adha?
+196,Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),أين يذهب الناس في المملكة العربية السعودية للاحتفال برأس السنة الجديدة؟,Where do people from Saudi Arabia go to celebrate New Year's Day?
+197,Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),أين تجتمع العائلة للاحتفال بعيد الفطر في المملكة العربية السعودية؟,Where do a family gather for Eid festivities in Saudi Arabia?
+198,Ne-ar-16,Work life,Arabic (Algeria),متى تكون عطلة نهاية الأسبوع في المملكة العربية السعودية (مثلا الاثنين، الثلاثاء)؟,"When is the weekend in Saudi Arabia (e.g. Monday, Tuesday)?"
+199,Ne-ar-17,Work life,Arabic (Algeria),متى يبدأ معظم الناس العمل في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).,"At what time do most people start work in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+200,Ne-ar-18,Work life,Arabic (Algeria),متى ينتهي معظم الناس من العمل في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقائق مثلاً، 18:00، 09:00).,"At what time do most people finish work in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+201,Ne-ar-20,Work life,Arabic (Algeria),ما هو العمل الذي يعتبر آمنا في المملكة العربية السعودية؟,What is considered to be a secure job in Saudi Arabia?
+202,Ne-ar-24,Work life,Arabic (Algeria),ماهي المدينة التي تعتبر المركز التجاري الرئيسي في المملكة العربية السعودية؟,Which city is the primary commercial hub in Saudi Arabia?
+203,Ne-ar-25,Work life,Arabic (Algeria),ما هي الصناعة التي تدفع أفضل الأجور في المملكة العربية السعودية؟,What is the industry that pays the best in Saudi Arabia?
+204,Ne-ar-26,Work life,Arabic (Algeria),ما هي أشهر شركة عمومية في المملكة العربية السعودية؟,What is the most famous public corporation in Saudi Arabia?
+205,Ne-ar-31,Food,Arabic (Algeria),ما هو أشهر طبق في المملكة العربية السعودية؟,What is the most famous dish in Saudi Arabia?
+206,Ne-ar-32,Food,Arabic (Algeria),ماذا يتناول الناس عادة للفطور في المملكة العربية السعودية؟,What do people usually have for breakfast in Saudi Arabia?
+207,Ne-ar-33,Food,Arabic (Algeria),متى يتناول الناس الغداء في المملكة العربية السعودية عادة؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).,"When do people usually have lunch in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+208,Ne-ar-34,Food,Arabic (Algeria),ما هو الشيء الأساسي الذي لا غنى عنه في الوجبات في المملكة العربية السعودية؟,What is typically indispensable in meals in Saudi Arabia?
+209,Ne-ar-36,Food,Arabic (Algeria),ما هو الطبق الاحتفالي التقليدي في المملكة العربية السعودية؟,What is a typical festive meal in Saudi Arabia?
+210,Ne-ar-37,Food,Arabic (Algeria),أي نوع من الفواكه يقدمه الناس عادة للسياح/الزوار القادمين من الخارج في المملكة العربية السعودية؟,Which fruit do people usually offer tourists/visitors from abroad in Saudi Arabia?
+211,Ne-ar-38,Food,Arabic (Algeria),أي نوع من الطعام يقدمه الناس عادة كصدقة في المملكة العربية السعودية؟,Which food do people usually offer as charity in Saudi Arabia?
+212,Ne-ar-39,Food,Arabic (Algeria),ما هي أرخص الوجبات السريعة في المملكة العربية السعودية؟,What is the cheapest fast food in Saudi Arabia?
+213,Ne-ar-43,Food,Arabic (Algeria),ماذا يتناول الناس عادة مع الشاي في المملكة العربية السعودية؟,What do people usually have with tea in Saudi Arabia?
+214,Ne-ar-44,Food,Arabic (Algeria),ماذا يتناول الناس مع القهوة في المملكة العربية السعودية؟,What do people have with coffee in Saudi Arabia?
+215,New-am-02,Food,Amharic (Ethiopia),ما هو أشهر طعام تقليدي في المملكة العربية السعودية؟,What is the most popular traditional food in Saudi Arabia?
+216,New-am-04,Food,Amharic (Ethiopia),ما هي أشهر صلصة للتغميس في المملكة العربية السعودية؟,What is the most popular dipping sauce in Saudi Arabia?
+217,New-am-08,Food,Amharic (Ethiopia),ما هو الطعام الأكثر استهلاكا خلال صيام المسيحيين في المملكة العربية السعودية؟,What food is most often consumed during Christian fasting in Saudi Arabia?
+218,New-am-15,Food,Amharic (Ethiopia),ما هو الطعام الذي يُحضر عادةً عندما تلد الأمهات في المملكة العربية السعودية؟,What food is usually prepared when mothers give birth in Saudi Arabia?
+219,New-am-27,Sport,Amharic (Ethiopia),من هي أشهر رياضية في المملكة العربية السعودية؟,Who is the most popular female sportperson in Saudi Arabia?
+220,New-am-34,Education,Amharic (Ethiopia),أين يستعد معظم تلاميذ المدارس الابتدائية لامتحاناتهم في المملكة العربية السعودية؟,Where do most primary school students prepare for their exams in Saudi Arabia?
+221,New-am-41,Education,Amharic (Ethiopia),في أي مستوى دراسي يؤدي الطلاب امتحانهم الوطني الأول في المملكة العربية السعودية؟,"In Saudi Arabia, at which grade level do students take their first national-level examination?"
+222,New-am-53,Work life,Amharic (Ethiopia),ماهي المنطقة السعودية المعروفة بصناعة القهوة / الشاي؟,Which region in Saudi Arabia is widely known for its coffee/tea industry?
+223,New-am-54,Work life,Amharic (Ethiopia),ماهي المنطقة السعودية المعروفة بتربية المواشي؟,Which region in Saudi Arabia is widely known for its livestock industry?
+224,New-am-59,Work life,Amharic (Ethiopia),ما هي المهنة الأساسية لسكان صحراء المملكة العربية السعودية؟,What is the main occupation of people living in deserts in Saudi Arabia?
+225,New-am-60,Work life,Amharic (Ethiopia),ما هو الحيوان  الذي يستخدم للنقل في المملكة العربية السعودية؟,Which animal is typically used for transportation in Saudi Arabia?
+226,New-am-72,Family,Amharic (Ethiopia),ما هو أشهر كتاب قصص مصورة للأطفال في المملكة العربية السعودية؟,What is the most popular comic book for children to read in Saudi Arabia?
+227,New-am-73,Family,Amharic (Ethiopia),ما هي أشهر قناة يوتيوب للأطفال في المملكة العربية السعودية؟,What is the most popular YouTube channel for children in Saudi Arabia?
+228,New-am-74,Family,Amharic (Ethiopia),ما هو أشهر برنامج حواري في المملكة العربية السعودية؟,What is the most popular talk show in Saudi Arabia?
+229,New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هو أشهر عيد ديني في المملكة العربية السعودية؟,What is the most famous religious holiday in Saudi Arabia?
+230,New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هو أكثر شهر تقام فيه الأعراس في المملكة العربية السعودية؟ (قدم الأرقام العربية فقط مثل، 1.),"What is the busiest month for weddings in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+231,New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),ما هي الآلة الموسيقية التقليدية الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular traditional musical instrument in Saudi Arabia?
+232,New-as-01,Food,Assamese (Assam),ما هو المنتج الزراعي الرئيسي الذي يتم إنتاجه في المملكة العربية السعودية؟,What is the main agricultural product produced in Saudi Arabia?
+233,New-as-02,Food,Assamese (Assam),ما هو أشهر طعام مصنوع من القمح في المملكة العربية السعودية؟,What is the most popular wheat-based food item in Saudi Arabia?
+234,New-as-05,Food,Assamese (Assam),ما هو المشروب الذي يُقدم عادة للضيوف في المملكة العربية السعودية؟,What is the most typical drink offered to guests when they visit households in Saudi Arabia?
+235,New-as-07,Food,Assamese (Assam),ما هو أشهر طبق سمك في المملكة العربية السعودية؟,What is the most popular dish cooked with fish in Saudi Arabia?
+236,New-as-14,Food,Assamese (Assam),ما هي الأطعمة التي يفضلها الشعب السعودي عندما يكون الطقس ممطرا؟,What food do people from Saudi Arabia like to eat during rainy weather?
+237,New-as-15,Food,Assamese (Assam),ما هو المشروب الذي يستهلك بكثرة في المملكة العربية السعودية عندما يكون الطقس حارا؟,What drink is commonly consumed in Saudi Arabia when the weather is hot?
+238,New-as-20,Sport,Assamese (Assam),ماهي الرياضة الداخلية الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular indoor sport in Saudi Arabia?
+239,New-as-29,Sport,Assamese (Assam),ما هي الرياضة التي  يحب الرجال مشاهدتها في المملكة العربية السعودية؟,What sport do men in Saudi Arabia like to watch?
+240,New-as-30,Sport,Assamese (Assam),ما هي الرياضة التي  تحب النساء مشاهدتها في المملكة العربية السعودية؟أ,What sport do women in Saudi Arabia like to watch?
+241,New-as-58,Work life,Assamese (Assam),ما هو المشروب الذي يفضل الشعب السعودي شربه في أماكن عملهم؟,What is the most popular beverage that people from Saudi Arabia like to drink in their workplace?
+242,New-as-64,Family,Assamese (Assam),ماهو العيد الذي يجتمع فيه أفراد العائلة في المملكة العربية السعودية؟,On which holiday do all family members tend to reunite in Saudi Arabia?
+243,New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),ما هي الألعاب التقليدية التي تلعبها العائلات خلال العطل في المملكة العربية السعودية؟,What traditional games do families play during traditional holidays in Saudi Arabia?
+244,New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),ما الذي يرتديه الشعب السعودي في الأعياد التقليدية؟,What type of clothing do people from Saudi Arabia wear during traditional festivals?
+245,New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),ما هي الإكسسوارات التي يرتديها الشعب السعودي في الأعياد التقليدية؟,What traditional festival accessories do people from Saudi Arabia wear?
+246,New-az-05,Food,Azerbaijani (Azerbaijan),ما هي أشهر منطقة لإنتاج الكحول في المملكة العربية السعودية؟,What is the most famous region for alcohol production in Saudi Arabia?
+247,New-az-11,Food,Azerbaijani (Azerbaijan),ما هي الفاكهة التي يتناولها السعوديون عادة في فصل الصيف؟,What fruit do people from Saudi Arabia often eat in the summer season?
+248,New-az-12,Food,Azerbaijani (Azerbaijan),ما هي المنطقة  السعودية المعروفة بمأكولاتها البحرية؟,Which region in Saudi Arabia is known for its seafood?
+249,New-az-21,Sport,Azerbaijani (Azerbaijan),ما هي الوجهة الأكثر شعبية للتزلج في المملكة العربية السعودية؟,Which region in Saudi Arabia is the most popular skiing destination?
+250,New-az-26,Sport,Azerbaijani (Azerbaijan),من هو أشهر لاعب فنون قتالية في المملكة العربية السعودية؟,Who is the most popular martial arts player in Saudi Arabia?
+251,New-az-27,Sport,Azerbaijani (Azerbaijan),ما هي الرياضة الأسرع نمواً في المملكة العربية السعودية خلال العقد الماضي؟,Which sport has been one of the fastest-growing in Saudi Arabia over the last decade?
+252,New-az-39,Education,Azerbaijani (Azerbaijan),ما هو البلد الذي يتجه إليه معظم الطلاب السعوديين للدراسة في الخارج؟,Which country is the most popular destination for students from Saudi Arabia studying abroad?
+253,New-az-49,Work life,Azerbaijani (Azerbaijan),ماهو متوسط عدد العمال في عائلة نموذجية في المملكة العربية السعودية؟ (قدم الأرقام العربية فقط مثل، 1.),"How many people work in a typical family in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+254,New-az-60,Family,Azerbaijani (Azerbaijan),من الذي يعتني بالأطفال عادة عندما يعمل الوالدان في المملكة العربية السعودية؟,"In Saudi Arabia, who takes care of kids when both parents are working?"
+255,New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),ما هو المشروب الكحولي المفضل لدى الرجال في المملكة العربية السعودية؟,What is the preferred alcoholic beverage for men from Saudi Arabia?
+256,New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),ما هو المشروب الكحولي المفضل لدى النساء في المملكة العربية السعودية؟,What is the preferred alcoholic beverage for women from Saudi Arabia?
+257,New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),ما هو متوسط عدد المدعوين لحفلات الزفاف في المملكة العربية السعودية؟ (قدم الأرقام العربية فقط مثل، 1.),"How many people on average typically attend a wedding in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+258,New-ch-01,Food,Chinese (China),ماهو نوع اللحوم الذي يُستعمل للشواء على الجمر بكثرة في المملكة العربية السعودية؟,What kind of meat do people usually eat when they have a barbecue in Saudi Arabia?
+259,New-ch-02,Food,Chinese (China),متى يتناول الناس عادة وجبة الإفطار في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).,"When do people usually have breakfast in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+260,New-ch-04,Food,Chinese (China),ما الذي يتناوله الناس كوجبات خفيفة في آخر الليل عادة في المملكة العربية السعودية؟,What kinds of food do people usually eat for late-night snacks in Saudi Arabia?
+261,New-ch-05,Food,Chinese (China),ما هو أشهر طبق حار في المملكة العربية السعودية؟,What is the most famous spicy dish in Saudi Arabia?
+262,New-ch-07,Food,Chinese (China),ما هي المأكولات التي يتناولها الناس عادة مع المشروبات الكحولية القوية في المملكة العربية السعودية؟,What food items do people typically pair with hard liquor in Saudi Arabia?
+263,New-ch-08,Food,Chinese (China),ما هي التوابل الأساسية للطبخ في المملكة العربية السعودية؟,What essential seasoning is indispensable in cooking in Saudi Arabia?
+264,New-ch-09,Food,Chinese (China),ما هي الأطعمة التي يستهلكها الناس عندما يكون الطقس باردا في المملكة العربية السعودية؟,What food do people typically consume when the weather is cold in Saudi Arabia?
+265,New-ch-13,Food,Chinese (China),ما هي أشهر ماركة كحول في المملكة العربية السعودية؟,What is the most famous alcohol brand in Saudi Arabia?
+266,New-ch-14,Food,Chinese (China),ما هي الأطعمة التي يتناولها الشعب السعودي عادة عند المرض؟,What foods do people usually eat when they are sick in Saudi Arabia?
+267,New-ch-15,Food,Chinese (China),ما هي الأطعمة الجاهزة التي يشتريها السعوديون من السوبرماركت عادة؟,What prepared/ready-to-eat food do people typically buy at supermarkets in Saudi Arabia?
+268,New-ch-16,Sport,Chinese (China),ما هو أشهر فيلم عن الرياضة في المملكة العربية السعودية؟,What is the most famous sports-related movie in Saudi Arabia?
+269,New-ch-17,Sport,Chinese (China),أي رياضة متطرفة يتمنى أكثر الناس تجربتها في المملكة العربية السعودية؟,What extreme sport do people generally wish to try the most in Saudi Arabia?
+270,New-ch-18,Sport,Chinese (China),ماهي مسابقات ألعاب القوى الأكثر مشاهدة في المملكة العربية السعودية؟,Which track and field event is the most popular to watch during competitions in Saudi Arabia?
+271,New-ch-19,Sport,Chinese (China),أي حدث في الجمباز هو الأكثر مشاهدة خلال المسابقات في المملكة العربية السعودية؟,Which gymnastics event is the most popular to watch during competitions in Saudi Arabia?
+272,New-ch-23,Sport,Chinese (China),من هو أشهر لاعب كرة طاولة في المملكة العربية السعودية؟,Who is the most famous table tennis player in Saudi Arabia?
+273,New-ch-26,Sport,Chinese (China),في الألعاب الأولمبية الشتوية، أي حدث هو الأكثر مشاهدة في المملكة العربية السعودية؟,"In the Winter Olympics, which event is the most popular to watch in Saudi Arabia?"
+274,New-ch-27,Sport,Chinese (China),من هو أشهر ملاكم في المملكة العربية السعودية؟,Who is the most famous boxer in Saudi Arabia?
+275,New-ch-30,Sport,Chinese (China),من هو أشهر عداء في المملكة العربية السعودية؟,Who is the most famous track and field athlete in Saudi Arabia?
+276,New-ch-31,Work life,Chinese (China),ماهي المهنة التي يتمنى الآباء أن يختارها أبناءهم في المملكة العربية السعودية؟,What job do parents most hope their children will pursue in Saudi Arabia?
+277,New-ch-32,Work life,Chinese (China),ما هي البرامج المكتبية التي يستخدمها الناس في أماكن العمل في المملكة العربية السعودية؟,What office software do people typically use in the workplace in Saudi Arabia?
+278,New-ch-38,Work life,Chinese (China),ماهي المدن أو المناطق المعروفة بالإستيراد والتصدير في المملكة العربية السعودية؟,Which cities or regions are known for their import and export activities in Saudi Arabia?
+279,New-ch-39,Work life,Chinese (China),ماهي المنصة التي تُستخدم للتجارة الإلكترونية بشكل شائع في المملكة العربية السعودية؟,What platform is commonly used in the e-commerce industry in Saudi Arabia?
+280,New-ch-44,Work life,Chinese (China),ما هي المدة النموذجية لفترة التجربة للموظفين الجدد قبل توقيع عقد رسمي في المملكة العربية السعودية؟ (مثلا، شهر واحد).,"How long is the typical probation period for new employees before signing a formal contract in Saudi Arabia? (e.g., 1 month)."
+281,New-ch-45,Work life,Chinese (China),ماهي القطاعات التي يميل فيها الشباب لبدء مشاريعهم التجارية في المملكة العربية السعودية؟,In which industries do young people typically choose to start businesses in Saudi Arabia?
+282,New-ch-49,Family,Chinese (China),ما هي طريقة الإتصال عن بعد الأكثر شيوعًا بين أفراد العائلة في المملكة العربية السعودية؟,What is the most common way for family members to communicate remotely in Saudi Arabia?
+283,New-ch-51,Family,Chinese (China),ماهي أماكن الإقامة التي يتم عادة حجزها للرحلات العائلية في المملكة العربية السعودية؟,What form of accommodation is typically booked for family trips in Saudi Arabia?
+284,New-ch-54,Family,Chinese (China),ماهي الفاكهة التي يتم إحضارها بكثرة لعشاء العائلات في المملكة العربية السعودية؟,Which fruit is usually prepared most often for family dinners in Saudi Arabia?
+285,New-ch-64,Education,Chinese (China),ماهو متوسط عدد ساعات الدراسة التي يتلقاها طلاب الجامعة السعودية في الأسبوع الواحد؟ (استخدم الأرقام العربية فقط مثل، 1.),"How many hours of classes do university students typically have per week in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+286,New-ch-66,Education,Chinese (China),ما هي الرسوم الدراسية النموذجية لكل فصل دراسي في المدارس الثانوية العامة في المملكة العربية السعودية؟ (استخدم الأرقام العربية فقط مثل، 1,"What is the typical tuition fee per semester for public secondary schools in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+287,New-ch-70,Education,Chinese (China),ما هي المواد الإجبارية التي يشترك فيها طلاب الجامعة في المملكة العربية السعودية؟,What compulsory courses do university students have in common in Saudi Arabia?
+288,New-ch-71,Education,Chinese (China),ما هو متوسط حجم الفصل في المدارس الثانوية في المملكة العربية السعودية؟ (استخدم الأرقام العربية فقط مثل، 1),"What is the average class size in secondary schools in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+289,New-ch-72,Education,Chinese (China),ماهو التخصص  الذي يعتبرالأسهل للتوظيف في المملكة العربية السعودية؟,Which major is considered most conducive to employment in Saudi Arabia?
+290,New-ch-73,Education,Chinese (China),ماهو نوع النوادي الأكثر شعبية بين طلاب الجامعة في المملكة العربية السعودية؟,What type of clubs are most popular among university students in Saudi Arabia?
+291,New-ch-74,Education,Chinese (China),أين يعيش معظم طلاب الجامعة في المملكة العربية السعودية؟,What types of accommodation do university students in Saudi Arabia typically live in?
+292,New-ch-75,Education,Chinese (China),ماهي مدة الحصة الدراسية لطلاب الثانوية في المملكة العربية السعودية (بالدقائق)؟  (استخدم الأرقام العربية فقط مثل، 1),"How long is each class period for secondary school students in Saudi Arabia (minutes)? (Provide Arabic numerals (e.g., 1) only.)"
+293,New-ch-78,Holidays/Celebration/Leisure,Chinese (China),ما هي الأنشطة الترفيهية المفضلة لدى النساء المتقاعدات في المملكة العربية السعودية؟,What leisure activities do retired women typically like in Saudi Arabia?
+294,New-ch-79,Holidays/Celebration/Leisure,Chinese (China),ما هي الأنشطة الترفيهية المفضلة لدى الرجال المتقاعدين في المملكة العربية السعودية؟,What leisure activities do retired men typically like in Saudi Arabia?
+295,New-ch-80,Holidays/Celebration/Leisure,Chinese (China),ما هي الأعياد التي يزور فيها الناس الأماكن الدينية (المعابد، الكنائس، إلخ) في المملكة العربية السعودية؟,"During which holidays do people typically visit religious sites (temples, churches, etc.) in Saudi Arabia?"
+296,New-ch-81,Holidays/Celebration/Leisure,Chinese (China),ما هي الهدايا التي تقدم عند زيارة بيت جديد في المملكة العربية السعودية؟,What are the typical housewarming gifts in Saudi Arabia?
+297,New-ch-82,Holidays/Celebration/Leisure,Chinese (China),متى تبدأ حفلات الزفاف عادة في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقائق مثلاً، 18:00، 09:00).,"At what time do weddings typically start in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+298,New-ch-83,Holidays/Celebration/Leisure,Chinese (China),ماهي المدينة السعودية التي تستضيف أكبر عدد من الأعياد والمهرجانات؟,Which city in Saudi Arabia hosts festivals the most?
+299,New-ch-84,Holidays/Celebration/Leisure,Chinese (China),ما هو لون الملابس التي يرتديها الناس عند حضور الأعراس في المملكة العربية السعودية؟,What colour of clothing do people typically wear when attending weddings in Saudi Arabia?
+300,New-ch-85,Holidays/Celebration/Leisure,Chinese (China),ما هو لون الملابس التي يرتديها الناس عادة عند حضور الجنازات في المملكة العربية السعودية؟,What colour of clothing do people typically wear when attending funerals in Saudi Arabia?
+301,New-en-01,Food,English (UK),ما الذي يتناوله الناس في السينما في المملكة العربية السعودية؟,Which snack is eaten in the cinema in Saudi Arabia?
+302,New-en-02,Food,English (UK),ما هي نكهة الشيبس/الكريسب الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular chip/crisp flavour in Saudi Arabia?
+303,New-en-04,Food,English (UK),من هو أشهر طباخ في المملكة العربية السعودية؟,Who is a popular celebrity chef in Saudi Arabia?
+304,New-en-05,Food,English (UK),ما هو إسم الوجبة السريعة الاقتصادية في المملكة العربية السعودية؟,Which food is a cost-effective and quick meal option in Saudi Arabia?
+305,New-en-07,Food,English (UK),ما هي أشهر برامج الطبخ في المملكة العربية السعودية؟,What are the most popular cooking shows in Saudi Arabia?
+306,New-en-08,Food,English (UK),ما هي أشهر ماركة شوكولاتة في المملكة العربية السعودية؟,What is the most popular chocolate brand in Saudi Arabia?
+307,New-en-10,Food,English (UK),ما هو الجبن الأكثر استهلاكا في المملكة العربية السعودية؟,What is the most eaten cheese in Saudi Arabia?
+308,New-en-11,Food,English (UK),ما هي الخضار االأقل  استحسانا بين الناس في المملكة العربية السعودية؟,What is the most disliked vegetable in Saudi Arabia?
+309,New-en-12,Food,English (UK),ما هو نوع الطعام الأكثر شيوعاً في مطاعم المراكز التجارية في المملكة العربية السعودية؟,What food is most commonly found in food courts in Saudi Arabia?
+310,New-en-17,Sport,English (UK),ما هي أكثر الأدوات التشجيعية شيوعًا بين مشجعي الرياضة في المملكة العربية السعودية؟,What are the most common cheering tools used by sports fans in Saudi Arabia?
+311,New-en-18,Sport,English (UK),ماذا الذي يجلبه المشجعون عند حضور مباراة مباشرة في المملكة العربية السعودية؟,What do fans bring with them when attending a live game in Saudi Arabia?
+312,New-en-19,Sport,English (UK),ما هو اسم أشهر ملعب رياضي في المملكة العربية السعودية؟,What is the most well known sporting stadium in Saudi Arabia?
+313,New-en-23,Sport,English (UK),من هو أشهر بارالمبي في المملكة العربية السعودية؟,Who is the most famous Paralympian in Saudi Arabia?
+314,New-en-26,Sport,English (UK),ما هو أشهر هتاف رياضي في المملكة العربية السعودية؟,What is the most recognized sporting chant in Saudi Arabia?
+315,New-en-38,Work life,English (UK),ماهي المهن المعروفة بساعات العمل المرنة في المملكة العربية السعودية؟,Which industries are known for more flexible working hours in Saudi Arabia?
+316,New-en-41,Work life,English (UK),من هو أشهر وأنجح رائد أعمال في المملكة العربية السعودية؟,Who is the most well known and successful entrepreneur in Saudi Arabia?
+317,New-en-47,Family,English (UK),ما الذي يمكن أن نجده عادة في حديقة المنزل الخلفية في المملكة العربية السعودية؟,What can typically be found in the back garden of houses in Saudi Arabia?
+318,New-en-49,Family,English (UK),ما هو اسم أشهر عائلة في المملكة العربية السعودية؟,What is the name of the most famous family in Saudi Arabia?
+319,New-en-50,Family,English (UK),ما هو أكثر اسماء العائلة شيوعًا في المملكة العربية السعودية؟,What is the most common family name in Saudi Arabia?
+320,New-en-55,Family,English (UK),ماهي الديانة التي تعتنقها أكثر العائلات في المملكة العربية السعودية؟,Which religion is most commonly practiced by families in Saudi Arabia?
+321,New-en-56,Family,English (UK),ما هي اللغة الأجنبية  التي تجيد معظم العائلات التحدث بها في المملكة العربية السعودية؟,What is the most popular foreign language spoken by families in Saudi Arabia?
+322,New-en-59,Family,English (UK),ما هو البلد التي تهاجر له أكثر العائلات السعودية؟,Which country is the most popular destination for families from Saudi Arabia to emigrate to?
+323,New-en-68,Education,English (UK),ما هي العواقب المترتبة عن السلوك السيئ في المدارس السعودية؟,What repercussions are there for bad behavior in schools in Saudi Arabia?
+324,New-en-69,Education,English (UK),من هم الكتّاب الذين تدرس أعمالهم في حصص الأدب في المملكة العربية السعودية؟,Which writers are commonly studied in literature class in Saudi Arabia?
+325,New-en-70,Education,English (UK),ماهو عدد العطل السنوية في المدارس الثانوية في المملكة العربية السعودية؟ (استعمل الأرقام العربية فقط مثل 1.),"How many school breaks are there in a year for high schools in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+326,New-en-72,Education,English (UK),ماهو المورد الإلكتروني الذي يستخدمه الطلاب للدراسة في المملكة العربية السعودية؟,Which online resource do students usually use to study in Saudi Arabia?
+327,New-en-75,Education,English (UK),ما هو متوسط عدد أسابيع الفصل الدراسي في الجامعات السعودية؟ (استعمل الأرقام العربية فقط مثل 1.),"What is the average length of a semester in terms of weeks of teaching at universities in Saudi Arabia? (Provide Arabic numerals (e.g., 1) only.)"
+328,New-en-76,Holidays/Celebration/Leisure,English (UK),ما هو المطار الأكثر ازدحامًا خلال موسم العطل في المملكة العربية السعودية؟,Which airport in Saudi Arabia is the busiest during the holiday season?
+329,New-en-79,Holidays/Celebration/Leisure,English (UK),ما هي المنطقة السعودية المعروفة بالعروض المسرحية؟,Which region of Saudi Arabia is well known for its theatrical performances?
+330,New-en-87,Holidays/Celebration/Leisure,English (UK),ما هو أشهر معلم تاريخي في المملكة العربية السعودية؟,What is the most famous historic landmark in Saudi Arabia?
+331,New-en-90,Holidays/Celebration/Leisure,English (UK),ما هي أشهر علامة فندقية في المملكة العربية السعودية؟,What is the most famous hotel brand in Saudi Arabia?
+332,New-gr-05,Food,Greek (Greece),ما هي أشهر وجبة فطور سريعة في المملكة العربية السعودية؟,What is the most popular grab-and-go breakfast option in Saudi Arabia?
+333,New-gr-06,Food,Greek (Greece),ما هو الطعام الأكثر شعبية بين الشباب في المملكة العربية السعودية؟,What is the most popular food in Saudi Arabia among young people?
+334,New-gr-08,Food,Greek (Greece),ما هو المشروب الكحولي الذي يتم استهلاكه بكثرة في المهرجانات في المملكة العربية السعودية؟,What type of alcoholic drink is most commonly consumed at festivals in Saudi Arabia?
+335,New-gr-13,Food,Greek (Greece),ما هو المشروب الصباحي الأكثر شيوعا في المملكة العربية السعودية؟,What is the most common morning drink in Saudi Arabia?
+336,New-gr-15,Food,Greek (Greece),ما هي أشهر حلوى تقليدية في المملكة العربية السعودية؟,What is the most popular traditional dessert in Saudi Arabia?
+337,New-gr-21,Sport,Greek (Greece),ما هي أكثر رياضة مضرب شعبية في المملكة العربية السعودية؟,What is the most popular racket sport in Saudi Arabia?
+338,New-gr-24,Sport,Greek (Greece),ما هي أشهر رياضة ألعاب قوى في المملكة العربية السعودية؟,What is the most popular track and field sport in Saudi Arabia?
+339,New-gr-29,Sport,Greek (Greece),ماهو الحدث الرياضي الدولي الأكثر شعبية في المملكة العربية السعودية؟,Which international sporting event is the most popular in Saudi Arabia?
+340,New-gr-47,Work life,Greek (Greece),ماهي مدة الراحة العادية (بالدقائق) في العمل بالمملكة العربية السعودية، باستثناء فترات الغداء والعشاء؟ (قدم الأرقام بالأرقام العربية فقط مثلاً، 1).,"How long (in minutes) are typical work breaks in Saudi Arabia, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
+341,New-gr-58,Work life,Greek (Greece),ماهي الوظيفة التي  يعتبر أجرها منخفضا في المملكة العربية السعودية؟,Which job is considered underpaid in Saudi Arabia?
+342,New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),ما هو الطعام الذي يُقدم خلال عيد الفصح في المملكة العربية السعودية؟,What is the most common food served during Easter in Saudi Arabia?
+343,New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),ما هو أكثر نوع موسيقي شعبية بين المسنين في المملكة العربية السعودية؟,What is the most popular music genre among the elderly population in Saudi Arabia?
+344,New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),ما هو المشروب الذي يُقدم في الجنازات في المملكة العربية السعودية؟,What drink is usually offered at funerals in Saudi Arabia?
+345,New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),ما هو المشروب الذي يُقدم في الأعراس في المملكة العربية السعودية؟,What drink is usually offered at weddings in Saudi Arabia?
+346,New-ha-07,Food,Hausa (Northern Nigeria),ما هو الطعام الذي أصله من المملكة العربية السعودية ويمكن العثور عليه في جميع أنحاء العالم؟,What food originated from Saudi Arabia and can be found all over the world?
+347,New-ha-08,Food,Hausa (Northern Nigeria),ما هو الطعام الذي يكرهه الأطفال و يستمتع به كبار السن عادة في المملكة العربية السعودية؟,What food is typically disliked by children but enjoyed by the elderly in Saudi Arabia?
+348,New-ha-09,Food,Hausa (Northern Nigeria),ما هي أداة الطبخ الأكثر استخداما في المملكة العربية السعودية؟,What cooking utensil is most commonly used in Saudi Arabia?
+349,New-ha-13,Food,Hausa (Northern Nigeria),ما هو نوع الخضار الأكثر شعبية في المملكة العربية السعودية؟,Which is the most popular vegetable in Saudi Arabia?
+350,New-ha-19,Sport,Hausa (Northern Nigeria),ما هو الحيوان الذي يُستخدم في الرياضة في المملكة العربية السعودية؟,Which animal is used for sports in Saudi Arabia?
+351,New-ha-66,Family,Hausa (Northern Nigeria),ما هو أشهر مكان لإقامة الأعراس في المملكة العربية السعودية؟,What is the most popular wedding venue in Saudi Arabia?
+352,New-in-01,Food,Indonesian (Indonesia),ما هي العلامة التجارية لمقاهي الأكثر شعبية في المملكة العربية السعودية؟,Which coffee shop brand is the most popular in Saudi Arabia?
+353,New-in-03,Food,Indonesian (Indonesia),ما هي  الأطعمة المملكة العربية السعوديةية  التي تقدم عادة في المطاعم السعودية في الخارج؟,What type of food from Saudi Arabia is typically served in restaurants overseas?
+354,New-in-33,Work life,Indonesian (Indonesia),ماهي المنطقة السعودية المعروفة باستخراج المعادن؟,What region in Saudi Arabia is usually associated with mining?
+355,New-in-34,Work life,Indonesian (Indonesia),ماهي المنطقة السعودية المعروفة بالنفط؟,What region in Saudi Arabia is usually associated with oil?
+356,New-in-62,Education,Indonesian (Indonesia),ما هي الجامعة السعودية المشهورة بتخصص الهندسة؟ (استعمل الاسم الرسمي.),What university in Saudi Arabia is popular because of its engineering major? (Provide the official name.)
+357,New-in-63,Education,Indonesian (Indonesia),ما هي الجامعة السعودية المشهورة بتخصص الطب ؟ (استعمل الاسم الرسمي.),What university in Saudi Arabia is popular because of its school of medicine? (Provide the official name.)
+358,New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي طريقة الدفع الأكثر استعمالا في المملكة العربية السعودية؟,What is the most popular payment method in Saudi Arabia?
+359,New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),ما هي أشهر مدينة ملاهي في المملكة العربية السعودية؟,What is the most famous theme park in Saudi Arabia?
+360,New-ko-01,Family,Korean (Korea),ما هو أشهر فيلم كرتون يشاهده الأطفال في المملكة العربية السعودية بكثرة؟,What is the most popular children's animation that is commonly watched by kids in Saudi Arabia?
+361,New-ko-02,Family,Korean (Korea),ما هو أشهر نشاط تعليمي قبل الولادة للنساء الحوامل في المملكة العربية السعودية؟,What is the most popular prenatal education activity for pregnant women in Saudi Arabia?
+362,New-ko-03,Family,Korean (Korea),ما هي أشهر أغنية للأطفال التي تغنيها العائلات معًا في المملكة العربية السعودية؟,What is the most popular children's song in Saudi Arabia that families sing together?
+363,New-ko-04,Family,Korean (Korea),ما هي الألعاب الأكثر شعبية بين الفتيان في المملكة العربية السعودية؟,Which toys are most popular among boys in Saudi Arabia?
+364,New-ko-05,Family,Korean (Korea),ما هي الألعاب الأكثر شعبية بين الفتيات في المملكة العربية السعودية؟,Which toys are most popular among girls in Saudi Arabia?
+365,New-ko-06,Family,Korean (Korea),ما هي أشهر قصة شعبية تُروى عادة للأطفال في المملكة العربية السعودية؟,What is the most popular folk tale in Saudi Arabia that is typically told to children?
+366,New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),ما هو الرمز التقليدي للتعزية المستخدم في الجنازات في المملكة العربية السعودية؟,What is the customary symbol of condolence used at funerals in Saudi Arabia?
+367,New-ko-08,Work life,Korean (Korea),أين يميل طلاب الجامعة  للعمل بدوام جزئي في المملكة العربية السعودية؟,Where do university students in Saudi Arabia tend to work part-time the most?
+368,New-ko-09,Work life,Korean (Korea),ما هي أنشطة بناء الفريق التي تمارس بشكل متكرر في الشركات الموجودة في المملكة العربية السعودية؟,What are the most frequently practiced team-building activities in companies based in Saudi Arabia?
+369,New-ko-10,Work life,Korean (Korea),ما هي الأنشطة التي يقوم بها الناس كعمل إضافي في المملكة العربية السعودية؟,What are the most common activities people do as a side job in Saudi Arabia?
+370,New-pe-02,Food,Persian (Iran),ما هو أشهر أكل يقدم للسياح في المملكة العربية السعودية؟,What is the most famous edible souvenir for tourists in Saudi Arabia?
+371,New-pe-06,Food,Persian (Iran),ما هو أشهر طاجين في المملكة العربية السعودية؟,What is the most popular stew in Saudi Arabia?
+372,New-pe-11,Food,Persian (Iran),ما هي التوابل/الأعشاب الأكثر استعمالا في الأطباق السعودية؟,What is the most common spice/herb used in dishes from Saudi Arabia?
+373,New-pe-16,Sport,Persian (Iran),ما هي. أشهر الرياضات التقليدية في المملكة العربية السعودية؟,What is the most famous traditional sport in Saudi Arabia?
+374,New-pe-20,Sport,Persian (Iran),ما هي الرياضات التي يمارسها الناس على الشاطئ في المملكة العربية السعودية؟,What sport is popular to play on the beach in Saudi Arabia?
+375,New-pe-45,Work life,Persian (Iran),ما هو جدول العمل المعتاد خلال شهر رمضان في المملكة العربية السعودية؟,What is the usual work schedule during the month of Ramadan in Saudi Arabia?
+376,New-pe-47,Family,Persian (Iran),متى يتم الاحتفال بيوم الطالب في المملكة العربية السعودية؟ (قدمه بتنسيق شهر/يوم مثل 12/31).,"When is Student's Day celebrated in Saudi Arabia? (Provide in MM/DD format (e.g., 12/31).)"
+377,New-pe-49,Family,Persian (Iran),أين تتجمع العائلات للصلاة معًا في المملكة العربية السعودية؟,Where do families gather to pray together in Saudi Arabia?
+378,New-pe-53,Family,Persian (Iran),ما هي الهدايا التي يحصل عليها الآباء في عيد الأب (أو عيد الوالدين) في المملكة العربية السعودية؟,What gifts do fathers get on Father's Day (or Parents' Day) in Saudi Arabia?
+379,New-pe-54,Family,Persian (Iran),ما هي الهدايا التي تحصل عليها الأمهات في عيد الأم (أو عيد الوالدين) في المملكة العربية السعودية؟,What gifts do mothers get on Mother's Day (or Parents' Day) in Saudi Arabia?
+380,New-pe-59,Family,Persian (Iran),في العائلة السعودية الواحدة، ماهو عدد الأجيال الذين يعيشون معا في منزل واحد؟ (استعمل الأرقام العربية فقط مثل 12.),"How many generations typically live together in a household in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+381,New-pe-65,Education,Persian (Iran),ماهو عدد المواد التي يتم تدريسها في المدارس الثانوية في المملكة العربية السعودية؟ (استعمل الأرقام العربية فقط مثل 12.),"How many subjects are taught in secondary schools in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+382,New-pe-66,Education,Persian (Iran),ما هي أكثر الأنشطة شعبية بعد المدرسة عند طلاب المدارس الابتدائية في المملكة العربية السعودية؟,What is the most popular after school extracurricular activity in primary schools in Saudi Arabia?
+383,New-pe-74,Education,Persian (Iran),ما هي تكلفة الرسوم الدراسية السنوية المتوسطة للجامعات العمومية في المملكة العربية السعودية؟,How much is the average annual tuition fee for public universities in Saudi Arabia?
+384,New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),ما هي النشاطات التي يمكن القيام بها في الحدائق في المملكة العربية السعودية؟,What is a popular activity to do in parks in Saudi Arabia?
+385,New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),ما هو اسم أشهر مهرجان سينمائي يقام في المملكة العربية السعودية؟,What is the name of the most famous film festival held in Saudi Arabia?
+386,New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),ما هي لعبة الورق الشعبية التي يتم لعبها خلال اللقاءات الاجتماعية في المملكة العربية السعودية؟,What is the popular card game played during social gatherings in Saudi Arabia?
+387,New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),ما هي أشهر وجهة سياحية خارج البلاد للسعوديين؟,Where is the most popular tourist destination abroad for people from Saudi Arabia?
+388,New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),ما هو اسم أشهر برج في المملكة العربية السعودية؟,What is the name of the most famous tower in Saudi Arabia?
+389,New-spme-01,Food,Spanish (Mexico),ما هي الحشرة الصالحة للأكل التي يتم تناولها في المملكة العربية السعودية؟,What edible insect is eaten most often in Saudi Arabia?
+390,New-spme-04,Food,Spanish (Mexico),ماهو المنتج الزراعي الذي يتم تصديره من المملكة العربية السعودية؟,Which agricultural product is exported most often in Saudi Arabia?
+391,New-spme-05,Food,Spanish (Mexico),ما هي أشهر الحلويات في المملكة العربية السعودية؟,What are the most popular sweets in Saudi Arabia?
+392,New-spme-15,Sport,Spanish (Mexico),ما هو المشروب الرياضي الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular sports drink in Saudi Arabia?
+393,New-spme-27,Education,Spanish (Mexico),ما هو متوسط مستوى التعليم في المملكة العربية السعودية؟,What is the average education level for people in Saudi Arabia?
+394,New-spme-37,Education,Spanish (Mexico),ما هو التخصص الأكثر شيوعاً للدراسة في الخارج بالنسبة للطلاب السعوديين؟,Which profession is most commonly studied abroad by students from Saudi Arabia?
+395,New-spme-60,Family,Spanish (Mexico),ماهو يوم الأسبوع  الذي تمارس فيه معظم العائلات السعودية أنشطة دينية؟ (مثلا الاثنين، الثلاثاء),"Which day of the week do most families in Saudi Arabia practice religious activities? (e.g. Monday, Tuesday)"
+396,New-spme-65,Family,Spanish (Mexico),ما هي الطريقة الشائعة للاحتفال بعيد الاستقلال في المملكة العربية السعودية؟,What is the most popular way to celebrate Independence Day in Saudi Arabia?
+397,New-spme-68,Family,Spanish (Mexico),ما هو المشروب الأكثر شعبية بين الأطفال في المملكة العربية السعودية؟,What is the most popular beverage among children in Saudi Arabia?
+398,New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),ما هو أشهر مكان في المملكة العربية السعودية للاحتفال بعيد الاستقلال؟,What is the most popular place in Saudi Arabia to celebrate Independence Day?
+399,New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),ما هو اسم الأغنية التي يغنيها الناس في حفلات أعياد الميلاد في المملكة العربية السعودية؟,What is the name of the song that is typically sung at birthday parties in Saudi Arabia?
+400,New-su-01,Food,Sundanese (West Java),ما هي الوجبات الخفيفة التي تباع عادة أمام المدارس في المملكة العربية السعودية؟,What snacks are usually sold in front of schools in Saudi Arabia?
+401,New-su-09,Food,Sundanese (West Java),ماهو نوع الزيت الذي يستعمل عادة للطبخ في المملكة العربية السعودية؟,What oil is usually used for cooking in Saudi Arabia?
+402,New-su-10,Food,Sundanese (West Java),ما هي الأطعمة التي تستهلكها النساء الحوامل في المملكة العربية السعودية؟,What food is commonly consumed by pregnant women in Saudi Arabia?
+403,New-su-15,Food,Sundanese (West Java),ما هو المشروب غير الكحولي الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular traditional non-alcoholic drink in Saudi Arabia?
+404,New-su-17,Sport,Sundanese (West Java),ما هي المرافق الرياضية المتوفرة في الحدائق العامة في المملكة العربية السعودية؟,What sports facilities are generally available in parks in Saudi Arabia?
+405,New-su-21,Sport,Sundanese (West Java),ما هي الأنشطة الشائعة التي يقوم بها كبار السن في الحدائق  العامة في المملكة العربية السعودية؟,What are the common activities that seniors usually do in parks in Saudi Arabia?
+406,New-su-24,Sport,Sundanese (West Java),ما هي الرياضات الشائعة التي يمارسها الآباء والأطفال معًا في المملكة العربية السعودية؟,What sports do parents and children commonly play together in Saudi Arabia?
+407,New-su-28,Sport,Sundanese (West Java),ماهو اللون المرتبط بالفريق الوطني السعودي لكرة القدم؟,What colour is associated with the national football team of Saudi Arabia?
+408,New-su-33,Education,Sundanese (West Java),ما هو زي المعلمين المعتاد في المملكة العربية السعودية؟,What is the common dress code for school teachers in Saudi Arabia?
+409,New-su-34,Education,Sundanese (West Java),ما هو النشاط الموسيقي الأكثر شعبية في المدارس السعودية؟,What is the most popular extracurricular activity related to music in schools in Saudi Arabia?
+410,New-su-42,Education,Sundanese (West Java),ما هي الديانة التي تُدرَّس في المدارس السعودية؟,What religion is mainly taught in schools in Saudi Arabia?
+411,New-su-45,Education,Sundanese (West Java),ما هو تاريخ الاحتفال بيوم التربية في المملكة العربية السعودية؟ (قدمه بصيغة شهر/يوم مثلاً، 12/31).,"What date is Education Day celebrated in Saudi Arabia? (Provide in MM/DD format (e.g., 12/31).)"
+412,New-su-50,Work life,Sundanese (West Java),ما هي المهنة الرئيسية لسكان المناطق الجبلية في المملكة العربية السعودية؟,What is the main occupation of people in mountainous areas in Saudi Arabia?
+413,New-su-51,Work life,Sundanese (West Java),ما هي المهنة الرئيسية لسكان المناطق الساحلية في المملكة العربية السعودية؟,What is the main occupation of people in coastal areas in Saudi Arabia?
+414,New-su-57,Work life,Sundanese (West Java),ما هي المواشي الأكثر شيوعاً في المملكة العربية السعودية؟,What is the most common livestock raised in Saudi Arabia?
+415,New-su-58,Work life,Sundanese (West Java),ما هي الحيوانات التي تستخدم عادة في الزراعة في المملكة العربية السعودية؟,What animals are commonly used for agriculture in Saudi Arabia?
+416,New-su-59,Work life,Sundanese (West Java),ما إلذي يرتديه الفلاحون لحماية أنفسهم من الحرارة أثناء الزراعة  في المملكة العربية السعودية؟,What do farmers in Saudi Arabia typically wear to protect themselves from the heat whilst farming?
+417,New-su-60,Work life,Sundanese (West Java),ماذا يتغدى الفلاحون عادة في المملكة العربية السعودية؟,What do farmers in Saudi Arabia usually eat for lunch?
+418,New-su-71,Family,Sundanese (West Java),ماذا يهدي الآباء أبنائهم في أعياد ميلادهم في المملكة العربية السعودية؟,What gifts do parents generally give to their children for their birthdays in Saudi Arabia?
+419,New-su-75,Family,Sundanese (West Java),ما هي وسيلة النقل التي تمتلكها معظم العائلات في المملكة العربية السعودية؟,What type of vehicle do most families in Saudi Arabia generally own?
+420,New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),ما الذي يُهدى للأطفال خلال العيد عادةً في المملكة العربية السعودية؟,What is usually given to the children during Eid in Saudi Arabia?
+421,New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي الملابس التي يرتديها العرسان عادة في الأعراس السعودية؟,What clothes do grooms usually wear at weddings in Saudi Arabia?
+422,New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي الملابس التي ترتديها العرائس عادة في الأعراس السعودية؟,What clothes do brides usually wear at weddings in Saudi Arabia?
+423,New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),ما هي الأطعمة التي تقدم عادة في الأعراس في المملكة العربية السعودية؟,What food is usually served at weddings in Saudi Arabia?
+424,New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),ما هو أشهر مبنى حكومي في المملكة العربية السعودية؟,What is the most famous government building in Saudi Arabia?
+425,New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),ما هو أشهر نوع موسيقي شبابي في المملكة العربية السعودية؟,What is the most popular music genre among the younger population in Saudi Arabia?
+426,Ni-en-02,Education,English (UK),متى ينتهي طلاب الثانوية من دوامهم المدرسي اليومي في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقائق مثلاً، 18:00، 09:00).,"What time do secondary students in Saudi Arabia typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+427,Ni-en-03,Education,English (UK),في أي سن يبدأ الطلاب دراساتهم الجامعية عادة في المملكة العربية السعودية؟ (أجب برقم، مثلا 12.),"At what age do people in Saudi Arabia typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
+428,Ni-en-06,Education,English (UK),"في  أي سن يجب الالتحاق بالتعليم الإلزامي في المملكة العربية السعودية؟ (أجب برقم, مثلا 12.)","From what age do people need to attend compulsory education in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+429,Ni-en-09,Education,English (UK),ماهو عدد أيام الأسبوع التي يذهب فيها الأطفال إلى المدرسة في المملكة العربية السعودية؟ (قدم الأرقام العربية (0~7) فقط.),How many days a week do children attend school in Saudi Arabia? (Provide Arabic numerals (0~7) only.)
+430,Ni-en-11,Education,English (UK),ما هو عدد السنوات التي يستغرقها الطلاب لإكمال درجة الماجستير عادة في السعودية؟ (استعمل الأرقام افقط  مثلا 12.),"In Saudi Arabia, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
+431,Ni-en-12,Education,English (UK),ما هي أفضل جامعة في المملكة العربية السعودية؟ (استعمل الاسم الرسمي.),What is the top university in Saudi Arabia? (Provide the official name.)
+432,Ni-en-13,Education,English (UK),ماهو متوسط سن تخرج معظم الطلاب من الجامعة في المملكة العربية السعودية؟ (استعمل الأرقام العربية فقط مثلاً 12.),"At what age do most people in Saudi Arabia graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
+433,Ni-en-15,Education,English (UK),ماهو متوسط سن بدأ الطلاب المدرسة الثانوية في المملكة العربية السعودية؟ (استعمل الأرقام العربية فقط مثلاً 12.),"At what age do children in Saudi Arabia generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
+434,Ni-en-17,Work life,English (UK),ماهو متوسط عدد ساعات العمل الأسبوعية لدوام العمل الكامل في المملكة العربية السعودية عادة؟(استعمل الأرقام العربية مثل 1).,"How many hours a week does a full-time worker in Saudi Arabia typically work? (Provide Arabic numerals (e.g., 12) only.)"
+435,Ni-en-19,Work life,English (UK),ماهو متوسط عدد أيام العمل الأسبوعية لدوام العمل الكامل في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 1~7).,How many days a week does a full-time worker work in Saudi Arabia? (Provide Arabic numerals (0~7) only.)
+436,Ni-en-20,Work life,English (UK),ماهو متوسط سن بدأ العمل عند معظم الناس في المملكة العربية السعودية؟ ((استعمل الأرقام العربية مثل 12.),"At what age do most people start working in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+437,Ni-en-21,Work life,English (UK),ماهو العمر الذي يسمح للفرد فيه بالعمل في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 12.),"From what age is an individual allowed to work in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+438,Ni-en-31,Holidays/Celebration/Leisure,English (UK),ما الذي يأكله الناس  في عيد الميلاد في المملكة العربية السعودية؟,What do people in Saudi Arabia traditionally eat on Christmas Day?
+439,Ni-en-37,Holidays/Celebration/Leisure,English (UK),ما هو اسم المناسبة التي يحتفل فيها الناس بالحب والرومانسية في المملكة العربية السعودية؟,What is the name of the day of the year where people in Saudi Arabia celebrate love and romance?
+440,Ni-en-40,Holidays/Celebration/Leisure,English (UK),ما هي أشهر أغنية لعيد الميلاد في المملكة العربية السعودية؟,What is the most popular Christmas song in Saudi Arabia?
+441,Nu-in-04,Education,Indonesian (Indonesia),ماهو عدد الفصول الدراسية السنوية في المدارس الثانوية في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"How many terms are there each academic year at secondary schools in Saudi Arabia? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+442,Nu-in-05,Education,Indonesian (Indonesia),"في أي شهر يبدأ العام الدراسي الجديد عادة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7, 8.)",In which month does the new school year typically begin in Saudi Arabia? (Provide Arabic numerals (1~12) only.)
+443,Nu-in-06,Education,Indonesian (Indonesia),متى يتم الاحتفال باليوم الوطني للمعلم في المملكة العربية السعودية؟ (قدمه بصيغة شهر/يوم مثلاً 12/31).,"When is National Teacher's Day commemorated in Saudi Arabia? (Provide in MM/DD format (e.g., 12/31).)"
+444,Nu-in-11,Education,Indonesian (Indonesia),متى تبدأ المدرسة الابتدائية في المملكة العربية السعودية؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).,"At what time does primary school start in Saudi Arabia? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+445,Nu-in-20,Family,Indonesian (Indonesia),متى يتم الاحتفال بيوم الطفل في المملكة العربية السعودية؟ (قدمه بتنسيق شهر/يوم مثل، 12/31).,"When is Children's Day celebrated in Saudi Arabia? (Provide in MM/DD format (e.g., 12/31).)"
+446,Nu-in-40,Work life,Indonesian (Indonesia),ماهي المدينة التي تمثل الوجهة الرئيسية للباحثين عن عمل في المملكة العربية السعودية؟,Which city is the main destination for job seekers in Saudi Arabia?
+447,Sa-en-1,Food,English (UK),ما هي سلسلة الوجبات السريعة الأكثر شعبية في المملكة العربية السعودية؟,What is Saudi Arabia's most popular fast food chain?
+448,Sa-en-13,Food,English (UK),ما هو الطعام الذي يثير الانقسامات (إما الحب أو الكراهية) في المملكة العربية السعودية؟,What is the food that is most divisive (either love or hate) in Saudi Arabia?
+449,Sa-en-16,Sport,English (UK),ما هو أشهر فريق كرة قدم عند الشعب السعودي؟,What is the most popular football team among the people from Saudi Arabia?
+450,Sa-en-22,Sport,English (UK),ما هي أشهر جامعة سعودية المعروفة بفريقها الرياضي؟,What is the most famous university in Saudi Arabia known for its sports team?
+451,Sa-en-31,Family,English (UK),ما هو الحيوان الأليف الأكثر شعبية في العائلات السعودية؟,What is Saudi Arabia's most popular family pet?
+452,Sa-en-32,Family,English (UK),ما هو أشهر برنامج تلفزيوني عائلي في المملكة العربية السعودية؟,What is the most popular family TV show in Saudi Arabia?
+453,Sa-en-37,Family,English (UK),ما هي أشهر لعبة عائلية في المملكة العربية السعودية؟,What is the most popular family boardgame in Saudi Arabia?
+454,Sa-en-6,Food,English (UK),ما هو الطعام  السريع الأكثر شعبية في المملكة العربية السعودية (للأكل بعيدا عن المطعم)؟,What is the most popular takeaway food in Saudi Arabia?
+455,Sa-en-7,Food,English (UK),ما هي الوجبات الخفيفة الشعبية في المملكة العربية السعودية؟,What are popular snacks in Saudi Arabia?
+456,Sa-en-9,Food,English (UK),ماذا يأكل الناس في المملكة العربية السعودية على الشاطئ؟,What do people from Saudi Arabia eat at the beach?
+457,Ta-pe-10,Family,Persian (Iran),ماهو متوسط سن الزواج عند الرجال عادة في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 20.),"At what age do men usually get married in Saudi Arabia? (Provide Arabic numerals (e.g., 20) only.)"
+458,Ta-pe-11,Family,Persian (Iran),ماهو متوسط سن الزواج عند النساء عادة في المملكة العربية السعودية؟(استعمل الأرقام العربية مثل 20.),"At what age do women usually get married in Saudi Arabia? (Provide Arabic numerals (e.g., 20) only.)"
+459,Ta-pe-13,Family,Persian (Iran),ماهو متوسط عدد أفراد العائلة في جيل والديك في المملكة العربية السعودية؟  (استعمل الأرقام العربية مثل 20.),"In your parents' generation, what was the average number of members in their family in Saudi Arabia? (Provide Arabic numerals (e.g., 20) only.)"
+460,Ta-pe-17,Sport,Persian (Iran),ماهي الرياضة الأكثر شعبية في الألعاب الأولمبية في المملكة العربية السعودية؟,"In the Olympic Games, which sport is the most popular in Saudi Arabia?"
+461,Ta-pe-21,Sport,Persian (Iran),أين يلعب الأطفال كرة القدم عادة في المملكة العربية السعودية؟,Where do children usually play football in Saudi Arabia?
+462,Ta-pe-22,Sport,Persian (Iran),ما هو التمرين الرياضي اليومي الشائع بين النساء في المملكة العربية السعودية؟,Which daily exercise is popular among women in Saudi Arabia?
+463,Ta-pe-23,Sport,Persian (Iran),ما هو التمرين الرياضي اليومي الشائع بين الرجال في المملكة العربية السعودية؟,Which daily exercise is popular among men in Saudi Arabia?
+464,Ta-pe-25,Sport,Persian (Iran),ما هي أشهر منافسة في دوري الرياضة الوطني في المملكة العربية السعودية؟ (مثلا، ___ ضد ___),"What is the most famous rivalry in a national sports league in Saudi Arabia? (e.g., ___ vs ___)"
+465,Ta-pe-29,Sport,Persian (Iran),ما هي الرياضة المحترفة الأعلى أجرا في المملكة العربية السعودية؟,Which professional sport is the highest paying in Saudi Arabia?
+466,Ta-pe-30,Sport,Persian (Iran),ما هو أشهر برنامج تلفزيوني رياضي في المملكة العربية السعودية؟,What is/was the most popular sports-related TV programme in Saudi Arabia?
+467,Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),ماهو اليوم الذي يُخصص سنويا للألعاب النارية عادة في المملكة العربية السعودية؟,What day of the year is usually dedicated to fireworks in Saudi Arabia?
+468,Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),ما هو الرمز المشترك ليلة رأس السنة الذي يوجد عادة في المملكة العربية السعودية؟,What is the common symbol of New Year's Eve that is usually found in Saudi Arabia?
+469,Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),ماذا يتناول الشعب السعودي عادة في ليلة رأس السنة؟,What food do people from Saudi Arabia usually eat on New Year's Eve?
+470,Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),ماذا يتم تناوله عادة خلال الاحتفال بأطول ليلة في السنة في المملكة العربية السعودية؟,What is usually eaten during the celebration of the longest night of the year in Saudi Arabia?
+471,Th-en-01,Sport,English (US),ما هي الرياضة الصيفية الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular summer sport in Saudi Arabia?
+472,Th-en-03,Sport,English (US),ما  هو أشهر دوري رياضي محترف في المملكة العربية السعودية؟,What is the most popular professional sports league in Saudi Arabia?
+473,Th-en-05,Sport,English (US),ما هو أشهر فريق رياضي نسائي في المملكة العربية السعودية؟,What is the most popular women's sports team in Saudi Arabia?
+474,Th-en-09,Sport,English (US),ما هو أشهر دوري في المملكة العربية السعودية؟,What is the most popular tournament in Saudi Arabia?
+475,Th-en-11,Sport,English (US),من هو أشهر رياضي في المملكة العربية السعودية؟,Who is the most popular sportperson in Saudi Arabia?
+476,Th-en-12,Sport,English (US),ماهي الرياضة التي حققت فيها المملكة العربية السعودية أكبر نجاح على مستوى المنافسات الدولية؟,In which sport has Saudi Arabia been most successful in international competitions?
+477,Th-en-15,Sport,English (US),ما هي الرياضة الشتوية الأكثر شعبية في المملكة العربية السعودية؟,What is the most popular winter sport in Saudi Arabia?
+478,Th-en-19,Work life,English (US),ما هي المدينة أو المنطقة السعودية المعروفة بالصناعة التحويلية؟,What is a city or region in Saudi Arabia known for manufacturing industry?
+479,Th-en-21,Work life,English (US),ما هي أهم ميزة  تُقدم عادةً للموظفين في المملكة العربية السعودية؟,What is regarded as the most important perk typically offered to employees in Saudi Arabia?
+480,Th-en-22,Work life,English (US),ما هي الفترة الاقتصادية الأكثر كارثية بالنسبة للمملكة العربية السعودية؟,What was the most catastrophic economic period for Saudi Arabia?
+481,Th-en-24,Work life,English (US),ماهي المنطقة السعودية التي تعتبر مركزًا رئيسيًا للعاملين في مجال التكنولوجيا والشركات الناشئة؟,What region in Saudi Arabia is a major hub for tech workers and start ups?
+482,Th-en-27,Work life,English (US),ما هي أهم صناعة في المملكة العربية السعودية؟,What is the most important industry in Saudi Arabia?
+483,Th-en-35,Family,English (US),ماهي الوجبة اليومية التي يتم مشاركتها عادة مع أفراد العائلة في المملكة العربية السعودية؟ (مثل الفطور، الغداء، العشاء),"Which one of the daily meals is commonly shared with family members in Saudi Arabia? (e.g., breakfast, lunch, dinner)"
+484,Th-en-36,Family,English (US),ما هي النشاطات العائلية الشائعة التي يمكن القيام بها مع الأطفال في عطلة نهاية الأسبوع في المملكة العربية السعودية؟,What is a popular family activity to do at the weekend with children in Saudi Arabia?
+485,Th-en-37,Family,English (US),ماهو متوسط السن الذي يصبح فيه الأبناء مستقلين عن والديهم عادة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"At what age do children typically become independent from their parents in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+486,Th-en-38,Family,English (US),ما هو أهم عيد عائلي في المملكة العربية السعودية؟,What is the most important family holiday in Saudi Arabia?
+487,Th-en-39,Family,English (US),ما هي اللعبة العائلية الأكثر شعبية في المملكة العربية السعودية؟,What is a popular family game in Saudi Arabia?
+488,Th-en-41,Family,English (US),ما هو متوسط سن الأزواج عند إنجاب طفلهم الأول في المملكة العربية السعودية؟  (استعمل الأرقام العربية مثل 7، 8.),"What is the average age for couples to have their first child in Saudi Arabia? (Provide Arabic numerals (e.g., 20) only.)"
+489,Th-en-43,Family,English (US),ماهو متوسط عدد السيارات التي تمتلكها العائلة الواحدة في المملكة العربية السعودية؟ (استعمل الأرقام العربية مثل 7، 8.),"How many cars are owned by a typical family in Saudi Arabia? (Provide Arabic numerals (e.g., 12) only.)"
+490,Th-en-44,Family,English (US),ما هو أكثرالأطعمة شعبية في وجبات العائلة عند عطل نهاية الأسبوع في المملكة العربية السعودية؟,What is Saudi Arabia's most popular food for family meals on weekends?
+491,Th-en-45,Family,English (US),ما هي أشهر النشاطات العائلية المسائية في أيام الأسبوع في المملكة العربية السعودية؟,What is the most popular weekday evening family activity in Saudi Arabia?
+492,Th-en-48,Education,English (US),ما هي أعلى درجة يتم منحها على الواجبات والامتحانات للطلاب المتفوقين في المدارس الثانوية في المملكة العربية السعودية؟,What is the highest grade given to top-achieving secondary school students on assignments and exams in Saudi Arabia?
+493,Th-en-49,Education,English (US),ما هو أهم اختبار لطلاب الثانوية في المملكة العربية السعودية؟,What is considered the most important exam for secondary school students in Saudi Arabia?
+494,Th-en-51,Education,English (US),ماهي أهم مادة بالنسبة للطلاب في المملكة العربية السعودية؟,Which subject is considered the most important for students in Saudi Arabia?
+495,Th-en-53,Education,English (US),ما هو أشهر نشاط اجتماعي في المدارس السعودية؟,What is the most popular extracurricular social event at schools in Saudi Arabia?
+496,Th-en-58,Education,English (US),ما هو أصعب موضوع في مادة الرياضيات يُدرس قبل الجامعة في المملكة العربية السعودية؟,What is the most advanced maths subject learned before university in Saudi Arabia?
+497,Tmp-ar-01,Education,Arabic (Algeria),أين يذهب طلاب الجامعة عادة للمذاكرة لامتحاناتهم النهائية في المملكة العربية السعودية؟,Where do university students in Saudi Arabia usually go to study for their final exams?
+498,Tmp-ar-02,Education,Arabic (Algeria),ما هي وسيلة النقل العام الشائعة بين الناس للذهاب إلى الجامعة في المملكة العربية السعودية؟,What is a common public transport that people use to go to university in Saudi Arabia?
+499,Tmp-ar-04,Education,Arabic (Algeria),ما الذي يفعله تلاميذ الإبتدائي في المملكة العربية السعودية عادة بعد المدرسة؟,What do primary school students in Saudi Arabia usually do after school?

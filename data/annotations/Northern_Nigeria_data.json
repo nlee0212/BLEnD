@@ -1764,17 +1764,9 @@
     "Ca-sp-43": {
         "question": "Tsawon makonni nawa ne hutun uba a Arewacin Najeriya? (Ka bayar da lambobi na Larabci kawai (misali, 20).)",
         "en_question": "How long (in weeks) is Northern Nigeria's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)",
-        "annotations": [
-            {
-                "answers": [
-                    "not applicable "
-                ],
-                "en_answers": [],
-                "count": 1
-            }
-        ],
+        "annotations": [],
         "idks": {
-            "not-applicable": 2,
+            "not-applicable": 3,
             "idk": 1,
             "no-answer": 1
         }
@@ -9123,9 +9115,12 @@
         "annotations": [
             {
                 "answers": [
-                    "ƙwallon ƙafa "
+                    "ƙwallon ƙafa"
                 ],
-                "en_answers": [],
+                "en_answers": [
+                    "football",
+                    "soccer"
+                ],
                 "count": 1
             },
             {
@@ -10320,9 +10315,12 @@
         "annotations": [
             {
                 "answers": [
-                    "ƙwallon ƙafa "
+                    "ƙwallon ƙafa"
                 ],
-                "en_answers": [],
+                "en_answers": [
+                    "football",
+                    "soccer"
+                ],
                 "count": 1
             },
             {

@@ -1,0 +1,501 @@
+,ID,Topic,Source,Question,Translation
+0,Al-en-01,Food,English (US),Qu’est-ce qu’un enfant de maternelle mange couramment en guise d'encas en France ?,What is a common snack for nursery kids in France?
+1,Al-en-02,Food,English (US),Qu'aime-t-on manger couramment en France pour accompagner une bière ?,What is a popular food to go with beer in France?
+2,Al-en-04,Food,English (US),Quel est le fruit préféré des Français ?,What is the most popular fruit in France?
+3,Al-en-06,Food,English (US),Quel plat est le plus couramment proposé à la cantine ou cafétéria scolaire en France ?,What is a common school cafeteria food in France?
+4,Al-en-08,Food,English (US),Quels sont les snacks les plus consommés dans les centres commerciaux en France ?,What are the most commonly eaten snacks at shopping malls in France?
+5,Al-en-09,Food,English (US),Quel est le snack le plus populaire dans les parcs d’attractions en France ?,What is a popular snack at an amusement park in France?
+6,Al-en-16,Education,English (US),"À quel âge les enfants entrent-ils en maternelle en France ? (Donnez la réponse en chiffres arabes uniquement, ex. 12.)","At what age do kids start nursery in France? (Provide Arabic numerals (e.g., 12) only.)"
+7,Al-en-17,Education,English (US),Quel sport pratiqué après l’école est le plus populaire chez les enfants en primaire en France ?,What is a popular afterschool sport for primary schools in France?
+8,Al-en-18,Education,English (US),En quelle matière les élèves de primaire reçoivent-ils des cours de soutien scolaire privés en France ?,For which subject do primary school students get private education in France?
+9,Al-en-19,Education,English (US),Quelle est la seconde langue la plus étudiée par les collégiens et lycéens en France ?,What is a popular second language for secondary school students in France?
+10,Al-en-21,Education,English (US),Quelle est la matière la plus importante dans l’enseignement donné aux élèves à haut potentiel en France ?,Which subject is the most important for gifted education in France?
+11,Al-en-32,Holidays/Celebration/Leisure,English (US),Quel est le plat principal servi pour Thanksgiving en France ?,What is the main dish for Thanksgiving in France?
+12,Al-en-33,Holidays/Celebration/Leisure,English (US),Que font les Français pour célébrer Halloween ?,What do people do to celebrate Halloween in France?
+13,Al-en-34,Holidays/Celebration/Leisure,English (US),Que font les Français pour célébrer le jour de l’An ?,What do people do to celebrate New Year's Day in France?
+14,Al-en-35,Holidays/Celebration/Leisure,English (US),Que font les Français pour célébrer Noël ?,What do people do to celebrate Christmas in France?
+15,Al-en-36,Holidays/Celebration/Leisure,English (US),Quel aliment est associé à Halloween en France ?,What food is associated with Halloween in France?
+16,Al-en-37,Holidays/Celebration/Leisure,English (US),Quel aliment est associé à Noël en France ?,What food is associated with Christmas in France?
+17,Al-en-38,Holidays/Celebration/Leisure,English (US),Quel aliment est associé à la Saint-Valentin en France ?,What food is associated with Valentine's day in France?
+18,Al-en-39,Holidays/Celebration/Leisure,English (US),Que mange-t-on le jour de son anniversaire en France ?,What do people eat on their birthday in France?
+19,Al-en-40,Holidays/Celebration/Leisure,English (US),Quel lieu en plein air est prisé par les familles avec de jeunes enfants pour s'amuser en France ?,What is a popular outdoor place for families to have fun with little kids in France?
+20,Al-en-43,Holidays/Celebration/Leisure,English (US),Quelle activité d'intérieur à faire en famille est populaire en France ?,What is a popular indoor activity for families in France?
+21,An-ar-02,Education,Arabic (Algeria),Où les étudiants universitaires déjeunent-ils en France ?,Where do university students have lunch in France?
+22,An-ar-03,Education,Arabic (Algeria),En quel mois les examens de fin d'année dans le secondaire ont-ils généralement lieu en France ? (Répondez en chiffres arabes de 1 à 12.),Which month is the final exam term usually scheduled at secondary schools in France? (Provide Arabic numerals (1~12) only.)
+23,An-ar-08,Education,Arabic (Algeria),Combien d’heures par jour les élèves passent-ils habituellement au collège/lycée en France ? (Nombres entiers en chiffres arabes uniquement (0~24).),"How many hours a day do students in France usually spend at secondary school? (Provide Arabic numerals in integers (0~24), without any decimal points.)"
+24,An-ar-09,Education,Arabic (Algeria),"Combien de langues les élèves étudient-ils au lycée en France ? (Chiffres arabes uniquement, ex : 5.)","How many languages do students study at secondary school in France? (Provide Arabic numerals (e.g., 5) only.)"
+25,An-ar-34,Sport,Arabic (Algeria),Quel est le sport d’équipe préféré des écoliers en France ?,What is the most popular sport played in a team at school in France?
+26,An-ar-35,Sport,Arabic (Algeria),Qui est le commentateur sportif préféré des Français ?,Who is the most popular sports commentator in France?
+27,An-ar-36,Sport,Arabic (Algeria),Quelle est l’équipe sportive la plus populaire en France ?,What is the most popular sports team in France?
+28,An-ar-43,Sport,Arabic (Algeria),Quels sont les lieux où les gens se rassemblent le plus souvent pour regarder des retransmissions sportives en France ?,What are the common places or venues where individuals in France usually gather to watch sports broadcasts?
+29,Ca-sp-05,Food,Spanish (Spain),"Combien de repas par jour les Français prennent-ils en général ? (Chiffres arabes uniquement, e.g., 5.)","How many meals per day do people from France usually have? (Provide Arabic numerals (e.g., 5) only.)"
+30,Ca-sp-06,Food,Spanish (Spain),Quel est le repas le plus important de la journée pour les Français ?,Which is the most important meal of the day to people from France?
+31,Ca-sp-08,Food,Spanish (Spain),Quel est l’ingrédient le plus couramment utilisé dans la nourriture française ?,What is the most common ingredient used in France's diet?
+32,Ca-sp-09,Food,Spanish (Spain),Que mangent généralement les Français pour le dessert ?,What do people from France usually eat for dessert?
+33,Ca-sp-11,Food,Spanish (Spain),Quel jour de la semaine les gens organisent-ils le plus souvent un repas en famille en France ?,Which day of the week do people usually organize a family meal in France?
+34,Ca-sp-14,Food,Spanish (Spain),Quelle est la boisson chaude la plus populaire en France ?,Which is the most popular hot drink in France?
+35,Ca-sp-19,Holidays/Celebration/Leisure,Spanish (Spain),Que boivent généralement les jeunes dans les boîtes de nuit en France ?,What do young people from France usually drink at the night club?
+36,Ca-sp-21,Holidays/Celebration/Leisure,Spanish (Spain),En quel mois les Français prennent-ils habituellement leurs vacances ? (Répondez en chiffres arabes de 1 à 12 uniquement.),In which month do people usually take holidays in France? (Provide Arabic numerals (1~12) only.)
+37,Ca-sp-29,Holidays/Celebration/Leisure,Spanish (Spain),Quelle est la tradition en France pour passer le réveillon du Nouvel An ?,What tradition is there in France for New Year's Eve?
+38,Ca-sp-38,Family,Spanish (Spain),Quel est le type de logement le plus courant pour une famille en France ?,Which is the typical type of house for a family in France?
+39,Ca-sp-41,Family,Spanish (Spain),Où vivent habituellement les personnes âgées dépendantes en France ?,Where do the dependent elderly usually live in France?
+40,Ca-sp-42,Family,Spanish (Spain),"Quelle est la durée de la scolarité obligatoire en France (en années) ? (Chiffres arabes uniquement, ex : 12.)","How long (in weeks) is France's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)"
+41,Ca-sp-43,Family,Spanish (Spain),"Quelle est la durée du congé maternité en France ? ( Répondez en nombre de semaines et en chiffres arabes uniquement, ex : 20.)","How long (in weeks) is France's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)"
+42,Ca-sp-45,Family,Spanish (Spain),Quel type de destination est souvent choisi pour les vacances en famille en France ?,What type of destination is commonly chosen for a family holiday in France?
+43,Gu-ch-05,Sport,Chinese (China),Quels sports les seniors préfèrent-ils pratiquer en France ?,What sports do seniors like the most in France?
+44,Gu-ch-06,Sport,Chinese (China),Quels sports les hommes aiment-ils le plus pratiquer en France ?,What sports do men like to play the most in France?
+45,Gu-ch-07,Sport,Chinese (China),Qui est le basketteur le plus célèbre en France ?,Who is the most famous basketball player in France?
+46,Gu-ch-08,Sport,Chinese (China),Quel est le sport le plus populaire chez les enfants en France ?,What is the most popular sports among children in France?
+47,Gu-ch-09,Sport,Chinese (China),Quels sports les femmes aiment-elles le plus pratiquer en France ?,What sports do women like to play the most in France?
+48,Gu-ch-11,Sport,Chinese (China),Dans quelle épreuve olympique la France a-t-elle remporté le plus de médailles d’or ?,In which sports event at the olympics has France won the most gold medals?
+49,Gu-ch-15,Sport,Chinese (China),Quel sport est le plus prisé par les étudiants de sexe masculin dans les universités françaises ?,What sports do male students in university like to play the most in France?
+50,Gu-ch-16,Family,Chinese (China),"Combien de personnes y a-t-il en moyenne dans une famille en France ? (Chiffres arabes uniquement, ex : 12.)","How many people are there in a family on average in France? (Provide Arabic numerals (e.g., 12) only.)"
+51,Gu-ch-18,Family,Chinese (China),"Combien d’enfants les couples ont-ils généralement en France ? (Chiffres arabes uniquement,  ex : 12.)","How many children do couples usually have in France? (Provide Arabic numerals (e.g., 12) only.)"
+52,Gu-ch-31,Education,Chinese (China),Quelle est la durée de l’école primaire en France ? (Répondez en nombre d'années et en chiffres arabes uniquement  ex : 12.),"What is the duration of primary school (in years) in France? (Provide Arabic numerals (e.g., 12) only.)"
+53,Gu-ch-32,Education,Chinese (China),"Quelle est la durée de la scolarité obligatoire en France (en années) ? (Chiffres arabes uniquement, ex : 12)","What is the duration of compulsory education (in years) in France? (Provide Arabic numerals (e.g., 12) only.)"
+54,Gu-ch-33,Education,Chinese (China),"À partir de quel âge les élèves commencent-ils à étudier une seconde langue en France ?  (Chiffres arabes uniquement, ex : 12.)","From which age do students start learning their second language in France? (Provide Arabic numerals (e.g., 12) only.)"
+55,Gu-ch-38,Education,Chinese (China),"Quelle est la durée d'un cursus de licence universitaire en France ? (Répondez en nombre d'années et en chiffres arabes uniquement, ex : 12.)","What is the duration of undergraduate education (in years) in France? (Provide Arabic numerals (e.g., 12) only.)"
+56,Gu-ch-40,Education,Chinese (China),"À quelle heure les jeunes élèves de primaire terminent-ils l’école en France ? (Format HH:MM, e.g. 18:00, 09:00.)","What time do younger primary school students finish school in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+57,Gu-ch-41,Education,Chinese (China),"Combien d’instruments de musique les élèves d’école primaire apprennent-ils généralement à jouer en France ? (Chiffres arabes uniquement, e.g. 12.)","How many musical instruments do primary school students in France typically play? (Provide Arabic numerals (e.g., 12) only.)"
+58,Ji-ko-02,Work life,Korean (South Korea),Quel jour de la semaine les Français préfèrent-ils organiser des dîners d’entreprise ?,What day of the week do people in France prefer to have company dinners?
+59,Ji-ko-03,Work life,Korean (South Korea),Quelle région/ville compte le plus grand nombre d’entreprises en France ?,Which region/city has the highest number of financial companies in France?
+60,Ji-ko-07,Work life,Korean (South Korea),Quelle est l’entreprise privée la plus célèbre en France ?,What is the most famous private company in France?
+61,Ji-ko-08,Work life,Korean (South Korea),"Quel est le nombre maximum d’heures de travail hebdomadaire en France ? (Chiffres arabes uniquement, ex : 12)","What is the maximum number of hours one can work per week in France? (Provide Arabic numerals (e.g., 12) only.)"
+62,Ji-ko-09,Work life,Korean (South Korea),Que mange-t-on généralement lors d’un repas d’entreprise en France ?,What do people typically eat during company get-together in France?
+63,Ji-ko-14,Work life,Korean (South Korea),Quel est le produit d’exportation le plus représentatif de la France ?,What is the representative export item of France?
+64,Ji-ko-15,Work life,Korean (South Korea),"Quelle est la durée typique de la pause déjeuner en France (en heures) ? (Répondez uniquement en nombre d'heures en chiffres arabes avec un chiffre après la virgule maximum, e.g., 2 ; 3.5.)","How long (in hours) is the typical lunch break in France? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+65,Ji-ko-16,Family,Korean (South Korea),Où les femmes séjournent-elles après l’accouchement pour récupérer en France ?,Where do mothers stay for a certain period after childbirth for recovery in France?
+66,Ji-ko-19,Family,Korean (South Korea),Quelle est la fleur la plus offerte pour la fête des parents en France ?,What is France's most commonly given flower on Parents' Day?
+67,Ji-ko-22,Family,Korean (South Korea),À quoi les Français consacrent-ils typiquement leur premier salaire ?,What do people especially spend their first salary on in France's society?
+68,Ji-ko-24,Family,Korean (South Korea),Quel est l'espace de loisirs le plus apprécié des enfants en France ?,What is the most preferred recreational facility among children in France?
+69,Ji-ko-25,Family,Korean (South Korea),Quelles sont les fêtes familiales célébrées en France ?,What are the family-related holidays in France?
+70,Ji-ko-26,Family,Korean (South Korea),Quelles sont les étapes clés de l’indépendance des enfants vis-à-vis de leurs parents dans la société française ?,What are the key milestones associated with children's independence from their parents in France's society?
+71,Ji-ko-27,Family,Korean (South Korea),Quel est le cadeau le plus souvent offert lors de la visite à des parents âgés en France ?,What is the common gift you give when visiting elderly parents in France?
+72,Ji-ko-28,Family,Korean (South Korea),Quel est le premier jour que l’on célèbre après la naissance d’un enfant en France ?,When is the first day that people celebrate after a child is born in France?
+73,Ji-ko-29,Family,Korean (South Korea),Quel âge est le plus célébré pour un anniversaire dans la société française ?,Which age's birthday is celebrated the most grandly in France's society?
+74,Ji-ko-31,Education,Korean (South Korea),Où les élèves du secondaire révisent-ils généralement leurs examens en France ?,Where do secondary school students in France usually study for exams?
+75,Ji-ko-33,Education,Korean (South Korea),Où vont généralement les élèves du secondaire après le dîner en France ?,Where do secondary school students in France usually go after dinner?
+76,Ji-ko-34,Education,Korean (South Korea),Comment les élèves de primaire se rendent-ils à l’école en France ?,How do primary school students in France get to school?
+77,Ji-ko-35,Education,Korean (South Korea),Quelle est la forme la plus courante d’enseignement privé en France ?,What is the most common form of private education in France?
+78,Ji-ko-36,Education,Korean (South Korea),En quelle matière les élèves du secondaire vont-ils le plus souvent prendre des cours du soir dans leur établissement ou dans des instituts privés en France ?,Which subject’s academy/private educational institute do secondary school students most frequently attend in France?
+79,Ji-ko-37,Education,Korean (South Korea),Quel type de vêtements les élèves du secondaire portent-ils à l’école en France ?,What type of clothing do secondary school students wear to school in France?
+80,Ji-ko-38,Education,Korean (South Korea),Quel diplôme est considéré comme le plus difficile à obtenir en France ?,Which degree is considered the most difficult to gain admission to in France?
+81,Ji-ko-39,Education,Korean (South Korea),Quel instrument de musique est le plus souvent appris par les élèves de primaire en France ?,What is the most commonly learned musical instrument by primary school students in France?
+82,Ji-ko-40,Education,Korean (South Korea),Que font généralement les collégiens et lycéens pendant les récréations en France ?,What do secondary school students typically do during break time in schools in France?
+83,Ji-ko-41,Education,Korean (South Korea),Quel type de chaussures les élèves portent-ils à l’école en France ?,What kind of shoes do students wear in schools in France?
+84,Ji-ko-42,Education,Korean (South Korea),Quelles sont les matières obligatoires pour le concours d’entrée à l’université en France ?,What are the required subjects in France's university entrance exam?
+85,Ji-ko-44,Education,Korean (South Korea),Dans quel quartier des villes la vie académique se concentre-t-elle en France ?,Which region (within a city) in France has the highest academic fervour?
+86,Ji-ko-45,Education,Korean (South Korea),Qu’est-ce qui suscite le plus d’enthousiasme dans les festivals universitaires en France ?,What do people look forward to the most at university festivals in France?
+87,Jo-sp-01,Sport,Spanish (Spain),Quel est le deuxième sport le plus populaire en France ?,What is the second most popular sport in France?
+88,Jo-sp-02,Sport,Spanish (Spain),Quel est le sport sans balle/ballon le plus populaire en France ?,What is the most popular sport played without a ball in France?
+89,Jo-sp-09,Sport,Spanish (Spain),Quels sont les sports les plus associés à la classe supérieure en France ?,What sports are most associated with the upper class in France?
+90,Jo-sp-13,Sport,Spanish (Spain),Quel est le sport nautique le plus populaire en France ?,What is the most popular water sport in France?
+91,Jo-sp-14,Sport,Spanish (Spain),Quel est le jeu de réflexion ou sport de l'esprit le plus populaire en France ?,What is the most popular mental sport in France?
+92,Jo-sp-18,Work life,Spanish (Spain),"De combien de jours de congés par an un salarié dispose-t-il en général en France ? (Chiffres arabes uniquement, ex : 12.)","How many holiday days per year does a standard worker get in France? (Provide Arabic numerals (e.g., 12) only.)"
+93,Jo-sp-19,Work life,Spanish (Spain),Quelle région de France est traditionnellement associée à l’agriculture ?,What region in France has been traditionally associated with agriculture?
+94,Jo-sp-21,Work life,Spanish (Spain),"À quelle heure les gens quittent-ils généralement le travail pour aller déjeuner en France ? (Répondez au format HH:MM., ex : 18:00, 09:00.)","What time, if any, do people usually leave work for lunch in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+95,Jo-sp-31,Education,Spanish (Spain),"À quelle heure les collégiens et lycéens terminent-ils généralement les cours en France ? (Répondez au format HH:MM., ex : 18:00, 09:00)","What time do secondary school students tend to leave school in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+96,Jo-sp-32,Education,Spanish (Spain),Quel sport les élèves de primaire pratiquent-ils souvent à l’école en France ?,What sport do primary school students tend to practice at school in France?
+97,Jo-sp-36,Education,Spanish (Spain),"Quelle est la durée des vacances d’été à l’école primaire en France ? (Répondez en nombre de semaines, en chiffres arabes uniquement, ex: 7, 8.)","How long (in weeks) are summer holidays at primary schools in France? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+98,Jo-sp-37,Education,Spanish (Spain),"Quelle est la durée des vacances d’été à l’université en France ? (Répondez en nombre de semaines, en chiffres arabes uniquement, ex. : 7, 8.)","How long (in weeks) are summer holidays at universities in France? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+99,Jo-sp-39,Education,Spanish (Spain),"À quel âge l’école primaire commence-t-elle en France ? (Répondez en chiffres arabes uniquement, ex. : 7, 8.)","At what age does primary education begin in France? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+100,Jo-sp-43,Education,Spanish (Spain),"Combien de langues sont étudiées à l'école primaire en plus du français ? (Répondez en chiffres arabes uniquement, ex. : 7, 8.)","How many languages are studied in primary education besides France's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+101,Jod-ch-01,Food,Chinese (China),Quels ustensiles les gens utilisent-ils couramment en France pour manger ?,What eating utensils do people commonly use in France?
+102,Jod-ch-04,Food,Chinese (China),Quel soda les Français aiment-ils boire ?,What soft drink do people in France like to have?
+103,Jod-ch-06,Food,Chinese (China),Quel est l'alcool traditionnel le plus populaire en France ?,What is the most popular traditional alcohol in France?
+104,Jod-ch-07,Food,Chinese (China),"Combien de temps (en heures) les Français passent-ils en moyenne à dîner au restaurant ? (Répondez en nombre d'heures uniquement en chiffres arabes, avec un chiffre après la virgule maximum, ex. : 2 ; 3,5.)","How long (in hours) on average does it take for people in France to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+105,Jod-ch-09,Food,Chinese (China),"À quelle heure les gens dînent-ils habituellement en France ? (Répondez au format HH:MM, ex. : 18:00, 09:00.)","What time do people usually have dinner in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+106,Jod-ch-12,Food,Chinese (China),Quel genre de soupe les Français aiment-ils boire ?,What kind of soup do people from France like to have?
+107,Jod-ch-13,Food,Chinese (China),Quelle nourriture de rue les Français aiment-ils manger ?,What street food do people from France like to eat?
+108,Jod-ch-15,Food,Chinese (China),Quels fruits de mer les Français aiment-ils manger ?,What kind of seafood do people from France like to eat?
+109,Jod-ch-16,Holidays/Celebration/Leisure,Chinese (China),Quel est le plus grand festival en France ?,What is the biggest festival in France?
+110,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China),Quel est le moyen de transport public le plus utilisé par les Français pour voyager d'une ville à l'autre ?,What is the most commonly used public transport by people when travelling between cites in France?
+111,Jod-ch-30,Holidays/Celebration/Leisure,Chinese (China),Quelles décorations ou symboles sont associés au plus grand festival en France ?,What are the specific decorations or symbols associated with the biggest festival in France?
+112,Jod-ch-37,Sport,Chinese (China),Quels sports les femmes aiment-elles le plus regarder en France ?,What sports do women like to watch the most in France?
+113,Jod-ch-38,Sport,Chinese (China),Quels sports les hommes aiment-ils le plus regarder en France ?,What sports do men like to watch the most in France?
+114,Jod-ch-41,Holidays/Celebration/Leisure,Chinese (China),Quelle activité de loisir est courante chez les femmes dans la vingtaine en France ?,What is the common leisure activity that females in their 20s in France engage in?
+115,Jod-ch-42,Holidays/Celebration/Leisure,Chinese (China),Quelle activité de loisir est courante chez les hommes dans la vingtaine en France ?,What is the common leisure activity that males in their 20s in France engage in?
+116,Jod-ch-46,Work life,Chinese (China),"Pendant combien de temps (en heures) les Français font-ils généralement une pause après le déjeuner en semaine ? (Répondez uniquement en chiffres arabes avec un chiffre après la virgule, ex. : 2 ; 3,5.)","How long (in hours) do people usually take a break after lunch on a weekday in France? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)"
+117,Jod-ch-48,Work life,Chinese (China),Que mangent les Français pour le déjeuner lors des jours de travail ?,What do people eat for lunch during the working days in France?
+118,Jod-ch-50,Work life,Chinese (China),"Quel est le temps moyen de trajet domicile-travail (en minutes) pour les Français ? (Répondez en nombre de minutes et en chiffres arabes uniquement, ex : 1.)","What is the average commute time (in minutes) for people in France? (Provide Arabic numerals (e.g., 1) only.)"
+119,Jod-ch-51,Work life,Chinese (China),Quel est le moyen de transport le plus utilisé pour se rendre au travail en France ?,What is the most common transportation that people take to get to work in France?
+120,Jod-ch-54,Work life,Chinese (China),"Combien de jours dure un congé de mariage en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","How long (in days) is marriage leave in France? (Provide Arabic numerals (e.g., 12) only.)"
+121,Jod-ch-56,Work life,Chinese (China),"Quel est l'âge typique de départ à la retraite pour les femmes en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","What is the typical retirement age for women in France? (Provide Arabic numerals (e.g., 12) only.)"
+122,Jod-ch-57,Work life,Chinese (China),"Quel est l'âge typique de départ à la retraite pour les hommes en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","What is the typical retirement age for men in France? (Provide Arabic numerals (e.g., 12) only.)"
+123,Jod-ch-58,Work life,Chinese (China),Quelle est la profession la plus respectée en France ?,Which profession is the most respected in France?
+124,Jod-ch-60,Work life,Chinese (China),Quelle est la durée typique d'une journée de travail en France ? (Répondez en chiffres arabes entre 0 et 24 uniquement.),What is the duration (in hours) of a typical workday in France? (Provide Arabic numerals (0~24) only.)
+125,Jod-ch-61,Work life,Chinese (China),Quelle profession est la plus prisée par les femmes en France ?,Which occupation is most preferred among females in France?
+126,Jod-ch-62,Work life,Chinese (China),Quelle profession est la plus prisée par les hommes en France ?,Which occupation is most preferred among males in France?
+127,Ki-pe-17,Education,Persian (Iran),"En moyenne, jusqu’à quel niveau les étudiants poursuivent-ils leurs études en France ? (ex : primaire, secondaire)","On average, how far do students typically pursue their education in France? (e.g., primary, secondary school)"
+128,Ki-pe-24,Education,Persian (Iran),Quelle autre langue que l'anglais est enseignée dans les écoles françaises ?,What language is taught in schools in France besides English?
+129,Ki-pe-30,Education,Persian (Iran),Quels jours de la semaine les écoles sont-elles fermées en France ?,What days of the week are schools closed in France?
+130,Ki-pe-32,Food,Persian (Iran),Quel plat les hôtes préparent-ils généralement pour leurs invités en France ?,What food do the hosts usually prepare for the guests in France?
+131,Ki-pe-34,Food,Persian (Iran),Quelle boisson consomme-t-on généralement au petit-déjeuner en France ?,What is the usual drink consumed during breakfast in France?
+132,Ki-pe-36,Food,Persian (Iran),"Mis à part la cuisine française, quelle cuisine étrangère est la plus populaire en France ?","Except the food original from France, which country's food is more popular in France?"
+133,Ki-pe-39,Food,Persian (Iran),Quelle nourriture prépare-t-on généralement pour un pique-nique en famille en France ?,What food is usually prepared for a family picnic in France?
+134,Ki-pe-40,Food,Persian (Iran),Quel aliment français est jugé dégoûtant par le reste du monde ?,Which food from France is considered disgusting by the rest of the world?
+135,Ki-pe-43,Food,Persian (Iran),Quel est le nom du pain le plus apprécié en France ?,What is the name of the popular bread in France?
+136,Ki-pe-51,Work life,Persian (Iran),"À quelle heure les bureaux des administrations publiques ferment-ils en France ? (Répondez au format HH:MM, ex. : 18:00, 09:00.)","What time of day are government offices closed in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+137,Ki-pe-53,Work life,Persian (Iran),"À quelle heure les bureaux des administrations publiques ouvrent-ils habituellement en France ? (Répondez au format HH:MM, ex. : 18:00, 09:00.)","What is the normal start time of government offices in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+138,Kik-in-01,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quelle fête nationale s’étend sur la plus longue période en France ?,What national holiday has the longest duration in France?
+139,Kik-in-02,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quelles activités les Français pratiquent-ils pour célébrer la fête nationale ?,What are the common activities people from France do to celebrate Independence day?
+140,Kik-in-04,Holidays/Celebration/Leisure,Indonesian (Indonesia),Que place-t-on devant sa maison lorsqu’un membre de la famille décède en France ?,What is installed in front of the house when a family member dies in France?
+141,Kik-in-05,Holidays/Celebration/Leisure,Indonesian (Indonesia),A quel moment se tient généralement la fête ou cérémonie de grossesse en France ?,When is a pregnancy celebration or ceremony usually held in France?
+142,Kik-in-06,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quel événement est généralement organisé avant un mariage en France ?,What event is usually held before a wedding in France?
+143,Kik-in-07,Holidays/Celebration/Leisure,Indonesian (Indonesia),Que reçoit généralement un enfant pour le Nouvel An lunaire en France ?,What is usually given to children during (Lunar) New Year in France?
+144,Kik-in-08,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quelles activités les Français font-ils généralement dans les jours qui précèdent le Ramadan ?,What activities are usually done days before Ramadan in France?
+145,Kik-in-10,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quelle est l’attraction touristique la plus populaire en France pour les visiteurs étrangers ?,What is the most popular tourist attraction for foreign visitors in France?
+146,Kik-in-11,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quel est le lieu de culte le plus visité en France ?,"What is the most popular religious sites (temple, church, etc.) for tourism in France?"
+147,Kik-in-15,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quels vêtements les femmes portent-elles généralement pour une cérémonie de remise de diplômes en France ?,What clothes do women usually wear on graduation ceremony in France?
+148,Kik-in-16,Food,Indonesian (Indonesia),Quelle boisson est couramment consommée en France quand il fait froid ?,What drink is commonly consumed in France when the weather is cold?
+149,Kik-in-17,Food,Indonesian (Indonesia),Quel fruit est le plus vendu et consommé pendant le Ramadan en France ?,What fruit is more commonly sold and found during Ramadan in France?
+150,Kik-in-24,Food,Indonesian (Indonesia),Quel féculent accompagne généralement le poulet dans les fast-foods en France ?,What carbohydrate is usually served with chicken in a fast-food restaurant in France?
+151,Kik-in-31,Sport,Indonesian (Indonesia),Quel est l’art martial le plus célèbre en France ?,What is the most famous martial art sports in France?
+152,Kik-in-34,Sport,Indonesian (Indonesia),Quels sports sont souvent diffusés sur les chaînes de télévision publiques nationales en France ?,What sports are often broadcasted on national television in France?
+153,Kik-in-35,Sport,Indonesian (Indonesia),Quels sports étaient populaires parmi les français pendant la pandémie de COVID-19 ?,What sports were popular among people from France during the COVID-19 pandemic?
+154,Kik-in-36,Sport,Indonesian (Indonesia),Qui est l'entraîneur de football le plus populaire en France ?,Who is the most popular football coach in France?
+155,Kik-in-37,Sport,Indonesian (Indonesia),Quelles équipes de football en France sont célèbres pour leur intense rivalité ? (ex. : ___ vs ___),What football teams in France are famous for their intense rivalry? (e.g. ___ vs ___)
+156,Kik-in-38,Sport,Indonesian (Indonesia),Quels groupes de supporters en France sont célèbres pour leur intense rivalité ? (ex. : ___ vs ___),What are the names of football supporters in France who are famous for their intense rivalry? (e.g. ___ vs ___)
+157,Kik-in-40,Sport,Indonesian (Indonesia),Qui est le joueur de badminton le plus célèbre en France ?,Who is the most famous male badminton player in France?
+158,Kik-in-41,Sport,Indonesian (Indonesia),Qui est la joueuse de badminton la plus célèbre en France ?,Who is the most famous female badminton player in France?
+159,Kik-in-44,Sport,Indonesian (Indonesia),Quel sport bénéficie du plus grand soutien du gouvernement en France ?,What sport gets the most support from the government in France?
+160,Kik-in-45,Sport,Indonesian (Indonesia),Quelles infrastructures sportives sont généralement disponibles dans les écoles en France ?,What sports field facilities are usually available at schools in France?
+161,Na-ko-02,Food,Korean (South Korea),Quel est le type de café ou de boisson à base de café le plus consommé en France ?,What cafe beverage do people from France most commonly enjoy?
+162,Na-ko-04,Food,Korean (South Korea),Quel est l'aliment le plus utilisé contre la gueule de bois en France ?,What is the preferred hangover cure food for people from France?
+163,Na-ko-05,Food,Korean (South Korea),Quelle est la nourriture la plus souvent livrée à domicile en France ?,What is the typical delivery food in France?
+164,Na-ko-07,Food,Korean (South Korea),Quelle est la nourriture la plus souvent livrée à domicile en France ?,What type of meat is consumed most by people from France?
+165,Na-ko-08,Food,Korean (South Korea),Quel fruit est souvent consommé en automne en France ?,What fruit do people from France often eat in the autumn season?
+166,Na-ko-09,Food,Korean (South Korea),Quel accompagnement pour un plat est-il le plus souvent servi à table au dîner en France ?,What side dish is the most commonly served on a dining table in France?
+167,Na-ko-11,Food,Korean (South Korea),Que mangent les Français en regardant un match de football ?,What do people from France eat while watching a football game?
+168,Na-ko-15,Food,Korean (South Korea),Quel est l’aliment nourrissant typique en France ?,What is the representative nourishing food in France?
+169,Na-ko-16,Sport,Korean (South Korea),Qui est le joueur de football le plus célèbre en France ?,Who is the most famous football player in France?
+170,Na-ko-17,Sport,Korean (South Korea),Quels sports les garçons aiment-ils pratiquer à la pause déjeuner à l’école en France ?,What sports do male students enjoy during lunch time at school in France?
+171,Na-ko-18,Sport,Korean (South Korea),Quel sport les filles pratiquent-elles le plus souvent en cours d’EPS en France ?,What is the most common sport girls participate in during physical education classes in France?
+172,Na-ko-19,Sport,Korean (South Korea),Qui est le joueur de volley le plus populaire en France ?,Who is the most popular volleyball player in France?
+173,Na-ko-20,Sport,Korean (South Korea),Quel événement sportif international les Français suivent-ils le plus passionnément ?,What sports event do people from France passionately support the most in international competitions?
+174,Na-ko-22,Sport,Korean (South Korea),Quel pays est considéré comme le plus grand rival de la France au football ?,Which country is considered the biggest rival in football matches for France?
+175,Na-ko-23,Sport,Korean (South Korea),Quel type d’académie de sport les enfants fréquentent-ils le plus en France ?,What type of sports academies do children attend the most in France?
+176,Na-ko-24,Sport,Korean (South Korea),Quelle est la nourriture la plus consommée dans les stades en France pendant les matchs ?,What is the most commonly eaten food in sports stadiums while watching games in France?
+177,Na-ko-25,Sport,Korean (South Korea),Quels sports sont généralement pratiqués lors des journées sportives dans les écoles françaises ?,What are the typical sports played at France's school sports day?
+178,Na-ko-26,Sport,Korean (South Korea),Quels sont les sports populaires chez la population d’âge moyen en France ?,What are the popular sports among the middle-aged population in France?
+179,Na-ko-28,Sport,Korean (South Korea),Qui est le sportif de sports d’hiver le plus populaire en France ?,Who is the most popular winter sports player in France?
+180,Na-ko-29,Sport,Korean (South Korea),Qui est le nageur le plus célèbre en France ?,Who is the most famous swimmer in France?
+181,Na-ko-30,Sport,Korean (South Korea),Quel est le jeu d’e-sport le plus populaire en France ?,What is the most popular e-sports game in France?
+182,Na-ko-33,Holidays/Celebration/Leisure,Korean (South Korea),Quel aliment chargé de symboles les Français consomment-ils pour le Nouvel An lunaire ?,What symbolic food do people from France eat on (Lunar) New Year?
+183,Na-ko-37,Holidays/Celebration/Leisure,Korean (South Korea),Où les Français aiment-ils le plus partir en vacances en France ?,What is the most popular domestic vacation spot for people from France?
+184,Na-ko-38,Holidays/Celebration/Leisure,Korean (South Korea),Quel est le cadeau de mariage le plus courant que s'échangent les mariés en France ?,What is the most common wedding gift between bride and groom in France?
+185,Na-ko-39,Holidays/Celebration/Leisure,Korean (South Korea),Que donne-t-on généralement en guise de félicitations lorsque l'on assiste au mariage d’un ami en France ?,What is typically given as a congratulatory gesture when attending a friend's wedding in France?
+186,Na-ko-40,Holidays/Celebration/Leisure,Korean (South Korea),"Combien de jours dure typiquement un enterrement en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","How long (in days) does a funeral typically last in France? (Provide Arabic numerals (e.g., 12) only.)"
+187,Na-ko-41,Holidays/Celebration/Leisure,Korean (South Korea),Quel présent faut-il préparer lorsque l'on assiste à un enterrement en France pour exprimer ses condoléances ?,What should you prepare as a condolence offering when attending a funeral in France?
+188,Na-ko-42,Holidays/Celebration/Leisure,Korean (South Korea),Quel type de nourriture est généralement servi dans les salons funéraires en France ?,What type of food is commonly provided at funeral parlors in France?
+189,Na-ko-43,Holidays/Celebration/Leisure,Korean (South Korea),Que font les Français le matin du Nouvel An lunaire ?,What do people do in France in the morning of the (Lunar) New Year?
+190,Na-ko-44,Holidays/Celebration/Leisure,Korean (South Korea),Quel jour génère les embouteillages les plus importants en France ?,When is the day with France's most severe nationwide traffic congestion?
+191,Na-ko-45,Holidays/Celebration/Leisure,Korean (South Korea),Quelle est la destination de lune de miel la plus populaire en France ?,What is the most popular honeymoon destination in France?
+192,Ne-ar-05,Holidays/Celebration/Leisure,Arabic (Algeria),Quelle est la fête nationale la plus importante en France ?,What is the most important national holiday in France?
+193,Ne-ar-06,Holidays/Celebration/Leisure,Arabic (Algeria),Que mangent les Français pendant le Ramadan ?,What do people from France eat during Ramadan?
+194,Ne-ar-09,Holidays/Celebration/Leisure,Arabic (Algeria),Que mangent les Français pendant l’Aïd el-Fitr ?,What do people from France eat during Eid ul Fitr?
+195,Ne-ar-10,Holidays/Celebration/Leisure,Arabic (Algeria),Que mangent les Français pendant l’Aïd el-Adha ?,What do people from France eat during Eid ul Adha?
+196,Ne-ar-11,Holidays/Celebration/Leisure,Arabic (Algeria),Où vont les Français pour célébrer le jour de l’An ?,Where do people from France go to celebrate New Year's Day?
+197,Ne-ar-14,Holidays/Celebration/Leisure,Arabic (Algeria),Où se réunit la famille pour les festivités de l’Aïd en France ?,Where do a family gather for Eid festivities in France?
+198,Ne-ar-16,Work life,Arabic (Algeria),"Quels jours constituent le week-end en France ? (ex. : lundi, mardi)","When is the weekend in France (e.g. Monday, Tuesday)?"
+199,Ne-ar-17,Work life,Arabic (Algeria),"À quelle heure la plupart des gens commencent-ils à travailler en France ? (Répondez au format HH:MM, ex : 18:00, 09:00.)","At what time do most people start work in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+200,Ne-ar-18,Work life,Arabic (Algeria),"À quelle heure la plupart des gens terminent-ils leur travail en France ? (Répondez au format HH:MM, ex. 18:00, 09:00.)","At what time do most people finish work in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+201,Ne-ar-20,Work life,Arabic (Algeria),Quel travail est considéré comme garantissant une bonne sécurité de l'emploi en France ?,What is considered to be a secure job in France?
+202,Ne-ar-24,Work life,Arabic (Algeria),Quelle ville est le principal centre des échanges commerciaux en France ?,Which city is the primary commercial hub in France?
+203,Ne-ar-25,Work life,Arabic (Algeria),Quel est le secteur d'activité qui paie le mieux en France ?,What is the industry that pays the best in France?
+204,Ne-ar-26,Work life,Arabic (Algeria),Quelle est l'entreprise publique la plus célèbre en France ?,What is the most famous public corporation in France?
+205,Ne-ar-31,Food,Arabic (Algeria),Quel est le plat le plus célèbre en France ?,What is the most famous dish in France?
+206,Ne-ar-32,Food,Arabic (Algeria),Que prend-on généralement au petit-déjeuner en France ?,What do people usually have for breakfast in France?
+207,Ne-ar-33,Food,Arabic (Algeria),"À quelle heure déjeune-t-on généralement en France ? (Répondez au format HH:MM, ex : 18:00, 09:00.)","When do people usually have lunch in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+208,Ne-ar-34,Food,Arabic (Algeria),Quel aliment est généralement indispensable au repas en France ?,What is typically indispensable in meals in France?
+209,Ne-ar-36,Food,Arabic (Algeria),Qu'est-ce qu'un repas festif typique en France ?,What is a typical festive meal in France?
+210,Ne-ar-37,Food,Arabic (Algeria),Quel fruit offre-t-on généralement aux touristes/visiteurs étrangers en France ?,Which fruit do people usually offer tourists/visitors from abroad in France?
+211,Ne-ar-38,Food,Arabic (Algeria),Quel aliment offre-t-on habituellement en guise de charité en France ?,Which food do people usually offer as charity in France?
+212,Ne-ar-39,Food,Arabic (Algeria),Quel est le fast-food le moins cher en France ?,What is the cheapest fast food in France?
+213,Ne-ar-43,Food,Arabic (Algeria),Que prend-on généralement avec le thé en France ?,What do people usually have with tea in France?
+214,Ne-ar-44,Food,Arabic (Algeria),Que prend-on généralement avec le café en France ?,What do people have with coffee in France?
+215,New-am-02,Food,Amharic (Ethiopia),Quel est le plat traditionnel le plus populaire en France ?,What is the most popular traditional food in France?
+216,New-am-04,Food,Amharic (Ethiopia),Quelle est la sauce d'accompagnement la plus populaire en France ?,What is the most popular dipping sauce in France?
+217,New-am-08,Food,Amharic (Ethiopia),Quel aliment est le plus souvent consommé pendant le jeûne chrétien en France ?,What food is most often consumed during Christian fasting in France?
+218,New-am-15,Food,Amharic (Ethiopia),Quel plat est généralement préparé pour une femme après l'accouchement en France ?,What food is usually prepared when mothers give birth in France?
+219,New-am-27,Sport,Amharic (Ethiopia),Quelle est la sportive la plus populaire en France ?,Who is the most popular female sportperson in France?
+220,New-am-34,Education,Amharic (Ethiopia),Où la plupart des élèves du primaire se préparent-ils pour leurs examens en France ?,Where do most primary school students prepare for their exams in France?
+221,New-am-41,Education,Amharic (Ethiopia),"En France, à quel niveau d'études les élèves passent-ils leur premier examen national ?","In France, at which grade level do students take their first national-level examination?"
+222,New-am-53,Work life,Amharic (Ethiopia),Quelle région de France est réputée pour son industrie du café/thé ?,Which region in France is widely known for its coffee/tea industry?
+223,New-am-54,Work life,Amharic (Ethiopia),Quelle région de France est réputée pour son industrie de l’élevage ?,Which region in France is widely known for its livestock industry?
+224,New-am-59,Work life,Amharic (Ethiopia),Quelle est l’activité principale des habitants des zones désertiques en France ?,What is the main occupation of people living in deserts in France?
+225,New-am-60,Work life,Amharic (Ethiopia),Quel animal est typiquement utilisé pour le transport en France ?,Which animal is typically used for transportation in France?
+226,New-am-72,Family,Amharic (Ethiopia),Quelle est la bande dessinée la plus populaire auprès des enfants en France ?,What is the most popular comic book for children to read in France?
+227,New-am-73,Family,Amharic (Ethiopia),Quelle est la chaîne YouTube pour enfants la plus populaire en France ?,What is the most popular YouTube channel for children in France?
+228,New-am-74,Family,Amharic (Ethiopia),Quelle est l’émission de débat la plus populaire en France ?,What is the most popular talk show in France?
+229,New-am-77,Holidays/Celebration/Leisure,Amharic (Ethiopia),Quelle est la fête religieuse la plus célèbre en France ?,What is the most famous religious holiday in France?
+230,New-am-81,Holidays/Celebration/Leisure,Amharic (Ethiopia),"Quel est le mois lors duquel le plus de gens se marient en France ? (Répondez en chiffres arabes uniquement, ex. 1)","What is the busiest month for weddings in France? (Provide Arabic numerals (e.g., 1) only.)"
+231,New-am-83,Holidays/Celebration/Leisure,Amharic (Ethiopia),Quel est l'instrument de musique traditionnel le plus populaire en France ?,What is the most popular traditional musical instrument in France?
+232,New-as-01,Food,Assamese (Assam),Quel est le principal produit agricole cultivé en France ?,What is the main agricultural product produced in France?
+233,New-as-02,Food,Assamese (Assam),Quel est l’aliment à base de blé le plus populaire en France ?,What is the most popular wheat-based food item in France?
+234,New-as-05,Food,Assamese (Assam),Quelle est la boisson typique offerte aux invités que l'on reçoit chez soi ?,What is the most typical drink offered to guests when they visit households in France?
+235,New-as-07,Food,Assamese (Assam),Quel est le plat de poisson le plus populaire en France ?,What is the most popular dish cooked with fish in France?
+236,New-as-14,Food,Assamese (Assam),Quel aliment les Français aiment-ils manger lorsqu’il pleut ?,What food do people from France like to eat during rainy weather?
+237,New-as-15,Food,Assamese (Assam),Quelle boisson est couramment consommée en France lorsqu’il fait chaud ?,What drink is commonly consumed in France when the weather is hot?
+238,New-as-20,Sport,Assamese (Assam),Quel est le sport en salle le plus populaire en France ?,What is the most popular indoor sport in France?
+239,New-as-29,Sport,Assamese (Assam),Quel sport les hommes aiment-ils regarder en France ?,What sport do men in France like to watch?
+240,New-as-30,Sport,Assamese (Assam),Quel sport les femmes aiment-elles regarder en France ?,What sport do women in France like to watch?
+241,New-as-58,Work life,Assamese (Assam),Quelle est la boisson la plus populaire que les Français aiment boire sur leur lieu de travail ?,What is the most popular beverage that people from France like to drink in their workplace?
+242,New-as-64,Family,Assamese (Assam),Lors de quelle fête tous les membres de la famille ont-ils tendance à se réunir en France ?,On which holiday do all family members tend to reunite in France?
+243,New-as-76,Holidays/Celebration/Leisure,Assamese (Assam),À quels jeux traditionnels les familles jouent-elles pendant les fêtes traditionnelles en France ?,What traditional games do families play during traditional holidays in France?
+244,New-as-80,Holidays/Celebration/Leisure,Assamese (Assam),Quel type de vêtements les Français portent-ils lors des festivals traditionnels ?,What type of clothing do people from France wear during traditional festivals?
+245,New-as-89,Holidays/Celebration/Leisure,Assamese (Assam),Quels accessoires traditionnels les Français portent-ils lors des festivals ?,What traditional festival accessories do people from France wear?
+246,New-az-05,Food,Azerbaijani (Azerbaijan),Quelle est la région la plus célèbre pour la production d’alcool en France ?,What is the most famous region for alcohol production in France?
+247,New-az-11,Food,Azerbaijani (Azerbaijan),Quel fruit les Français consomment-ils souvent en été ?,What fruit do people from France often eat in the summer season?
+248,New-az-12,Food,Azerbaijani (Azerbaijan),Quelle région en France est connue pour ses fruits de mer ?,Which region in France is known for its seafood?
+249,New-az-21,Sport,Azerbaijani (Azerbaijan),Quelle est la destination de ski la plus populaire en France ?,Which region in France is the most popular skiing destination?
+250,New-az-26,Sport,Azerbaijani (Azerbaijan),Qui est le sportif en arts martiaux le plus populaire en France ?,Who is the most popular martial arts player in France?
+251,New-az-27,Sport,Azerbaijani (Azerbaijan),Quel sport a connu la plus forte croissance en France au cours de la dernière décennie ?,Which sport has been one of the fastest-growing in France over the last decade?
+252,New-az-39,Education,Azerbaijani (Azerbaijan),Quel est le pays le plus prisé par les étudiants français pour leurs études à l'étranger ?,Which country is the most popular destination for students from France studying abroad?
+253,New-az-49,Work life,Azerbaijani (Azerbaijan),"Combien de personnes travaillent dans une famille en général en France ? (Répondez en chiffres arabes uniquement, ex : 1.)","How many people work in a typical family in France? (Provide Arabic numerals (e.g., 1) only.)"
+254,New-az-60,Family,Azerbaijani (Azerbaijan),"En France, qui s’occupe des enfants lorsque les deux parents travaillent ?","In France, who takes care of kids when both parents are working?"
+255,New-az-69,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),Quelle est la boisson alcoolisée préférée des hommes en France ?,What is the preferred alcoholic beverage for men from France?
+256,New-az-70,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),Quelle est la boisson alcoolisée préférée des femmes en France ?,What is the preferred alcoholic beverage for women from France?
+257,New-az-73,Holidays/Celebration/Leisure,Azerbaijani (Azerbaijan),"Combien de personnes assistent en moyenne à un mariage en France ? (Répondez uniquement en chiffres arabes, ex : 1.)","How many people on average typically attend a wedding in France? (Provide Arabic numerals (e.g., 1) only.)"
+258,New-ch-01,Food,Chinese (China),Quelle viande mange-t-on généralement lors d’un barbecue en France ?,What kind of meat do people usually eat when they have a barbecue in France?
+259,New-ch-02,Food,Chinese (China),"À quelle heure les Français prennent-ils généralement leur petit-déjeuner ? (Répondez au format HH:MM, ex : 18:00, 09:00)","When do people usually have breakfast in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+260,New-ch-04,Food,Chinese (China),Quels types d’aliments les Français consomment-ils généralement en guise de collations nocturnes ?,What kinds of food do people usually eat for late-night snacks in France?
+261,New-ch-05,Food,Chinese (China),Quel est le plat épicé le plus célèbre en France ?,What is the most famous spicy dish in France?
+262,New-ch-07,Food,Chinese (China),Quels aliments prend-on généralement pour accompagner les alcools forts en France ?,What food items do people typically pair with hard liquor in France?
+263,New-ch-08,Food,Chinese (China),Quel assaisonnement est indispensable à la cuisine française ?,What essential seasoning is indispensable in cooking in France?
+264,New-ch-09,Food,Chinese (China),Quel aliment les Français consomment-ils typiquement quand il fait froid ?,What food do people typically consume when the weather is cold in France?
+265,New-ch-13,Food,Chinese (China),Quelle est la marque d’alcool la plus célèbre en France ?,What is the most famous alcohol brand in France?
+266,New-ch-14,Food,Chinese (China),Quels aliments les Français mangent-ils lorsqu’ils sont malades ?,What foods do people usually eat when they are sick in France?
+267,New-ch-15,Food,Chinese (China),Quels plats préparés les Français achètent-ils typiquement au supermarché ?,What prepared/ready-to-eat food do people typically buy at supermarkets in France?
+268,New-ch-16,Sport,Chinese (China),Quel est le film lié au sport le plus célèbre en France ?,What is the most famous sports-related movie in France?
+269,New-ch-17,Sport,Chinese (China),Quel est le sport extrême que les Français rêvent en général le plus d'essayer ?,What extreme sport do people generally wish to try the most in France?
+270,New-ch-18,Sport,Chinese (China),Quelle épreuve d’athlétisme est la plus suivie lors des compétitions en France ?,Which track and field event is the most popular to watch during competitions in France?
+271,New-ch-19,Sport,Chinese (China),Quelle discipline de gymnastique est la plus suivie lors des compétitions en France ?,Which gymnastics event is the most popular to watch during competitions in France?
+272,New-ch-23,Sport,Chinese (China),Qui est le joueur de tennis de table le plus célèbre en France ?,Who is the most famous table tennis player in France?
+273,New-ch-26,Sport,Chinese (China),"Aux Jeux olympiques d'hiver, quelle est la compétition la plus suivie en France ?","In the Winter Olympics, which event is the most popular to watch in France?"
+274,New-ch-27,Sport,Chinese (China),Qui est le boxeur le plus célèbre en France ?,Who is the most famous boxer in France?
+275,New-ch-30,Sport,Chinese (China),Qui est le sportif d’athlétisme le plus célèbre en France ?,Who is the most famous track and field athlete in France?
+276,New-ch-31,Work life,Chinese (China),Quel métier les parents espèrent-ils le plus que leurs enfants exercent une fois adultes en France ?,What job do parents most hope their children will pursue in France?
+277,New-ch-32,Work life,Chinese (China),Quel logiciel bureautique utilise-t-on typiquement sur son lieu de travail en France ?,What office software do people typically use in the workplace in France?
+278,New-ch-38,Work life,Chinese (China),Quelles villes ou régions sont connues pour leurs activités d’import-export en France ?,Which cities or regions are known for their import and export activities in France?
+279,New-ch-39,Work life,Chinese (China),Quelle plateforme est couramment utilisée dans l’industrie du e-commerce en France ?,What platform is commonly used in the e-commerce industry in France?
+280,New-ch-44,Work life,Chinese (China),Quelle est la durée courante de la période d’essai pour les nouveaux employés avant de signer un contrat formel en France ? (ex. 1 mois),"How long is the typical probation period for new employees before signing a formal contract in France? (e.g., 1 month)."
+281,New-ch-45,Work life,Chinese (China),Dans quels secteurs d'activité les jeunes choisissent-ils souvent de créer une entreprise en France ?,In which industries do young people typically choose to start businesses in France?
+282,New-ch-49,Family,Chinese (China),Quel est le moyen de communication à distance le plus courant entre les membres d'une famille en France ?,What is the most common way for family members to communicate remotely in France?
+283,New-ch-51,Family,Chinese (China),Quel type d’hébergement est typiquement réservé pour les voyages en famille en France ?,What form of accommodation is typically booked for family trips in France?
+284,New-ch-54,Family,Chinese (China),Quel fruit est le plus souvent servi lors des dîners familiaux en France ?,Which fruit is usually prepared most often for family dinners in France?
+285,New-ch-64,Education,Chinese (China),"Combien d’heures de cours les étudiants universitaires ont-ils généralement par semaine en France ? ( Répondez uniquement en nombre d'heures en chiffres arabes, e.g., 10.)","How many hours of classes do university students typically have per week in France? (Provide Arabic numerals (e.g., 1) only.)"
+286,New-ch-66,Education,Chinese (China),"Quel est le coût moyen par semestre pour les élèves d'établissements publics du secondaire en France ? (Répondez en chiffres arabes uniquement, ex : 10)","What is the typical tuition fee per semester for public secondary schools in France? (Provide Arabic numerals (e.g., 1) only.)"
+287,New-ch-70,Education,Chinese (China),Quels sont les cours obligatoires communs pour les étudiants à l'université en France ?,What compulsory courses do university students have in common in France?
+288,New-ch-71,Education,Chinese (China),"Quelle est la taille moyenne des classes dans les lycées en France ? (Répondez en chiffres arabes uniquement, ex : 10)","What is the average class size in secondary schools in France? (Provide Arabic numerals (e.g., 1) only.)"
+289,New-ch-72,Education,Chinese (China),Quelle filière est considérée comme la plus favorable à l'emploi en France ?,Which major is considered most conducive to employment in France?
+290,New-ch-73,Education,Chinese (China),Quels types de clubs étudiants sont les plus populaires dans les universités françaises ?,What type of clubs are most popular among university students in France?
+291,New-ch-74,Education,Chinese (China),Dans quels types de logements les étudiants universitaires vivent-ils généralement en France ?,What types of accommodation do university students in France typically live in?
+292,New-ch-75,Education,Chinese (China),"Combien de minutes dure habituellement un cours au lycée en France ? ( Répondez par le nombre de minutes en chiffres arabes uniquement, ex : 20)","How long is each class period for secondary school students in France (minutes)? (Provide Arabic numerals (e.g., 1) only.)"
+293,New-ch-78,Holidays/Celebration/Leisure,Chinese (China),Quelles activités de loisir les femmes retraitées apprécient-elles en France ?,What leisure activities do retired women typically like in France?
+294,New-ch-79,Holidays/Celebration/Leisure,Chinese (China),Quelles activités de loisir les hommes retraités apprécient-ils en France ?,What leisure activities do retired men typically like in France?
+295,New-ch-80,Holidays/Celebration/Leisure,Chinese (China),Lors de quelles fêtes les gens visitent-ils généralement des lieux religieux en France ?,"During which holidays do people typically visit religious sites (temples, churches, etc.) in France?"
+296,New-ch-81,Holidays/Celebration/Leisure,Chinese (China),Quels cadeaux sont typiquement offerts lors d’une pendaison de crémaillère en France ?,What are the typical housewarming gifts in France?
+297,New-ch-82,Holidays/Celebration/Leisure,Chinese (China),"À quelle heure commencent généralement les mariages en France ? (Format HH:MM, ex : 18:00, 09:00.)","At what time do weddings typically start in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+298,New-ch-83,Holidays/Celebration/Leisure,Chinese (China),Quelle ville de France accueille le plus de festivals ?,Which city in France hosts festivals the most?
+299,New-ch-84,Holidays/Celebration/Leisure,Chinese (China),Quelle couleur de vêtements porte-t-on typiquement pour assister à un mariage en France ?,What colour of clothing do people typically wear when attending weddings in France?
+300,New-ch-85,Holidays/Celebration/Leisure,Chinese (China),Quelle couleur de vêtements porte-t-on généralement lors des funérailles en France ?,What colour of clothing do people typically wear when attending funerals in France?
+301,New-en-01,Food,English (UK),Quel en-cas est consommé au cinéma en France ?,Which snack is eaten in the cinema in France?
+302,New-en-02,Food,English (UK),Quelle est la saveur de chips la plus populaire en France ?,What is the most popular chip/crisp flavour in France?
+303,New-en-04,Food,English (UK),Quel chef cuisinier est célèbre en France ?,Who is a popular celebrity chef in France?
+304,New-en-05,Food,English (UK),Quel plat est une option économique et rapide en France ?,Which food is a cost-effective and quick meal option in France?
+305,New-en-07,Food,English (UK),Quelles sont les émissions de cuisine les plus populaires en France ?,What are the most popular cooking shows in France?
+306,New-en-08,Food,English (UK),Quelle est la marque de chocolat la plus populaire en France ?,What is the most popular chocolate brand in France?
+307,New-en-10,Food,English (UK),Quel est le fromage le plus consommé en France ?,What is the most eaten cheese in France?
+308,New-en-11,Food,English (UK),Quel est le légume le plus détesté en France ?,What is the most disliked vegetable in France?
+309,New-en-12,Food,English (UK),Quelle nourriture trouve-t-on le plus couramment dans les aires de restauration en France ?,What food is most commonly found in food courts in France?
+310,New-en-17,Sport,English (UK),Quels sont les objets les plus utilisés par les supporters pour encourager les sportifs en France ?,What are the most common cheering tools used by sports fans in France?
+311,New-en-18,Sport,English (UK),Que ramènent avec eux les supporters lorsqu’ils assistent à un match en direct en France ?,What do fans bring with them when attending a live game in France?
+312,New-en-19,Sport,English (UK),Quel est le stade sportif le plus connu en France ?,What is the most well known sporting stadium in France?
+313,New-en-23,Sport,English (UK),Qui est le/la paralympien(ne) le/la plus célèbre en France ?,Who is the most famous Paralympian in France?
+314,New-en-26,Sport,English (UK),Quel est le chant sportif le plus connu en France ?,What is the most recognized sporting chant in France?
+315,New-en-38,Work life,English (UK),Quels secteurs sont connus pour avoir des horaires de travail flexibles en France ?,Which industries are known for more flexible working hours in France?
+316,New-en-41,Work life,English (UK),Qui est l'entrepreneur(e) le ou la plus célèbre et prospère en France ?,Who is the most well known and successful entrepreneur in France?
+317,New-en-47,Family,English (UK),Que trouve-t-on typiquement dans le jardin des maisons en France ?,What can typically be found in the back garden of houses in France?
+318,New-en-49,Family,English (UK),Quel est le nom de la famille la plus célèbre en France ?,What is the name of the most famous family in France?
+319,New-en-50,Family,English (UK),Quel est le nom de famille le plus courant en France ?,What is the most common family name in France?
+320,New-en-55,Family,English (UK),Quelle religion est la plus pratiquée par les familles en France ?,Which religion is most commonly practiced by families in France?
+321,New-en-56,Family,English (UK),Quelle est la langue étrangère la plus parlée par les familles en France ?,What is the most popular foreign language spoken by families in France?
+322,New-en-59,Family,English (UK),Quel pays est la destination d’émigration la plus populaire pour les familles françaises ?,Which country is the most popular destination for families from France to emigrate to?
+323,New-en-68,Education,English (UK),Quelles sont les sanctions pour mauvais comportement dans les écoles françaises ?,What repercussions are there for bad behavior in schools in France?
+324,New-en-69,Education,English (UK),Quels écrivains sont couramment étudiés en cours de littérature en France ?,Which writers are commonly studied in literature class in France?
+325,New-en-70,Education,English (UK),"Combien y a-t-il de vacances scolaires par an au lycée en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","How many school breaks are there in a year for high schools in France? (Provide Arabic numerals (e.g., 1) only.)"
+326,New-en-72,Education,English (UK),Quelle ressource en ligne les élèves utilisent-ils généralement pour étudier en France ?,Which online resource do students usually use to study in France?
+327,New-en-75,Education,English (UK),"Quelle est la durée moyenne d’un semestre universitaire en France, calculée en nombre de semaines de cours ? (Répondez uniquement par le nombre de semaines en chiffres arabes, ex : 12.)","What is the average length of a semester in terms of weeks of teaching at universities in France? (Provide Arabic numerals (e.g., 1) only.)"
+328,New-en-76,Holidays/Celebration/Leisure,English (UK),Quel est l’aéroport le plus fréquenté en France pendant les vacances ?,Which airport in France is the busiest during the holiday season?
+329,New-en-79,Holidays/Celebration/Leisure,English (UK),Quelle région de France est réputée pour ses spectacles de théâtre ?,Which region of France is well known for its theatrical performances?
+330,New-en-87,Holidays/Celebration/Leisure,English (UK),Quel est le monument historique le plus célèbre de France ?,What is the most famous historic landmark in France?
+331,New-en-90,Holidays/Celebration/Leisure,English (UK),Quel est l'hôtel ou la compagnie hôtelière la plus connue en France ?,What is the most famous hotel brand in France?
+332,New-gr-05,Food,Greek (Greece),Quelle est l’option de petit-déjeuner à emporter la plus populaire en France ?,What is the most popular grab-and-go breakfast option in France?
+333,New-gr-06,Food,Greek (Greece),Quelle est la nourriture préférée des jeunes en France ?,What is the most popular food in France among young people?
+334,New-gr-08,Food,Greek (Greece),Quel type d’alcool est le plus consommé pendant les festivals en France ?,What type of alcoholic drink is most commonly consumed at festivals in France?
+335,New-gr-13,Food,Greek (Greece),Quelle est la boisson du matin la plus courante en France ?,What is the most common morning drink in France?
+336,New-gr-15,Food,Greek (Greece),Quel est le dessert traditionnel le plus populaire en France ?,What is the most popular traditional dessert in France?
+337,New-gr-21,Sport,Greek (Greece),Quel est le sport de raquette le plus populaire en France ?,What is the most popular racket sport in France?
+338,New-gr-24,Sport,Greek (Greece),Quelle est la discipline d’athlétisme la plus populaire en France ?,What is the most popular track and field sport in France?
+339,New-gr-29,Sport,Greek (Greece),Quel événement sportif international est le plus populaire en France ?,Which international sporting event is the most popular in France?
+340,New-gr-47,Work life,Greek (Greece),"Quelle est la durée habituelle des pauses au travail (hors déjeuner et dîner) en France ? (Répondez en nombre de minutes et en chiffres arabes uniquement, ex: 1.)","How long (in minutes) are typical work breaks in France, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)"
+341,New-gr-58,Work life,Greek (Greece),Quel métier est considéré comme sous-payé en France ?,Which job is considered underpaid in France?
+342,New-gr-76,Holidays/Celebration/Leisure,Greek (Greece),Quel plat est le plus souvent servi à Pâques en France ?,What is the most common food served during Easter in France?
+343,New-gr-82,Holidays/Celebration/Leisure,Greek (Greece),Quel genre musical est le plus populaire parmi les personnes âgées en France ?,What is the most popular music genre among the elderly population in France?
+344,New-gr-88,Holidays/Celebration/Leisure,Greek (Greece),Quelle boisson est généralement servie lors des funérailles en France ?,What drink is usually offered at funerals in France?
+345,New-gr-89,Holidays/Celebration/Leisure,Greek (Greece),Quelle boisson est généralement servie lors des mariages en France ?,What drink is usually offered at weddings in France?
+346,New-ha-07,Food,Hausa (Northern Nigeria),Quel aliment originaire de France se retrouve partout dans le monde ?,What food originated from France and can be found all over the world?
+347,New-ha-08,Food,Hausa (Northern Nigeria),Quel aliment est souvent détesté par les enfants mais apprécié par les personnes âgées en France ?,What food is typically disliked by children but enjoyed by the elderly in France?
+348,New-ha-09,Food,Hausa (Northern Nigeria),Quel ustensile de cuisine est le plus couramment utilisé en France ?,What cooking utensil is most commonly used in France?
+349,New-ha-13,Food,Hausa (Northern Nigeria),Quel est le légume le plus populaire en France ?,Which is the most popular vegetable in France?
+350,New-ha-19,Sport,Hausa (Northern Nigeria),Quel animal participe à des sports en France ?,Which animal is used for sports in France?
+351,New-ha-66,Family,Hausa (Northern Nigeria),Quel est le lieu de mariage le plus prisé en France ?,What is the most popular wedding venue in France?
+352,New-in-01,Food,Indonesian (Indonesia),Quelle est la chaîne de cafés la plus populaire en France ?,Which coffee shop brand is the most popular in France?
+353,New-in-03,Food,Indonesian (Indonesia),Quel type de nourriture française est généralement servi dans les restaurants à l’étranger ?,What type of food from France is typically served in restaurants overseas?
+354,New-in-33,Work life,Indonesian (Indonesia),Quelle région de France est traditionnellement liée à l’industrie minière ?,What region in France is usually associated with mining?
+355,New-in-34,Work life,Indonesian (Indonesia),Quelle région de France est liée à l’industrie pétrolière ?,What region in France is usually associated with oil?
+356,New-in-62,Education,Indonesian (Indonesia),Quelle université en France est réputée pour son cursus d’ingénierie ?,What university in France is popular because of its engineering major? (Provide the official name.)
+357,New-in-63,Education,Indonesian (Indonesia),Quelle université en France est réputée pour sa faculté de médecine ?,What university in France is popular because of its school of medicine? (Provide the official name.)
+358,New-in-78,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quel est le moyen de paiement le plus populaire en France ?,What is the most popular payment method in France?
+359,New-in-80,Holidays/Celebration/Leisure,Indonesian (Indonesia),Quel est le parc d'attractions à thème le plus célèbre en France ?,What is the most famous theme park in France?
+360,New-ko-01,Family,Korean (Korea),Quel est le dessin animé pour enfants le plus populaire en France ?,What is the most popular children's animation that is commonly watched by kids in France?
+361,New-ko-02,Family,Korean (Korea),Quelle est l’activité préparatrice prénatale la plus populaire pour les femmes enceintes en France ?,What is the most popular prenatal education activity for pregnant women in France?
+362,New-ko-03,Family,Korean (Korea),Quelle est la chanson pour enfants la plus populaire que les familles chantent ensemble en France ?,What is the most popular children's song in France that families sing together?
+363,New-ko-04,Family,Korean (Korea),Quels sont les jouets les plus populaires chez les garçons en France ?,Which toys are most popular among boys in France?
+364,New-ko-05,Family,Korean (Korea),Quels sont les jouets les plus populaires chez les filles en France ?,Which toys are most popular among girls in France?
+365,New-ko-06,Family,Korean (Korea),Quel est le conte populaire le plus raconté aux enfants en France ?,What is the most popular folk tale in France that is typically told to children?
+366,New-ko-07,Holidays/Celebration/Leisure,Korean (Korea),Quel est le symbole coutumier de condoléances le plus couramment utilisé lors des funérailles en France ?,What is the customary symbol of condolence used at funerals in France?
+367,New-ko-08,Work life,Korean (Korea),Où les étudiants universitaires travaillent-ils le plus souvent à temps partiel en France ?,Where do university students in France tend to work part-time the most?
+368,New-ko-09,Work life,Korean (Korea),Quelles sont les activités de team building les plus fréquemment pratiquées dans les entreprises françaises ?,What are the most frequently practiced team-building activities in companies based in France?
+369,New-ko-10,Work life,Korean (Korea),Quelles sont les activités les plus couramment exercées comme travail d’appoint en France ?,What are the most common activities people do as a side job in France?
+370,New-pe-02,Food,Persian (Iran),Quelle est la spécialité culinaire la plus célèbre que les touristes ramènent de France en souvenir ?,What is the most famous edible souvenir for tourists in France?
+371,New-pe-06,Food,Persian (Iran),Quel est le ragoût le plus populaire en France ?,What is the most popular stew in France?
+372,New-pe-11,Food,Persian (Iran),Quelle est l’épice ou herbe la plus utilisée dans les plats français ?,What is the most common spice/herb used in dishes from France?
+373,New-pe-16,Sport,Persian (Iran),Quel est le sport traditionnel le plus célèbre en France ?,What is the most famous traditional sport in France?
+374,New-pe-20,Sport,Persian (Iran),Quel sport les Français aiment-ils pratiquer sur la plage ?,What sport is popular to play on the beach in France?
+375,New-pe-45,Work life,Persian (Iran),Quel est le rythme de travail habituel pendant le mois de Ramadan en France ?,What is the usual work schedule during the month of Ramadan in France?
+376,New-pe-47,Family,Persian (Iran),Quand est célébrée la journée des étudiants en France ?,"When is Student's Day celebrated in France? (Provide in MM/DD format (e.g., 12/31).)"
+377,New-pe-49,Family,Persian (Iran),Où les familles se réunissent-elles pour prier ensemble en France ?,Where do families gather to pray together in France?
+378,New-pe-53,Family,Persian (Iran),Quels cadeaux les papas reçoivent-ils pour la fête des pères en France ?,What gifts do fathers get on Father's Day (or Parents' Day) in France?
+379,New-pe-54,Family,Persian (Iran),Quels cadeaux les mamans reçoivent-elles pour la fête des mères en France ?,What gifts do mothers get on Mother's Day (or Parents' Day) in France?
+380,New-pe-59,Family,Persian (Iran),"Combien de générations vivent généralement sous le même toit en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","How many generations typically live together in a household in France? (Provide Arabic numerals (e.g., 12) only.)"
+381,New-pe-65,Education,Persian (Iran),"Combien de matières sont enseignées dans les collèges et lycées en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","How many subjects are taught in secondary schools in France? (Provide Arabic numerals (e.g., 12) only.)"
+382,New-pe-66,Education,Persian (Iran),Quelle est l’activité extrascolaire la plus populaire à l’école primaire en France ?,What is the most popular after school extracurricular activity in primary schools in France?
+383,New-pe-74,Education,Persian (Iran),Quel est le montant moyen des frais de scolarité annuels dans les universités publiques en France ?,How much is the average annual tuition fee for public universities in France?
+384,New-pe-76,Holidays/Celebration/Leisure,Persian (Iran),Quelle activité est populaire dans les parcs en France ?,What is a popular activity to do in parks in France?
+385,New-pe-78,Holidays/Celebration/Leisure,Persian (Iran),Quel est le nom du festival de cinéma le plus célèbre en France ?,What is the name of the most famous film festival held in France?
+386,New-pe-83,Holidays/Celebration/Leisure,Persian (Iran),Quel est le jeu de cartes le plus joué lors des rassemblements entre amis en France ?,What is the popular card game played during social gatherings in France?
+387,New-pe-85,Holidays/Celebration/Leisure,Persian (Iran),Quelle est la destination touristique à l'étranger la plus populaire pour les Français ?,Where is the most popular tourist destination abroad for people from France?
+388,New-pe-86,Holidays/Celebration/Leisure,Persian (Iran),Quel est le nom de la tour la plus célèbre en France ?,What is the name of the most famous tower in France?
+389,New-spme-01,Food,Spanish (Mexico),Quel insecte comestible est le plus consommé en France ?,What edible insect is eaten most often in France?
+390,New-spme-04,Food,Spanish (Mexico),Quel produit agricole est le plus exporté par la France ?,Which agricultural product is exported most often in France?
+391,New-spme-05,Food,Spanish (Mexico),Quelles sont les confiseries les plus populaires en France ?,What are the most popular sweets in France?
+392,New-spme-15,Sport,Spanish (Mexico),Quelle est la boisson pour les sportifs la plus populaire en France ?,What is the most popular sports drink in France?
+393,New-spme-27,Education,Spanish (Mexico),Quel est le niveau d’éducation moyen des Français ?,What is the average education level for people in France?
+394,New-spme-37,Education,Spanish (Mexico),Quelle profession est la plus souvent étudiée à l’étranger par les étudiants français ?,Which profession is most commonly studied abroad by students from France?
+395,New-spme-60,Family,Spanish (Mexico),"Quel jour de la semaine les familles françaises pratiquent-elles le plus souvent une activité religieuse ? (ex : Lundi, mardi)","Which day of the week do most families in France practice religious activities? (e.g. Monday, Tuesday)"
+396,New-spme-65,Family,Spanish (Mexico),Quelle est la façon la plus courante de célébrer la fête nationale en France ?,What is the most popular way to celebrate Independence Day in France?
+397,New-spme-68,Family,Spanish (Mexico),Quelle est la boisson la plus appréciée des enfants en France ?,What is the most popular beverage among children in France?
+398,New-spme-76,Holidays/Celebration/Leisure,Spanish (Mexico),Quel est l’endroit le plus populaire pour célébrer la fête de l'indépendance en France ?,What is the most popular place in France to celebrate Independence Day?
+399,New-spme-78,Holidays/Celebration/Leisure,Spanish (Mexico),Quel est le nom de la chanson traditionnellement chantée lors des anniversaires en France ?,What is the name of the song that is typically sung at birthday parties in France?
+400,New-su-01,Food,Sundanese (West Java),Quels encas sont généralement vendus devant les écoles en France ?,What snacks are usually sold in front of schools in France?
+401,New-su-09,Food,Sundanese (West Java),Quelle huile est généralement utilisée pour cuisiner en France ?,What oil is usually used for cooking in France?
+402,New-su-10,Food,Sundanese (West Java),Quel aliment est couramment consommé par les femmes enceintes en France ?,What food is commonly consumed by pregnant women in France?
+403,New-su-15,Food,Sundanese (West Java),Quelle est la boisson traditionnelle non alcoolisée la plus populaire en France ?,What is the most popular traditional non-alcoholic drink in France?
+404,New-su-17,Sport,Sundanese (West Java),Quelles installations sportives sont généralement disponibles dans les parcs en France ?,What sports facilities are generally available in parks in France?
+405,New-su-21,Sport,Sundanese (West Java),Quelles sont les activités courantes que les seniors pratiquent généralement dans les parcs en France ?,What are the common activities that seniors usually do in parks in France?
+406,New-su-24,Sport,Sundanese (West Java),Quels sports les parents et leurs enfants pratiquent-ils souvent ensemble en France ?,What sports do parents and children commonly play together in France?
+407,New-su-28,Sport,Sundanese (West Java),Quelle couleur est associée à l’équipe nationale de football de la France ?,What colour is associated with the national football team of France?
+408,New-su-33,Education,Sundanese (West Java),Quel est le code vestimentaire habituel des enseignants en France ?,What is the common dress code for school teachers in France?
+409,New-su-34,Education,Sundanese (West Java),Quelle est l’activité extrascolaire liée à la musique la plus populaire dans les écoles en France ?,What is the most popular extracurricular activity related to music in schools in France?
+410,New-su-42,Education,Sundanese (West Java),Quelle religion est principalement enseignée dans les écoles en France ?,What religion is mainly taught in schools in France?
+411,New-su-45,Education,Sundanese (West Java),"À quelle date la Journée de l’Éducation est-elle célébrée en France ? (Format : MM/JJ, ex. 12/31)","What date is Education Day celebrated in France? (Provide in MM/DD format (e.g., 12/31).)"
+412,New-su-50,Work life,Sundanese (West Java),Quelle est la principale profession des habitants des zones montagneuses en France ?,What is the main occupation of people in mountainous areas in France?
+413,New-su-51,Work life,Sundanese (West Java),Quelle est la principale profession des habitants des zones côtières en France ?,What is the main occupation of people in coastal areas in France?
+414,New-su-57,Work life,Sundanese (West Java),Quel est le bétail le plus couramment élevé en France ?,What is the most common livestock raised in France?
+415,New-su-58,Work life,Sundanese (West Java),Quels animaux sont couramment utilisés pour l’agriculture en France ?,What animals are commonly used for agriculture in France?
+416,New-su-59,Work life,Sundanese (West Java),Que portent généralement les agriculteurs en France pour se protéger de la chaleur pendant le travail ?,What do farmers in France typically wear to protect themselves from the heat whilst farming?
+417,New-su-60,Work life,Sundanese (West Java),Que mangent généralement les agriculteurs en France pour le déjeuner ?,What do farmers in France usually eat for lunch?
+418,New-su-71,Family,Sundanese (West Java),Quels cadeaux les parents offrent-ils généralement à leurs enfants pour leur anniversaire en France ?,What gifts do parents generally give to their children for their birthdays in France?
+419,New-su-75,Family,Sundanese (West Java),Quel type de véhicule la plupart des familles possèdent-elles en France ?,What type of vehicle do most families in France generally own?
+420,New-su-77,Holidays/Celebration/Leisure,Sundanese (West Java),Qu’est-ce qui est généralement offert aux enfants pour l’Aïd en France ?,What is usually given to the children during Eid in France?
+421,New-su-81,Holidays/Celebration/Leisure,Sundanese (West Java),Quels vêtements les hommes portent-ils généralement le jour de leur mariage en France ?,What clothes do grooms usually wear at weddings in France?
+422,New-su-82,Holidays/Celebration/Leisure,Sundanese (West Java),Quels vêtements les femmes portent-elles généralement le jour de leur mariage en France ?,What clothes do brides usually wear at weddings in France?
+423,New-su-83,Holidays/Celebration/Leisure,Sundanese (West Java),Quels plats sont généralement servis lors des mariages en France ?,What food is usually served at weddings in France?
+424,New-su-86,Holidays/Celebration/Leisure,Sundanese (West Java),Quel est le bâtiment gouvernemental le plus célèbre en France ?,What is the most famous government building in France?
+425,New-su-88,Holidays/Celebration/Leisure,Sundanese (West Java),Quel genre musical est le plus populaire chez les jeunes en France ?,What is the most popular music genre among the younger population in France?
+426,Ni-en-02,Education,English (UK),"À quelle heure les élèves du secondaire terminent-ils généralement les cours chaque jour en France ? (Format : HH:MM, ex : 18:00, 09:00)","What time do secondary students in France typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+427,Ni-en-03,Education,English (UK),"À quel âge entre t'on généralement à l’université en France ? (Chiffres arabes uniquement, ex : 12)","At what age do people in France typically go to university? (Provide Arabic numerals (e.g., 12) only.)"
+428,Ni-en-06,Education,English (UK),"À partir de quel âge l’école est-elle obligatoire en France ? (Chiffres arabes uniquement, ex : 12)","From what age do people need to attend compulsory education in France? (Provide Arabic numerals (e.g., 12) only.)"
+429,Ni-en-09,Education,English (UK),Combien de jours par semaine les enfants vont-ils à l’école en France ? (Chiffres arabes de 0 à 7 uniquement),How many days a week do children attend school in France? (Provide Arabic numerals (0~7) only.)
+430,Ni-en-11,Education,English (UK),"Combien d’années dure généralement un Master en France ? (Chiffres arabes uniquement, ex : 12)","In France, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)"
+431,Ni-en-12,Education,English (UK),Quelle est la meilleure université française ? (Nom officiel),What is the top university in France? (Provide the official name.)
+432,Ni-en-13,Education,English (UK),"À quel âge la plupart des personnes obtiennent-elles leur diplôme universitaire en France ? (Chiffres arabes uniquement, ex : 12)","At what age do most people in France graduate from university? (Provide Arabic numerals (e.g., 12) only.)"
+433,Ni-en-15,Education,English (UK),"À quel âge les enfants entrent-ils généralement dans le secondaire en France ? (Chiffres arabes uniquement, ex : 12)","At what age do children in France generally start secondary school? (Provide Arabic numerals (e.g., 12) only.)"
+434,Ni-en-17,Work life,English (UK),"Combien d’heures par semaine un travailleur à temps plein travaille-t-il généralement en France ? (Répondez uniquement en nombre d'heures, en chiffres arabes, ex : 12.)","How many hours a week does a full-time worker in France typically work? (Provide Arabic numerals (e.g., 12) only.)"
+435,Ni-en-19,Work life,English (UK),Combien de jours par semaine un travailleur à temps plein travaille-t-il en France ? (Chiffres arabes de 0 à 7 uniquement),How many days a week does a full-time worker work in France? (Provide Arabic numerals (0~7) only.)
+436,Ni-en-20,Work life,English (UK),"À quel âge les gens commencent-ils généralement à travailler en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","At what age do most people start working in France? (Provide Arabic numerals (e.g., 12) only.)"
+437,Ni-en-21,Work life,English (UK),"À partir de quel âge une personne est-elle autorisée à travailler en France ? (Répondez en chiffres arabes uniquement, ex : 12.)","From what age is an individual allowed to work in France? (Provide Arabic numerals (e.g., 12) only.)"
+438,Ni-en-31,Holidays/Celebration/Leisure,English (UK),Que mangent traditionnellement les Français le jour de Noël ?,What do people in France traditionally eat on Christmas Day?
+439,Ni-en-37,Holidays/Celebration/Leisure,English (UK),Quel est le nom du jour de l’année où les Français célèbrent l’amour et la romance ?,What is the name of the day of the year where people in France celebrate love and romance?
+440,Ni-en-40,Holidays/Celebration/Leisure,English (UK),Quelle est la chanson de Noël la plus populaire en France ?,What is the most popular Christmas song in France?
+441,Nu-in-04,Education,Indonesian (Indonesia),"En combien de périodes (semestres, trimestres...) une année scolaire dans le secondaire en France est-elle divisée ? (Répondez en chiffres arabes uniquement, ex : 7, 8.)","How many terms are there each academic year at secondary schools in France? (Provide in Arabic numerals (e.g., 7, 8) only.)"
+442,Nu-in-05,Education,Indonesian (Indonesia),"En quel mois l’année scolaire commence-t-elle généralement en France ? (Répondez en chiffres arabes de 1 à 12 uniquement, ex : 12.)",In which month does the new school year typically begin in France? (Provide Arabic numerals (1~12) only.)
+443,Nu-in-06,Education,Indonesian (Indonesia),"À quelle date la fête nationale des professeurs est-elle célébrée en France ? (Répondez au format : MM/JJ, ex : 12/31.)","When is National Teacher's Day commemorated in France? (Provide in MM/DD format (e.g., 12/31).)"
+444,Nu-in-11,Education,Indonesian (Indonesia),"À quelle heure les élèves de primaire commencent-ils l’école en France ? (Répondez au format : HH:MM, ex : 18:00, 09:30.)","At what time does primary school start in France? (Provide in HH:MM format (e.g., 18:00, 09:00).)"
+445,Nu-in-20,Family,Indonesian (Indonesia),"À quelle date la Journée de l'Enfance est-elle célébrée en France ? (Répondez au format : MM/JJ, ex : 12/31.)","When is Children's Day celebrated in France? (Provide in MM/DD format (e.g., 12/31).)"
+446,Nu-in-40,Work life,Indonesian (Indonesia),Quelle ville est la destination principale pour les gens à la recherche d'un emploi en France ?,Which city is the main destination for job seekers in France?
+447,Sa-en-1,Food,English (UK),Quelle est la chaîne de restauration rapide la plus populaire en France ?,What is France's most popular fast food chain?
+448,Sa-en-13,Food,English (UK),Quel aliment est le plus clivant en France (que l’on adore ou bien déteste) ?,What is the food that is most divisive (either love or hate) in France?
+449,Sa-en-16,Sport,English (UK),Quelle est l’équipe de football la plus populaire en France ?,What is the most popular football team among the people from France?
+450,Sa-en-22,Sport,English (UK),Quelle est l’université la plus connue en France pour son équipe sportive ?,What is the most famous university in France known for its sports team?
+451,Sa-en-31,Family,English (UK),Quel est l’animal de compagnie préféré des familles françaises ?,What is France's most popular family pet?
+452,Sa-en-32,Family,English (UK),Quelle est l’émission de télévision familiale la plus populaire en France ?,What is the most popular family TV show in France?
+453,Sa-en-37,Family,English (UK),Quel est le jeu de société familial le plus populaire en France ?,What is the most popular family boardgame in France?
+454,Sa-en-6,Food,English (UK),Quel est le plat à emporter le plus populaire en France ?,What is the most popular takeaway food in France?
+455,Sa-en-7,Food,English (UK),Quels sont les encas populaires en France ?,What are popular snacks in France?
+456,Sa-en-9,Food,English (UK),Que mangent les Français à la plage ?,What do people from France eat at the beach?
+457,Ta-pe-10,Family,Persian (Iran),"À quel âge les hommes se marient-ils généralement en France ? (Répondez en chiffres arabes uniquement, ex : 20.)","At what age do men usually get married in France? (Provide Arabic numerals (e.g., 20) only.)"
+458,Ta-pe-11,Family,Persian (Iran),"À quel âge les femmes se marient-elles généralement en France ? (Répondez en chiffres arabes uniquement, ex : 20.)","At what age do women usually get married in France? (Provide Arabic numerals (e.g., 20) only.)"
+459,Ta-pe-13,Family,Persian (Iran),"Quel était le nombre moyen de personnes dans une famille française à la génération de vos parents ? (Répondez en chiffres arabes uniquement, ex : 20.)","In your parents' generation, what was the average number of members in their family in France? (Provide Arabic numerals (e.g., 20) only.)"
+460,Ta-pe-17,Sport,Persian (Iran),"Aux Jeux Olympiques, quel est le sport le plus populaire auprès des Français ?","In the Olympic Games, which sport is the most popular in France?"
+461,Ta-pe-21,Sport,Persian (Iran),Où les enfants jouent-ils généralement au football en France ?,Where do children usually play football in France?
+462,Ta-pe-22,Sport,Persian (Iran),Quel exercice quotidien est le plus pratiqué par les femmes en France ?,Which daily exercise is popular among women in France?
+463,Ta-pe-23,Sport,Persian (Iran),Quel exercice quotidien est le plus pratiqué par les hommes en France ?,Which daily exercise is popular among men in France?
+464,Ta-pe-25,Sport,Persian (Iran),Quelle est la rivalité sportive nationale la plus célèbre en France ? (ex. ___ vs ___),"What is the most famous rivalry in a national sports league in France? (e.g., ___ vs ___)"
+465,Ta-pe-29,Sport,Persian (Iran),Quel sport professionnel est le mieux rémunéré en France ?,Which professional sport is the highest paying in France?
+466,Ta-pe-30,Sport,Persian (Iran),Quelle est/était l’émission télévisée sportive la plus populaire en France ?,What is/was the most popular sports-related TV programme in France?
+467,Ta-pe-32,Holidays/Celebration/Leisure,Persian (Iran),Quel jour de l’année est généralement dédié aux feux d’artifice en France ?,What day of the year is usually dedicated to fireworks in France?
+468,Ta-pe-37,Holidays/Celebration/Leisure,Persian (Iran),Quel est le symbole couramment utilisé pour le réveillon du Nouvel An en France ?,What is the common symbol of New Year's Eve that is usually found in France?
+469,Ta-pe-42,Holidays/Celebration/Leisure,Persian (Iran),Que mangent généralement les Français pour le réveillon du Nouvel An ?,What food do people from France usually eat on New Year's Eve?
+470,Ta-pe-45,Holidays/Celebration/Leisure,Persian (Iran),Que mange-t-on généralement en France pour célébrer le solstice d'hiver (la plus longue nuit de l’année) ?,What is usually eaten during the celebration of the longest night of the year in France?
+471,Th-en-01,Sport,English (US),Quel est le sport d’été le plus populaire en France ?,What is the most popular summer sport in France?
+472,Th-en-03,Sport,English (US),Quelle est la ligue sportive professionnelle la plus populaire en France ?,What is the most popular professional sports league in France?
+473,Th-en-05,Sport,English (US),Quelle est l’équipe sportive féminine la plus populaire en France ?,What is the most popular women's sports team in France?
+474,Th-en-09,Sport,English (US),Quel est le tournoi le plus populaire en France ?,What is the most popular tournament in France?
+475,Th-en-11,Sport,English (US),Quelle est la personnalité sportive la plus populaire en France ?,Who is the most popular sportperson in France?
+476,Th-en-12,Sport,English (US),Dans quel sport la France a-t-elle le plus de succès en compétitions internationales ?,In which sport has France been most successful in international competitions?
+477,Th-en-15,Sport,English (US),Quel est le sport d’hiver le plus populaire en France ?,What is the most popular winter sport in France?
+478,Th-en-19,Work life,English (US),Quelle ville ou région de France est connue pour son industrie manufacturière ?,What is a city or region in France known for manufacturing industry?
+479,Th-en-21,Work life,English (US),Quel est l’avantage le plus courant accordé aux salariés en France ?,What is regarded as the most important perk typically offered to employees in France?
+480,Th-en-22,Work life,English (US),Quelle a été la période économique la plus catastrophique pour la France ?,What was the most catastrophic economic period for France?
+481,Th-en-24,Work life,English (US),Quelle région en France est un centre majeur pour les travailleurs de la tech et les start-ups ?,What region in France is a major hub for tech workers and start ups?
+482,Th-en-27,Work life,English (US),Quelle est l’industrie la plus importante en France ?,What is the most important industry in France?
+483,Th-en-35,Family,English (US),"Lequel des repas quotidiens est généralement partagé en famille en France ? (ex. petit déjeuner, déjeuner, dîner)","Which one of the daily meals is commonly shared with family members in France? (e.g., breakfast, lunch, dinner)"
+484,Th-en-36,Family,English (US),Quelle activité familiale pratique-t-on couramment le week-end avec des enfants en France ?,What is a popular family activity to do at the weekend with children in France?
+485,Th-en-37,Family,English (US),"À quel âge les enfants deviennent-ils généralement indépendants de leurs parents en France ? (Chiffres arabes uniquement, ex : 12.)","At what age do children typically become independent from their parents in France? (Provide Arabic numerals (e.g., 12) only.)"
+486,Th-en-38,Family,English (US),Quel est le jour de congé familial le plus important en France ?,What is the most important family holiday in France?
+487,Th-en-39,Family,English (US),À quel jeu joue-t-on couramment en famille en France ?,What is a popular family game in France?
+488,Th-en-41,Family,English (US),"Quel est l’âge moyen des parents à la naissance de leur premier enfant en France ? (Chiffres arabes uniquement, ex : 20.)","What is the average age for couples to have their first child in France? (Provide Arabic numerals (e.g., 20) only.)"
+489,Th-en-43,Family,English (US),"Combien de voitures possède typiquement une famille en France ? (Chiffres arabes uniquement, ex : 12.)","How many cars are owned by a typical family in France? (Provide Arabic numerals (e.g., 12) only.)"
+490,Th-en-44,Family,English (US),Quel est le plat le plus populaire à partager en famille le week-end en France ?,What is France's most popular food for family meals on weekends?
+491,Th-en-45,Family,English (US),Quelle est l’activité la plus populaire pour les soirées en famille en semaine en France ?,What is the most popular weekday evening family activity in France?
+492,Th-en-48,Education,English (US),Quelle est la note maximale attribuée aux élèves du secondaire pour les devoirs et examens en France ?,What is the highest grade given to top-achieving secondary school students on assignments and exams in France?
+493,Th-en-49,Education,English (US),Quel est l’examen considéré comme étant le plus important pour les lycéens en France ?,What is considered the most important exam for secondary school students in France?
+494,Th-en-51,Education,English (US),Quelle matière est considérée comme étant la plus importante pour les élèves en France ?,Which subject is considered the most important for students in France?
+495,Th-en-53,Education,English (US),Quelle est l’activité sociale extrascolaire la plus populaire dans les écoles en France ?,What is the most popular extracurricular social event at schools in France?
+496,Th-en-58,Education,English (US),Quel est le sujet de maths le plus avancé étudié avant l’université en France ?,What is the most advanced maths subject learned before university in France?
+497,Tmp-ar-01,Education,Arabic (Algeria),Où les étudiants français vont-ils généralement réviser leurs examens?,Where do university students in France usually go to study for their final exams?
+498,Tmp-ar-02,Education,Arabic (Algeria),Quel moyen de transport public est couramment utilisé pour se rendre à l’université en France ?,What is a common public transport that people use to go to university in France?
+499,Tmp-ar-04,Education,Arabic (Algeria),Que font généralement les élèves de primaire après l’école en France ?,What do primary school students in France usually do after school?
