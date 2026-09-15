@@ -2,7 +2,7 @@
 
 This is the official repository of **BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages** (NeurIPS 2024 Datasets and Benchmarks Track).
 
-Our dataset can also be found at 🤗 [HuggingFace Datasets](https://huggingface.co/datasets/nayeon212/BLEnD).
+Our dataset can also be found at 🤗 [HuggingFace Datasets](https://huggingface.co/datasets/uilab/BLEnD).
 
 *24/12/05: Updated translation errors*   
 *25/05/02: Updated multiple choice questions file (at `evaluation/mc_data/v1.1/`)*   
